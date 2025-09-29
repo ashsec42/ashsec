@@ -25,17 +25,3 @@ jobs:
 
       - name: Run combine script from secret
         env:
-          M3U_LINKS: ${{ secrets.M3U_LINKS }}
-        run: |
-          python combine_m3u.py -o ashsec.m3u --timeout 15
-
-      - name: Commit and push ashsec.m3u
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git status --porcelain | grep -q "ashsec.m3u"; then
-            git add ashsec.m3u
-            git commit -m "Update generated ashsec.m3u"
-            git push origin HEAD:${{ github.ref_name }}
-          else
-            echo "No changes to commit"
