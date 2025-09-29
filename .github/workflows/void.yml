@@ -8,31 +8,26 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ['3.11']
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Set up Python ${{ matrix.python-version }}
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: ${{ matrix.python-version }}
+          python-version: 3.11
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests>=2.28
 
       - name: Run combine script from secret
         env:
           M3U_LINKS: ${{ secrets.M3U_LINKS }}
         run: |
-          python combine_m3u.py -i /dev/null -o ashsec.m3u --timeout 15
+          python combine_m3u.py -o ashsec.m3u --timeout 15
 
       - name: Commit and push ashsec.m3u
         run: |
@@ -42,7 +37,5 @@ jobs:
             git add ashsec.m3u
             git commit -m "Update generated ashsec.m3u"
             git push origin HEAD:${{ github.ref_name }}
-            echo "Committed and pushed ashsec.m3u"
           else
             echo "No changes to commit"
-          fi
