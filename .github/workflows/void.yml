@@ -45,3 +45,4 @@ jobs:
             echo "Committed and pushed ashsec.m3u"
           else
             echo "No changes to commit"
+          fi
