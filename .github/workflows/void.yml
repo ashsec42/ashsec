@@ -1,0 +1,60 @@
+name: Build and publish ashsec.m3u
+
+on:
+  schedule:
+    # every 2 hours (at minute 0)
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.11']
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Create input_links.txt from secret
+        env:
+          M3U_LINKS: ${{ secrets.M3U_LINKS }}
+        run: |
+          if [ -z "$M3U_LINKS" ]; then
+            echo "Secret M3U_LINKS is empty" >&2
+            exit 1
+          fi
+          # write secret contents to input file (preserve newlines)
+          echo "$M3U_LINKS" > input_links.txt
+          echo "Wrote input_links.txt (lines: $(wc -l < input_links.txt))"
+
+      - name: Run combine script
+        run: |
+          python combine_m3u.py -i input_links.txt -o ashsec.m3u --timeout 15 || true
+
+      - name: Commit and push ashsec.m3u
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Only commit if file changed
+          if git status --porcelain | grep -q "ashsec.m3u"; then
+            git add ashsec.m3u
+            git commit -m "Update generated ashsec.m3u"
+            git push origin HEAD:${{ github.ref_name }}
+            echo "Committed and pushed ashsec.m3u"
+          else
+            echo "No changes to commit"
+          fi
