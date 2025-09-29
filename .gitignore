@@ -1,0 +1,10 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+# Output playlist (generated)
+ashsec.m3u
+# OS / IDE files
+.DS_Store
+.vscode/
+.env
