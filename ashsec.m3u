@@ -4694,100 +4694,128 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1759230486~exp=1759316886~acl=/*~hmac=a787a7224becb351c6f8b32b079cf050c1517cc03153d685f168e225789c0285"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1759230486~exp=1759316886~acl=/*~hmac=a787a7224becb351c6f8b32b079cf050c1517cc03153d685f168e225789c0285&xxx=%7Ccookie=__hdnea__=st=1759230486~exp=1759316886~acl=/*~hmac=a787a7224becb351c6f8b32b079cf050c1517cc03153d685f168e225789c0285
 #EXTM3U
-#EXTINF:-1 tvg-id="1090491165_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008656/1758105862425656_UCL26_MD1_KairatAlmaty_vs_Real_Madrid_landscape_thumb.jpg" group-title="Live",Kairat Almaty vs Real Madrid - MD 2 - 30 Sep 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTINF:-1 tvg-id="1090491165_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009604/1759124027079998_UCL26_MD2_KairatAlmaty_vs_Real_Madrid_landscape_thumb.jpg" group-title="Live",Kairat Almaty vs Real Madrid - MD 2 - 30 Sep 2025 [ENG] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759296866~acl=/*~id=92384812811521891042358606109768~hmac=6335b6df44f34b908a8f1ecf01a4efadc65b0d9761bfd0f80ba5318325c29a91
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
+#EXTINF:-1 tvg-id="1090491176_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009428/1758796683225120_UCL26_MD2_Galatasaray_vs_Liverpool_landscape_thumb.jpg" group-title="Live",Galatasaray vs Liverpool - MD 2 - 1 Oct 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
+#EXTINF:-1 tvg-id="1090491168_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009239/1758105045475870_UCL26_MD2_Chelsea_vs_Benfica_landscape_thumb.jpg" group-title="Live",Chelsea vs Benfica - MD 2 - 1 Oct 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
+#EXTINF:-1 tvg-id="1090491168_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009239/1758105045475870_UCL26_MD2_Chelsea_vs_Benfica_landscape_thumb.jpg" group-title="Live",Chelsea vs Benfica - MD 2 - 1 Oct 2025 [HIN] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
+#EXTINF:-1 tvg-id="1090491168_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009239/1758105045475870_UCL26_MD2_Chelsea_vs_Benfica_landscape_thumb.jpg" group-title="Live",Chelsea vs Benfica - MD 2 - 1 Oct 2025 [TAM] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
+#EXTINF:-1 tvg-id="1090491168_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009239/1758105045475870_UCL26_MD2_Chelsea_vs_Benfica_landscape_thumb.jpg" group-title="Live",Chelsea vs Benfica - MD 2 - 1 Oct 2025 [TEL] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
+#EXTINF:-1 tvg-id="1090491179_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009365/1758718604692947_UCL26_MD2_Pafos_vs_Bayern_landscape_thumb.jpg" group-title="Live",Pafos vs Bayern - MD 2 - 1 Oct 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
+#EXTINF:-1 tvg-id="1090491175_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009239/1758103288277870_UCL26_MD2_Inter_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Live",Inter vs Slavia Praha - MD 2 - 1 Oct 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
+#EXTINF:-1 tvg-id="1090491177_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009365/1758715287726947_UCL26_MD2_Atletico_vs-_Frankfurt_landscape_thumb.jpg" group-title="Live",Atletico vs Frankfurt - MD 2 - 1 Oct 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
+#EXTINF:-1 tvg-id="1090491178_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009365/1758716822662947_UCL26_MD2_Bodo_Glimt_vs_Tottenham_landscape_thumb.jpg" group-title="Live",Bodo/Glimt vs Tottenham - MD 2 - 1 Oct 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
+#EXTINF:-1 tvg-id="1090491180_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009365/1758717296452947_UCL26_MD2_Marseille_vs_Ajax_landscape_thumb.jpg" group-title="Live",Marseille vs Ajax - MD 2 - 1 Oct 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
 #EXTINF:-1 tvg-id="1090491166_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009239/1758102638377870_UCL26_MD2_Atalanta_vs_Club-Brugge_landscape_thumb.jpg" group-title="Live",Atalanta vs Club Brugge  - MD 2 - 30 Sep 2025 [ENG] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759296866~acl=/*~id=92384812811521891042358606109768~hmac=6335b6df44f34b908a8f1ecf01a4efadc65b0d9761bfd0f80ba5318325c29a91
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299914~acl=/*~id=45678328398466396667749250878529~hmac=9accfa2f99e802a96de8a1f4427b0355d93c91ca587a249082a9860f22b04ff0
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1", Star Sports 1
-https://d10.merichunidya.com:1686/hls/star1in.m3u8?md5=xkvw5hmP1OE-n8CFj70LfQ&expires=1759261314
+https://d8.merichunidya.com:1686/hls/star1in.m3u8?md5=9H_pSil-x6QclgCWQMQ2XA&expires=1759264418
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png" group-title="CricHD 1", Star Sports 1 Hindi
-https://d6.merichunidya.com:1686/hls/starhindi.m3u8?md5=lLLsLme25FHaPKIQypxY9Q&expires=1759261314
+https://d6.merichunidya.com:1686/hls/starhindi.m3u8?md5=rCblDbeGx1KDhsA7GaiQig&expires=1759264418
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="CricHD 1", PTV Sports
-https://d4.merichunidya.com:1686/hls/ptvpk.m3u8?md5=RwjliTGlib8T4AX7BhKSFA&expires=1759261314
+https://d9.merichunidya.com:1686/hls/ptvpk.m3u8?md5=EzgKrFd8B9ZFSLiEJhx-Lw&expires=1759264418
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="CricHD 1", Willow HD
-https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=D_TbXZ2gWaGRgZlPJD-qRg&expires=1759261315
+https://d10.merichunidya.com:1686/hls/willowusa.m3u8?md5=06aF8f8JJkRJOZf7kMdjGw&expires=1759264418
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="CricHD 1", Willow HD 2
-https://d1.merichunidya.com:1686/hls/willowextra.m3u8?md5=yrkmyvUtp7PwdI_InAWY4A&expires=1759261315
+https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=8z-x5ezlu2l1-CDKlAT5FA&expires=1759264418
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png" group-title="CricHD 1", Ten Sports
-https://d10.merichunidya.com:1686/hls/tenspk.m3u8?md5=A8PzqYh4FIBrawy-ymEJkA&expires=1759261315
+https://d8.merichunidya.com:1686/hls/tenspk.m3u8?md5=YisrmxXZf6nLgV2TgvDJQA&expires=1759264419
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png" group-title="CricHD 1", A Sports HD
-https://d8.merichunidya.com:1686/hls/asportshd.m3u8?md5=u--VEAxI2KwR26zp_gifMw&expires=1759261316
+https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=uuboQ70UxAetADW_O3F9yA&expires=1759264419
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png" group-title="CricHD 1", Sky Sports Cricket
-https://d1.merichunidya.com:1686/hls/skyscric.m3u8?md5=tUEXUbmLx4x22hQcTtjpKA&expires=1759261316
+https://d1.merichunidya.com:1686/hls/skyscric.m3u8?md5=IFwdIGiTkEsrvLExRPr5Dw&expires=1759264419
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png" group-title="CricHD 1", Sky Sports Main Event
-https://d8.merichunidya.com:1686/hls/skysme.m3u8?md5=BIiTa7lKfylehaOgvMKZSQ&expires=1759261316
+https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=k5Igzd392OvTIrT8ICvpGA&expires=1759264419
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD 1", TNT 1
-https://d9.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=RcQ46Y-EOW4H17BKEgDc5Q&expires=1759261316
+https://d8.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=sxhpijnyBpJlj9Lo8bPA6w&expires=1759264420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD 1", TNT 2
-https://d7.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=8p3BdLXaW6NOaY1i6boN6Q&expires=1759261316
+https://d6.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=FFDCHsxfI1bL8iyDFh9tcA&expires=1759264420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD 1", TNT 3
-https://d8.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=JpOWdRS5HEGJUCAPAdynYw&expires=1759261317
+https://d2.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=cDxGkKB6LC7luZeaKL1Sig&expires=1759264420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD 1", TNT 4
-https://d8.merichunidya.com:1686/hls/bbtespn.m3u8?md5=ElfUBXiA04Kuk2ReMFp_QA&expires=1759261317
+https://d2.merichunidya.com:1686/hls/bbtespn.m3u8?md5=dUjHA0JjShdce6wNKqkhrw&expires=1759264420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 1
-https://d3.merichunidya.com:1686/hls/sky1nz.m3u8?md5=ezx3zlmJJ4pzR1IJYjj6zA&expires=1759261317
+https://d10.merichunidya.com:1686/hls/sky1nz.m3u8?md5=tcRVnWu5nHRpoW5UsVfxWw&expires=1759264420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 2
-https://d5.merichunidya.com:1686/hls/sky2nz.m3u8?md5=kpcjCXQF4ntxKJasmUJKDw&expires=1759261317
+https://d4.merichunidya.com:1686/hls/sky2nz.m3u8?md5=nAMptTHyVaUphjZD10smpA&expires=1759264420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 3
-https://d1.merichunidya.com:1686/hls/sky3nz.m3u8?md5=EkHLk20GSZMH3i3QsuGZvg&expires=1759261317
+https://d6.merichunidya.com:1686/hls/sky3nz.m3u8?md5=lxLl3vpljHquy-HyC11Z-g&expires=1759264421
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 4
-https://d4.merichunidya.com:1686/hls/sky4nz.m3u8?md5=xZuOlOzDfCWOsN_fia7ltg&expires=1759261318
+https://d10.merichunidya.com:1686/hls/sky4nz.m3u8?md5=Tm1puMF9msDOJvVih5F1Rw&expires=1759264421
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 5
-https://d3.merichunidya.com:1686/hls/sky5nz.m3u8?md5=7Tr9R_s62-3xBiyUpyDcew&expires=1759261318
+https://d8.merichunidya.com:1686/hls/sky5nz.m3u8?md5=qXT6PNKp-za86U0Hx9qi8g&expires=1759264421
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 6
-https://d9.merichunidya.com:1686/hls/sky6nz.m3u8?md5=J6RRo5UhS9TDJ2ECy524vw&expires=1759261318
+https://d2.merichunidya.com:1686/hls/sky6nz.m3u8?md5=OFp_jKNl0K3BpE0_lYn8mw&expires=1759264421
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 7
-https://d10.merichunidya.com:1686/hls/sky7nz.m3u8?md5=7HdA4f4E_WE8fkykqUVegw&expires=1759261318
+https://d2.merichunidya.com:1686/hls/sky7nz.m3u8?md5=_yVlqbUqp4JA1MouefMFRQ&expires=1759264421
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 8
-https://d7.merichunidya.com:1686/hls/sky8nz.m3u8?md5=rSSx1X7V1-h0ZmGxbqt0lg&expires=1759261319
+https://d8.merichunidya.com:1686/hls/sky8nz.m3u8?md5=F3OKprfQkCAVy-sZg9wP2A&expires=1759264422
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 9
-https://d10.merichunidya.com:1686/hls/sky9nz.m3u8?md5=lWS77guel6Mdr62AFfILaQ&expires=1759261319
+https://d7.merichunidya.com:1686/hls/sky9nz.m3u8?md5=vX7oVz4PylW_5Z9G3L6dBQ&expires=1759264422
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/skycinema.png" group-title="CricHD 1", Sky Cinema
-https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=SA7BMwuXwyNtgk_KB3lMng&expires=1759261319
+https://d2.merichunidya.com:1686/hls/skysme.m3u8?md5=cffQUW71_PY4ODS9-YebKg&expires=1759264422
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829332.png" group-title="CricHD 1", Sky Sports Action
-https://d4.merichunidya.com:1686/hls/skysact.m3u8?md5=7P4OQfj8jkvNc0PVOwEJsA&expires=1759261319
+https://d10.merichunidya.com:1686/hls/skysact.m3u8?md5=Rj8UVxLVAEzTdM2u4KCeNA&expires=1759264422
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008055327.png" group-title="CricHD 1", Sky Sports Golf
-https://d8.merichunidya.com:1686/hls/skysgol.m3u8?md5=tOCsLNQejzt8OJD9URIGsA&expires=1759261319
+https://d7.merichunidya.com:1686/hls/skysgol.m3u8?md5=X2vDPNYnvPtrbrl-VrT8jQ&expires=1759264423
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/43-by-xfireflix.png" group-title="CricHD 1", Sky Sports Premier League
-https://d2.merichunidya.com:1686/hls/skysprem.m3u8?md5=RFvhbM-7uLUb4YS2PYKuLg&expires=1759261320
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png" group-title="CricHD 1", Sky Sports Football
-https://d9.merichunidya.com:1686/hls/skysfott.m3u8?md5=bumOgoldi4UmDJdBW3p1yA&expires=1759261320
+https://d5.merichunidya.com:1686/hls/skysprem.m3u8?md5=B9qSVe_DCnamqMeQZUc0Zw&expires=1759264423
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008347584.png" group-title="CricHD 1", Sky Sports Plus
-https://d10.merichunidya.com:1686/hls/skysare.m3u8?md5=wIWj3hbe5CzUHfn-CQ9FCg&expires=1759261320
+https://d7.merichunidya.com:1686/hls/skysare.m3u8?md5=1SEXq4rT2uueRxzRm7HhtQ&expires=1759264423
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008468637.png" group-title="CricHD 1", Sky Sports F1
-https://d5.merichunidya.com:1686/hls/skysfor1.m3u8?md5=f5QadQWsR55ZINhwJPYAJQ&expires=1759261320
+https://d9.merichunidya.com:1686/hls/skysfor1.m3u8?md5=tGn8HdDmz_PD-Zk7oFowQA&expires=1759264423
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png" group-title="CricHD 1", LaLiGA
-https://d5.merichunidya.com:1686/hls/laligauk.m3u8?md5=cu-jpU1o9vf7uY5HmbARPA&expires=1759261320
+https://d6.merichunidya.com:1686/hls/laligauk.m3u8?md5=sVUgyQyDflUUQoImG7tp_A&expires=1759264424
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png" group-title="CricHD 1", Premier Sports 1
-https://d8.merichunidya.com:1686/hls/premieruk.m3u8?md5=ULTIioOCrLsYyPUm19FExQ&expires=1759261321
+https://d4.merichunidya.com:1686/hls/premieruk.m3u8?md5=rEOTsOPqWYJIBBJ-rZoNzQ&expires=1759264424
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png" group-title="CricHD 1", Premier Sports 2
-https://d5.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=RPHl7p-V163cG8AgnRCBSA&expires=1759261321
+https://d3.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=qmhKbDUmCV9xaZgOngTzkg&expires=1759264424
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png" group-title="CricHD 1", Super Football
-https://d6.merichunidya.com:1686/hls/superfotball.m3u8?md5=Lvo5SWJB91z-keHCp1R3qA&expires=1759261321
+https://d7.merichunidya.com:1686/hls/superfotball.m3u8?md5=pzHZ9fEQurPwB_nn2PztBA&expires=1759264424
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008781606.png" group-title="CricHD 1", Super Premier League
-https://d1.merichunidya.com:1686/hls/superpremier.m3u8?md5=XbAx0KJ9Wrk7qLwkCM6rdw&expires=1759261321
+https://d9.merichunidya.com:1686/hls/superpremier.m3u8?md5=g2Z5uT3oN7a8Ug9Rfv0mHA&expires=1759264424
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008895589.png" group-title="CricHD 1", Astro Cricket
-https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=wYaGqzTHapMGzv7vy-1nKg&expires=1759261322
+https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=GPpeUxG9dLbQEQVzCpViAw&expires=1759264425
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png" group-title="CricHD 1", ESPN 1
-https://d2.merichunidya.com:1686/hls/espnusa.m3u8?md5=m0bWV-B5Z5gHGMk6zZhhKg&expires=1759261322
+https://d8.merichunidya.com:1686/hls/espnusa.m3u8?md5=3-yko76hZWwl0Rt2rufYew&expires=1759264425
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png" group-title="CricHD 1", ESPN 2
-https://d2.merichunidya.com:1686/hls/espn2.m3u8?md5=0h4UqkvK4QhXOcPhUMRJRA&expires=1759261322
+https://d8.merichunidya.com:1686/hls/espn2.m3u8?md5=7RdcYoY4FOncT519o2_YnQ&expires=1759264425
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829327.png" group-title="CricHD 1", Sky Sports Arena
-https://d6.merichunidya.com:1686/hls/skysare.m3u8?md5=YWKESMTjXA4cjFCQKFhl6A&expires=1759261322
+https://d7.merichunidya.com:1686/hls/skysare.m3u8?md5=s2pEIkdownZdjCTJKRXe4Q&expires=1759264425
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/13-by-xfireflix.png" group-title="CricHD 1", Sky Sports Mix
-https://d3.merichunidya.com:1686/hls/skysmixx.m3u8?md5=BxkC8vAEdYpYFEG5uQa9vQ&expires=1759261322
+https://d4.merichunidya.com:1686/hls/skysmixx.m3u8?md5=ElndoKhzPj3Egw-AEbc_kg&expires=1759264426
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745009085794.png" group-title="CricHD 1", Sky Sports Tennis
-https://d4.merichunidya.com:1686/hls/skystennis.m3u8?md5=PzfnvY2p0Cp9zO5ZMbunFg&expires=1759261323
+https://d5.merichunidya.com:1686/hls/skystennis.m3u8?md5=K3O5RevYGIwcxsQC5EgIng&expires=1759264426
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png" group-title="CricHD 1", Fox Cricket 501 HD
-https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=AU-EZmM3ifIghn-IcKsoyQ&expires=1759261323
+https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=v57mH4KM2Wzxp4-zkHHb1Q&expires=1759264426
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png" group-title="CricHD 1", Sony Sports3
-https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=YynNHVox1_L8kyF1dupkpw&expires=1759261323
+https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=EN_38XJalIt4dd1I7r0uFA&expires=1759264426
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-09-30 23:38:26 (BD Time)
+# Update on 2025-10-01 00:22:22 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
