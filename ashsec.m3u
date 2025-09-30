@@ -4693,3 +4693,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1759192915~exp=1759279315~acl=/*~hmac=e0364fea6b5930ed5e53ddbaa6d448e132dc6f79981f982a0d4d34b2a4f88ad1"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1759192915~exp=1759279315~acl=/*~hmac=e0364fea6b5930ed5e53ddbaa6d448e132dc6f79981f982a0d4d34b2a4f88ad1&xxx=%7Ccookie=__hdnea__=st=1759192915~exp=1759279315~acl=/*~hmac=e0364fea6b5930ed5e53ddbaa6d448e132dc6f79981f982a0d4d34b2a4f88ad1
+#EXTM3U
+#EXTINF:-1 tvg-id="1090491107_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893223891701_World_Para_Athletics_Championships_2025_DAY_4_landscape_thumb.jpg" group-title="Live",Day 4 - 30 Sep 2025 [ENG] - World Para Athletics, New Delhi - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.fun/
+https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759256077~acl=/*~id=63010040832267373808376182746598~hmac=4624ec2cd8116d854b8a68baecbfd4165d2ed8f9534ef5123ba2f343e0b682ba
