@@ -4694,6 +4694,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1759452025~exp=1759538425~acl=/*~hmac=a08263ab7c29772a728ad97e9444c0aa512be024550ce784bfbdcc776b0d581f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1759452025~exp=1759538425~acl=/*~hmac=a08263ab7c29772a728ad97e9444c0aa512be024550ce784bfbdcc776b0d581f&xxx=%7Ccookie=__hdnea__=st=1759452025~exp=1759538425~acl=/*~hmac=a08263ab7c29772a728ad97e9444c0aa512be024550ce784bfbdcc776b0d581f
 #EXTM3U
+#EXTINF:-1 tvg-id="1090491568_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893172904701_World_Para_Athletics_Championships_2025_DAY_7_landscape_thumb.jpg" group-title="Live",Day 7 - 3 Oct 2025 [ENG] - World Para Athletics, New Delhi - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759505956~acl=/*~id=43324082361719017784427023375342~hmac=1a10d43ee08801ba53b9f7301e18243d92bf1d9c6e11ddc0abb2668286c7155a
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1", Star Sports 1
 https://d1.merichunidya.com:1686/hls/star1in.m3u8?md5=fzfaY4C17ai4Yal7kwkO5A&expires=1759467632
@@ -4779,7 +4782,7 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=usIi3Telq99qjJp8Axh3NA&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=bJuFI-kdpBiZT4TscnvHsA&expires=1759467644
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-03 08:40:12 (BD Time)
+# Update on 2025-10-03 09:26:40 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
