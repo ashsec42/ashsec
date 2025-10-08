@@ -4694,9 +4694,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1759884043~exp=1759970443~acl=/*~hmac=67d1f851e3052a80b1396f9ca2328157ba5ac75f94583e2bac6682651d10ee26"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1759884043~exp=1759970443~acl=/*~hmac=67d1f851e3052a80b1396f9ca2328157ba5ac75f94583e2bac6682651d10ee26&xxx=%7Ccookie=__hdnea__=st=1759884043~exp=1759970443~acl=/*~hmac=67d1f851e3052a80b1396f9ca2328157ba5ac75f94583e2bac6682651d10ee26
 #EXTM3U
-#EXTINF:-1 tvg-id="1090491804_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009657/175925330553358_ATP1000_Shanghai_Masters_30sep_round4_landscape_thumb.jpg" group-title="Live",Day 8 - 8 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Shanghai Open - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759955421~acl=/*~id=64751988308814372793410055545443~hmac=17657bf3f1d1a2be8196e6a71ce3a6efe944e0fc2c8de35590c6708c4623c652
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1", Star Sports 1
 https://d15.epicquesthero.com:999/hls/star1in.m3u8?md5=Odttz1R1-8IdIjot2OHN-Q&expires=1759919597
@@ -4784,7 +4781,7 @@ https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=DbXIQF4DJAmUon74P3Lsyw&exp
 https://d15.epicquesthero.com:999/hls/ten1hd.m3u8?md5=6Umy-0MbpQdCXyxbpR_fPw&expires=1759919600
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-08 14:22:49 (BD Time)
+# Update on 2025-10-08 14:45:43 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
