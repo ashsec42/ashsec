@@ -4694,9 +4694,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1759970487~exp=1760056887~acl=/*~hmac=15bf0ff2f8486d53ec6b4dacfa97bc36f79288467bda8d481fa83b9b9feb7ecd"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1759970487~exp=1760056887~acl=/*~hmac=15bf0ff2f8486d53ec6b4dacfa97bc36f79288467bda8d481fa83b9b9feb7ecd&xxx=%7Ccookie=__hdnea__=st=1759970487~exp=1760056887~acl=/*~hmac=15bf0ff2f8486d53ec6b4dacfa97bc36f79288467bda8d481fa83b9b9feb7ecd
 #EXTM3U
-#EXTINF:-1 tvg-id="1090491864_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010026/1759994247762756_ShanghaiMasters25_QF_rune_vs_Vacherot_9oct_landscape_thumb.jpg" group-title="Live",Rune vs Vacherot - Quarterfinal - 9 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Shanghai Open - ENG
+#EXTINF:-1 tvg-id="1090491864_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010026/1759994673122756_ShanghaiMasters25_QF_BERGS_vs_DJOKOVIC_9oct_landscape_thumb.jpg" group-title="Live",Bergs vs Djokovic - Quarter-final - 9 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Shanghai Open - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760049231~acl=/*~id=29679041082328166047476616796982~hmac=75c02421fefef17f0fc7ffbc9268e837fe37fd581bf93a1280f334442e2ef6d0
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760049838~acl=/*~id=98026713015027438003463285102981~hmac=405b2d496562ec5a6edcc0a2a9604ab280fc050439e8a5c97007a66bb680727d
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1", Star Sports 1
 https://d15.epicquesthero.com:999/hls/star1in.m3u8?md5=WFDGYVROhIMNV-IvlFhlow&expires=1760012978
@@ -4784,7 +4784,7 @@ https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=rtoikIYeaJuwmQV-06G66w&exp
 https://d15.epicquesthero.com:999/hls/ten1hd.m3u8?md5=oNOK1MveAnKvKB6oRkFH1A&expires=1760012983
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-09 16:18:19 (BD Time)
+# Update on 2025-10-09 16:42:54 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
