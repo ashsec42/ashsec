@@ -4491,514 +4491,515 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090492762_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010486/176121938502192_UEL_MD3_GoAheadEagles_vs_AstonVilla_rev_landscape_thumb.jpg" group-title="Live",Go Ahead Eagles vs Aston Villa - MD 3 - 23 Oct 2025 [ENG] - UEFA Europa League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761284222~acl=/*~id=57421995641655572808993412287432~hmac=3872a498d605eaea13748be353549994c7a39c07fae4f020d30cc79c64c37413
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761287880~acl=/*~id=58475138793591034462588305682232~hmac=49455a65249d1f276d6a14d0ab55b7ef8114b41c17259f3e0ba0a9409648836c
 #EXTINF:-1 tvg-id="1090492766_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010022/1759991387245918_UEL2526_MD3_Genk_vs_Real_Betis_9oct_landscape_thumb.jpg" group-title="Live",Genk vs Real Betis - MD 3 - 23 Oct 2025 [ENG] - UEFA Europa League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761284222~acl=/*~id=57421995641655572808993412287432~hmac=3872a498d605eaea13748be353549994c7a39c07fae4f020d30cc79c64c37413
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761287880~acl=/*~id=58475138793591034462588305682232~hmac=49455a65249d1f276d6a14d0ab55b7ef8114b41c17259f3e0ba0a9409648836c
+#EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+http://invalid.stream.url
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1", Star Sports 1
-https://d15.epicquesthero.com:999/hls/star1in.m3u8?md5=x4MeOzcXirnHtj6gruBFfw&expires=1761248547
+https://d15.epicquesthero.com:999/hls/star1in.m3u8?md5=R8dIeCuXM7Khu_ZbnWlLAw&expires=1761251823
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png" group-title="CricHD 1", Star Sports 1 Hindi
-https://d15.epicquesthero.com:999/hls/starhindi.m3u8?md5=R1uYHE4wl5CPRLuv3aug-g&expires=1761248547
+https://d15.epicquesthero.com:999/hls/starhindi.m3u8?md5=4S201nGJi6Y6Lw13uyT7BQ&expires=1761251823
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="CricHD 1", PTV Sports
-https://d15.epicquesthero.com:999/hls/ptvpk.m3u8?md5=_r0SS1WJ1T723bxDApYlSg&expires=1761248548
+https://d15.epicquesthero.com:999/hls/ptvpk.m3u8?md5=KJS966Fk6XiC0GkA6L_n0A&expires=1761251823
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="CricHD 1", Willow HD
-https://d15.epicquesthero.com:999/hls/willowusa.m3u8?md5=DRs7nTQWixCnFYlCrOiJVg&expires=1761248548
+https://d15.epicquesthero.com:999/hls/willowusa.m3u8?md5=uczgnZd9S_jQkschqwWKIg&expires=1761251824
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="CricHD 1", Willow HD 2
-https://d15.epicquesthero.com:999/hls/willowextra.m3u8?md5=k8egUFusdjj8XBTojDz5sQ&expires=1761248548
+https://d15.epicquesthero.com:999/hls/willowextra.m3u8?md5=Mm8EgJ2kz8TWCSokP8_UeQ&expires=1761251824
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png" group-title="CricHD 1", Ten Sports
-https://d15.epicquesthero.com:999/hls/tenspk.m3u8?md5=q9xL3_ssHZiwKronXpv1bg&expires=1761248548
+https://d15.epicquesthero.com:999/hls/tenspk.m3u8?md5=1lH4wfam5ua9ZZoXqCHxJw&expires=1761251824
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png" group-title="CricHD 1", A Sports HD
-https://d15.epicquesthero.com:999/hls/asportshd.m3u8?md5=zsqUDGa6W0ZkhDWQEWPbOQ&expires=1761248548
+https://d15.epicquesthero.com:999/hls/asportshd.m3u8?md5=AsYZMXuIK-32QsA8-yTxcw&expires=1761251825
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png" group-title="CricHD 1", Sky Sports Cricket
-https://d15.epicquesthero.com:999/hls/skyscric.m3u8?md5=P1SZAb0KzeelQrt65awpsA&expires=1761248548
+https://d15.epicquesthero.com:999/hls/skyscric.m3u8?md5=3vEuqT0clM8ucdLUFUfXxg&expires=1761251825
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png" group-title="CricHD 1", Sky Sports Main Event
-https://d15.epicquesthero.com:999/hls/skysme.m3u8?md5=diz6ErTf3thJ8KH1TCcoHQ&expires=1761248548
+https://d15.epicquesthero.com:999/hls/skysme.m3u8?md5=SFbfXB6v6nOJiL5ytnOblQ&expires=1761251825
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD 1", TNT 1
-https://d15.epicquesthero.com:999/hls/bbtsp1.m3u8?md5=wNiUvD-FO4lQdKU61CQ7FQ&expires=1761248548
+https://d15.epicquesthero.com:999/hls/bbtsp1.m3u8?md5=pNxtxODrD3NkezIClekfHw&expires=1761251826
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD 1", TNT 2
-https://d15.epicquesthero.com:999/hls/bbtsp2.m3u8?md5=bewZPptOjGgjsgROXbAmXg&expires=1761248549
+https://d15.epicquesthero.com:999/hls/bbtsp2.m3u8?md5=-rl8VgrsBXCcjQKmtQZMDQ&expires=1761251826
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD 1", TNT 3
-https://d15.epicquesthero.com:999/hls/bbtsp3.m3u8?md5=YA3ivy838ZeZuxvoHCSMlQ&expires=1761248549
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD 1", TNT 4
-https://d15.epicquesthero.com:999/hls/bbtespn.m3u8?md5=G42r9QZrSYj9xgG9jgHMvw&expires=1761248549
+https://d15.epicquesthero.com:999/hls/bbtsp3.m3u8?md5=EkUXHueXHZNDyUHzylczLw&expires=1761251826
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 1
-https://d15.epicquesthero.com:999/hls/sky1nz.m3u8?md5=0SzDL9LFkpp2h_kRwtUrRw&expires=1761248549
+https://d15.epicquesthero.com:999/hls/sky1nz.m3u8?md5=gD2tVK6_LhEZz1cCgm552A&expires=1761251827
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 2
-https://d15.epicquesthero.com:999/hls/sky2nz.m3u8?md5=4cj5io_xzKYrx4ipYT7qcg&expires=1761248549
+https://d15.epicquesthero.com:999/hls/sky2nz.m3u8?md5=NzP_eyFuOdooS-hIofPqxQ&expires=1761251827
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 3
-https://d15.epicquesthero.com:999/hls/sky3nz.m3u8?md5=9Z6UjY1-eQDmUjkQ4knBtQ&expires=1761248549
+https://d15.epicquesthero.com:999/hls/sky3nz.m3u8?md5=QANArSsL6hqgBa0RHbshug&expires=1761251827
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 4
-https://d15.epicquesthero.com:999/hls/sky4nz.m3u8?md5=QcHE2jibEx5Wd5K9CwHewQ&expires=1761248549
+https://d15.epicquesthero.com:999/hls/sky4nz.m3u8?md5=Pljiba_jSXJsLgJWX9ySrA&expires=1761251828
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 5
-https://d15.epicquesthero.com:999/hls/sky5nz.m3u8?md5=NZGKzV6OGISDqU8HhrLC1g&expires=1761248549
+https://d15.epicquesthero.com:999/hls/sky5nz.m3u8?md5=L1O8VOKxxOHU-Z3w27KT3Q&expires=1761251828
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 6
-https://d15.epicquesthero.com:999/hls/sky6nz.m3u8?md5=TSYWGoh2413wN3Jglj-SGg&expires=1761248549
+https://d15.epicquesthero.com:999/hls/sky6nz.m3u8?md5=aBRuOr16ii6uAM4DDJgN1Q&expires=1761251828
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 7
-https://d15.epicquesthero.com:999/hls/sky7nz.m3u8?md5=IXCZ6C5byU71b9-sz8yv_Q&expires=1761248549
+https://d15.epicquesthero.com:999/hls/sky7nz.m3u8?md5=_w_gTWbjvtqOPil_rROSJw&expires=1761251829
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 8
-https://d15.epicquesthero.com:999/hls/sky8nz.m3u8?md5=rRsLLIRG_LBUnX6gUIToqA&expires=1761248550
+https://d15.epicquesthero.com:999/hls/sky8nz.m3u8?md5=Mv987Mws1b9RL74aU7eWmg&expires=1761251829
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1", Sky Sports 9
-https://d15.epicquesthero.com:999/hls/sky9nz.m3u8?md5=4sA6Zc-hgIcp6eF6WsyOgQ&expires=1761248550
+https://d15.epicquesthero.com:999/hls/sky9nz.m3u8?md5=CPk9SvMZAdLj4e1uiLZGIg&expires=1761251829
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/skycinema.png" group-title="CricHD 1", Sky Cinema
-https://d15.epicquesthero.com:999/hls/skysme.m3u8?md5=ZZsr7IEFlqNo-0kcexQpbA&expires=1761248550
+https://d15.epicquesthero.com:999/hls/skysme.m3u8?md5=utkfFjoUfRdADuGthnXHuA&expires=1761251829
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829332.png" group-title="CricHD 1", Sky Sports Action
-https://d15.epicquesthero.com:999/hls/skysact.m3u8?md5=1NqT2r-WlqNTluFUKpZ2Mg&expires=1761248550
+https://d15.epicquesthero.com:999/hls/skysact.m3u8?md5=l1MPopp8nw07Tuq4YHZLbQ&expires=1761251830
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008055327.png" group-title="CricHD 1", Sky Sports Golf
-https://d15.epicquesthero.com:999/hls/skysgol.m3u8?md5=Eb440035LaiaCkq8Z9zyhQ&expires=1761248550
+https://d15.epicquesthero.com:999/hls/skysgol.m3u8?md5=nMLVJ861mbSWMOsRKHSkfw&expires=1761251830
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/43-by-xfireflix.png" group-title="CricHD 1", Sky Sports Premier League
-https://d15.epicquesthero.com:999/hls/skysprem.m3u8?md5=BWL9nzWZKrx4FXmUmcUi2w&expires=1761248550
+https://d15.epicquesthero.com:999/hls/skysprem.m3u8?md5=Tf2eT30SwNjx-3rdJoFLLQ&expires=1761251831
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png" group-title="CricHD 1", Sky Sports Football
-https://d15.epicquesthero.com:999/hls/skysfott.m3u8?md5=FZVBxl4I5gw9kgMPyiAwfQ&expires=1761248550
+https://d15.epicquesthero.com:999/hls/skysfott.m3u8?md5=kEjq7xjxXVQ1k3rNXHqRKA&expires=1761251831
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008347584.png" group-title="CricHD 1", Sky Sports Plus
-https://d15.epicquesthero.com:999/hls/skysare.m3u8?md5=c8nUTY4whkn8tiUscEgWKw&expires=1761248550
+https://d15.epicquesthero.com:999/hls/skysare.m3u8?md5=HAQvPzIpyu8OFW-yvcJVog&expires=1761251831
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008468637.png" group-title="CricHD 1", Sky Sports F1
-https://d15.epicquesthero.com:999/hls/skysfor1.m3u8?md5=5H6zlB-5sknuBg_1z4j_gw&expires=1761248550
+https://d15.epicquesthero.com:999/hls/skysfor1.m3u8?md5=F_7s7XMTpsoQ--7tbnRbXA&expires=1761251832
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png" group-title="CricHD 1", LaLiGA
-https://d15.epicquesthero.com:999/hls/laligauk.m3u8?md5=vhCHH66OPM7TsmwN9cHayA&expires=1761248551
+https://d15.epicquesthero.com:999/hls/laligauk.m3u8?md5=ggcfHJMJ8IjIsEbd0lpRxA&expires=1761251832
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png" group-title="CricHD 1", Premier Sports 1
-https://d15.epicquesthero.com:999/hls/premieruk.m3u8?md5=BJaDHKa5QuO8v5K5hzvb0A&expires=1761248551
+https://d15.epicquesthero.com:999/hls/premieruk.m3u8?md5=VBjwGW_YO-G4_h_HJx7M_A&expires=1761251832
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png" group-title="CricHD 1", Premier Sports 2
-https://d15.epicquesthero.com:999/hls/hdchnl2.m3u8?md5=gKdIrYQnYMPMzZp6ZgYg4A&expires=1761248551
+https://d15.epicquesthero.com:999/hls/hdchnl2.m3u8?md5=voSJiGUcKJG7iGtAvKn1ww&expires=1761251833
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png" group-title="CricHD 1", Super Football
-https://d15.epicquesthero.com:999/hls/superfotball.m3u8?md5=Mq_PQU3f3DG1fvadEyjIyw&expires=1761248551
+https://d15.epicquesthero.com:999/hls/superfotball.m3u8?md5=a1HqncFY3sLn9GHwWRi5RQ&expires=1761251833
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008781606.png" group-title="CricHD 1", Super Premier League
-https://d15.epicquesthero.com:999/hls/superpremier.m3u8?md5=_RqZGj1kthvLyzP7G4OMug&expires=1761248551
+https://d15.epicquesthero.com:999/hls/superpremier.m3u8?md5=WEX_zhnMNUg88BBzh8Lppg&expires=1761251833
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008895589.png" group-title="CricHD 1", Astro Cricket
-https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=ttjq1DKLVriBSzdQLClFew&expires=1761248551
+https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=5ugUmZaTMwl-q6ZDCuU1Ig&expires=1761251834
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png" group-title="CricHD 1", ESPN 1
-https://d15.epicquesthero.com:999/hls/espnusa.m3u8?md5=JzGOiMD8frkA7VRD6cZo0w&expires=1761248551
+https://d15.epicquesthero.com:999/hls/espnusa.m3u8?md5=uT8ZDkaZZEel0Qajni2F-Q&expires=1761251834
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png" group-title="CricHD 1", ESPN 2
-https://d15.epicquesthero.com:999/hls/espn2.m3u8?md5=cBRzZr9J96jv1mHQioKKmA&expires=1761248552
+https://d15.epicquesthero.com:999/hls/espn2.m3u8?md5=qz87OjtxpGe5ORBeihXaSw&expires=1761251834
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829327.png" group-title="CricHD 1", Sky Sports Arena
-https://d15.epicquesthero.com:999/hls/skysare.m3u8?md5=Lr0KK9wDFa71pvxCIPnD6g&expires=1761248552
+https://d15.epicquesthero.com:999/hls/skysare.m3u8?md5=fCIpCVOCpdvOJGTShaqq8Q&expires=1761251835
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/13-by-xfireflix.png" group-title="CricHD 1", Sky Sports Mix
-https://d15.epicquesthero.com:999/hls/skysmixx.m3u8?md5=SMxvz24uBHAD_QEnBjM81w&expires=1761248552
+https://d15.epicquesthero.com:999/hls/skysmixx.m3u8?md5=uEBfb9bZ8HdnrrJaP9nT6g&expires=1761251835
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745009085794.png" group-title="CricHD 1", Sky Sports Tennis
-https://d15.epicquesthero.com:999/hls/skystennis.m3u8?md5=b6JWDbeOrtYSOU7nPNSmJw&expires=1761248552
+https://d15.epicquesthero.com:999/hls/skystennis.m3u8?md5=bK5-3nCKosw8nzmHIJozTw&expires=1761251835
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png" group-title="CricHD 1", Fox Cricket 501 HD
-https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=myZiAkyu2BC765bxP2PEjw&expires=1761248552
+https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=6-fYe3dpGJCW1s5qyXJs3g&expires=1761251835
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png" group-title="CricHD 1", Sony Sports3
-https://d15.epicquesthero.com:999/hls/ten1hd.m3u8?md5=cuJ5rOHAFc1BP-szxEPfqw&expires=1761248552
+https://d15.epicquesthero.com:999/hls/ten1hd.m3u8?md5=pNJgCqQ1KBRywOWgALWO0Q&expires=1761251836
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-23 23:12:06 (BD Time)
+# Update on 2025-10-24 00:15:57 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD 2",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/skyscric3.m3u8?md6=bjHDIQUl3ziK3FaqGCtR6w&expires=1761243930
+https://bit.player0003.com:8099/hls/skyscric3.m3u8?md6=nrwLrWRXimWwWkJY0LnscQ&expires=1761247761
 #EXTINF:-1 tvg-name="T Sports BD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tsportsbd.png" group-title="CricHD 2",T Sports BD
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/t_sportsbd.m3u8?md6=abszu5Nc2ixAl5WTVRP-BQ&expires=1761243937
+https://bit.player0003.com:8099/hls/t_sportsbd.m3u8?md6=NjjWgsz_quq65TqQ6KnkXw&expires=1761247768
 #EXTINF:-1 tvg-name="Willow" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willow.png" group-title="CricHD 2",Willow
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/willow_us.m3u8?md6=0MKRagP84TQQXydSR1aKXg&expires=1761243943
+https://bit.player0003.com:8099/hls/willow_us.m3u8?md6=csLUv-AvwZv7igfNy1osiA&expires=1761247774
 #EXTINF:-1 tvg-name="Willow Xtra" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willowextra.png" group-title="CricHD 2",Willow Xtra
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/willow_2.m3u8?md6=KF8-olrHlqP6BOnISVjH5A&expires=1761243949
+https://bit.player0003.com:8099/hls/willow_2.m3u8?md6=RdiezjTXtPa3DIpPKvtYzg&expires=1761247780
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1.png" group-title="CricHD 2",Star Sports 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/starsp_1in.m3u8?md6=8_NmlJmxb3d7MgSQAcE0Yg&expires=1761243955
+https://bit.player0003.com:8099/hls/starsp_1in.m3u8?md6=V_brA-y_huw38E5KzgyYTg&expires=1761247785
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1_hindi.png" group-title="CricHD 2",Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/starsp_1hin.m3u8?md6=NYvYK4xgaluhdoJqfRtDkw&expires=1761243961
+https://bit.player0003.com:8099/hls/starsp_1hin.m3u8?md6=LJdNSu1Xnu5YuOHBokE2sw&expires=1761247791
 #EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Star_Sports_2.png" group-title="CricHD 2",Star Sports 2
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/starsp_2in.m3u8?md6=GjeOZGZZ_zL3j8-jTSjZ0g&expires=1761243967
+https://bit.player0003.com:8099/hls/starsp_2in.m3u8?md6=Bw1FMjlinVJFqFwLuU6_pg&expires=1761247797
 #EXTINF:-1 tvg-name="Star Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/star_sports3.jpg" group-title="CricHD 2",Star Sports 3
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/starsp_1hin.m3u8?md6=B26pia99EDy39G8czylU6w&expires=1761243973
+https://bit.player0003.com:8099/hls/starsp_1hin.m3u8?md6=TrSOGMo2K9NNqIjjKNI-sA&expires=1761247803
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ptv_sports.png" group-title="CricHD 2",PTV Sports
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/ptv_paki.m3u8?md6=bBmsof4zZIPQ90N80KomsA&expires=1761243979
+https://bit.player0003.com:8099/hls/ptv_paki.m3u8?md6=-MCOiFc_rnqxd7AwbylBMA&expires=1761247808
 #EXTINF:-1 tvg-name="A Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/a_sports.png" group-title="CricHD 2",A Sports
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/asportiso.m3u8?md6=2YvkQYwC7rYjceGyVenJsg&expires=1761243986
+https://bit.player0003.com:8099/hls/asportiso.m3u8?md6=vFioSPFi9SsZbr5iR4w5MQ&expires=1761247814
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/ten_cricket.png" group-title="CricHD 2",Ten Cricket
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/tenspk.m3u8?md6=8ih0OxFPZhuGnGk1mnK7Ww&expires=1761243992
+https://bit.player0003.com:8099/hls/tenspk.m3u8?md6=nTV3zlZ3gvw9Rjo5FImjsQ&expires=1761247820
 #EXTINF:-1 tvg-name="Geo Super" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/geo.jpg" group-title="CricHD 2",Geo Super
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/geosp.m3u8?md6=43LR5R16Rv_ncbzBKTvMNg&expires=1761243998
+https://bit.player0003.com:8099/hls/geosp.m3u8?md6=GtihozFPzM_0lo3WeYKMBQ&expires=1761247825
 #EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/astro_cricket.png" group-title="CricHD 2",Astro Cricket
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/astrocric.m3u8?md6=v4yuE9D6lEjroIf2f8Ixcg&expires=1761244004
+https://bit.player0003.com:8099/hls/astrocric.m3u8?md6=lq7L-ikl89BjDVrintSqww&expires=1761247831
 #EXTINF:-1 tvg-name="Fox Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/fox501.png" group-title="CricHD 2",Fox Cricket
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/fox501.m3u8?md6=8MMWqn3PlNS9oEWrr4Em0Q&expires=1761244010
+https://bit.player0003.com:8099/hls/fox501.m3u8?md6=7sHr4i2akBbYtwgFyBDfFg&expires=1761247837
 #EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_main_event.png" group-title="CricHD 2",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=pzu32Wt3lx3EA2r-DajVXg&expires=1761244017
+https://bit.player0003.com:8099/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=Yduy-IAatuf1XVHFxLf72A&expires=1761247843
 #EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportsf.png" group-title="CricHD 2",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=pRW-WU-eYrEk6xilXwxTMA&expires=1761244023
+https://bit.player0003.com:8099/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=7xyqjhO2fCRUBBptDRp8ig&expires=1761247849
 #EXTINF:-1 tvg-name="Sky Sports Arena" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_areana.png" group-title="CricHD 2",Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=UWIagDY2xfSoLj0GG2bbiw&expires=1761244028
+https://bit.player0003.com:8099/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=LDI55michnMfbyOhWFGgJQ&expires=1761247855
 #EXTINF:-1 tvg-name="Sky Sports Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportaction.png" group-title="CricHD 2",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/skysact.m3u8?md6=yzR0fcI-nFBwIQsiZjh7yA&expires=1761244035
+https://bit.player0003.com:8099/hls/skysact.m3u8?md6=jROHWVVt-LhCtTRmTwObLA&expires=1761247860
 #EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportdglof.png" group-title="CricHD 2",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/skysgol.m3u8?md6=HVqfqeBsa7eKgB4fSaLr6Q&expires=1761244041
+https://bit.player0003.com:8099/hls/skysgol.m3u8?md6=9PHQ4HLDDUIe7ZRN7p_00Q&expires=1761247867
 #EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportspr.png" group-title="CricHD 2",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/skypremol.m3u8?md6=jWSArJzV-BSy6CorfRHusQ&expires=1761244047
+https://bit.player0003.com:8099/hls/skypremol.m3u8?md6=KbkOihoBt6RtNkViBGyQfw&expires=1761247872
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sportsl.png" group-title="CricHD 2",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=ktk7Z3vOek1FyQS2oLWPXQ&expires=1761244053
+https://bit.player0003.com:8099/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=MRhKMaowMb5ML_gI3et99g&expires=1761247878
 #EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportmix.png" group-title="CricHD 2",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/skysmixx.m3u8?md6=7bNii0Tg10ZZeaNpe6kGQQ&expires=1761244060
+https://bit.player0003.com:8099/hls/skysmixx.m3u8?md6=8tRF6m0P3ERWqhEz1cQrZg&expires=1761247884
 #EXTINF:-1 tvg-name="Sky Sports Tennis" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_Sports_tenis.png" group-title="CricHD 2",Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/skyten.m3u8?md6=aAbM-45D1Es9stzfkG8GNw&expires=1761244066
+https://bit.player0003.com:8099/hls/skyten.m3u8?md6=lEp9zKbDJueJXIEAzGrATw&expires=1761247890
 #EXTINF:-1 tvg-name="SuperSport Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sli.jpg" group-title="CricHD 2",SuperSport Cricket
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/super2cric.m3u8?md6=CuGlr2vGaJpZBzycx86lzw&expires=1761244072
+https://bit.player0003.com:8099/hls/super2cric.m3u8?md6=oUV_IdmVwQJOiL6haXMkuw&expires=1761247895
 #EXTINF:-1 tvg-name="SuperSport Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ssp.png" group-title="CricHD 2",SuperSport Premier League
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/superprem.m3u8?md6=tJoSjjheGjx_KQNasi4Gag&expires=1761244078
+https://bit.player0003.com:8099/hls/superprem.m3u8?md6=3aFdpb54qRZP11q2glyUVw&expires=1761247901
 #EXTINF:-1 tvg-name="SuperSport LaLiga" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/superla.jpg" group-title="CricHD 2",SuperSport LaLiga
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/dasdadaskasdlaliga.m3u8?md6=cxoi4l3vVzrNYsqCdk-_Sw&expires=1761244084
+https://bit.player0003.com:8099/hls/dasdadaskasdlaliga.m3u8?md6=kLJzr5x0C9x3w3NYYJF6sw&expires=1761247908
 #EXTINF:-1 tvg-name="SuperSport Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersf.jpg" group-title="CricHD 2",SuperSport Football
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/superspfb.m3u8?md6=T9R1kBrStpzQG_diSG2ODQ&expires=1761244090
+https://bit.player0003.com:8099/hls/superspfb.m3u8?md6=NU6TtWKN0vYxfIkXgxJm_g&expires=1761247913
 #EXTINF:-1 tvg-name="SuperSport Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersa.jpg" group-title="CricHD 2",SuperSport Action
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/superspaction.m3u8?md6=FirwjrY0NECllK5bMZtrOA&expires=1761244096
+https://bit.player0003.com:8099/hls/superspaction.m3u8?md6=FVGtmrAMwrQM9CLMzTygBw&expires=1761247919
 #EXTINF:-1 tvg-name="SuperSport GrandStand" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersg.jpg" group-title="CricHD 2",SuperSport GrandStand
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/supergs.m3u8?md6=NuSAqQPmca6nj9nbwEQ8oA&expires=1761244102
+https://bit.player0003.com:8099/hls/supergs.m3u8?md6=jTng5UveRLkYkcy3QlVBvg&expires=1761247925
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png" group-title="CricHD 2",TNT Sports 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=kprgv8cnKBBhuKs_AfEgaQ&expires=1761244109
+https://bit.player0003.com:8099/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=EFDgs0DC1mqnCso7cYqO3Q&expires=1761247933
 #EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt2.png" group-title="CricHD 2",TNT Sports 2
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=TcZnRipLX2eQB1o-Y2LZ1g&expires=1761244115
+https://bit.player0003.com:8099/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=oCtBjfxrDDsWrtdOFM-aYg&expires=1761247940
 #EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt3.png" group-title="CricHD 2",TNT Sports 3
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=XWhf-v2JoeECbNopmy4EWQ&expires=1761244121
+https://bit.player0003.com:8099/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=dQOrHs0-kwTVB3kfnZ-UVw&expires=1761247945
 #EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png" group-title="CricHD 2",TNT Sports 4
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/basdbkklltadsnbpgh4io9.m3u8?md6=sgou6X2Il-XMqe8bCYiPkw&expires=1761244127
+https://bit.player0003.com:8099/hls/basdbkklltadsnbpgh4io9.m3u8?md6=cJKO7wz6VuN_O9Q4Kt9gdg&expires=1761247951
 #EXTINF:-1 tvg-name="Sony Sports Ten 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sony1.jpg" group-title="CricHD 2",Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/ten_1sd.m3u8?md6=teGv0KUTmOHuT96oTSz4pg&expires=1761244133
+https://bit.player0003.com:8099/hls/ten_1sd.m3u8?md6=VZ18EOaohb62V7jkEr6nuQ&expires=1761247958
 #EXTINF:-1 tvg-name="CricLife 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="CricHD 2",CricLife 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/criclife1.m3u8?md6=8-IY5w4xetlvyCKN4uu91g&expires=1761244139
+https://bit.player0003.com:8099/hls/criclife1.m3u8?md6=fVXPxDYnEm2Db4msjK3hWw&expires=1761247965
 #EXTINF:-1 tvg-name="CricLife 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="CricHD 2",CricLife 2
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/criclife2.m3u8?md6=n4xvGvXFVoOffUM-TXdWbQ&expires=1761244145
+https://bit.player0003.com:8099/hls/criclife2.m3u8?md6=X9rKzToYn4aNRDnhiY2POA&expires=1761247970
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport1.jpg" group-title="CricHD 2",Eurosport 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/eurosp1.m3u8?md6=bsPUFdc0CfaQeE6tCOFrYg&expires=1761244151
+https://bit.player0003.com:8099/hls/eurosp1.m3u8?md6=Reh_Sy-1YGJPYnWDVs0Qug&expires=1761247976
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport2.jpg" group-title="CricHD 2",Eurosport 2
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/eurosp2.m3u8?md6=nIRosgarfCMbiMi_COpa6w&expires=1761244157
+https://bit.player0003.com:8099/hls/eurosp2.m3u8?md6=TKPNOYpK1kmjlAs5vwrj-A&expires=1761247982
 #EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg" group-title="CricHD 2",Premier Sports 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/viaplaysp1.m3u8?md6=YTyfIKOVCyZRJQVTwFammg&expires=1761244163
+https://bit.player0003.com:8099/hls/viaplaysp1.m3u8?md6=MgvtAHRdcC0mybMJKEZ_2Q&expires=1761247989
 #EXTINF:-1 tvg-name="Premier Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers2.jpg" group-title="CricHD 2",Premier Sports 2
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bit.player0003.com:8099/hls/viaplaysp2.m3u8?md6=1BqAZ43UxWrBwZMOd571Rw&expires=1761244169
+https://bit.player0003.com:8099/hls/viaplaysp2.m3u8?md6=85RweABRh0HgePDo-KhTDQ&expires=1761247994
 #EXTM3U
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsHD/JCHLS/JC_ColorsHD.m3u8
 #EXTINF:-1 tvg-id="1370" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg",Colors Rishtey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsRishtey/JCHLS/JC_ColorsRishtey.m3u8
 #EXTINF:-1 tvg-id="756" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg",Colors Bangla HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/JC_ColorsBanglaHD.m3u8
 #EXTINF:-1 tvg-id="757" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-16x9-1677754085834.jpg",Colors Kannada HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/JC_ColorsKannadaHD.m3u8
 #EXTINF:-1 tvg-id="755" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg",Colors Marathi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/JC_ColorsMarathiHD.m3u8
 #EXTINF:-1 tvg-id="196" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-gujarati-16x9-1713269620328.jpg",Colors Gujarati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsGujarati/JCHLS/JC_ColorsGujarati.m3u8
 #EXTINF:-1 tvg-id="429" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg",Colors Tamil HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsTamilHD/JCHLS/JC_ColorsTamilHD.m3u8
 #EXTINF:-1 tvg-id="1158" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg",Colors Infinity HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/JC_ColorsInfinityHD.m3u8
 #EXTINF:-1 tvg-id="785" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-super-live-channels-16x9-4-1642744939924.jpg",Colors Super
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/JC_ColorsSuperKannada.m3u8
 #EXTINF:-1 tvg-id="1477" group-title="Movies" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",Colors Cineplex HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/JC_ColorsCineplexHD.m3u8
 #EXTINF:-1 tvg-id="1450" group-title="Movies" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg",Colors Cineplex Superhits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/JC_ColorsCineplexSuperhit.m3u8
 #EXTINF:-1 tvg-id="1763" group-title="Movies" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg",Colors Cineplex Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/JC_ColorsCineplexBollywood.m3u8
 #EXTINF:-1 tvg-id="1632" group-title="Movies" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg",Colors Kannada Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/JC_ColorsKannadaCinema.m3u8
 #EXTINF:-1 tvg-id="1145" group-title="Music" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg",MTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_MTVHD/JCHLS/JC_MTVHD.m3u8
 #EXTINF:-1 tvg-id="544" group-title="Kids" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets//16x9-1719554242246.jpg",Nick
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_NickSD/JCHLS/JC_NickSD.m3u8
 #EXTINF:-1 tvg-id="548" group-title="Kids" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg",Sonic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_SonicNick/JCHLS/JC_SonicNick.m3u8
 #EXTINF:-1 tvg-id="1226" group-title="Kids" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nick HD+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_NickHD/JCHLS/JC_NickHD.m3u8
 #EXTINF:-1 tvg-id="815" group-title="Kids" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_NickJr/JCHLS/JC_NickJr.m3u8
 #EXTINF:-1 tvg-id="1033" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8
 #EXTINF:-1 tvg-id="980" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png",Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
 #EXTINF:-1 tvg-id="1186" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png",Star Sports 2 Telugu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8
 #EXTINF:-1 tvg-id="1187" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png",Star Sports 2 Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8
 #EXTINF:-1 tvg-id="190" group-title="Business" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg",CNBC Awaaz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNBC_Awaaz_voot_MOB/Fallback/CNBC_Awaaz_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="490" group-title="Business" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg",CNBC Bazaar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNBC_Bazaar_voot_MOB/Fallback/CNBC_Bazaar_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="489" group-title="Business" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg",CNBC TV18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/CNBC_TV18_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="231" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News18 India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_India_voot_MOB/Fallback/News18_India_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="492" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png",CNN News18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNN_News18_voot_MOB/Fallback/CNN_News18_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="615" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png",News18 Tamil Nadu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Tamil_Nadu_voot_MOB/Fallback/News18_Tamil_Nadu_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="232" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png",News18 Lokmat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Lokmat_voot_MOB/Fallback/News18_Lokmat_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="717" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Bangla_voot_MOB/Fallback/News18_Bangla_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="653" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png",News18 Kannada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Kannada_voot_MOB/Fallback/News18_Kannada_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="620" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png",News18 Gujarati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Gujarati_voot_MOB/Fallback/News18_Gujarati_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="655" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png",News18 Punjab Haryana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Punjab_Haryana_HP_voot_MOB/Fallback/News18_Punjab_Haryana_HP_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="696" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png",News18 Odia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Odia_voot_MOB/Fallback/News18_Odia_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="627" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png",News18 Assam North East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Assam_North_East_voot_MOB/Fallback/News18_Assam_North_East_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="965" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png",News18 Kerala
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Kerala_voot_MOB/Fallback/News18_Kerala_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="531" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png",News18 Rajasthan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Rajasthan_voot_MOB/Fallback/News18_Rajasthan_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="693" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png",News18 Bihar Jharkhand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Bihar_Jharkhand_voot_MOB/Fallback/News18_Bihar_Jharkhand_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="529" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png",News18 MP Chhattisgarh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_MP_Chhattisgarh_voot_MOB/Fallback/News18_MP_Chhattisgarh_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="530" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png",News18 UP Uttarakhand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News18_UP_Uttarakhand_voot_MOB.m3u8
 #EXTINF:-1 tvg-id="694" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png",News18 JKLH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761235210~acl=%2f*~id=66f4150c7b901e5a82412637c61fed5f~data=hdntl~hmac=9f1cb38ae5ea300be1a90c7859bce796449e465154a03b5e957f24195b13c9c4"}
+#EXTHTTP:{"cookie":"hdntl=exp=1761301808~acl=%2f*~id=7f59cef2a3ba74c63c67267fc3466a7f~data=hdntl~hmac=8fb0a8ecdb87ef5189d6d780d1fc1ed0e6909b3bd3012d6192bfe09313293e8e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Thursday 23 October, 2025 at 11:21:07 pm
-#EXTINF:-1 tvg-id="137721" tvg-name="Paarl Rocks Vs Wellington Wolves" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137721_5728_PR_WEW_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Paarl Rocks Vs Wellington Wolves
-https://in-mc-fdlive.fancode.com/mumbai/137721_english_hls_3bdd15f70a87792ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Friday 24 October, 2025 at 12:21:02 am
 #EXTINF:-1 tvg-id="137510" tvg-name="Emirates Blues Vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137490_5722_EMB_AJM_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Emirates Blues Vs Ajman
 https://in-mc-fdlive.fancode.com/mumbai/137510_english_hls_714a46043a15482ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136608" tvg-name="Al Najmah Sc Vs Al Ahli Saudi Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136608_5655_ALN_AAS_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Najmah Sc Vs Al Ahli Saudi Fc
 https://in-mc-fdlive.fancode.com/mumbai/136608_english_hls_13e8366c3970864ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="135962" tvg-name="Exeter City Vs Plymouth Argyle" tvg-logo="https://images.fancode.com/aig/match/v1/135962_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Exeter City Vs Plymouth Argyle
+https://in-mc-fdlive.fancode.com/mumbai/135962_english_hls_2a74cbc7af71544ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137315" tvg-name="Day 1   Featured Groups" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 1   Featured Groups
 https://in-mc-fdlive.fancode.com/mumbai/137315_english_hls_d88bf815f681988ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
