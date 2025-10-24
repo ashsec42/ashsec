@@ -4492,6 +4492,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
+#EXTINF:-1 tvg-id="1090492964_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722875213903_AsianTour25_International_Series_Philippines_Day2_5oct_landscape_thumb.jpg" group-title="Live",International Series Philippines - Day 2 - 24 Oct 2025 [ENG] - Asian Tour 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761323820~acl=/*~id=50552035738625527649527756444147~hmac=027887cb0ad56e5626381fb08d8ea82c94c8054a58d8455054b60477ab4ae355
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1", Star Sports 1
 https://d15.epicquesthero.com:999/hls/star1in.m3u8?md5=91d416sa4kt9PlvYmzNplg&expires=1761287452
@@ -4989,7 +4992,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Friday 24 October, 2025 at 10:07:03 am
+#DATE:- Friday 24 October, 2025 at 10:14:03 am
 #EXTINF:-1 tvg-id="134002" tvg-name="Adelaide Strikers Women Vs Melbourne Renegades Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134002_5608_MR-W_AS-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Adelaide Strikers Women Vs Melbourne Renegades Women
 https://in-mc-fdlive.fancode.com/mumbai/134002_english_hls_0e1135609e9719ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119261" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Day 1
