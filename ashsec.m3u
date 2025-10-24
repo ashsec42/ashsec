@@ -4494,7 +4494,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 http://invalid.stream.url
 #EXTINF:-1 tvg-id="1090493078_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759591041448218_bliga2526_MD8_Werder_Bremen_vs_Union_Berlin_3oct_landscape_thumb.jpg" group-title="Live",Werder Bremen vs Union Berlin - MD 8 - 24 Oct 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761376911~acl=/*~id=99288998625991435270730320622449~hmac=5bc85a5d7d31f3f5f3e73ce1d6bc054f6caf47da5cdf78e029f2363f3ef745c8
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761377520~acl=/*~id=16908288148035331645150108056644~hmac=506f4a02410b03d132a3a6e16ba714cbbebbaa04b3d5cb0aa753731988855e2d
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
@@ -4908,9 +4908,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Saturday 25 October, 2025 at 1:07:03 am
-#EXTINF:-1 tvg-id="118476" tvg-name="Practice 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png" tvg-language="ENGLISH" group-title="Formula 1",ENG | Practice 1
-https://d2xclhq6ntmw34.cloudfront.net/out/v1/3c9aa3f5f1474c2db4570635f056f8a9/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Saturday 25 October, 2025 at 1:21:03 am
 #EXTINF:-1 tvg-id="136609" tvg-name="Al Ittihad Vs Al Hilal Sfc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136609_5655_ITT_AHS_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Ittihad Vs Al Hilal Sfc
 https://in-mc-fdlive.fancode.com/mumbai/136609_english_hls_ab1456905c17101ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130921" tvg-name="Real Sociedad Vs Sevilla Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130921_5427_RS_SEV_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Sociedad Vs Sevilla Fc
@@ -4921,6 +4919,8 @@ https://in-mc-fdlive.fancode.com/mumbai/136955_english_hls_9d2acf98eb21809ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/137610_english_hls_3ba35aeb1711534ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137318" tvg-name="Day 2   Featured Groups" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2   Featured Groups
 https://in-mc-fdlive.fancode.com/mumbai/137318_english_hls_1778e4abcc97607ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="118476" tvg-name="Practice 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png" tvg-language="ENGLISH" group-title="Formula 1",ENG | Practice 1
+https://d2xclhq6ntmw34.cloudfront.net/out/v1/3c9aa3f5f1474c2db4570635f056f8a9/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
