@@ -4489,6 +4489,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1761352892~exp=1761439292~acl=/*~hmac=2ea5356245b05e9ef9b78461677e13af3c9df3f60e0516c9ff0ddf0d98c8f02c"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1761352892~exp=1761439292~acl=/*~hmac=2ea5356245b05e9ef9b78461677e13af3c9df3f60e0516c9ff0ddf0d98c8f02c&xxx=%7Ccookie=__hdnea__=st=1761352892~exp=1761439292~acl=/*~hmac=2ea5356245b05e9ef9b78461677e13af3c9df3f60e0516c9ff0ddf0d98c8f02c
 #EXTM3U
+#EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+http://invalid.stream.url
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
@@ -4744,7 +4747,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Saturday 25 October, 2025 at 3:07:19 pm
+#DATE:- Saturday 25 October, 2025 at 3:21:04 pm
 #EXTINF:-1 tvg-id="137723" tvg-name="Paarl Rocks Vs Overberg Indwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137723_5728_PR_OBI_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Paarl Rocks Vs Overberg Indwe
 https://in-mc-fdlive.fancode.com/mumbai/137723_english_hls_610f1c957291633ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137368" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
