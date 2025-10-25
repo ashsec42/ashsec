@@ -4494,11 +4494,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 http://invalid.stream.url
 #EXTINF:-1 tvg-id="1090493127_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722867894903_AsianTour25_International_Series_Philippines_Day3_5oct_landscape_thumb.jpg" group-title="Live",International Series Philippines - Day 3 - 25 Oct 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417775~acl=/*~id=55186111650300992867080957215264~hmac=ba2113178909218565f1cc908e5ac7b6f27c9cc620ab56c46a55cee57c67b8fc
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761418995~acl=/*~id=87141107227723933356972625342354~hmac=49ada43399894f766423d449f592347c7a3dc5316ad3647d274b4e5ce7c4c354
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-25 12:14:35 (BD Time)
+# Update on 2025-10-25 13:11:17 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4750,13 +4750,9 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Saturday 25 October, 2025 at 12:21:03 pm
+#DATE:- Saturday 25 October, 2025 at 12:56:04 pm
 #EXTINF:-1 tvg-id="119264" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Day 2
 https://in-mc-fdlive.fancode.com/mumbai/119264_english_hls_b48419e67989269ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137014" tvg-name="Kyoto Sanga Vs Kashima Antlers" tvg-logo="https://images.fancode.com/aig/match/v1/137014_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Kyoto Sanga Vs Kashima Antlers
-https://in-mc-fdlive.fancode.com/mumbai/137014_english_hls_6aee5722dc58854ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137012" tvg-name="Urawa Red Diamonds Vs Machida Zelvia" tvg-logo="https://images.fancode.com/aig/match/v1/137012_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Urawa Red Diamonds Vs Machida Zelvia
-https://in-mc-fdlive.fancode.com/mumbai/137012_english_hls_53b391b57c32486ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137015" tvg-name="Cerezo Osaka Vs Kawasaki Frontale" tvg-logo="https://images.fancode.com/aig/match/v1/137015_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Cerezo Osaka Vs Kawasaki Frontale
 https://in-mc-fdlive.fancode.com/mumbai/137015_english_hls_ef048bd71c32665ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136869" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 3
