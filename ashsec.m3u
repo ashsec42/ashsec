@@ -4494,11 +4494,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 http://invalid.stream.url
 #EXTINF:-1 tvg-id="1090493127_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722867894903_AsianTour25_International_Series_Philippines_Day3_5oct_landscape_thumb.jpg" group-title="Live",International Series Philippines - Day 3 - 25 Oct 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761410448~acl=/*~id=73615708794884903935872894688000~hmac=40687138e8627eab8682ed3a43cfc758e6621c74983051bad3269a0cc535face
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761412277~acl=/*~id=33850875019595711393465132972762~hmac=711473228d5a74686d82035c8d9836c862419408319a09a37f4bd50b98513877
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-25 10:12:29 (BD Time)
+# Update on 2025-10-25 11:11:45 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4750,7 +4750,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Saturday 25 October, 2025 at 10:28:04 am
+#DATE:- Saturday 25 October, 2025 at 11:00:03 am
 #EXTINF:-1 tvg-id="119264" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Day 2
 https://in-mc-fdlive.fancode.com/mumbai/119264_english_hls_b48419e67989269ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134004" tvg-name="Sydney Sixers Women Vs Sydney Thunder Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134004_5608_SS-W_ST-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sydney Sixers Women Vs Sydney Thunder Women
