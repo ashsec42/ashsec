@@ -4918,15 +4918,13 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Sunday 26 October, 2025 at 9:00:03 pm
+#DATE:- Sunday 26 October, 2025 at 9:07:03 pm
 #EXTINF:-1 tvg-id="130925" tvg-name="Real Madrid Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130925_5427_RM_BAR_fc-Web_1760681342618.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Madrid Vs Fc Barcelona
 https://in-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130925" tvg-name="Real Madrid Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130925_5427_RM_BAR_fc-Web_1760681342618.jpg" tvg-language="HINDI" group-title="Football",HIN | Real Madrid Vs Fc Barcelona
 https://in-mc-fdlive.fancode.com/mumbai/130925_hindi_hls_d559624d2015871adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130925" tvg-name="Real Madrid Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130925_5427_RM_BAR_fc-Web_1760681342618.jpg" tvg-language="BENGALI" group-title="Football",BEN | Real Madrid Vs Fc Barcelona
 https://in-mc-fdlive.fancode.com/mumbai/130925_bengali_hls_d0860edbe268436adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137766" tvg-name="Indian Supercross Racing League" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISRL_Old_match-card_2.jpg" tvg-language="ENGLISH" group-title="Motorsports",ENG | Indian Supercross Racing League
-https://in-mc-fdlive.fancode.com/mumbai/137766_english_hls_a7826368c126266ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
