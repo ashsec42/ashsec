@@ -4918,7 +4918,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Wednesday 29 October, 2025 at 10:07:04 am
+#DATE:- Wednesday 29 October, 2025 at 10:21:08 am
 #EXTINF:-1 tvg-id="137161" tvg-name="England Vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | England Vs New Zealand
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1761741002~acl=/*~id=72043916330462880494487450640512~hmac=262a56b8bc37aa205cacdf0bb901346663714ff453d341976c33d55bd4816185|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134021" tvg-name="Victoria Vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134021_5609_VCT_TAS_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Victoria Vs Tasmania
@@ -4929,6 +4929,8 @@ https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b44885_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134012" tvg-name="Brisbane Heat Women Vs Melbourne Renegades Women" tvg-logo="https://images.fancode.com/aig/match/v1/134012_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Brisbane Heat Women Vs Melbourne Renegades Women
 https://in-mc-fdlive.fancode.com/mumbai/134012_english_hls_a1747afb4041257_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="137865" tvg-name="Gulmarg Royal Vs Sri Nagar Sultan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137865_5740_GUR_SNS_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Gulmarg Royal Vs Sri Nagar Sultan
+https://in-mc-fdlive.fancode.com/mumbai/137865_english_hls_9afd0d687b29847_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
