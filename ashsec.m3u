@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493179_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551536332169_ATP_Rolex_Paris25_round2_27oct_landscape_thumb.jpg" group-title="Live",Round 2 - 29 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761788468~acl=/*~id=20139917504244960691566135645222~hmac=d2ce05a0e141312e2b237aa8b78fcfb4a765a4c9f22da1e1b166d9418148472c
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761789689~acl=/*~id=64274289567436562340923782247143~hmac=b001305c4b9907180eebede7ec108ba556b6224a315f3a75668d00d0634455ef
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
@@ -4666,7 +4666,7 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=ibI3iA5mtU6srv8cSfrIBg&expi
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=DFFEcXcktJjw_mPjNWXQXw&expires=1761751968
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-29 19:12:23 (BD Time)
+# Update on 2025-10-29 19:52:42 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4918,15 +4918,13 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Wednesday 29 October, 2025 at 7:21:04 pm
+#DATE:- Wednesday 29 October, 2025 at 7:49:04 pm
 #EXTINF:-1 tvg-id="137704" tvg-name="West Indies Vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | West Indies Vs Bangladesh
 https://in-mc-fdlive.fancode.com/mumbai/137704_english_hls_e4a280240634404_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137704" tvg-name="West Indies Vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg" tvg-language="HINDI - AI (BETA)" group-title="Cricket",HIN | West Indies Vs Bangladesh
 https://in-mc-fdlive.fancode.com/mumbai/137704_hindi_hls_017d7d23e645939_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137372" tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Afghanistan Vs Zimbabwe
 https://in-mc-fdlive.fancode.com/mumbai/137372_english_hls_5b67cd5e0744858_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137866" tvg-name="Kishtwar Giants Vs Patnitop Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137866_5740_KIG_PTW_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kishtwar Giants Vs Patnitop Warriors
-https://in-mc-fdlive.fancode.com/mumbai/137866_english_hls_1b7c5ce96e24768_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
