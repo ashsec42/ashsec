@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493179_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551536332169_ATP_Rolex_Paris25_round2_27oct_landscape_thumb.jpg" group-title="Live",Round 2 - 29 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761809843~acl=/*~id=46914498341195387538486774651423~hmac=018e0e67039280240acc7a3cdab11d948f0b61b695ecc8742fff744ae36e9a5e
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761811672~acl=/*~id=84824944233350983507220353807332~hmac=11e69e5bd686ab1a03082aac1b8b5108afb2dd514c2a49a8ae6e5ad7df3a2336
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
@@ -4666,7 +4666,7 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=j3QC5m6zY9YAiqfHy6wyAQ&expi
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=QJeELmC_SCjV-Yyskv1viQ&expires=1761773854
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-30 01:10:24 (BD Time)
+# Update on 2025-10-30 01:44:57 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4918,7 +4918,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Thursday 30 October, 2025 at 1:21:04 am
+#DATE:- Thursday 30 October, 2025 at 1:49:04 am
 #EXTINF:-1 tvg-id="137354" tvg-name="Liverpool Vs Crystal Palace" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137354_5488_LIV_CRY_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Liverpool Vs Crystal Palace
 https://in-mc-fdlive.fancode.com/mumbai/137354_english_hls_27e725d4d874970_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137353" tvg-name="Arsenal Vs Brighton And Hove Albion" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137353_5488_ARS_BHA_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Arsenal Vs Brighton And Hove Albion
@@ -4929,8 +4929,6 @@ https://in-mc-fdlive.fancode.com/mumbai/137357_english_hls_226a8fc2d631364_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/137356_english_hls_d60af4c8bb37105_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137355" tvg-name="Swansea City A.f.c. Vs Manchester City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137355_5488_SWA_MCI_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Swansea City A.f.c. Vs Manchester City
 https://in-mc-fdlive.fancode.com/mumbai/137355_english_hls_725e35b3237149_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="136939" tvg-name="Sc Paderborn 07 Vs Bayer 04 Leverkusen" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136939_5570_PDB_LEV_Fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Sc Paderborn 07 Vs Bayer 04 Leverkusen
-https://in-mc-fdlive.fancode.com/mumbai/136939_english_hls_20f2e900f151066_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136940" tvg-name="1. Fc Köln Vs Fc Bayern München" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136940_5570_KOL_BAY_Fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | 1. Fc Köln Vs Fc Bayern München
 https://in-mc-fdlive.fancode.com/mumbai/136940_english_hls_41170aba7632235_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136099" tvg-name="Al Wehdat Vs Al Muharraq" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136099_5648_ALW_ALM_fc-Web_1758118383536.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Wehdat Vs Al Muharraq
