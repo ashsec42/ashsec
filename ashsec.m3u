@@ -4663,7 +4663,7 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=IBp8ojpdbeTzRlOmNw9Mqw&expi
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=3uwH-OBQ12NBlVDza-9Ajw&expires=1761810074
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-30 11:11:19 (BD Time)
+# Update on 2025-10-30 11:47:14 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,7 +4915,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Thursday 30 October, 2025 at 11:21:15 am
+#DATE:- Thursday 30 October, 2025 at 12:00:04 pm
 #EXTINF:-1 tvg-id="137253" tvg-name="Nepal Vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Nepal Vs United Arab Emirates
 https://in-mc-fdlive.fancode.com/mumbai/137253_english_hls_6c5a8b352529608_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134021" tvg-name="Victoria Vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134021_5609_VCT_TAS_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Victoria Vs Tasmania
@@ -4924,8 +4924,6 @@ https://in-mc-fdlive.fancode.com/mumbai/134021_english_hls_d2062975c83091_1ta-di
 https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b91272_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134022" tvg-name="South Australia Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | South Australia Vs Western Australia
 https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc142539_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="134013" tvg-name="Hobart Hurricanes Women Vs Brisbane Heat Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134006_5608_HB-W_BH-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Hobart Hurricanes Women Vs Brisbane Heat Women
-https://in-mc-fdlive.fancode.com/mumbai/134013_english_hls_93ef15a77b93519_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137867" tvg-name="Uri Panthers Vs Srinagar Sultan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137867_5740_URP_SNS_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Uri Panthers Vs Srinagar Sultan
 https://in-mc-fdlive.fancode.com/mumbai/137867_english_hls_6c8904b73c91456_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
