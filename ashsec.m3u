@@ -4489,9 +4489,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1761822487~exp=1761908887~acl=/*~hmac=fbca5010d5a79f21cdf955e19bae641d565e6801d087f7da066716db4e8f941b"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1761822487~exp=1761908887~acl=/*~hmac=fbca5010d5a79f21cdf955e19bae641d565e6801d087f7da066716db4e8f941b&xxx=%7Ccookie=__hdnea__=st=1761822487~exp=1761908887~acl=/*~hmac=fbca5010d5a79f21cdf955e19bae641d565e6801d087f7da066716db4e8f941b
 #EXTM3U
-#EXTINF:-1 tvg-id="1090493180_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551544225169_ATP_Rolex_Paris25_round3_27oct_landscape_thumb.jpg" group-title="Live",Round 3 - 30 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open - ENG
+#EXTINF:-1 tvg-id="1090493180_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551544225169_ATP_Rolex_Paris25_round3_27oct_landscape_thumb.jpg" group-title="Live",Round 3 - 30 Oct 2025 [ENG] - ATP Rolex Paris Masters 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761867348~acl=/*~id=64567790601153387051691446496069~hmac=2908995291c0d551af7ec6dd57c019f89b471220e0fe2770a9f2feeff60a2253
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761869789~acl=/*~id=60137365842674327412247671283414~hmac=f5d566fbaff40dd60048b7eff56687abab1810b78e1a9f037e15d93eecce5e3f
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
@@ -4666,7 +4666,7 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=ycxAvzB75R0wyzntyj9nGw&exp
 https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=y1E1JDZ8zCf-FylnLsiUVg&expires=1761831484
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-30 17:09:54 (BD Time)
+# Update on 2025-10-30 17:43:17 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4918,7 +4918,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Thursday 30 October, 2025 at 5:21:04 pm
+#DATE:- Thursday 30 October, 2025 at 6:07:04 pm
 #EXTINF:-1 tvg-id="137253" tvg-name="Nepal Vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Nepal Vs United Arab Emirates
 https://in-mc-fdlive.fancode.com/mumbai/137253_english_hls_6c5a8b352529608_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137868" tvg-name="Ladakh Heros Vs Patnitop Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137868_5740_LHH_PTW_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ladakh Heros Vs Patnitop Warriors
