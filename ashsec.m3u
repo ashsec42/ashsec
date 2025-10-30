@@ -4490,10 +4490,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1761822487~exp=1761908887~acl=/*~hmac=fbca5010d5a79f21cdf955e19bae641d565e6801d087f7da066716db4e8f941b&xxx=%7Ccookie=__hdnea__=st=1761822487~exp=1761908887~acl=/*~hmac=fbca5010d5a79f21cdf955e19bae641d565e6801d087f7da066716db4e8f941b
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493180_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551544225169_ATP_Rolex_Paris25_round3_27oct_landscape_thumb.jpg" group-title="Live",Round 3 - 30 Oct 2025 [ENG] - ATP Rolex Paris Masters 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761874671~acl=/*~id=33976844537667356783746698390174~hmac=60613ac64feb2f656e92295fdcb5105798a764767e1e4123b551992fbf853042
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761876500~acl=/*~id=22108325694392685115450494107635~hmac=4905e4821850227fddb9f606923e54b952934371a64180d60de42af7fa5f6bbd
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
@@ -4666,7 +4666,7 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=afFMfcdneqZLEQwWe_VXYA&exp
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=jI6pu1ATA2GJd_vsLfY61w&expires=1761838253
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-30 19:12:09 (BD Time)
+# Update on 2025-10-30 19:50:27 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4918,7 +4918,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Thursday 30 October, 2025 at 7:21:04 pm
+#DATE:- Thursday 30 October, 2025 at 7:49:04 pm
 #EXTINF:-1 tvg-id="137868" tvg-name="Patnitop Warriors Vs Ladakh Heros" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137868_5740_LHH_PTW_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Patnitop Warriors Vs Ladakh Heros
 https://in-mc-fdlive.fancode.com/mumbai/137868_english_hls_803171d45671071_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
