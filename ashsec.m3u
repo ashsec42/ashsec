@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493181_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010687/1761906542456440_ATP_rolex25_QF_Bublik_vs_De_Minaur_31oct_landscape_thumb.jpg" group-title="Live",Bublik vs De Minaur - QF - 31 Oct 2025 [ENG] - ATP Rolex Paris Masters 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761968535~acl=/*~id=89244176327825013600244341769457~hmac=a526c2f26ea1ad2e79f820bc99c2a6946884a3acb2763449bc0f387b9f665fad
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761970359~acl=/*~id=04904334028951833708563068968499~hmac=6b4d05041c99205848c800698b18bd7ca41593ae61706da99c7e3d8fc5394eb6
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4663,7 @@ https://d12.epicquesthero.com:999/hls/fox501.m3u8?md5=yKn1fjMA0MXwLPT8-1_09w&exp
 https://d15.epicquesthero.com:999/hls/ten1hd.m3u8?md5=ZsGY72aKRE-MG5h-EZExpg&expires=1761932499
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-31 21:10:15 (BD Time)
+# Update on 2025-10-31 21:47:16 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,13 +4915,9 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Friday 31 October, 2025 at 9:21:05 pm
+#DATE:- Friday 31 October, 2025 at 10:00:04 pm
 #EXTINF:-1 tvg-id="137890" tvg-name="Al Hilal Sfc Vs Al Shabab Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Shabab-FC_old.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Hilal Sfc Vs Al Shabab Fc
 https://in-mc-fdlive.fancode.com/mumbai/137890_english_hls_d76ffc379177424_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137705" tvg-name="Bangladesh Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bangladesh Vs West Indies
-https://in-mc-fdlive.fancode.com/mumbai/137705_english_hls_56e46184e037449_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137705" tvg-name="Bangladesh Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg" tvg-language="HINDI - AI (BETA)" group-title="Cricket",HIN | Bangladesh Vs West Indies
-https://in-mc-fdlive.fancode.com/mumbai/137705_hindi_hls_24173b73eb33610_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
