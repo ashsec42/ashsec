@@ -4663,7 +4663,7 @@ https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=f1gn1l4rxp7Of9cWQnEZMw&exp
 https://d14.epicquesthero.com:999/hls/ten1hd.m3u8?md5=cdV5AangQ4d7eSYmSni7XQ&expires=1761907605
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-31 14:14:26 (BD Time)
+# Update on 2025-10-31 14:53:03 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,11 +4915,9 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Friday 31 October, 2025 at 2:21:04 pm
+#DATE:- Friday 31 October, 2025 at 2:56:04 pm
 #EXTINF:-1 tvg-id="134022" tvg-name="South Australia Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | South Australia Vs Western Australia
 https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc145107_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137869" tvg-name="Jammu Lions Vs Gulmarg Royal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137869_5740_GUR_JAL_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Jammu Lions Vs Gulmarg Royal
-https://in-mc-fdlive.fancode.com/mumbai/137869_english_hls_c24e8e600a71136_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
