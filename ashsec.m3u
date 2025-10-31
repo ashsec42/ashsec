@@ -4489,9 +4489,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1761908868~exp=1761995268~acl=/*~hmac=12a7235adb6852b74d1403c7a26239c7ec75aae51335db6bf0fb407af3e08c73"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1761908868~exp=1761995268~acl=/*~hmac=12a7235adb6852b74d1403c7a26239c7ec75aae51335db6bf0fb407af3e08c73&xxx=%7Ccookie=__hdnea__=st=1761908868~exp=1761995268~acl=/*~hmac=12a7235adb6852b74d1403c7a26239c7ec75aae51335db6bf0fb407af3e08c73
 #EXTM3U
-#EXTINF:-1 tvg-id="1090493181_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010687/1761905367703440_ATP_rolex25_QF_Vacherot_vs_Auger_Aliassime_31oct_landscape_thumb.jpg" group-title="Live",Vacherot vs Auger-Aliassime - QF - 31 Oct 2025 [ENG] - ATP Rolex Paris Masters 2025 - ENG
+#EXTINF:-1 tvg-id="1090493181_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010687/1761906542456440_ATP_rolex25_QF_Bublik_vs_De_Minaur_31oct_landscape_thumb.jpg" group-title="Live",Bublik vs De Minaur - QF - 31 Oct 2025 [ENG] - ATP Rolex Paris Masters 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761964878~acl=/*~id=29575741012137003852026132002160~hmac=5e04cac3f50f7595fb18dc2f3a9dda29dc5bf10e85b4a5ce2bb8cc82ae6cd9f1
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761966098~acl=/*~id=43742010401035405793822133109045~hmac=e5745a90acb410ea77321a7074a8512d54e7e387d14533e5b091cfd2655c4ed2
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4663,7 @@ https://d12.epicquesthero.com:999/hls/fox501.m3u8?md5=uphm1Q6f0WkkAqioxtkvHA&exp
 https://d11.epicquesthero.com:999/hls/ten1hd.m3u8?md5=n_x-Uegv2klW2sHTzkHBlw&expires=1761929046
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-31 20:13:17 (BD Time)
+# Update on 2025-10-31 20:48:27 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,13 +4915,11 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Friday 31 October, 2025 at 8:21:04 pm
+#DATE:- Friday 31 October, 2025 at 8:42:04 pm
 #EXTINF:-1 tvg-id="137705" tvg-name="Bangladesh Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bangladesh Vs West Indies
 https://in-mc-fdlive.fancode.com/mumbai/137705_english_hls_56e46184e037449_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137705" tvg-name="Bangladesh Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg" tvg-language="HINDI - AI (BETA)" group-title="Cricket",HIN | Bangladesh Vs West Indies
 https://in-mc-fdlive.fancode.com/mumbai/137705_hindi_hls_24173b73eb33610_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137373" tvg-name="Zimbabwe Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Zimbabwe Vs Afghanistan
-https://in-mc-fdlive.fancode.com/mumbai/137373_english_hls_83c04e80a093365_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137890" tvg-name="Al Hilal Sfc Vs Al Shabab Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Shabab-FC_old.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Hilal Sfc Vs Al Shabab Fc
 https://in-mc-fdlive.fancode.com/mumbai/137890_english_hls_d76ffc379177424_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
