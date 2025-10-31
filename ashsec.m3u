@@ -4663,7 +4663,7 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=PD7RyF6pNyPj7VN6dnOazg&expi
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=jc1C0-Nm8ATETrtzkES3LA&expires=1761889478
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-31 09:33:58 (BD Time)
+# Update on 2025-10-31 09:59:33 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,11 +4915,9 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Friday 31 October, 2025 at 9:28:04 am
+#DATE:- Friday 31 October, 2025 at 10:00:06 am
 #EXTINF:-1 tvg-id="134021" tvg-name="Victoria Vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134021_5609_VCT_TAS_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Victoria Vs Tasmania
 https://in-mc-fdlive.fancode.com/mumbai/134021_english_hls_d2062975c822795_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="134020" tvg-name="New South Wales Vs Queensland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134020_5609_QUN_NSW_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | New South Wales Vs Queensland
-https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b71420_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134022" tvg-name="South Australia Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | South Australia Vs Western Australia
 https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc145107_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
