@@ -4491,10 +4491,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090492564_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362695364543_NZvsENG25_3ODI_24oct_Landscape_thumb_Live.jpg" group-title="Live",3rd ODI - 1 Nov 2025 [ENG] - England Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762018459~acl=/*~id=81355516205936790730229952286048~hmac=396cb62abc786c886d24d2a57fec38adc11f5d2f7ea33c9e9ad76536ab087713
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762020289~acl=/*~id=36489928519635503749611215981322~hmac=e1dd4f05187d30ced690d4e1259ff80d782eb2fcdedcc91427b870976d151298
 #EXTINF:-1 tvg-id="1090493581_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824466986210_Asian_tour_LINK_Hong_Kong_Open_day3_30oct_landscape_thumb.jpg" group-title="Live",LINK Hong Kong Open - Day 3 - 1 Nov 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762018459~acl=/*~id=81355516205936790730229952286048~hmac=396cb62abc786c886d24d2a57fec38adc11f5d2f7ea33c9e9ad76536ab087713
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762020289~acl=/*~id=36489928519635503749611215981322~hmac=e1dd4f05187d30ced690d4e1259ff80d782eb2fcdedcc91427b870976d151298
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4666,7 +4666,7 @@ https://d11.epicquesthero.com:999/hls/fox501.m3u8?md5=WCYM5snSDOz3Ih8-1UG7Jg&exp
 https://d11.epicquesthero.com:999/hls/ten1hd.m3u8?md5=U-Dj6XmlUpckwCIzxaA3ag&expires=1761982778
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-11-01 11:12:04 (BD Time)
+# Update on 2025-11-01 11:44:25 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4918,13 +4918,11 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Saturday 1 November, 2025 at 11:07:04 am
+#DATE:- Saturday 1 November, 2025 at 11:56:04 am
 #EXTINF:-1 tvg-id="137162" tvg-name="England Vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | England Vs New Zealand
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1762000203~acl=/*~id=55797118801370133989852392420250~hmac=03c81c71991a20d4d49d458bf4b8270f1c8477c5f165d39cd165643506ec6260|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137254" tvg-name="Nepal Vs Usa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/01_Nepal-vs-USA.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Nepal Vs Usa
 https://in-mc-fdlive.fancode.com/mumbai/137254_english_hls_ccca4ed3df97401_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137871" tvg-name="Gulmarg Royal Vs Uri Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137871_5740_GUR_URP_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Gulmarg Royal Vs Uri Panthers
-https://in-mc-fdlive.fancode.com/mumbai/137871_english_hls_016d4cd75f98444_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137282" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png" tvg-language="ENGLISH" group-title="Horse Racing",ENG | Day 1
 https://in-mc-fdlive.fancode.com/mumbai/137282_english_hls_749d6c053152588_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
