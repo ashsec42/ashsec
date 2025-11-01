@@ -4489,9 +4489,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1761995105~exp=1762081505~acl=/*~hmac=a5d5542770e1e408e5aef1b9eafbd72c3305c34948858439e39244127471752b"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1761995105~exp=1762081505~acl=/*~hmac=a5d5542770e1e408e5aef1b9eafbd72c3305c34948858439e39244127471752b&xxx=%7Ccookie=__hdnea__=st=1761995105~exp=1762081505~acl=/*~hmac=a5d5542770e1e408e5aef1b9eafbd72c3305c34948858439e39244127471752b
 #EXTM3U
-#EXTINF:-1 tvg-id="1090493392_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761821530697395_bliga2526_MD9_Bayern-Munich-vs-Bayer-Leverkusen_30oct_landscape_thumb.jpg" group-title="Live",Bayern Munich vs Bayer Leverkusen - MD 9 - 1 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762069073~acl=/*~id=90190576543632214166444532449404~hmac=20652a4187d087f7dbef6ccf95e666d4e6091fdb5225752070ead12d6b838c33
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -5073,7 +5070,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Sunday 2 November, 2025 at 1:21:04 am
+#DATE:- Sunday 2 November, 2025 at 1:49:05 am
 #EXTINF:-1 tvg-id="130934" tvg-name="Real Madrid Vs Valencia Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130934_5427_RM_VAL_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Madrid Vs Valencia Cf
 https://in-mc-fdlive.fancode.com/mumbai/130934_english_hls_bb66b3cb3793090_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130934" tvg-name="Real Madrid Vs Valencia Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130934_5427_RM_VAL_fc-Web.jpg" tvg-language="HINDI" group-title="Football",HIN | Real Madrid Vs Valencia Cf
@@ -5082,8 +5079,6 @@ https://in-mc-fdlive.fancode.com/mumbai/130934_hindi_hls_58e8ec0faf17373_1adfree
 https://in-mc-fdlive.fancode.com/mumbai/130934_bengali_hls_edbc9bf5f490281_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137616" tvg-name="Almería Vs Eibar" tvg-logo="https://images.fancode.com/aig/match/v1/137616_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Almería Vs Eibar
 https://in-mc-fdlive.fancode.com/mumbai/137616_english_hls_5f0e4c294537953_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130935" tvg-name="Real Sociedad Vs Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130935_5427_RS_ATH_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Sociedad Vs Athletic Club
-https://in-mc-fdlive.fancode.com/mumbai/130935_english_hls_e3d252ecd073700_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
