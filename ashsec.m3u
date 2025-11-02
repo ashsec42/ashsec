@@ -4491,7 +4491,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493654_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010762/1762039023142610_ATP_rolex_Paris25_Final_-AugerAliassime_vs_Sinner_live_landscapet_thumb.jpg" group-title="Live",Auger-Aliassime vs Sinner - Singles Final - 2 Nov 2025 [ENG] - ATP Rolex Paris Masters 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762133634~acl=/*~id=10177367727274021644413512974934~hmac=2031cca264064e2734b33d6961f3b702f3e42e204a7f3fd63783c28a4400e05b
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762135461~acl=/*~id=13336938017137572896660484919888~hmac=fa55137b61f465376536e5cfb3a91842ca3b6f67aa1445004219f97aeb0cc3b5
+#EXTINF:-1 tvg-id="1090493536_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761823253389395_bliga2526_MD9_FC-Koln-vs-Hamburg-SV_30oct_landscape_thumb.jpg" group-title="Live",FC Koln vs Hamburger SV - MD 9 - 2 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762135461~acl=/*~id=13336938017137572896660484919888~hmac=fa55137b61f465376536e5cfb3a91842ca3b6f67aa1445004219f97aeb0cc3b5
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -5073,7 +5076,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Sunday 2 November, 2025 at 7:21:05 pm
+#DATE:- Sunday 2 November, 2025 at 7:42:04 pm
 #EXTINF:-1 tvg-id="137374" tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Afghanistan Vs Zimbabwe
 https://in-mc-fdlive.fancode.com/mumbai/137374_english_hls_b4f9bd502a18207_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130936" tvg-name="Levante Vs Rc Celta" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130936_5427_LE_CEV_fc-Web_1761898429843.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Levante Vs Rc Celta
