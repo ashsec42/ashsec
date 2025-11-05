@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493797_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231007524425_NZvsWI25_1t20i_4nov_landscape_thumb.jpg" group-title="Live",1st T20I - 5 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762364272~acl=/*~id=87266656704803556358783644877881~hmac=0110b887fff61e950fe96e577076219eb796eb0647b014c7d37c8eb4f7e9d87a
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762366098~acl=/*~id=72786852997504478323501046533133~hmac=7888bc6233cc2a1e3de315eabb52cf7cc75ecffad2182b2d94e2cd11f81c235c
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4915,9 +4915,11 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Wednesday 5 November, 2025 at 11:21:05 am
+#DATE:- Wednesday 5 November, 2025 at 11:56:05 am
 #EXTINF:-1 tvg-id="137256" tvg-name="Nepal Vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Nepal Vs United Arab Emirates
 https://in-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="137688" tvg-name="West Indies Vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | West Indies Vs New Zealand
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762345804~acl=/*~id=62571897067377722815982083803241~hmac=920693ef1790653ecda31ab3f9c4e576bb32c170891811f357e8b5bdd3c6a825|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
