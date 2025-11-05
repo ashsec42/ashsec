@@ -4489,9 +4489,21 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1762340898~exp=1762427298~acl=/*~hmac=55354da9afebb9f6b40e1d579d68aaf07ef1c62c61793656c8c65940b39a8367"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762340898~exp=1762427298~acl=/*~hmac=55354da9afebb9f6b40e1d579d68aaf07ef1c62c61793656c8c65940b39a8367&xxx=%7Ccookie=__hdnea__=st=1762340898~exp=1762427298~acl=/*~hmac=55354da9afebb9f6b40e1d579d68aaf07ef1c62c61793656c8c65940b39a8367
 #EXTM3U
+#EXTINF:-1 tvg-id="1090493371_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900383088290_UCL_25_26_MD4_Qarabag-vs-Chelsea_landscape_thumb.jpg" group-title="Live",Qarabag vs Chelsea - MD 4 - 5 Nov 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762401977~acl=/*~id=02856734567235884676855101139273~hmac=daa14c4b995670c4afa8d2636c94b1f6d3a377d87dc8a349636139eabf719077
+#EXTINF:-1 tvg-id="1090493371_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900383088290_UCL_25_26_MD4_Qarabag-vs-Chelsea_landscape_thumb.jpg" group-title="Live",Qarabag vs Chelsea - MD 4 - 5 Nov 2025 [HIN] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762401977~acl=/*~id=02856734567235884676855101139273~hmac=daa14c4b995670c4afa8d2636c94b1f6d3a377d87dc8a349636139eabf719077
+#EXTINF:-1 tvg-id="1090493371_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900383088290_UCL_25_26_MD4_Qarabag-vs-Chelsea_landscape_thumb.jpg" group-title="Live",Qarabag vs Chelsea - MD 4 - 5 Nov 2025 [TAM] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762401977~acl=/*~id=02856734567235884676855101139273~hmac=daa14c4b995670c4afa8d2636c94b1f6d3a377d87dc8a349636139eabf719077
+#EXTINF:-1 tvg-id="1090493371_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900383088290_UCL_25_26_MD4_Qarabag-vs-Chelsea_landscape_thumb.jpg" group-title="Live",Qarabag vs Chelsea - MD 4 - 5 Nov 2025 [TEL] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762401977~acl=/*~id=02856734567235884676855101139273~hmac=daa14c4b995670c4afa8d2636c94b1f6d3a377d87dc8a349636139eabf719077
 #EXTINF:-1 tvg-id="1090493757_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010856/176229113741485_UYL25_MD4_Newcastle_vs_Athleti-Club_landscape_thumb_re1.jpg" group-title="Live",Newcastle vs Athletic Club - MD 4 - 5 Nov 2025 [ENG] - UEFA Youth League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762400153~acl=/*~id=73875297935099987424198915802900~hmac=34cee029c4967e4c30e251bbcb56aa35e4424cd3e463ada6fcea7f9f4e44bca3
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762401977~acl=/*~id=02856734567235884676855101139273~hmac=daa14c4b995670c4afa8d2636c94b1f6d3a377d87dc8a349636139eabf719077
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4915,11 +4927,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Wednesday 5 November, 2025 at 9:21:27 pm
-#EXTINF:-1 tvg-id="136109" tvg-name="Arkadag Vs Al Ahli (qat)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136109_5648_ARK_ASC_fc-Web_1758118382730.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Arkadag Vs Al Ahli (qat)
-https://in-mc-fdlive.fancode.com/mumbai/136109_english_hls_f1654cac848832_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="136097" tvg-name="Al Wasl Vs Al Muharraq" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136097_5648_AWL_ALM_fc-Web_1758118383379.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Wasl Vs Al Muharraq
-https://in-mc-fdlive.fancode.com/mumbai/136097_english_hls_b409d9844659492_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Wednesday 5 November, 2025 at 9:56:06 pm
 #EXTINF:-1 tvg-id="136133" tvg-name="Al Zawraa Sc Vs Fk Istiklol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136133_5648_ALZ_ISK_fc-Web_1758118383957.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Zawraa Sc Vs Fk Istiklol
 https://in-mc-fdlive.fancode.com/mumbai/136133_english_hls_b8663011fb72743_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136110" tvg-name="Khaldiya Vs Andijan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136110_5648_KHA_ABD_fc-Web_1758118382795.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Khaldiya Vs Andijan
