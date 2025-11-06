@@ -4489,6 +4489,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1762389848~exp=1762476248~acl=/*~hmac=146b9ccbcbe67dcb7139b41340437c87798cb268e60fb0b00e1a32cc66bbfeaf"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762389848~exp=1762476248~acl=/*~hmac=146b9ccbcbe67dcb7139b41340437c87798cb268e60fb0b00e1a32cc66bbfeaf&xxx=%7Ccookie=__hdnea__=st=1762389848~exp=1762476248~acl=/*~hmac=146b9ccbcbe67dcb7139b41340437c87798cb268e60fb0b00e1a32cc66bbfeaf
 #EXTM3U
+#EXTINF:-1 tvg-id="1090493935_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824517185210_Asian_tour_Moutai_Singapore_Open_day1_30oct_landscape_thumb.jpg" group-title="Live",Moutai Singapore Open - Day 1 - 6 Nov 2025 [ENG] - Asian Tour 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762448873~acl=/*~id=63923410704795306859366705064818~hmac=0a86a8c5a56df757603b0563d3db771bee8c52dc755a1039f26d7e818f83ed23
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4912,9 +4915,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Thursday 6 November, 2025 at 10:21:06 am
-#EXTINF:-1 tvg-id="138011" tvg-name="Myanmar Vs Indonesia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Myanmar Vs Indonesia
-https://in-mc-fdlive.fancode.com/mumbai/138011_english_hls_e8fc3165a843123_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Thursday 6 November, 2025 at 10:49:05 am
 #EXTINF:-1 tvg-id="137217" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 1
 https://in-mc-fdlive.fancode.com/mumbai/137217_english_hls_47cf9b40c594039_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137284" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png" tvg-language="ENGLISH" group-title="Horse Racing",ENG | Day 3
