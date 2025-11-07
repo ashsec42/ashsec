@@ -4489,9 +4489,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1762476263~exp=1762562663~acl=/*~hmac=c4c342d2eee37b95d87aa23347e3e618d9c8a086855d405c98e94f86d63e2e25"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762476263~exp=1762562663~acl=/*~hmac=c4c342d2eee37b95d87aa23347e3e618d9c8a086855d405c98e94f86d63e2e25&xxx=%7Ccookie=__hdnea__=st=1762476263~exp=1762562663~acl=/*~hmac=c4c342d2eee37b95d87aa23347e3e618d9c8a086855d405c98e94f86d63e2e25
 #EXTM3U
-#EXTINF:-1 tvg-id="1090493958_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824509721210_Asian_tour_Moutai_Singapore_Open_day2_30oct_landscape_thumb.jpg" group-title="Live",Moutai Singapore Open - Day 2 - 7 Nov 2025 [ENG] - Asian Tour 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762551108~acl=/*~id=92477918681537235712920682928008~hmac=f7bc4ad2c44cfaf7e157f22e373458f3e8f62a70d0c55b2ec0cd70cc93dc72bf
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4660,7 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=2ZjFSVTp7rX7YsvRGB0PGA&expi
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=9wY4bg_oIz3YZoRsCt8YQw&expires=1762515655
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-07 15:17:35 (BD Time)
+# Update on 2025-11-07 15:54:24 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,7 +4912,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Friday 7 November, 2025 at 3:28:06 pm
+#DATE:- Friday 7 November, 2025 at 3:56:06 pm
 #EXTINF:-1 tvg-id="119277" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Day 1
 https://in-mc-fdlive.fancode.com/mumbai/119277_english_hls_4f07ec7dfa62887_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137164" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
