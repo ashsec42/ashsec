@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493958_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824509721210_Asian_tour_Moutai_Singapore_Open_day2_30oct_landscape_thumb.jpg" group-title="Live",Moutai Singapore Open - Day 2 - 7 Nov 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762544410~acl=/*~id=47685290307461276993880539746333~hmac=f27cf0ae05849503546ff4a0e2d7183acf59f0f81b68032fe7d0338e54ec04f6
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762546237~acl=/*~id=93229239460202365954194742638488~hmac=9734f1dd97f60c4fc3a9f79bcc5b7a96142c5750a2c850cfdaf772c949abd152
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4663,7 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=1GncsDRXy-BuA2WQjhp7Ww&expi
 https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=W83XEFZl90WXDp4NIau4-A&expires=1762508330
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-07 13:16:17 (BD Time)
+# Update on 2025-11-07 13:44:45 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,9 +4915,11 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Friday 7 November, 2025 at 1:28:06 pm
+#DATE:- Friday 7 November, 2025 at 2:00:06 pm
 #EXTINF:-1 tvg-id="137833" tvg-name="India Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137833_5738_IND_PAK_fc-web.png" tvg-language="ENGLISH" group-title="Cricket",ENG | India Vs Pakistan
 https://in-mc-fdlive.fancode.com/mumbai/137833_english_hls_45d3a8d78e21529_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="137834" tvg-name="England Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137834_5738_ENG_AUS_fc-web.png" tvg-language="ENGLISH" group-title="Cricket",ENG | England Vs Australia
+https://in-mc-fdlive.fancode.com/mumbai/137834_english_hls_e9c8080ec223319_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137218" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
 https://in-mc-fdlive.fancode.com/mumbai/137218_english_hls_b38d1192d59447_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137164" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
