@@ -4489,13 +4489,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1762599902~exp=1762686302~acl=/*~hmac=5d56de5a2acc156bcce22f38ef9af4ba56d508344c4cdd16bdde5cf07322aea7"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762599902~exp=1762686302~acl=/*~hmac=5d56de5a2acc156bcce22f38ef9af4ba56d508344c4cdd16bdde5cf07322aea7&xxx=%7Ccookie=__hdnea__=st=1762599902~exp=1762686302~acl=/*~hmac=5d56de5a2acc156bcce22f38ef9af4ba56d508344c4cdd16bdde5cf07322aea7
 #EXTM3U
-#EXTINF:-1 tvg-id="1090494173_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010731/1761981223980751_bliga2526_MD10_Borussia-Mgladbach-vs-FC-Koln_1nov_landscape_thumb.jpg" group-title="Live",Borussia M'gladbach vs FC Koln - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762673952~acl=/*~id=69843769422113661737897012355954~hmac=6cc1a4bed2c342a85a186f1efbe786b277db80b2ab6dd9c2e66b2b8b2e106ec5
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-09 01:12:07 (BD Time)
+# Update on 2025-11-09 01:44:38 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4747,7 +4744,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Sunday 9 November, 2025 at 1:28:06 am
+#DATE:- Sunday 9 November, 2025 at 1:49:06 am
 #EXTINF:-1 tvg-id="130943" tvg-name="Rcd Espanyol Vs Villarreal Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Rcd Espanyol Vs Villarreal Cf
 https://in-mc-fdlive.fancode.com/mumbai/130943_english_hls_d755111e1633040_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137823" tvg-name="Málaga Vs Córdoba" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Málaga Vs Córdoba
