@@ -4660,7 +4660,7 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=bic-UduLs5xafu2Jfu4kJg&exp
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=mfdbJn2VqKFoyO0VUiDz-Q&expires=1762594587
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-08 13:14:43 (BD Time)
+# Update on 2025-11-08 13:44:31 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4912,9 +4912,11 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Saturday 8 November, 2025 at 1:21:12 pm
+#DATE:- Saturday 8 November, 2025 at 1:56:19 pm
 #EXTINF:-1 tvg-id="137843" tvg-name="England Vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/06_Hong-Kong-vs-England-(1).png" tvg-language="ENGLISH" group-title="Cricket",ENG | England Vs Hong Kong, China
 https://in-mc-fdlive.fancode.com/mumbai/137843_english_hls_d8d027e95f96086_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="137844" tvg-name="Kuwait Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/07_Kuwait-vs-Afghanistan.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Kuwait Vs Afghanistan
+https://in-mc-fdlive.fancode.com/mumbai/137844_english_hls_cfb7d74c2e86147_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138015" tvg-name="Indonesia Vs Myanmar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138015_5753_MYN_INA_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Indonesia Vs Myanmar
 https://in-mc-fdlive.fancode.com/mumbai/138015_english_hls_f7ae03cd3689571_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137941" tvg-name="Kashiwa Reysol Vs Nagoya Grampus" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Kashiwa Reysol Vs Nagoya Grampus
