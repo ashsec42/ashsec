@@ -4489,21 +4489,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1762599902~exp=1762686302~acl=/*~hmac=5d56de5a2acc156bcce22f38ef9af4ba56d508344c4cdd16bdde5cf07322aea7"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762599902~exp=1762686302~acl=/*~hmac=5d56de5a2acc156bcce22f38ef9af4ba56d508344c4cdd16bdde5cf07322aea7&xxx=%7Ccookie=__hdnea__=st=1762599902~exp=1762686302~acl=/*~hmac=5d56de5a2acc156bcce22f38ef9af4ba56d508344c4cdd16bdde5cf07322aea7
 #EXTM3U
-#EXTINF:-1 tvg-id="1090494169_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010708/1761910708850297_bliga2526_MD10_Union-Berlin-vs-Bayern_31oct_landscape_thumb.jpg" group-title="Live",Union Berlin vs Bayern Munich - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
+#EXTINF:-1 tvg-id="1090494173_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010731/1761981223980751_bliga2526_MD10_Borussia-Mgladbach-vs-FC-Koln_1nov_landscape_thumb.jpg" group-title="Live",Borussia M'gladbach vs FC Koln - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762663011~acl=/*~id=87655367267081931003183529691405~hmac=1f44ab6a288d14631d6ebc2df47bf9546936ea47a8b1d1803402cc9c74d136c5
-#EXTINF:-1 tvg-id="1090494171_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010957/1762457677340397_bliga2526_MD10_Hamburg-SV-vs-Borussia-Dortmund_7nov_landscape_thumb_re1.jpg" group-title="Live",Hamburger SV vs Borussia Dortmund - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762663011~acl=/*~id=87655367267081931003183529691405~hmac=1f44ab6a288d14631d6ebc2df47bf9546936ea47a8b1d1803402cc9c74d136c5
-#EXTINF:-1 tvg-id="1090494170_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010708/1761911782639297_bliga2526_MD10_Bayer-Leverkusen-vs-Heidenheim_31oct_landscape_thumb.jpg" group-title="Live",Bayer Leverkusen vs Heidenheim - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762663011~acl=/*~id=87655367267081931003183529691405~hmac=1f44ab6a288d14631d6ebc2df47bf9546936ea47a8b1d1803402cc9c74d136c5
-#EXTINF:-1 tvg-id="1090494168_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="Live",Goal Arena - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762663011~acl=/*~id=87655367267081931003183529691405~hmac=1f44ab6a288d14631d6ebc2df47bf9546936ea47a8b1d1803402cc9c74d136c5
-#EXTINF:-1 tvg-id="1090494172_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010710/1761919490563474_bliga2526_MD10_Hoffenheim-vs-RB-Leipzig_31oct__landscape_thumb.jpg" group-title="Live",Hoffenheim vs RB Leipzig - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762663011~acl=/*~id=87655367267081931003183529691405~hmac=1f44ab6a288d14631d6ebc2df47bf9546936ea47a8b1d1803402cc9c74d136c5
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762664226~acl=/*~id=58242910628173140332560422693642~hmac=2306ae0321723167e26a9791752cdc5478a5f88486695e632e46fcce2713d0e1
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4675,7 +4663,7 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=f9THMmXhvczcK0Pz8gjM_g&expi
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=yvyeRo0wxrcv0l-QpSFYiQ&expires=1762627396
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-08 22:18:13 (BD Time)
+# Update on 2025-11-08 22:48:02 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4927,13 +4915,17 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Saturday 8 November, 2025 at 10:21:06 pm
-#EXTINF:-1 tvg-id="136962" tvg-name="Stoke City F.c. Vs Coventry City Football Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136962_5489_STK_CVC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Stoke City F.c. Vs Coventry City Football Club
-https://in-mc-fdlive.fancode.com/mumbai/136962_english_hls_b91909056b66767_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Saturday 8 November, 2025 at 10:42:07 pm
 #EXTINF:-1 tvg-id="130949" tvg-name="Sevilla Fc Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130949_5427_SEV_OSN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Sevilla Fc Vs Ca Osasuna
 https://in-mc-fdlive.fancode.com/mumbai/130949_english_hls_f2c76b253390996_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="130941" tvg-name="Atletico De Madrid Vs Levante" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130941_5427_ATL_LE_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Atletico De Madrid Vs Levante
+https://in-mc-fdlive.fancode.com/mumbai/130941_english_hls_84a1ac288558824_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137971" tvg-name="Session 4   Race Off" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png" tvg-language="ENGLISH" group-title="Motorsports",ENG | Session 4   Race Off
 https://in-mc-fdlive.fancode.com/mumbai/137971_english_hls_c987144e5822256_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="118484" tvg-name="Qualifying" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Formula 1",ENG | Qualifying
+https://d1z1thvu79ue7u.cloudfront.net/out/v1/f097762816b0405aba702614f5f85127/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="136962" tvg-name="Stoke City F.c. Vs Coventry City Football Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136962_5489_STK_CVC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Stoke City F.c. Vs Coventry City Football Club
+https://in-mc-fdlive.fancode.com/mumbai/136962_english_hls_b91909056b66767_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
