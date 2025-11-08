@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090494173_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010731/1761981223980751_bliga2526_MD10_Borussia-Mgladbach-vs-FC-Koln_1nov_landscape_thumb.jpg" group-title="Live",Borussia M'gladbach vs FC Koln - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762666654~acl=/*~id=55346988303381068995807946391332~hmac=debd11d3b944722761fb8cc8c42174f73cdab6eede5668b96d9d18d7cb30d1c0
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762668476~acl=/*~id=16383257231884039214535610842041~hmac=91c1feb8c6a0862f6da4aeb9b46c1e2fb4619b9a2cd1df75736aec1e0fce817d
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4663,7 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=U9m6EJv8NUb9vW-QodgjzA&expi
 https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=gD1bz4_VwGP2YPQtapa6rQ&expires=1762630670
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-08 23:13:15 (BD Time)
+# Update on 2025-11-08 23:44:08 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,13 +4915,15 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Saturday 8 November, 2025 at 11:21:06 pm
+#DATE:- Saturday 8 November, 2025 at 11:49:06 pm
 #EXTINF:-1 tvg-id="118484" tvg-name="Qualifying" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Formula 1",ENG | Qualifying
 https://d1z1thvu79ue7u.cloudfront.net/out/v1/f097762816b0405aba702614f5f85127/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130941" tvg-name="Atletico De Madrid Vs Levante" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130941_5427_ATL_LE_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Atletico De Madrid Vs Levante
 https://in-mc-fdlive.fancode.com/mumbai/130941_english_hls_84a1ac288558824_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137894" tvg-name="Al Ittihad Vs Al Ahli Saudi Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Al-Ahli-Saudi-FC_old.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Ittihad Vs Al Ahli Saudi Fc
 https://in-mc-fdlive.fancode.com/mumbai/137894_english_hls_eef0a7244957309_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="137972" tvg-name="Session 5   Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png" tvg-language="ENGLISH" group-title="Motorsports",ENG | Session 5   Finals
+https://in-mc-fdlive.fancode.com/mumbai/137972_english_hls_686177d05f6841_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
