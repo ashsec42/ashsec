@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090494167_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824501583210_Asian_tour_Moutai_Singapore_Open_day3_30oct_landscape_thumb.jpg" group-title="Live",Moutai Singapore Open - Day 3 - 8 Nov 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762619831~acl=/*~id=75524454950597872269994981984674~hmac=b94f8cacc2e09d5edf6170dc52b580ad645351f845d57eb1a4f3a71155e37001
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762621047~acl=/*~id=39779702756221343364476739031154~hmac=8ac130838f6cf32c90c1c0efb35f595d692869c2b4205a37afb0025cee3486d3
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4663,7 @@ https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=XhhlMTkLPet5HOd5cP7hlw&expi
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=u-lHXv__4-XbxfHNJfomyA&expires=1762584128
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-08 10:18:59 (BD Time)
+# Update on 2025-11-08 10:46:56 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,9 +4915,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Saturday 8 November, 2025 at 10:21:07 am
-#EXTINF:-1 tvg-id="137839" tvg-name="Australia Vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_Australia-vs-Bangladesh-(2).png" tvg-language="ENGLISH" group-title="Cricket",ENG | Australia Vs Bangladesh
-https://in-mc-fdlive.fancode.com/mumbai/137839_english_hls_2e224bdb8529344_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Saturday 8 November, 2025 at 10:42:07 am
 #EXTINF:-1 tvg-id="137840" tvg-name="South Africa Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/04_South-Africa-vs-Pakistan_1762568648719.png" tvg-language="ENGLISH" group-title="Cricket",ENG | South Africa Vs Pakistan
 https://in-mc-fdlive.fancode.com/mumbai/137840_english_hls_91fde3d8e495579_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137940" tvg-name="Kashima Antlers Vs Yokohama" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Kashima Antlers Vs Yokohama
