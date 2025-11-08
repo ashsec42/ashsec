@@ -4491,11 +4491,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090494173_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010731/1761981223980751_bliga2526_MD10_Borussia-Mgladbach-vs-FC-Koln_1nov_landscape_thumb.jpg" group-title="Live",Borussia M'gladbach vs FC Koln - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762670301~acl=/*~id=05160937115949001974873243671023~hmac=a1b2bc32c90782685fe02da7620665b37e558a734ba041c7fb5eaac86e34769e
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762671518~acl=/*~id=21099699132699708950413022268676~hmac=bfc795c70597df7705cfeea06444d69274de094e17c080d55b44a65e7d9e6275
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-09 00:21:28 (BD Time)
+# Update on 2025-11-09 00:49:41 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4747,7 +4747,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Sunday 9 November, 2025 at 12:21:06 am
+#DATE:- Sunday 9 November, 2025 at 12:42:06 am
 #EXTINF:-1 tvg-id="118484" tvg-name="Qualifying" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Formula 1",ENG | Qualifying
 https://d1z1thvu79ue7u.cloudfront.net/out/v1/f097762816b0405aba702614f5f85127/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130941" tvg-name="Atletico De Madrid Vs Levante" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130941_5427_ATL_LE_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Atletico De Madrid Vs Levante
