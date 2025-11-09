@@ -4489,12 +4489,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1762649240~exp=1762735640~acl=/*~hmac=3c2fbb659746014cc92d10a9e851a8d44f413ed0b30200d9f4966638e7579094"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762649240~exp=1762735640~acl=/*~hmac=3c2fbb659746014cc92d10a9e851a8d44f413ed0b30200d9f4966638e7579094&xxx=%7Ccookie=__hdnea__=st=1762649240~exp=1762735640~acl=/*~hmac=3c2fbb659746014cc92d10a9e851a8d44f413ed0b30200d9f4966638e7579094
 #EXTM3U
-#EXTINF:-1 tvg-id="1090494212_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231048736425_NZvsWI25_3t20i_4nov_landscape_thumb.jpg" group-title="Live",3rd T20I - 9 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762703159~acl=/*~id=30618624340628344798227924889622~hmac=bed58e7e638ab7e5c0dd99243e7d61310a6623fdfc4b58ea40eeb9cf700af6f7
 #EXTINF:-1 tvg-id="1090494214_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824493004210_Asian_tour_Moutai_Singapore_Open_day4_30oct_landscape_thumb.jpg" group-title="Live",Moutai Singapore Open - Day 4 - 9 Nov 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762703159~acl=/*~id=30618624340628344798227924889622~hmac=bed58e7e638ab7e5c0dd99243e7d61310a6623fdfc4b58ea40eeb9cf700af6f7
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762704985~acl=/*~id=19992493255977000896857508960111~hmac=3c49884822e13854aae63d5c21ec7252552328d162c072db06af6166ad5a36b5
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4666,7 +4663,7 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=hEjZ-_aH_58TRXh1fHzTdw&expi
 https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=q4Z0nf38yeQEPb7_oOppMA&expires=1762667796
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-09 09:03:44 (BD Time)
+# Update on 2025-11-09 09:58:13 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4918,12 +4915,8 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Sunday 9 November, 2025 at 9:28:07 am
-#EXTINF:-1 tvg-id="137848" tvg-name="Sri Lanka Vs India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/04_India-vs-Sri-Lanka-(1).png" tvg-language="ENGLISH" group-title="Cricket",ENG | Sri Lanka Vs India
-https://in-mc-fdlive.fancode.com/mumbai/137848_english_hls_ad2ffb8a8370710_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137690" tvg-name="New Zealand Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | New Zealand Vs West Indies
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762669805~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=cd1f43132927472eda1e7eceec12f7276810213aab72e84357b42bcaf1c0805c|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137849" tvg-name="Australia Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/05_Australia-vs-Pakistan-(1).png" tvg-language="ENGLISH" group-title="Cricket",ENG | Australia Vs Pakistan
+#DATE:- Sunday 9 November, 2025 at 10:00:06 am
+#EXTINF:-1 tvg-id="137849" tvg-name="Pakistan Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/05_Australia-vs-Pakistan-(1).png" tvg-language="ENGLISH" group-title="Cricket",ENG | Pakistan Vs Australia
 https://in-mc-fdlive.fancode.com/mumbai/137849_english_hls_b5c91f78e798348_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138016" tvg-name="Timor Leste Vs Myanmar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Timor Leste Vs Myanmar
 https://in-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
