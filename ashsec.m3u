@@ -4491,7 +4491,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090494274_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011012/1762597572268281_ATP_FINALS_Carlos-Alcaraz-v-Alex-de-Minaur_landscape_thumb.jpg" group-title="Live",Alcaraz vs Alex De Minaur - Group Stage - 9 Nov 2025 [ENG] - Nitto ATP Finals 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762738469~acl=/*~id=46861598645400637428662361820561~hmac=17f110f289d981d0b63fcd04d87bafd90326d795763e2502108dbfaeb56b2704
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762743947~acl=/*~id=53403488541499394508860452837820~hmac=31c252fd6f4b821934c02ef83852bcbdcaf553ac4c8a1cd9bb3ef073beddd20c
+#EXTINF:-1 tvg-id="1090494264_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010731/1761981626914751_bliga2526_MD10_SC-Freiburg-vs-St-Pauli_1nov_landscape_thumb.jpg" group-title="Live",SC Freiburg vs St. Pauli - MD 10 - 9 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762743947~acl=/*~id=53403488541499394508860452837820~hmac=31c252fd6f4b821934c02ef83852bcbdcaf553ac4c8a1cd9bb3ef073beddd20c
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4666,7 @@ https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=7S6CBBCLQCO-zQ8mLBllIg&expi
 https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=WqqkZetkSVsZNlvjvjviAQ&expires=1762706300
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-09 20:13:10 (BD Time)
+# Update on 2025-11-09 20:44:10 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,19 +4918,21 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Sunday 9 November, 2025 at 8:21:07 pm
-#EXTINF:-1 tvg-id="119281" tvg-name="Race Day" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Race Day
-https://in-mc-fdlive.fancode.com/mumbai/119281_english_hls_8c19a8c1ea28939_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130940" tvg-name="Athletic Club Vs Real Oviedo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130940_5427_ATH_RO_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Athletic Club Vs Real Oviedo
-https://in-mc-fdlive.fancode.com/mumbai/130940_english_hls_803d56d9c217441_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday 9 November, 2025 at 8:49:06 pm
+#EXTINF:-1 tvg-id="118485" tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Formula 1",ENG | Race
+https://d17nkm4w57wydr.cloudfront.net/out/v1/5dfe286d42764611abb3687c4f7c544e/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="118485" tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg" tvg-language="HINDI" group-title="Formula 1",HIN | Race
+https://d3oag0zwcuw7um.cloudfront.net/out/v1/8d9e24e1796c4ea8929a465da18478f6/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="118485" tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg" tvg-language="TAMIL" group-title="Formula 1",TAM | Race
+https://d1bctbr9wl5lnp.cloudfront.net/out/v1/dc35827cb05a4fb99972d946ed4cc1ca/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130944" tvg-name="Rayo Vallecano Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130944_5427_RVL_RM_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Rayo Vallecano Vs Real Madrid
 https://in-mc-fdlive.fancode.com/mumbai/130944_english_hls_63ee91f7cb12045_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130944" tvg-name="Rayo Vallecano Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130944_5427_RVL_RM_fc-Web.jpg" tvg-language="HINDI" group-title="Football",HIN | Rayo Vallecano Vs Real Madrid
 https://in-mc-fdlive.fancode.com/mumbai/130944_hindi_hls_5e31eb45bd99915_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130944" tvg-name="Rayo Vallecano Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130944_5427_RVL_RM_fc-Web.jpg" tvg-language="BENGALI" group-title="Football",BEN | Rayo Vallecano Vs Real Madrid
 https://in-mc-fdlive.fancode.com/mumbai/130944_bengali_hls_e03b5bd1704257_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137945" tvg-name="Suwon Fc Vs Ispe Wfc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137945_5744_SUW_ISP-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Suwon Fc Vs Ispe Wfc
-https://in-mc-fdlive.fancode.com/mumbai/137945_english_hls_3f75a568049744_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="119281" tvg-name="Portugal Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Portugal Gp
+https://in-mc-fdlive.fancode.com/mumbai/119281_english_hls_8c19a8c1ea28939_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
