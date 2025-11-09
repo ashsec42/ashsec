@@ -4489,9 +4489,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1762649240~exp=1762735640~acl=/*~hmac=3c2fbb659746014cc92d10a9e851a8d44f413ed0b30200d9f4966638e7579094"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762649240~exp=1762735640~acl=/*~hmac=3c2fbb659746014cc92d10a9e851a8d44f413ed0b30200d9f4966638e7579094&xxx=%7Ccookie=__hdnea__=st=1762649240~exp=1762735640~acl=/*~hmac=3c2fbb659746014cc92d10a9e851a8d44f413ed0b30200d9f4966638e7579094
 #EXTM3U
-#EXTINF:-1 tvg-id="1090494214_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824493004210_Asian_tour_Moutai_Singapore_Open_day4_30oct_landscape_thumb.jpg" group-title="Live",Moutai Singapore Open - Day 4 - 9 Nov 2025 [ENG] - Asian Tour 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762717166~acl=/*~id=18628137579186597677240928157092~hmac=9a6f4ffa80777779d358d0fe4eaff8babb5c0fb4d9f81f27d408bc42b9025aef
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4660,7 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=mi-UStMan2hsW-jRoDR40w&expi
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=nENlWSNsnY5KIOX5FxlF7Q&expires=1762681081
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-09 13:14:58 (BD Time)
+# Update on 2025-11-09 13:44:34 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,15 +4912,13 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Sunday 9 November, 2025 at 1:21:07 pm
-#EXTINF:-1 tvg-id="137852" tvg-name="Bangladesh Vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Hong-Kong-China_Old.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Bangladesh Vs Hong Kong, China
-https://in-mc-fdlive.fancode.com/mumbai/137852_english_hls_1467bb374653945_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday 9 November, 2025 at 1:56:06 pm
 #EXTINF:-1 tvg-id="137853" tvg-name="Pakistan Vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-Final_Old-match-card_V2.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pakistan Vs Kuwait
 https://in-mc-fdlive.fancode.com/mumbai/137853_english_hls_b6840d1b522735_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138016" tvg-name="Timor Leste Vs Myanmar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Timor Leste Vs Myanmar
 https://in-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137943" tvg-name="Gamba Osaka Vs Vissel Kobe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Gamba Osaka Vs Vissel Kobe
-https://in-mc-fdlive.fancode.com/mumbai/137943_english_hls_fc46bf8fd03460_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="137944" tvg-name="Tokyo Verdy Beleza Vs Naegohyang Women's Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137944_5744_VER-W_NAE-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Tokyo Verdy Beleza Vs Naegohyang Women's Fc
+https://in-mc-fdlive.fancode.com/mumbai/137944_english_hls_934bbd02b786706_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137166" tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 4
 https://in-mc-fdlive.fancode.com/mumbai/137166_english_hls_5b54d9bbc484916_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
