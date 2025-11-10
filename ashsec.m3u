@@ -4489,6 +4489,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1762735638~exp=1762822038~acl=/*~hmac=951e44e4a288c899683e83e82cf7a9359e11fbe81264f59d051d51a382de5acd"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762735638~exp=1762822038~acl=/*~hmac=951e44e4a288c899683e83e82cf7a9359e11fbe81264f59d051d51a382de5acd&xxx=%7Ccookie=__hdnea__=st=1762735638~exp=1762822038~acl=/*~hmac=951e44e4a288c899683e83e82cf7a9359e11fbe81264f59d051d51a382de5acd
 #EXTM3U
+#EXTINF:-1 tvg-id="1090494392_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011021/1762614626137248_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="Live",Arevalo-Gonzalez / Pavic vs Salisbury / Skupski - Group Stage - 10 Nov 2025 [ENG] - Nitto ATP Finals 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762812160~acl=/*~id=80323711575366863079852015276579~hmac=755c1a9870c809dd4f1017fbaf762aa61547295ae29438f025423a016eba9255
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4660,7 +4663,7 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=pE-M0QduQ-d52vCMtV4FhA&expi
 https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Wu4DFWFumA7U2b-iPMZOSA&expires=1762775149
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-10 15:20:26 (BD Time)
+# Update on 2025-11-10 15:49:05 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
