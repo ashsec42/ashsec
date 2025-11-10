@@ -4660,7 +4660,7 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=eHLrVt0U0s3X3hFciAzxng&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=NF_mwCc9jYdGiOGkES2BqQ&expires=1762760609
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-10 11:17:50 (BD Time)
+# Update on 2025-11-10 11:46:37 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4912,7 +4912,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Monday 10 November, 2025 at 11:21:07 am
+#DATE:- Monday 10 November, 2025 at 12:00:07 pm
 #EXTINF:-1 tvg-id="134024" tvg-name="Tasmania Vs South Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134024_5609_TAS_SAU_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Tasmania Vs South Australia
 https://in-mc-fdlive.fancode.com/mumbai/134024_english_hls_c2ef5f6f2f57795_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134023" tvg-name="Victoria Vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Victoria Vs New South Wales
