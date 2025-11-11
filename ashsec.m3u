@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090494413_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762769185302255_ATP_FINALS_Musetti-vs-De-Minaur_landscape_thumb.jpg" group-title="Live",Lorenzo Musetti vs Alex De Minaur - Group Stage - 12 Nov 2025 [ENG] - Nitto ATP Finals 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762936967~acl=/*~id=15977245157408232353002811486245~hmac=55b2fa8c7eb081123cdc54188167b6f68f2c382b9d57849e84f1411ffe479085
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762938184~acl=/*~id=49480647425947506080525506959469~hmac=47f842a21be20c0e2764a6d486d7afddbca538d2086653e811699785435b8ee5
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4663,7 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=mdTDTcDApxIgZom9dQdUww&exp
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=xgfMZEF5joDuHA4yubwUEQ&expires=1762900941
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-12 02:18:23 (BD Time)
+# Update on 2025-11-12 02:47:21 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,7 +4915,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Wednesday 12 November, 2025 at 2:21:06 am
+#DATE:- Wednesday 12 November, 2025 at 2:42:07 am
 #EXTINF:-1 tvg-id="137563" tvg-name="Skn St. Polten Women Vs Chelsea F.c. Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137563_5720_POL-W_CHE-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Skn St. Polten Women Vs Chelsea F.c. Women
 https://in-mc-fdlive.fancode.com/mumbai/137563_english_hls_15b6e0f32745480_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137562" tvg-name="Real Madrid Women Vs Paris Fc Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137562_5720_RM-W_PFC-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Madrid Women Vs Paris Fc Women
