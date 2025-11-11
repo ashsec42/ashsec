@@ -4489,9 +4489,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1762898968~exp=1762985368~acl=/*~hmac=cac04ff842031517c987322e7b3b03ba920ff2e12ce131b6f2e84245941b3cac"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762898968~exp=1762985368~acl=/*~hmac=cac04ff842031517c987322e7b3b03ba920ff2e12ce131b6f2e84245941b3cac&xxx=%7Ccookie=__hdnea__=st=1762898968~exp=1762985368~acl=/*~hmac=cac04ff842031517c987322e7b3b03ba920ff2e12ce131b6f2e84245941b3cac
 #EXTM3U
-#EXTINF:-1 tvg-id="1090494413_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762769185302255_ATP_FINALS_Musetti-vs-De-Minaur_landscape_thumb.jpg" group-title="Live",Lorenzo Musetti vs Alex De Minaur - Group Stage - 12 Nov 2025 [ENG] - Nitto ATP Finals 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762943664~acl=/*~id=57552197498118111733744601232811~hmac=738ff6511a243ef344773d82fc2e22d7a6dc69487e4262ab2a4392f1de48a864
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4660,7 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=lJRdNzHqoW_wVlSdydww-g&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=9-hjKdU4PSMLNJlEKXaTQQ&expires=1762908140
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-12 04:16:11 (BD Time)
+# Update on 2025-11-12 04:46:03 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,8 +4912,10 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Wednesday 12 November, 2025 at 4:21:07 am
+#DATE:- Wednesday 12 November, 2025 at 4:49:08 am
 #EXTINF:-1 tvg-id="134024" tvg-name="Tasmania Vs South Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134024_5609_TAS_SAU_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Tasmania Vs South Australia
+https://in-mc-fdlive.fancode.com/mumbai/134024_english_hls_c2ef5f6f2f34837_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="134023" tvg-name="Victoria Vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Victoria Vs New South Wales
 https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
