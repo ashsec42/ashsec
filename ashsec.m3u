@@ -4663,7 +4663,7 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=m9BxRw5psjnTi08jfMgcpQ&expi
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=j_OYYYrLYhMKsoIvccQDvw&expires=1762961618
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-12 19:19:45 (BD Time)
+# Update on 2025-11-12 19:52:13 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,7 +4915,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Wednesday 12 November, 2025 at 7:21:01 pm
+#DATE:- Wednesday 12 November, 2025 at 7:49:01 pm
 #EXTINF:-1 tvg-id="137951" tvg-name="Naegohyang Women's Fc Vs Suwon Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137951_5744_NAE-W_SUW_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Naegohyang Women's Fc Vs Suwon Fc
 https://in-mc-fdlive.fancode.com/mumbai/137951_english_hls_9071b86bce98723_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
