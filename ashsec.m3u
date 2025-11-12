@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090494424_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011155/1762963257301914_nitto_ATP25_group_stage_sinner_vs_zverev_12nov_landscape_thumb.jpg" group-title="Live",Jannik Sinner vs Alexander Zverev - Group Stage - 13 Nov 2025 [ENG] - Nitto ATP Finals 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763019108~acl=/*~id=77943353886158143692645915022819~hmac=73a59e144265c391286757df4513a2e215138908943934eea03d7d5cceb8a5ba
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763020935~acl=/*~id=79445154261785207588505465195834~hmac=b03512b616455a6063b92b9ab3eed9cdaeb4dcba89d24382a88c2cc0271ef458
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4663,7 @@ https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=kvmpohIfsy7PwenLwuskxw&expi
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=oveQsFRVU74Wo_-1cNLbsg&expires=1762983501
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-13 01:13:58 (BD Time)
+# Update on 2025-11-13 01:44:52 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,7 +4915,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Thursday 13 November, 2025 at 1:21:02 am
+#DATE:- Thursday 13 November, 2025 at 1:49:02 am
 #EXTINF:-1 tvg-id="137567" tvg-name="Manchester United Women Vs Paris Saint Germain Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137567_5720_MUN-W_PSG-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Manchester United Women Vs Paris Saint Germain Women
 https://in-mc-fdlive.fancode.com/mumbai/137567_english_hls_a2d42a567a46880_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137566" tvg-name="Club Atletico De Madrid Femenino Vs Juventus Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137566_5720_ATL-W_JUV-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Club Atletico De Madrid Femenino Vs Juventus Women
