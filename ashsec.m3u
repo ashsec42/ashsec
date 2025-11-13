@@ -4660,7 +4660,7 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=qaL2yBPqCqLa1aB7e4SE_Q&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=mCvU1lBW3ee4hou3l6V2qg&expires=1763055729
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-13 21:19:27 (BD Time)
+# Update on 2025-11-13 21:47:50 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4912,7 +4912,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Thursday 13 November, 2025 at 9:28:01 pm
+#DATE:- Thursday 13 November, 2025 at 10:00:01 pm
 #EXTINF:-1 tvg-id="138150" tvg-name="Nigeria Vs Gabon" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nigeria_vs_Gabon_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Nigeria Vs Gabon
 https://in-mc-fdlive.fancode.com/mumbai/138150_english_hls_8cebbcf49114628_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138101" tvg-name="United Arab Emirates Vs Iraq" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-Iraq_Old-match-card.jpg" tvg-language="ENGLISH" group-title="Football",ENG | United Arab Emirates Vs Iraq
