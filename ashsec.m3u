@@ -4489,6 +4489,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1762994669~exp=1763081069~acl=/*~hmac=a13bf6e14b58bf20f17685955027bd34de56fee9638c41b130f1e79eee95ae9b"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762994669~exp=1763081069~acl=/*~hmac=a13bf6e14b58bf20f17685955027bd34de56fee9638c41b130f1e79eee95ae9b&xxx=%7Ccookie=__hdnea__=st=1762994669~exp=1763081069~acl=/*~hmac=a13bf6e14b58bf20f17685955027bd34de56fee9638c41b130f1e79eee95ae9b
 #EXTM3U
+#EXTINF:-1 tvg-id="1090494495_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="Live",Puetz/Krawietz vs Vavassori/Bolelli - Group Stage - 13 Nov 2025 [ENG] - Nitto ATP Finals 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763071452~acl=/*~id=66823865665563617109414089798992~hmac=a0b3997f666931fc33da93d404ec957086177f49b3f079db49fa5cf04a1d6211
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4660,7 +4663,7 @@ https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=TEtUKst3SMUHkVz9mAoJuw&expi
 https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=1EiG4LtXla68QUfMxv5eeA&expires=1763034197
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-13 15:19:21 (BD Time)
+# Update on 2025-11-13 15:48:12 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4912,13 +4915,9 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Thursday 13 November, 2025 at 3:21:01 pm
+#DATE:- Thursday 13 November, 2025 at 3:49:01 pm
 #EXTINF:-1 tvg-id="138237" tvg-name="Ireland Vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Ireland Vs Bangladesh
 https://in-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011457026_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="134025" tvg-name="Queensland Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Queensland Vs Western Australia
-https://in-mc-fdlive.fancode.com/mumbai/134025_english_hls_f309bf133764617_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137946" tvg-name="Melbourne City Women Vs Lion City Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137946_5744_MLC-W_LIO_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Melbourne City Women Vs Lion City Sailors
-https://in-mc-fdlive.fancode.com/mumbai/137946_english_hls_ec120e4ade32156_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137167" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 1
 https://in-mc-fdlive.fancode.com/mumbai/137167_english_hls_11108ed49784558_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
