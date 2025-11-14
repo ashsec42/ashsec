@@ -4491,7 +4491,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090494617_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011205/1763036732581604_AsiaCup_PakA_vs_OMA_12nov_live_landscape_thumb.jpg" group-title="Live",Pakistan A vs Oman - 14 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763156151~acl=/*~id=81029241204985679971011002843720~hmac=d89c18d481dcffd041c61ea033490e1b0add0cef07cdd6c5375381459fe17d5c
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763157977~acl=/*~id=66963818048194869409585601492300~hmac=9ac0346b14a746241459ebe80a9a575029961a096c7a5e0e34037206c6955f7c
+#EXTINF:-1 tvg-id="1090494567_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="Live",Heliovaara/Patten vs Arevalo-Gonzalez/Pavic - Group Stage - 14 Nov 2025 [ENG] - Nitto ATP Finals 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763157977~acl=/*~id=66963818048194869409585601492300~hmac=9ac0346b14a746241459ebe80a9a575029961a096c7a5e0e34037206c6955f7c
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4666,7 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=BRcRr8F27sicVEVJfHAXsg&expi
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=XrzU6WC7mqtOoFpFFww5rw&expires=1763120546
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-14 15:18:27 (BD Time)
+# Update on 2025-11-14 15:47:26 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4915,15 +4918,11 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Friday 14 November, 2025 at 3:21:02 pm
-#EXTINF:-1 tvg-id="138242" tvg-name="Pakistan Shaheens Vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138242_5765_PKS_OMN_fc-web_1763068129160.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pakistan Shaheens Vs Oman
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763123400~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=6a6e37cda2d41fac72900aef5f506220731dd9f634fd863e764810b96f83f1e6|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="134025" tvg-name="Queensland Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Queensland Vs Western Australia
-https://in-mc-fdlive.fancode.com/mumbai/134025_english_hls_f309bf133729011_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Friday 14 November, 2025 at 3:42:03 pm
+#EXTINF:-1 tvg-id="119293" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png" tvg-language="ENGLISH" group-title="MotoGP",ENG | Day 1
+https://in-mc-fdlive.fancode.com/mumbai/119293_english_hls_db2cad252b95519_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137168" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
 https://india-mpv2.fancode.com/out/v1/ap-south-1/137168_english_137168/hls-h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="119293" tvg-name="Valencia Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png" tvg-language="ENGLISH" group-title="MotoGP",ENG | Valencia Gp
-https://in-mc-fdlive.fancode.com/mumbai/119293_english_hls_db2cad252b95519_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
