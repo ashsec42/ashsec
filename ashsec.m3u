@@ -4489,6 +4489,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1763118474~exp=1763204874~acl=/*~hmac=38fa2b11cbaf834fb41fb278f6b522d072c7e26d4965ef7f5d184d0937e0c261"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1763118474~exp=1763204874~acl=/*~hmac=38fa2b11cbaf834fb41fb278f6b522d072c7e26d4965ef7f5d184d0937e0c261&xxx=%7Ccookie=__hdnea__=st=1763118474~exp=1763204874~acl=/*~hmac=38fa2b11cbaf834fb41fb278f6b522d072c7e26d4965ef7f5d184d0937e0c261
 #EXTM3U
+#EXTINF:-1 tvg-id="1090494568_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="Live",Salisbury/Skupski vs Harrison/King - Group Stage - 14 Nov 2025 [ENG] - Nitto ATP Finals 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763187220~acl=/*~id=79536936932284825733059117237778~hmac=5e3bfc66fde746fd4eba4a3cacfdbc1ece30b7321788e9fc78d10e091d4aed20
+#EXTINF:-1 tvg-id="1090494569_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762354789267408_EQFs_MD9_Finland_vs_Malta_3nov_landscape_thumb.jpg" group-title="Live",Finland vs Malta - MD 9 - 14 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763187220~acl=/*~id=79536936932284825733059117237778~hmac=5e3bfc66fde746fd4eba4a3cacfdbc1ece30b7321788e9fc78d10e091d4aed20
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4660,7 +4666,7 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=jmT2SuW9AFH3shOl_9kQqg&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=nxMdrMkrC4_BzpYQQTC14A&expires=1763149252
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-14 23:14:54 (BD Time)
+# Update on 2025-11-14 23:46:24 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4912,7 +4918,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Friday 14 November, 2025 at 11:21:01 pm
+#DATE:- Saturday 15 November, 2025 at 12:00:02 am
 #EXTINF:-1 tvg-id="137978" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
 https://in-mc-fdlive.fancode.com/mumbai/137978_english_hls_c0f2f2c28e47805_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
