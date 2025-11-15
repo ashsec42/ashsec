@@ -4489,6 +4489,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1763167410~exp=1763253810~acl=/*~hmac=69fdd353039aef2c0f6f916fa3534c9b496c237a3c0b4c2029fba54b30487e35"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1763167410~exp=1763253810~acl=/*~hmac=69fdd353039aef2c0f6f916fa3534c9b496c237a3c0b4c2029fba54b30487e35&xxx=%7Ccookie=__hdnea__=st=1763167410~exp=1763253810~acl=/*~hmac=69fdd353039aef2c0f6f916fa3534c9b496c237a3c0b4c2029fba54b30487e35
 #EXTM3U
+#EXTINF:-1 tvg-id="1090494816_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011268/1763132195071370_ACC25_BAN_A_vs_HongKong_Live_Landscape_thumb.jpg" group-title="Live",Bangladesh A vs Hong Kong, China - 15 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763229879~acl=/*~id=21294260068208921315450957290614~hmac=b9016a50a58317534f3c88883fd73ac83d7cae5ae59eb465562d224a7836297c
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4660,7 +4663,7 @@ https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=IiJ7mYdI8PpPnKQH9stb5w&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=WeGeSr22htlvP4n_cLWo_Q&expires=1763192456
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-15 11:15:57 (BD Time)
+# Update on 2025-11-15 11:45:41 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4912,7 +4915,9 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Saturday 15 November, 2025 at 11:21:01 am
+#DATE:- Saturday 15 November, 2025 at 12:00:02 pm
+#EXTINF:-1 tvg-id="138244" tvg-name="Hong Kong, China Vs Bangladesh A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138244_5765_BN-A_HK_fc-web_1763068128414.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Hong Kong, China Vs Bangladesh A
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763209800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=a409da5ad33f227cfddf439bf8fe204de69bc39571a6f82a0cf9714fdd65b8a3|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133941" tvg-name="South Australia Vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133941_5606_TAS_SAU_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | South Australia Vs Tasmania
 https://in-mc-fdlive.fancode.com/mumbai/133941_english_hls_23fa5a5f2895880_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
