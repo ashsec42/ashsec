@@ -4489,12 +4489,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1763254125~exp=1763340525~acl=/*~hmac=4d5bc15180500d2b800b25e5aa33afc157260d76d0356f106fbf227ef6d73ec1"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1763254125~exp=1763340525~acl=/*~hmac=4d5bc15180500d2b800b25e5aa33afc157260d76d0356f106fbf227ef6d73ec1&xxx=%7Ccookie=__hdnea__=st=1763254125~exp=1763340525~acl=/*~hmac=4d5bc15180500d2b800b25e5aa33afc157260d76d0356f106fbf227ef6d73ec1
 #EXTM3U
-#EXTINF:-1 tvg-id="1090494762_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011341/1763213747313557_NZvsWI25_1st_ODI_landscape_thumb.jpg" group-title="Live",1st ODI - 16 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763329244~acl=/*~id=42745330669315614401126818273151~hmac=c7544b0f1969fd2b166e6a153054757b14f41c861621d35b0d895f4fcd3b4bdd
 #EXTINF:-1 tvg-id="1090494930_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763214919816370_ACC25_UAE_vs_OMA_live_Landscapet_thumb.jpg" group-title="Live",UAE vs Oman - 16 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763329244~acl=/*~id=42745330669315614401126818273151~hmac=c7544b0f1969fd2b166e6a153054757b14f41c861621d35b0d895f4fcd3b4bdd
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763330499~acl=/*~id=79291554274025085588633769380007~hmac=35c5b0b7e3cc28708a7e1408d533e2375e8287b3dbb4e9c8d1a1d89444ec759d
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4666,7 +4663,7 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=inPJyftj47eIDPty6r7SQQ&exp
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=TUnkUSC-O6qbRfxkL9nT8A&expires=1763293121
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-16 15:16:00 (BD Time)
+# Update on 2025-11-16 15:44:48 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4918,11 +4915,9 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
-#DATE:- Sunday 16 November, 2025 at 3:21:02 pm
+#DATE:- Sunday 16 November, 2025 at 3:49:02 pm
 #EXTINF:-1 tvg-id="138246" tvg-name="United Arab Emirates Vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | United Arab Emirates Vs Oman
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763317801~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=0ab8937daed4e5739db0f9cb50726d594e26b88cdb7c68dd2dffe9eec9a52e36|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="137952" tvg-name="Stallion Laguna Vs Melbourne City Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137952_5744_SL_MLC-W_fc-web_1763103330221.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Stallion Laguna Vs Melbourne City Women
-https://in-mc-fdlive.fancode.com/mumbai/137952_english_hls_4262f94b0c1731_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137170" tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 4
 https://in-mc-fdlive.fancode.com/mumbai/137170_english_hls_c804df2e7e48707_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119297" tvg-name="Valencia Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png" tvg-language="ENGLISH" group-title="MotoGP",ENG | Valencia Gp
