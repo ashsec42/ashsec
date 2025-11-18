@@ -4489,15 +4489,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1763464102~exp=1763550502~acl=/*~hmac=62a16ea2e903452c0e2fc532706a33f08f814d175e6949808524cf65c4360f6c"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1763464102~exp=1763550502~acl=/*~hmac=62a16ea2e903452c0e2fc532706a33f08f814d175e6949808524cf65c4360f6c&xxx=%7Ccookie=__hdnea__=st=1763464102~exp=1763550502~acl=/*~hmac=62a16ea2e903452c0e2fc532706a33f08f814d175e6949808524cf65c4360f6c
 #EXTM3U
-#EXTINF:-1 tvg-id="1090495229_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011453/1763378476540524_ACC25_INDA_vs_OMA_live_Landscape_thumb.jpg" group-title="Live",India A vs Oman - 18 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763530549~acl=/*~id=04085318288448208338497558670133~hmac=c431e1596c038f965fadda6a980c06ffa423a16ad977b0a06e14f1acb45a6164
 #EXTINF:-1 tvg-id="1090495245_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762148767671734_UEFA_INT_Friendlies_Cyprus_vs_Estonia_3nov_landscape_thumb.jpg" group-title="Live",Cyprus vs Estonia - 18 Nov 2025 [ENG] - UEFA International Friendlies - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763530549~acl=/*~id=04085318288448208338497558670133~hmac=c431e1596c038f965fadda6a980c06ffa423a16ad977b0a06e14f1acb45a6164
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763532983~acl=/*~id=36275547356195651027095518327014~hmac=897e5ebf8eafffa1dffce995e8b74d4c41ede323c0222543757b0640f2fad7b7
 #EXTINF:-1 tvg-id="1090495247_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762150560577734_UEFA_INT_Friendlies_Faroe_Islands_vs_Kazakhstan_3nov_landscape_thumb.jpg" group-title="Live",Faroe Islands vs Kazakhstan - 18 Nov 2025 [ENG] - UEFA International Friendlies - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763530549~acl=/*~id=04085318288448208338497558670133~hmac=c431e1596c038f965fadda6a980c06ffa423a16ad977b0a06e14f1acb45a6164
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763532983~acl=/*~id=36275547356195651027095518327014~hmac=897e5ebf8eafffa1dffce995e8b74d4c41ede323c0222543757b0640f2fad7b7
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4669,7 +4666,7 @@ https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=pIiJ27reznxpkTgLjKU_BQ&expi
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=23DavuxLSwsgZiG1-Z-1ag&expires=1763494931
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-18 23:17:38 (BD Time)
+# Update on 2025-11-18 23:47:21 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4922,7 +4919,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday 18 November, 2025 at 11:28:02 pm
+#DATE:- Tuesday 18 November, 2025 at 11:49:02 pm
 #EXTINF:-1 tvg-id="138204" tvg-name="Deccan Gladiators Vs Uae Bulls" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138204_5763_DG_DB_fc-web_1763465215326.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Deccan Gladiators Vs Uae Bulls
 https://in-mc-fdlive.fancode.com/mumbai/138204_english_hls_b7bba5469b57523_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138102" tvg-name="Iraq Vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-Iraq_Old-match-card.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Iraq Vs United Arab Emirates
