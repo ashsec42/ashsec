@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090495227_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011491/1763445532668281_ACC25_PAKS_vs_UAE_live_landscape_thumb_re1.jpg" group-title="Live",Pakistan Shaheens vs UAE - 18 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763502004~acl=/*~id=66197647328236478737687917193486~hmac=0f10daba84146582abf7d29ef8bb3b9a795393f4cf118903a6901c5ddaf0d9f1
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763503829~acl=/*~id=52613214166995713291745843167754~hmac=8b80fca20721f8ef75ae5affb9b9ce28b432853996a2ead16ef28be34377219a
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4663,7 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=q4q8qgH4Nw7ucV7-R1vsEg&expi
 https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=__qoP-fa-OjG2v3sRGmJtw&expires=1763466200
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-18 15:19:10 (BD Time)
+# Update on 2025-11-18 15:48:24 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4916,11 +4916,11 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday 18 November, 2025 at 3:21:02 pm
+#DATE:- Tuesday 18 November, 2025 at 3:49:02 pm
+#EXTINF:-1 tvg-id="138295" tvg-name="Biratnagar Kings Vs Pokhara Avengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL_Biratnagar-Kings_vs_Pokhara-Avengers_Old_match-card_02.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Biratnagar Kings Vs Pokhara Avengers
+https://in-mc-fdlive.fancode.com/mumbai/138295_english_hls_35bd7ab90585502_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138250" tvg-name="United Arab Emirates Vs Pakistan Shaheens" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138250_5765_PKS_UAE_fc-web_1763068128496.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | United Arab Emirates Vs Pakistan Shaheens
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763490601~acl=/*~id=1b767eceb85932449c936340225435f3-1763447400115~hmac=6de35930751c4530e6a449e056213ad76db0a17fb7183f419de3c555392e6db9|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138294" tvg-name="Karnali Yaks Vs Chitwan Rhinos" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL_Chitwan-Rhinos_vs_Karnali-Yaks_Old_match-card_02.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Karnali Yaks Vs Chitwan Rhinos
-https://in-mc-fdlive.fancode.com/mumbai/138294_english_hls_6ae83aca8751323_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
