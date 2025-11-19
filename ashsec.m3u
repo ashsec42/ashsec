@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090495305_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011489/1763440769781214_NZvsWI25_2nd_ODI_landscape_thumb.jpg" group-title="Live",2nd ODI - 19 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763574126~acl=/*~id=88480211348619522024967670099507~hmac=d32f0a6df9954899002830cb730127f88762a91e7cf4bd224ff24301c42c3ecb
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763575952~acl=/*~id=36930852728816821787208729524290~hmac=fa24cb025dccd59a514e35c196bf3bb4563f733df5f8ff2a38d845ac81d16895
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4663,7 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=cEayxrWpiJ6K76sJO2O48A&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=k-tIPZs-RtQuVJtTg5Fj4Q&expires=1763538173
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-19 11:17:20 (BD Time)
+# Update on 2025-11-19 11:47:08 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4916,13 +4916,11 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday 19 November, 2025 at 11:21:02 am
+#DATE:- Wednesday 19 November, 2025 at 11:56:02 am
 #EXTINF:-1 tvg-id="138238" tvg-name="Bangladesh Vs Ireland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Bangladesh Vs Ireland
 https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c90019_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137694" tvg-name="West Indies Vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | West Indies Vs New Zealand
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763555401~acl=/*~id=bce358cb3ea2d7d817beaa4a08ffb6c8-1763512200133~hmac=1108f786044ab0d6c2c340e94bdb2b0490266da50ff97688042697f9fdfd33ad|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138009" tvg-name="Bahrain Vs Indonesia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bahrain Vs Indonesia
-https://in-mc-fdlive.fancode.com/mumbai/138009_english_hls_d08e92005335746_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
