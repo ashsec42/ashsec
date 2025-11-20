@@ -4491,7 +4491,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTM3U
 #EXTINF:-1 tvg-id="1090495443_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011490/1763443173762963_asiantour2024_PIF_Saudi_International_day2_18nov_Landscape_thumb.jpg" group-title="Live",PIF Saudi International - Day 2 - 20 Nov 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763674505~acl=/*~id=81950824290637282459929816739962~hmac=7ee42119e9229f57ebcddea29ac188a638701bd64a7aacdf16d03afa29813915
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763676327~acl=/*~id=92916076159409073189374645041398~hmac=9e22f94764e444197c1686bd1b3983f4777bfbb8a142c5526fddfd26d3e55c58
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -4663,7 +4663,7 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=feK8wdRlqu_UMLbU4yKutg&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=JRQyVjVXPgK65Wn4emhceA&expires=1763638902
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-20 15:18:06 (BD Time)
+# Update on 2025-11-20 15:47:34 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4916,13 +4916,11 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday 20 November, 2025 at 3:21:09 pm
+#DATE:- Thursday 20 November, 2025 at 3:49:04 pm
+#EXTINF:-1 tvg-id="138297" tvg-name="Chitwan Rhinos Vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL_Lumbini-Lions_vs_Chitwan-Rhinos_Old_match-card_02.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Chitwan Rhinos Vs Lumbini Lions
+https://in-mc-fdlive.fancode.com/mumbai/138297_english_hls_d43d2c886c67988_1adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138238" tvg-name="Bangladesh Vs Ireland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Bangladesh Vs Ireland
 https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c31988_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138087" tvg-name="Scotland Women Vs Uganda Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138087_5758_SC-W_UG-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Scotland Women Vs Uganda Women
-https://in-mc-fdlive.fancode.com/mumbai/138087_english_hls_8f81cf409f65405_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138074" tvg-name="Namibia Women Vs Tanzania Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138074_5758_NAM-W_TANW_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Namibia Women Vs Tanzania Women
-https://in-mc-pdlive.fancode.com/mumbai/138074_english_hls_dedebee81521238_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
