@@ -4660,7 +4660,7 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=fT2v5AtuDVN2Co2Bijxd_g&exp
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=aYtPg1LGO7OC2WhbkIqixA&expires=1763624535
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-20 11:17:30 (BD Time)
+# Update on 2025-11-20 11:46:52 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
@@ -4913,13 +4913,13 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 #EXTM3U
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday 20 November, 2025 at 11:28:05 am
+#DATE:- Thursday 20 November, 2025 at 12:07:08 pm
 #EXTINF:-1 tvg-id="138238" tvg-name="Bangladesh Vs Ireland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Bangladesh Vs Ireland
 https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c31988_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138087" tvg-name="Scotland Women Vs Uganda Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138087_5758_SC-W_UG-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Scotland Women Vs Uganda Women
 https://in-mc-fdlive.fancode.com/mumbai/138087_english_hls_8f81cf409f65405_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138074" tvg-name="Namibia Women Vs Tanzania Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138074_5758_NAM-W_TANW_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Namibia Women Vs Tanzania Women
-https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+https://in-mc-pdlive.fancode.com/mumbai/138074_english_hls_dedebee81521238_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
