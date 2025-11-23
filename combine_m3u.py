@@ -124,16 +124,16 @@ def main():
     for group_title in sorted_groups:
         streams = grouped_streams[group_title]
         
-        # Add a clear separator for user-friendliness
-        final_output.append(f"\n# --- GROUP START: {group_title} ({len(streams)} Streams) ---")
+        # FIX: Use a simpler, safer group separator comment line 
+        final_output.append(f"\n#-- {group_title} ({len(streams)} Streams) --")
         
-        # NEW: Sort streams within the group alphabetically by channel name
+        # Sort streams within the group alphabetically by channel name
         streams.sort(key=lambda x: extract_channel_name(x[0]))
         
         for extinf, url_line in streams:
             # Append the original #EXTINF line
             final_output.append(extinf)
-            # Append the original, UNTOUCHED stream URL
+            # Append the original, UNTOUCHED stream URL (Preserves Jio Integrity)
             final_output.append(url_line)
 
     # 4. Final Output File Write
