@@ -1,14 +1,11 @@
 import argparse
 import os
-import re
 import requests
-from typing import List, Dict, Optional, Tuple
+from typing import List
 
 # --- Configuration Constants ---
 DEFAULT_OUTPUT_FILE = "ashsec.m3u"
 DEFAULT_TIMEOUT = 15
-DEFAULT_GROUP_TITLE = "ZZ - Unsorted" # Group for streams missing a title
-# --------------------------------------------------------
 
 def fetch_m3u_content(url: str, timeout: int) -> List[str]:
     """
@@ -16,8 +13,9 @@ def fetch_m3u_content(url: str, timeout: int) -> List[str]:
     """
     try:
         response = requests.get(url, timeout=timeout)
-        response.raise_for_status()
+        response.raise_for_status() # Raise HTTPError for bad responses (4xx or 5xx)
         print(f"✅ Success: Fetched content from {url}")
+        # Note: Using response.text.splitlines() handles different line endings (LF, CRLF)
         return response.text.splitlines()
     except requests.exceptions.Timeout:
         print(f"❌ Error: Request timed out fetching {url} after {timeout}s.")
@@ -25,39 +23,16 @@ def fetch_m3u_content(url: str, timeout: int) -> List[str]:
         print(f"❌ Error: Failed to fetch {url}: {e}")
     return []
 
-def extract_group_title(extinf_line: str) -> str:
-    """
-    Safely extracts the group-title attribute from an #EXTINF line.
-    
-    Returns:
-        The extracted group title string, or a default group name if not found.
-    """
-    # Regex to find group-title="...content..."
-    match = re.search(r'group-title="([^"]*)"', extinf_line)
-    
-    if match:
-        title = match.group(1).strip()
-        return title if title else DEFAULT_GROUP_TITLE
-    
-    return DEFAULT_GROUP_TITLE
-
-def extract_channel_name(extinf_line: str) -> str:
-    """
-    Extracts the display name (the part after the comma) from the #EXTINF line.
-    """
-    parts = extinf_line.split(',', 1)
-    return parts[1].strip() if len(parts) > 1 else ""
-
 def main():
-    """Main function to extract, group, sort, and combine M3U playlist content."""
-    parser = argparse.ArgumentParser(description="Combines and sorts multiple M3U playlists by 'group-title' for better user experience.")
+    """Main function to extract and combine M3U playlist content verbatim."""
+    parser = argparse.ArgumentParser(description="Combines multiple M3U playlists verbatim.")
     parser.add_argument("-o", "--output", default=DEFAULT_OUTPUT_FILE, help="Output file path.")
     parser.add_argument("--timeout", type=int, default=DEFAULT_TIMEOUT, help="HTTP fetch timeout in seconds.")
     args = parser.parse_args()
 
     m3u_links = os.environ.get('M3U_LINKS')
     if not m3u_links:
-        print("❌ Error: M3U_LINKS environment variable not set. Please set the GitHub Secret or local ENV variable.")
+        print("❌ Error: M3U_LINKS environment variable not set.")
         return
 
     urls = [link.strip() for link in m3u_links.splitlines() if link.strip()]
@@ -65,9 +40,9 @@ def main():
         print("❌ Error: M3U_LINKS is set but contains no valid URLs.")
         return
 
-    # Data structure: { "Group Title": [(#EXTINF line, URL line), ...] }
-    grouped_streams: Dict[str, List[Tuple[str, str]]] = {}
-    total_streams = 0
+    # Combined list will be populated with content lines
+    combined_lines = [] 
+    has_header = False # Flag to ensure only one #EXTM3U is kept
 
     for url in urls:
         print(f"\n⏳ Processing {url}...")
@@ -76,76 +51,35 @@ def main():
         if not lines:
             continue
             
-        # Iterate over lines, looking for pairs of #EXTINF followed by a URL
-        current_extinf: Optional[str] = None
-        
         for line in lines:
             stripped_line = line.strip()
             
-            # Skip empty lines entirely
-            if not stripped_line:
-                continue 
-            
-            # 1. Store Metadata Line
-            if stripped_line.startswith('#EXTINF'):
-                current_extinf = stripped_line
-                
-            # 2. Check for Stream URL (only if preceded by metadata)
-            elif current_extinf and stripped_line.startswith(('http://', 'https://', 'rtsp://')):
-                # We found a stream URL immediately following an #EXTINF tag.
-                
-                # Grouping Logic
-                group = extract_group_title(current_extinf)
-                
-                if group not in grouped_streams:
-                    grouped_streams[group] = []
-                
-                # Add the pair to the group list
-                grouped_streams[group].append((current_extinf, stripped_line))
-                total_streams += 1
-                
-                # Reset the metadata line for the next stream
-                current_extinf = None
-            
-            # 3. If any other line appears (like an HLS tag, or a non-EXT comment),
-            #    we simply ignore it without resetting current_extinf. 
-            
-    # --- Re-assembly (Writing the Final Playlist) ---
-    final_output: List[str] = ["#EXTM3U"]
-    
-    # Sort groups alphabetically (using the extracted title as the key)
-    sorted_groups = sorted(grouped_streams.keys())
-    
-    for group_title in sorted_groups:
-        streams = grouped_streams[group_title]
-        
-        # --- CRITICAL FIX: Use official #EXTGRP tag for group separation ---
-        final_output.append(f"#EXTGRP:{group_title}")
-        
-        # Sort streams within the group alphabetically by channel name
-        streams.sort(key=lambda x: extract_channel_name(x[0]))
-        
-        for extinf, url_line in streams:
-            # Append the original #EXTINF line
-            final_output.append(extinf)
-            # Append the original, UNTOUCHED stream URL (Highest integrity)
-            final_output.append(url_line)
+            # 1. Handle the #EXTM3U header only once
+            if stripped_line.startswith('#EXTM3U'):
+                if not has_header:
+                    combined_lines.append(stripped_line)
+                    has_header = True
+                continue # Skip all other #EXTM3U headers
 
-    # 4. Final Output File Write
-    if total_streams > 0:
+            # 2. Append all other lines exactly as they are
+            if stripped_line:
+                combined_lines.append(stripped_line)
+
+    # Manual enforcement of header if no source provided one
+    if not has_header:
+        combined_lines.insert(0, "#EXTM3U")
+    
+    # 3. Final Output
+    if len(combined_lines) > 1:
         with open(args.output, "w", encoding="utf-8") as f:
-            # Join lines without the extra newline character added previously, 
-            # as it was causing issues. The join operation handles the newline.
-            f.write('\n'.join(final_output) + '\n') 
+            f.write('\n'.join(combined_lines) + '\n') 
         
         print("\n" + "="*50)
-        print(f"🎉 Final Grouped Playlist Created!")
-        print(f"File: {args.output}")
-        print(f"Total Groups: {len(sorted_groups)}")
-        print(f"Total Streams Processed: {total_streams}")
+        print(f"🎉 Final Playlist Created: {args.output}")
+        print(f"Total lines: {len(combined_lines)}")
         print("="*50)
     else:
-        print(f"\n⚠️ No valid streams were successfully processed. {args.output} was not created or updated.")
+        print(f"\n⚠️ No valid content found.")
 
 if __name__ == "__main__":
     main()
