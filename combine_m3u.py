@@ -91,8 +91,6 @@ def main():
                 current_extinf = stripped_line
                 
             # 2. Check for Stream URL (only if preceded by metadata)
-            # This is the tolerant step: if current_extinf is set, we grab the next URL line,
-            # ignoring anything that isn't a stream URL.
             elif current_extinf and stripped_line.startswith(('http://', 'https://', 'rtsp://')):
                 # We found a stream URL immediately following an #EXTINF tag.
                 
@@ -110,11 +108,8 @@ def main():
                 current_extinf = None
             
             # 3. If any other line appears (like an HLS tag, or a non-EXT comment),
-            #    we simply ignore it without resetting current_extinf. This allows 
-            #    the parser to bridge over empty lines or comments until it finds the stream URL.
-            #    If a new #EXTINF is found, it automatically overwrites current_extinf.
-
-
+            #    we simply ignore it without resetting current_extinf. 
+            
     # --- Re-assembly (Writing the Final Playlist) ---
     final_output: List[str] = ["#EXTM3U"]
     
@@ -124,8 +119,8 @@ def main():
     for group_title in sorted_groups:
         streams = grouped_streams[group_title]
         
-        # FIX: Use a simpler, safer group separator comment line 
-        final_output.append(f"\n#-- {group_title} ({len(streams)} Streams) --")
+        # --- CRITICAL FIX: Use official #EXTGRP tag for group separation ---
+        final_output.append(f"#EXTGRP:{group_title}")
         
         # Sort streams within the group alphabetically by channel name
         streams.sort(key=lambda x: extract_channel_name(x[0]))
@@ -133,12 +128,14 @@ def main():
         for extinf, url_line in streams:
             # Append the original #EXTINF line
             final_output.append(extinf)
-            # Append the original, UNTOUCHED stream URL (Preserves Jio Integrity)
+            # Append the original, UNTOUCHED stream URL (Highest integrity)
             final_output.append(url_line)
 
     # 4. Final Output File Write
     if total_streams > 0:
         with open(args.output, "w", encoding="utf-8") as f:
+            # Join lines without the extra newline character added previously, 
+            # as it was causing issues. The join operation handles the newline.
             f.write('\n'.join(final_output) + '\n') 
         
         print("\n" + "="*50)
