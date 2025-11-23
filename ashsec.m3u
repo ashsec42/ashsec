@@ -338,7 +338,7 @@ https://bravo.player0003.com/hls/viaplaysp1.m3u8?md6=uZ6TkatCS6sh05DdAOPl_Q&expi
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://bravo.player0003.com/hls/viaplaysp2.m3u8?md6=iBwyWN30geszrhytjj2CtA&expires=1763922828&s=NTIuMTU5LjI0NC44Mw==
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday 23 November, 2025 at 11:14:05 pm
+#DATE:- Sunday 23 November, 2025 at 11:21:05 pm
 #EXTINF:-1 tvg-id="138256" tvg-name="Pakistan Shaheens Vs Bangladesh A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-A-vs-PAk-A_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pakistan Shaheens Vs Bangladesh A
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138219" tvg-name="Northern Warriors Vs Vista Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138219_5763_NW_VTR_fc-web_1763728589858.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Northern Warriors Vs Vista Riders
@@ -349,6 +349,10 @@ https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3
 https://in-mc-fdlive.fancode.com/mumbai/138431_english_hls_4a5fdcc78869499_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138050" tvg-name="Windward Islands Volcanoes Vs Barbados Pride" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Windward Islands Volcanoes Vs Barbados Pride
 https://in-mc-fdlive.fancode.com/mumbai/138050_english_hls_7faa5a746270788_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138052" tvg-name="Trinidad & Tobago Red Force Vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trinidad & Tobago Red Force Vs Guyana Harpy Eagles
+https://in-mc-fdlive.fancode.com/mumbai/138052_english_hls_b89cc9c69828531_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138275" tvg-name="World Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 4
+https://in-mc-fdlive.fancode.com/mumbai/138275_english_hls_0d4e48a5ae28541_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
 #EXTINF:-1 tvg-id="0-9-348" tvg-name="Zee Zest HD" tvg-type="Lifestyle" group-title="Lifestyle" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-348/cover/1920x770843939449",Zee Zest HD
