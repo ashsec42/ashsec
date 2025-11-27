@@ -338,11 +338,13 @@ https://jan.player0003.com/hls/viaplaysp1.m3u8?md6=RF6GUFGOo_L445bWo8SFHw&expire
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://jan.player0003.com/hls/viaplaysp2.m3u8?md6=fdn2wWfBCyEGeVJ3stAkkw&expires=1764275604&s=NjguMjIwLjYyLjE3Ng==
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 28 November 2025 at 1:14:05 am
+#DATE:- Friday, 28 November 2025 at 1:28:05 am
 #EXTINF:-1 tvg-id="138057" tvg-name="Trinidad & Tobago Red Force Vs Leeward Islands Hurricanes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trinidad & Tobago Red Force Vs Leeward Islands Hurricanes
 https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138057_english_hls_e169ab4b3489779_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138058" tvg-name="Jamaica Scorpions Vs Windward Islands Volcanoes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Jamaica Scorpions Vs Windward Islands Volcanoes
 https://in-mc-fdlive.fancode.com/mumbai/138058_english_hls_0eedb4e3735942_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="137002" tvg-name="Grimsby Town Vs Tranmere Rovers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Grimsby Town Vs Tranmere Rovers
+https://in-mc-fdlive.fancode.com/mumbai/137002_english_hls_cd8198166989697_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
 #EXTINF:-1 tvg-id="0-9-348" tvg-name="Zee Zest HD" tvg-type="Lifestyle" group-title="Lifestyle" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-348/cover/1920x770843939449",Zee Zest HD
