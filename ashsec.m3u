@@ -332,7 +332,7 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 # No live streams available
-# Updated: 29/11/2025, 5:14:05 am
+# Updated: 29/11/2025, 5:21:05 am
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
 #EXTINF:-1 tvg-id="0-9-348" tvg-name="Zee Zest HD" tvg-type="Lifestyle" group-title="Lifestyle" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-348/cover/1920x770843939449",Zee Zest HD
