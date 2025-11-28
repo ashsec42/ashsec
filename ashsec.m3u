@@ -335,15 +335,13 @@ https://jan.player0003.com/hls/viaplaysp1.m3u8?md6=YTj1GbNyFHyqatsiroN3hw&expire
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://jan.player0003.com/hls/viaplaysp2.m3u8?md6=JUSByuSr4wW3bt5iWUgEiw&expires=1764319180&s=MjAuMTY5Ljc3LjE2MQ==
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 28 November 2025 at 1:14:05 pm
+#DATE:- Friday, 28 November 2025 at 1:28:05 pm
 #EXTINF:-1 tvg-id="138307" tvg-name="Kathmandu Gorkhas Vs Chitwan Rhinos" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138307_5771_CWR_KMG_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kathmandu Gorkhas Vs Chitwan Rhinos
 https://in-mc-fdlive.fancode.com/mumbai/138307_english_hls_07dbba305293280_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138083" tvg-name="Netherlands Women Vs Scotland Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138083_5758_SC-W_ND-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Netherlands Women Vs Scotland Women
 https://in-mc-fdlive.fancode.com/mumbai/138083_english_hls_1f11a2227274676_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138082" tvg-name="Papua New Guinea Women Vs Namibia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138082_5758_NAM-W_PN-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Papua New Guinea Women Vs Namibia Women
 https://india-mpv2.fancode.com/out/v1/ap-south-1/138082_english_138082/adfree-h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138611" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Australian-PGA-Championship-old-match-card-(1).png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
-https://in-mc-fdlive.fancode.com/mumbai/138611_english_hls_311d8135649674_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-type="Music" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zing/cover/1920x770faf0dc1ecbd449ee9e5a78b6dc49219b",Zing
 http://mini.allinonereborn.fun/ze/live.php?token=JITENDRA_KUMAR&id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
 #EXTINF:-1 tvg-id="0-9-348" tvg-name="Zee Zest HD" tvg-type="Lifestyle" group-title="Lifestyle" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-348/cover/1920x770843939449",Zee Zest HD
