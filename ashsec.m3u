@@ -332,7 +332,7 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 1 December 2025 at 11:14:05 pm
+#DATE:- Monday, 1 December 2025 at 11:28:05 pm
 #EXTINF:-1 tvg-id="138043" tvg-name="West Indies Under 19 Vs England Under 19" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | West Indies Under 19 Vs England Under 19
 https://in-mc-fdlive.fancode.com/mumbai/138043_english_hls_3c6d37626448317_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
@@ -384,7 +384,7 @@ https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1763
 <b>Warning</b>:  file_get_contents(): php_network_getaddresses: getaddrinfo for bolt.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/z5/playlist.php</b> on line <b>6</b><br />
 <br />
 <b>Warning</b>:  file_get_contents(https://bolt.yuvraj.news/cookie/z5.php?ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F121.0.0.0+ygx%2F69.1+Safari%2F537.36): Failed to open stream: php_network_getaddresses: getaddrinfo for bolt.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/z5/playlist.php</b> on line <b>6</b><br />
-#Generated on 1764611304
+#Generated on 1764611902
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?
@@ -593,7 +593,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?
 <b>Warning</b>:  file_get_contents(): php_network_getaddresses: getaddrinfo for m3u.denver1769.fun failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jcinema/playlist.php</b> on line <b>6</b><br />
 <br />
 <b>Warning</b>:  file_get_contents(https://m3u.denver1769.fun/Jh/cookie.json): Failed to open stream: php_network_getaddresses: getaddrinfo for m3u.denver1769.fun failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jcinema/playlist.php</b> on line <b>6</b><br />
-#Generated on 1764611310
+#Generated on 1764611914
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":""}
@@ -844,7 +844,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_vo
 <b>Warning</b>:  file_get_contents(): php_network_getaddresses: getaddrinfo for play.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jstar/playlist.php</b> on line <b>6</b><br />
 <br />
 <b>Warning</b>:  file_get_contents(https://play.yuvraj.news/jio/cookie.php): Failed to open stream: php_network_getaddresses: getaddrinfo for play.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jstar/playlist.php</b> on line <b>6</b><br />
-#Generated on 1764611321
+#Generated on 1764611924
 #EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
