@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090496364_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507823708522_NZvsWI25_1st_test_day2_30nov_landscape_thumb.jpg" group-title="Live",1st Test - Day 2 - 3 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764759635~acl=/*~id=39284361077801625839410264621777~hmac=bb32e745f2dfa7def3f3ed52b1329a236f3b65f6ada12b41253b4242eac4dd63
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764760849~acl=/*~id=98183191802936768229644777687164~hmac=bc50fc372bb06df6b01c6d0e8a042cb9bc1cf37b531141255107d2e40415be9b
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -335,7 +335,7 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 3 December 2025 at 4:42:16 am
+#DATE:- Wednesday, 3 December 2025 at 5:00:06 am
 #EXTINF:-1 tvg-id="137696" tvg-name="New Zealand Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | New Zealand Vs West Indies
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764743402~acl=/*~id=b9bf11ef578667ecd82656dc5ea5bc74-1764700200204~hmac=902ed0a8f4ab7142d28a870444fd85bbe3a086d0712ba954ae7180cc80f8a97b|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
@@ -383,7 +383,11 @@ https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1763955
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
 https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
-#Generated on 1764717493
+<br />
+<b>Warning</b>:  file_get_contents(): php_network_getaddresses: getaddrinfo for bolt.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/z5/playlist.php</b> on line <b>6</b><br />
+<br />
+<b>Warning</b>:  file_get_contents(https://bolt.yuvraj.news/cookie/z5.php?ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F121.0.0.0+ygx%2F69.1+Safari%2F537.36): Failed to open stream: php_network_getaddresses: getaddrinfo for bolt.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/z5/playlist.php</b> on line <b>6</b><br />
+#Generated on 1764718388
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?
@@ -588,7 +592,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?
-#Generated on 1764717499
+#Generated on 1764718389
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1764765009~acl=%2f*~id=822d04819f5f4d7a749d692ec96c06ee~data=hdntl~hmac=a98604ed942f6d3344220fa65366cf91e4428d9bd64649fc7abfa45e3e536612"}
@@ -836,10 +840,10 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
 <br />
-<b>Warning</b>:  file_get_contents(): php_network_getaddresses: getaddrinfo for play.yuvraj.news failed: No address associated with hostname in <b>/www/wwwroot/play.yuvraj.news/apix824/jstar/playlist.php</b> on line <b>6</b><br />
+<b>Warning</b>:  file_get_contents(): php_network_getaddresses: getaddrinfo for play.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jstar/playlist.php</b> on line <b>6</b><br />
 <br />
-<b>Warning</b>:  file_get_contents(https://play.yuvraj.news/jio/cookie.php): Failed to open stream: php_network_getaddresses: getaddrinfo for play.yuvraj.news failed: No address associated with hostname in <b>/www/wwwroot/play.yuvraj.news/apix824/jstar/playlist.php</b> on line <b>6</b><br />
-#Generated on 1764717505
+<b>Warning</b>:  file_get_contents(https://play.yuvraj.news/jio/cookie.php): Failed to open stream: php_network_getaddresses: getaddrinfo for play.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jstar/playlist.php</b> on line <b>6</b><br />
+#Generated on 1764718395
 #EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
