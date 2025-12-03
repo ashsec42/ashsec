@@ -169,7 +169,7 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=6B7JHHfotaTp6OCQ2Jx0Cg&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=m4vTyg2kF5u7XjqMHo5fIA&expires=1764776155
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-12-03 19:22:42 (BD Time)
+# Update on 2025-12-03 19:55:57 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="crich2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD 2",Sky Sports Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
@@ -332,9 +332,9 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 3 December 2025 at 7:21:06 pm
-#EXTINF:-1 tvg-id="138314" tvg-name="Biratnagar Kings Vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138314_5771_BK_LBL_FC-Web_1764576118857.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Biratnagar Kings Vs Lumbini Lions
-https://in-mc-fdlive.fancode.com/mumbai/138314_english_hls_aa7626d6e548034_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Wednesday, 3 December 2025 at 7:49:06 pm
+#EXTINF:-1 tvg-id="138624" tvg-name="Abu Dhabi Knight Riders Vs Sharjah Warriorz" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138624_5786_SWR_ADKR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Abu Dhabi Knight Riders Vs Sharjah Warriorz
+https://in-mc-fdlive.fancode.com/mumbai/138624_english_hls_c25647f7a045413_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
@@ -380,7 +380,7 @@ https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1763955
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
 https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
-#Generated on 1764770192
+#Generated on 1764771882
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?
@@ -585,7 +585,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?
-#Generated on 1764770194
+#Generated on 1764771883
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1764831612~acl=%2f*~id=5976075a22a9ca0e5504b339d05b9fe5~data=hdntl~hmac=fc2ff1ab7da2b3743405935e825d8e5ef3042aa882292b5ab2e82008d964f745"}
