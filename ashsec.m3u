@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090496364_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507823708522_NZvsWI25_1st_test_day2_30nov_landscape_thumb.jpg" group-title="Live",1st Test - Day 2 - 3 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764778481~acl=/*~id=40349348808176863776200169625410~hmac=4242d6b475d639b29f487e021674557e2827adc8d01c5cc8ccaa6e70b2c0db31
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764779697~acl=/*~id=05349794123670833683341362225249~hmac=a143c12cdfd3edf445cfc21dc11fea083c6394173930bcbb2acf5080bae2acf4
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -335,7 +335,7 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 3 December 2025 at 10:00:06 am
+#DATE:- Wednesday, 3 December 2025 at 10:21:06 am
 #EXTINF:-1 tvg-id="137696" tvg-name="New Zealand Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | New Zealand Vs West Indies
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764765002~acl=/*~id=6ab33c013b7bbc954ef906d851e51383-1764721800127~hmac=b4e01fdc533172b7587722b37f68fbf3b26554b446cc9767599d3598aae7b008|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138660" tvg-name="Hong Kong, China Women Vs Malaysia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Hong Kong, China Women Vs Malaysia Women
@@ -385,7 +385,7 @@ https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1763955
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
 https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
-#Generated on 1764736381
+#Generated on 1764737620
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1764765009~acl=%2f*~id=822d04819f5f4d7a749d692ec96c06ee~data=hdntl~hmac=a98604ed942f6d3344220fa65366cf91e4428d9bd64649fc7abfa45e3e536612"}
@@ -632,11 +632,7 @@ https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
-<br />
-<b>Warning</b>:  file_get_contents(): php_network_getaddresses: getaddrinfo for play.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jstar/playlist.php</b> on line <b>6</b><br />
-<br />
-<b>Warning</b>:  file_get_contents(https://play.yuvraj.news/jio/cookie.php): Failed to open stream: php_network_getaddresses: getaddrinfo for play.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jstar/playlist.php</b> on line <b>6</b><br />
-#Generated on 1764736392
+#Generated on 1764737626
 #EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
