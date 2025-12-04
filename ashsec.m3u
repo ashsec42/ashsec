@@ -169,7 +169,7 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=yw9BLDwZhYXwtR_Ad58LJA&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=veNa6KfC9Gd-iIBej0ecoA&expires=1764837111
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-12-04 12:27:47 (BD Time)
+# Update on 2025-12-04 12:56:39 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="crich2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD 2",Sky Sports Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
@@ -332,13 +332,9 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 4 December 2025 at 12:21:05 pm
+#DATE:- Thursday, 4 December 2025 at 12:49:06 pm
 #EXTINF:-1 tvg-id="138315" tvg-name="Kathmandu Gorkhas Vs Pokhara Avengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138315_5771_PKA_KMG_FC-Web_1764576119645.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kathmandu Gorkhas Vs Pokhara Avengers
 https://in-mc-fdlive.fancode.com/mumbai/138315_english_hls_f04c407d7645939_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138464" tvg-name="Thailand Vs Malaysia A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_Thailand-vs-Malaysia-A-(2)_1764756760849.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Thailand Vs Malaysia A
-https://in-mc-fdlive.fancode.com/mumbai/138464_english_hls_2ede52d7c675487_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="134029" tvg-name="Western Australia Vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Western Australia Vs Victoria
-https://in-mc-fdlive.fancode.com/mumbai/134029_english_hls_af4f51ce7067047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
