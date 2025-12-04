@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090496365_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507849820522_NZvsWI25_1st_test_day3_30nov_landscape_thumb.jpg" group-title="Live",1st Test - Day 3 - 4 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764866659~acl=/*~id=59030810158688131791462559233674~hmac=60e5a9b4c734c8e35ac4288cf175bb8476afd489888a4b4428243d8757214892
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764867875~acl=/*~id=23057763561122906923704865821633~hmac=24ca18f50325add7c30cc3b72773de22037b46922f31ead460069b7ca1327582
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,7 +172,7 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=t_u-yJ4FQIDPrdYvXCuRrw&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=ssaH7v_P62izRWUJQ20lnw&expires=1764831034
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-12-04 10:05:20 (BD Time)
+# Update on 2025-12-04 10:54:06 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="crich2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD 2",Sky Sports Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
@@ -335,15 +335,17 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 4 December 2025 at 10:28:06 am
+#DATE:- Thursday, 4 December 2025 at 10:56:06 am
 #EXTINF:-1 tvg-id="137696" tvg-name="New Zealand Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | New Zealand Vs West Indies
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764829802~acl=/*~id=0edc9cb5cc0b201fe28c8939aa900ed5-1764786600159~hmac=ee71b1340dc990ce622c43d7ede7e12c98e8639e847fb8d3e1ad25302a5e749d|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138661" tvg-name="Hong Kong, China Women Vs Malaysia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Hong Kong, China Women Vs Malaysia Women
-https://in-mc-fdlive.fancode.com/mumbai/138661_english_hls_9b3121322078790_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138464" tvg-name="Thailand Vs Malaysia A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_Thailand-vs-Malaysia-A-(2)_1764756760849.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Thailand Vs Malaysia A
+https://in-mc-fdlive.fancode.com/mumbai/138464_english_hls_2ede52d7c675487_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134029" tvg-name="Western Australia Vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Western Australia Vs Victoria
 https://in-mc-fdlive.fancode.com/mumbai/134029_english_hls_af4f51ce7067047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138618" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/2025-Crown-Australian-Open_Old-Match-Card.png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 1
 https://in-mc-fdlive.fancode.com/mumbai/138618_english_hls_eee8c203dc48113_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138661" tvg-name="Hong Kong, China Women Vs Malaysia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Hong Kong, China Women Vs Malaysia Women
+https://in-mc-fdlive.fancode.com/mumbai/138661_english_hls_9b3121322078790_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
