@@ -165,14 +165,12 @@ https://google.com/hls/test.m3u8
 https://google.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="118497" tvg-name="Practice 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-AbuDhabi_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Formula 1",ENG | Practice 2
 https://dfczwdj93w3oq.cloudfront.net/out/v1/a0448f5b40094b469b3c27fb400c7a23/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138626" tvg-name="Abu Dhabi Knight Riders Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138626_5786_DV_ADKR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Abu Dhabi Knight Riders Vs Desert Vipers
+https://in-mc-fdlive.fancode.com/mumbai/138626_english_hls_d4c434877c85745_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138673" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
 https://in-mc-fdlive.fancode.com/mumbai/138673_english_hls_92b776856179702_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138681" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Skechers-World-Champions-Cup_Old-Match-Card.png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
 https://in-mc-fdlive.fancode.com/mumbai/138681_english_hls_b3a6bc363277119_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138317" tvg-name="Janakpur Bolts Vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138317_5771_LBL_JKB_FC-Web_1764576119610.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Janakpur Bolts Vs Lumbini Lions
-https://in-mc-fdlive.fancode.com/mumbai/138317_english_hls_50b6caeaec4746_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138626" tvg-name="Desert Vipers Vs Abu Dhabi Knight Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138626_5786_DV_ADKR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Desert Vipers Vs Abu Dhabi Knight Riders
-https://in-mc-fdlive.fancode.com/mumbai/138626_english_hls_d4c434877c85745_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
