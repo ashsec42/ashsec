@@ -1,128 +1,85 @@
 import argparse
 import os
 import requests
-import json
 from typing import List
 
-# --- Configuration ---
+# --- Configuration Constants ---
 DEFAULT_OUTPUT_FILE = "ashsec.m3u"
-DEFAULT_TIMEOUT = 30 
-BROWSER_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "Accept": "*/*"
-}
+DEFAULT_TIMEOUT = 15
 
 def fetch_m3u_content(url: str, timeout: int) -> List[str]:
+    """
+    Fetches M3U content from a URL, handling network errors gracefully.
+    """
     try:
-        response = requests.get(url, timeout=timeout, headers=BROWSER_HEADERS)
-        response.raise_for_status()
-        response.encoding = 'utf-8'
-        # Clean invisible BOM characters
-        return response.text.replace('\ufeff', '').splitlines()
-    except Exception as e:
-        print(f"❌ Error fetching {url}: {e}")
-        return []
+        response = requests.get(url, timeout=timeout)
+        response.raise_for_status() # Raise HTTPError for bad responses (4xx or 5xx)
+        print(f"✅ Success: Fetched content from {url}")
+        # Note: Using response.text.splitlines() handles different line endings (LF, CRLF)
+        return response.text.splitlines()
+    except requests.exceptions.Timeout:
+        print(f"❌ Error: Request timed out fetching {url} after {timeout}s.")
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Error: Failed to fetch {url}: {e}")
+    return []
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("-o", "--output", default=DEFAULT_OUTPUT_FILE)
-    parser.add_argument("--timeout", type=int, default=DEFAULT_TIMEOUT)
+    """Main function to extract and combine M3U playlist content verbatim."""
+    parser = argparse.ArgumentParser(description="Combines multiple M3U playlists verbatim.")
+    parser.add_argument("-o", "--output", default=DEFAULT_OUTPUT_FILE, help="Output file path.")
+    parser.add_argument("--timeout", type=int, default=DEFAULT_TIMEOUT, help="HTTP fetch timeout in seconds.")
     args = parser.parse_args()
 
     m3u_links = os.environ.get('M3U_LINKS')
     if not m3u_links:
-        print("❌ Error: M3U_LINKS not set.")
+        print("❌ Error: M3U_LINKS environment variable not set.")
         return
 
     urls = [link.strip() for link in m3u_links.splitlines() if link.strip()]
-    
-    combined_lines = ["#EXTM3U"]
-    
-    print(f"🚀 Starting conversion of {len(urls)} playlists...\n")
+    if not urls:
+        print("❌ Error: M3U_LINKS is set but contains no valid URLs.")
+        return
+
+    # Combined list will be populated with content lines
+    combined_lines = [] 
+    has_header = False # Flag to ensure only one #EXTM3U is kept
 
     for url in urls:
-        print(f"⏳ Processing: {url}")
+        print(f"\n⏳ Processing {url}...")
         lines = fetch_m3u_content(url, args.timeout)
         
-        if not lines: 
+        if not lines:
             continue
-
-        # Variables to hold data for the CURRENT channel being processed
-        current_extinf = None
-        current_headers = {}
-
+            
         for line in lines:
-            line = line.strip()
-            if not line: continue
-
-            # 1. Capture Channel Info
-            if line.startswith('#EXTINF:'):
-                current_extinf = line
-                current_headers = {} # Reset headers for new channel
+            stripped_line = line.strip()
             
-            # 2. Capture User-Agent
-            elif line.startswith('#EXTVLCOPT:http-user-agent='):
-                current_headers['User-Agent'] = line.split('=', 1)[1]
-            
-            # 3. Capture Referer
-            elif line.startswith('#EXTVLCOPT:http-referrer='):
-                current_headers['Referer'] = line.split('=', 1)[1]
-                
-            # 4. Capture Origin
-            elif line.startswith('#EXTVLCOPT:http-origin='):
-                current_headers['Origin'] = line.split('=', 1)[1]
+            # 1. Handle the #EXTM3U header only once
+            if stripped_line.startswith('#EXTM3U'):
+                if not has_header:
+                    combined_lines.append(stripped_line)
+                    has_header = True
+                continue # Skip all other #EXTM3U headers
 
-            # 5. Capture Cookie (JSON Format)
-            elif line.startswith('#EXTHTTP:'):
-                try:
-                    # Extract the JSON part after #EXTHTTP:
-                    json_str = line.split(':', 1)[1]
-                    data = json.loads(json_str)
-                    if "cookie" in data:
-                        current_headers['Cookie'] = data['cookie']
-                except:
-                    pass # Ignore if JSON is malformed
+            # 2. Append all other lines exactly as they are
+            if stripped_line:
+                combined_lines.append(stripped_line)
 
-            # 6. Process the URL (The final step for a channel)
-            elif line.startswith('http') and not line.startswith('#'):
-                if current_extinf:
-                    # Start building the pipe section
-                    # Format: http://url...|User-Agent=X&Referer=Y&Cookie=Z
-                    
-                    url_with_headers = line
-                    header_parts = []
-                    
-                    if 'User-Agent' in current_headers:
-                        header_parts.append(f"User-Agent={current_headers['User-Agent']}")
-                    if 'Referer' in current_headers:
-                        header_parts.append(f"Referer={current_headers['Referer']}")
-                    if 'Cookie' in current_headers:
-                        header_parts.append(f"Cookie={current_headers['Cookie']}")
-                    # Note: OTT Nav handles Origin differently, but Referer is usually enough. 
-                    # If needed, we can add Origin as a generic header.
-
-                    if header_parts:
-                        url_with_headers += "|" + "&".join(header_parts)
-
-                    # Append to master list
-                    combined_lines.append(current_extinf)
-                    combined_lines.append(url_with_headers)
-                    
-                    # Reset
-                    current_extinf = None
-                    current_headers = {}
-
-    # Write to file
+    # Manual enforcement of header if no source provided one
+    if not has_header:
+        combined_lines.insert(0, "#EXTM3U")
+    
+    # 3. Final Output
     if len(combined_lines) > 1:
         with open(args.output, "w", encoding="utf-8") as f:
-            f.write('\n'.join(combined_lines))
+            f.write('\n'.join(combined_lines) + '\n') 
         
         print("\n" + "="*50)
-        print(f"🎉 Success! Converted & Saved to: {args.output}")
-        print(f"Total Channels: {(len(combined_lines)-1)//2}")
+        print(f"🎉 Final Playlist Created: {args.output}")
+        print(f"Total lines: {len(combined_lines)}")
         print("="*50)
     else:
-        print(f"\n⚠️ Error: No channels found.")
+        print(f"\n⚠️ No valid content found.")
 
 if __name__ == "__main__":
     main()
