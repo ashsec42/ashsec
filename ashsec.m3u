@@ -1,7 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090496457_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507875506522_NZvsWI25_1st_test_day5_30nov_landscape_thumb.jpg" group-title="Live",1st Test - Day 5 - 6 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765011997~acl=/*~id=05771009222065346548321587591876~hmac=cdba9ee9ce08ff8d01776edf3d5fc1a2fce003c03cf3b895a8ee9a58a5fd8f49
 #EXTINF:-1 tvg-id="1090496459_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011783/1764076038534870_Bundesliga_MD13_Mainz_vs_BorussiaMgladbach_landscape_thumb.jpg" group-title="Live",Mainz vs Borussia M'gladbach - MD 13 - 6 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765010172~acl=/*~id=35589610602054712839831377176350~hmac=f64da68f07f05c5473f66a79d0ad0212cf922a48d7501fb4ce5c166c15082b72
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765011997~acl=/*~id=05771009222065346548321587591876~hmac=cdba9ee9ce08ff8d01776edf3d5fc1a2fce003c03cf3b895a8ee9a58a5fd8f49
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,7 +175,7 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=ho8UPxKaFe8Prmywk27BlQ&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=VhgupgosHON3MrxU2Zhj0w&expires=1764974631
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-12-06 02:19:47 (BD Time)
+# Update on 2025-12-06 02:48:37 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="crich2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD 2",Sky Sports Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
@@ -335,13 +338,11 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 6 December 2025 at 2:21:06 am
+#DATE:- Saturday, 6 December 2025 at 2:42:06 am
 #EXTINF:-1 tvg-id="130976" tvg-name="Real Oviedo Vs Rcd Mallorca" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130976_5427_RO_MRC_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Oviedo Vs Rcd Mallorca
 https://in-mc-fdlive.fancode.com/mumbai/130976_english_hls_e133ddf3d129241_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136976" tvg-name="Hull City Vs Middlesbrough F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hull-City-VS-Middlesbrough_old.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Hull City Vs Middlesbrough F.c.
 https://in-mc-fdlive.fancode.com/mumbai/136976_english_hls_06a677b0b010269_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138681" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Skechers-World-Champions-Cup_Old-Match-Card.png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
-https://in-mc-fdlive.fancode.com/mumbai/138681_english_hls_b3a6bc363277119_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138277" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
 https://in-mc-fdlive.fancode.com/mumbai/138277_english_hls_ae42a95a2d44810_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
