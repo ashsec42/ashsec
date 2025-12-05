@@ -52,4 +52,41 @@ def main():
         print("❌ Error: M3U_LINKS not set.")
         return
 
-    urls = [link.strip() for link in m3u
+    # --- FIX WAS APPLIED HERE ---
+    urls = [link.strip() for link in m3u_links.splitlines() if link.strip()]
+    
+    # Initialize with the standard header
+    combined_lines = ["#EXTM3U"] 
+
+    print(f"🚀 Starting aggregation of {len(urls)} playlists...\n")
+
+    for url in urls:
+        print(f"⏳ Processing: {url}")
+        lines = fetch_m3u_content(url, args.timeout)
+        
+        if not lines:
+            continue
+            
+        for line in lines:
+            stripped = line.strip()
+            
+            # Skip empty lines
+            if not stripped:
+                continue
+
+            # Skip existing headers (we already added one at the start)
+            if stripped.startswith('#EXTM3U'):
+                continue
+            
+            # APPEND EVERYTHING ELSE (including #EXTVLCOPT, etc.)
+            combined_lines.append(stripped)
+
+    # Write to file
+    if len(combined_lines) > 1:
+        with open(args.output, "w", encoding="utf-8") as f:
+            f.write('\n'.join(combined_lines)) # Join with newlines
+        
+        print("\n" + "="*50)
+        print(f"🎉 Success! Playlist saved to: {args.output}")
+        print(f"Total lines: {len(combined_lines)}")
+        print("="*50)
