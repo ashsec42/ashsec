@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090496569_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507867350522_NZvsWI25_1st_test_day4_30nov_landscape_thumb.jpg" group-title="Live",1st Test - Day 4 - 5 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764956637~acl=/*~id=53618340511273405717468548695679~hmac=bbe58cf01dfb88c45b626ec22bc5116efd4199d365bee286c699cbca35c5c9c9
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,7 +169,7 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=u647Rkh9tJqC6d6X4HBMqw&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=2TMUFLfnz6hOq9p4suXWbQ&expires=1764920641
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-12-05 11:17:47 (BD Time)
+# Update on 2025-12-05 11:48:47 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="crich2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD 2",Sky Sports Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
@@ -335,9 +332,7 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 5 December 2025 at 11:21:06 am
-#EXTINF:-1 tvg-id="137696" tvg-name="New Zealand Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | New Zealand Vs West Indies
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764937802~acl=/*~id=9d42d5f2c544e5424827d0c1d9abd961-1764894600135~hmac=1a9b1e9c0fd620cf5afb757b069a1fb709aee1f46cd3657ac6f87357bc7dd4e3|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Friday, 5 December 2025 at 12:00:06 pm
 #EXTINF:-1 tvg-id="134029" tvg-name="Western Australia Vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Western Australia Vs Victoria
 https://in-mc-fdlive.fancode.com/mumbai/134029_english_hls_af4f51ce7069711_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134030" tvg-name="New South Wales Vs Queensland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134030_5609_NSW_QUN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | New South Wales Vs Queensland
