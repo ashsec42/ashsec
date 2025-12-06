@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090496705_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011801/1764133806696656_Bundesliga_MD13_RB_Leipzig_vs_EintrachtFrankfurt_landscape_thumb.jpg" group-title="Live",RB Leipzig vs Eintracht Frankfurt- MD 13 - 6 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765092690~acl=/*~id=70352063492842222999339469368022~hmac=dd8112c04b740734c42ddd5112c3c8441907a73f4ca5714819b806407fd42313
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,7 +169,7 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=DSdzxcxmCW8Q5PBDBFu5NA&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=PkoCFTztTAstv_pjlyAnTQ&expires=1765057028
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-12-07 01:12:53 (BD Time)
+# Update on 2025-12-07 01:44:44 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="crich2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD 2",Sky Sports Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
@@ -335,17 +332,11 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 7 December 2025 at 1:22:32 am
+#DATE:- Sunday, 7 December 2025 at 1:52:33 am
 #EXTINF:-1 tvg-id="130979" tvg-name="Athletic Club Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130979_5427_ATH_ATL_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Athletic Club Vs Atletico De Madrid
 https://in-mc-fdlive.fancode.com/mumbai/130979_english_hls_f51551c30624650_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138278" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 3
 https://in-mc-fdlive.fancode.com/mumbai/138278_english_hls_c7b168298721699_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130972" tvg-name="Real Betis Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130972_5427_RB_BAR_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Betis Vs Fc Barcelona
-https://in-mc-fdlive.fancode.com/mumbai/130972_english_hls_b35c2f1d4893092_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130972" tvg-name="Real Betis Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130972_5427_RB_BAR_fc-Web.jpg" tvg-language="HINDI" group-title="Football",HIN | Real Betis Vs Fc Barcelona
-https://in-mc-fdlive.fancode.com/mumbai/130972_hindi_hls_e07a25a14910533_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130972" tvg-name="Real Betis Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130972_5427_RB_BAR_fc-Web.jpg" tvg-language="BENGALI" group-title="Football",BEN | Real Betis Vs Fc Barcelona
-https://in-mc-fdlive.fancode.com/mumbai/130972_bengali_hls_c2c6f540b147358_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
