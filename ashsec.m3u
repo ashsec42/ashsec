@@ -1,5 +1,11 @@
 #EXTM3U
 # By Abu SAEEID X Noob
+# Github @abusaeeidx
+# Update on 2025-12-07 04:41:40 (BD Time)
+# Note: I do not host any content, everything is publicly available.
+#EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 1",Fallback Channel
+https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
+# By Abu SAEEID X Noob
 # Github X @abusaeeidx
 # Update on 2025-12-07 04:15:39 (BD Time)
 # Note: I do not host any content, everything is publicly available.
@@ -164,9 +170,9 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 7 December 2025 at 4:02:34 am
-#EXTINF:-1 tvg-id="130979" tvg-name="Athletic Club Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130979_5427_ATH_ATL_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Athletic Club Vs Atletico De Madrid
-https://in-mc-fdlive.fancode.com/mumbai/130979_english_hls_f51551c30624650_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday, 7 December 2025 at 4:17:34 am
+#EXTINF:-1 tvg-id="134029" tvg-name="Western Australia Vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Western Australia Vs Victoria
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
