@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090496700_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011993/1764738463989770_ABB_FIA_FormulaE_WC25_Round_1_Sao_Paulo_EPRIX_Qualifying_Race_2dec_landscape_thumb.jpg" group-title="Live",Round 1 - Sao Paulo E-PRIX - Qualifying Race - 6 Dec 2025 [ENG] - ABB FIA Formula E World Championship - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765066327~acl=/*~id=89014193766621698934394000285220~hmac=272fac346cb0007eb8d6a2796c8bcae8617c984f6b93e7ef105d80d866bc4ae6
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
 # Update on 2025-12-06 17:37:34 (BD Time)
@@ -7,7 +10,7 @@
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-12-06 17:13:14 (BD Time)
+# Update on 2025-12-06 17:44:04 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="crich2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD 2",Sky Sports Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
@@ -170,15 +173,17 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 6 December 2025 at 5:21:07 pm
-#EXTINF:-1 tvg-id="118498" tvg-name="Practice 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-AbuDhabi_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Formula 1",ENG | Practice 3
-https://d281hjow8ytur3.cloudfront.net/out/v1/d1ed179cac8445349c504764c01d4713/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138708" tvg-name="Bahrain Women Vs Oman Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/OMAN-vs-bahrain-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bahrain Women Vs Oman Women
-https://in-mc-fdlive.fancode.com/mumbai/138708_english_hls_8b3f861b1837963_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Saturday, 6 December 2025 at 6:07:06 pm
 #EXTINF:-1 tvg-id="138319" tvg-name="Chitwan Rhinos Vs Pokhara Avengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138319_5771_CWR_PKA_FC-Web_1764576119607.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Chitwan Rhinos Vs Pokhara Avengers
 https://in-mc-fdlive.fancode.com/mumbai/138319_english_hls_2e1306b52559062_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="136975" tvg-name="Derby County Football Club Vs Leicester City F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Derby-County-VS-Leicester-City_old.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Derby County Football Club Vs Leicester City F.c.
+https://in-mc-fdlive.fancode.com/mumbai/136975_english_hls_a9eb233ec5601_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="130974" tvg-name="Villarreal Cf Vs Getafe Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130974_5427_VIL_GEF_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Villarreal Cf Vs Getafe Cf
+https://in-mc-fdlive.fancode.com/mumbai/130974_english_hls_c2e76a2f8322730_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138674" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 3
 https://in-mc-fdlive.fancode.com/mumbai/138674_english_hls_7b47ff6fec24460_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="121614" tvg-name="Sprint Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg" tvg-language="ENGLISH" group-title="Motorsports",ENG | Sprint Race
+https://in-mc-fdlive.fancode.com/mumbai/121614_english_hls_a5d09f7b6722428_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
