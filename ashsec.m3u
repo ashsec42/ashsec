@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090496758_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011801/1764134575640656_Bundesliga_MD13_BorussiaDortmund_vs_Hoffenheim_landscape_thumb.jpg" group-title="Live",Borussia Dortmund vs Hoffenheim - MD 13 - 7 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765171857~acl=/*~id=29344198843393321342032378625722~hmac=c349fcc0536886e546290169e46f08476a34f04ef578c7af3c14680d5dc84534
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765174293~acl=/*~id=97558976993091943960347642056160~hmac=45d6e4b369871c3e2bb4e9a923ff1a3933386248e63b7f06ec19ef09645dd8d1
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,14 +172,12 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=xm3ojo_s3ds2RtojDNnymQ&exp
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=NbSqR6awS9q2ZOU_5-GG7g&expires=1765136310
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-07 23:19:56 (BD Time)
+# Update on 2025-12-07 23:47:36 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 7 December 2025 at 11:21:06 pm
-#EXTINF:-1 tvg-id="138629" tvg-name="Dubai Capitals Vs Abu Dhabi Knight Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138629_5786_DC_ADKR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dubai Capitals Vs Abu Dhabi Knight Riders
-https://in-mc-fdlive.fancode.com/mumbai/138629_english_hls_bf0bb1a94940238_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday, 7 December 2025 at 11:56:09 pm
 #EXTINF:-1 tvg-id="130971" tvg-name="Rcd Espanyol Vs Rayo Vallecano" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130971_5427_ESL_RVL_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Rcd Espanyol Vs Rayo Vallecano
 https://in-mc-fdlive.fancode.com/mumbai/130971_english_hls_a92a66d66494781_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138267" tvg-name="Deportivo De La Coruña Vs Castellón" tvg-logo="https://images.fancode.com/aig/match/v1/138267_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Deportivo De La Coruña Vs Castellón
