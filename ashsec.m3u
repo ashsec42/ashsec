@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090496460_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="Live",UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [ENG] - UFC 323 - Dvalishvili vs Yan 2 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765135335~acl=/*~id=12924479291149914744694703282307~hmac=888d763cdf6fc7cebc14388c036e80e8d86efb35d1dc92676d55f43dc698d43d
-#EXTINF:-1 tvg-id="1090496460_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="Live",UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [HIN] - UFC 323 - Dvalishvili vs Yan 2 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765135335~acl=/*~id=12924479291149914744694703282307~hmac=888d763cdf6fc7cebc14388c036e80e8d86efb35d1dc92676d55f43dc698d43d
-#EXTINF:-1 tvg-id="1090496460_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="Live",UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [TAM] - UFC 323 - Dvalishvili vs Yan 2 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765135335~acl=/*~id=12924479291149914744694703282307~hmac=888d763cdf6fc7cebc14388c036e80e8d86efb35d1dc92676d55f43dc698d43d
-#EXTINF:-1 tvg-id="1090496460_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="Live",UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [TEL] - UFC 323 - Dvalishvili vs Yan 2 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765135335~acl=/*~id=12924479291149914744694703282307~hmac=888d763cdf6fc7cebc14388c036e80e8d86efb35d1dc92676d55f43dc698d43d
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
 # Update on 2025-12-07 13:38:08 (BD Time)
@@ -19,7 +7,7 @@ https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-12-07 13:15:44 (BD Time)
+# Update on 2025-12-07 13:44:40 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="crich2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD 2",Sky Sports Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
@@ -182,7 +170,7 @@ https://google.com/hls/test.m3u8
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
 # No live streams available
-# Updated: 7/12/2025, 1:21:06 pm
+# Updated: 7/12/2025, 1:49:09 pm
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
