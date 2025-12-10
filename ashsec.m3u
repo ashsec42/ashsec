@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090496903_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255330712892_NZvsWI25_2nd_test_day1_9dec_landscape_thumb.jpg" group-title="Live",2nd Test - Day 1 - 10 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765388626~acl=/*~id=81076588459331795184197548794139~hmac=cad92e36e59d16d245d554b98b5b260e72b1654cb3b7e535fbfeb24d9815ed1c
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,14 +169,12 @@ https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=Lw-wLk8VZsCEzH-EmciiVA&expi
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=vM3l8g2U7oDzg-HhcPeKhg&expires=1765352687
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-10 11:31:18 (BD Time)
+# Update on 2025-12-10 11:52:24 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 10 December 2025 at 10:49:06 am
-#EXTINF:-1 tvg-id="137697" tvg-name="West Indies Vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | West Indies Vs New Zealand
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1765348205~acl=/*~id=c76b95f648d5c5aeab64ea78dfac53d9-1765305000183~hmac=6f4c67ede8412cc47eccde1992729a676f17072c923586c4db58080c9cf15fd9|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Wednesday, 10 December 2025 at 12:07:08 pm
 #EXTINF:-1 tvg-id="138701" tvg-name="Hyderabad Hawks Vs Mumbai Fighters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ability-sports-league_old-match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Hyderabad Hawks Vs Mumbai Fighters
 https://in-mc-fdlive.fancode.com/mumbai/138701_english_hls_279880d0a015561_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
@@ -438,7 +433,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1765417314~acl=%2f*~id=265d333e-990c-432a-888e-0af0ba6bb35d~data=hdntl~hmac=c7eb28f6b04d94b612c9014ba2d351b8b36b2152c5295716b52640a43673daf0
-#Generated on 1765331253
+#Generated on 1765348513
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1765364411~acl=%2f*~id=4cca761d11a8c1559311ca6e589f5ce1~data=hdntl~hmac=e6aa9d544e526453e81ae0f542c5921e1a84a82386fdba3556a9137dea4a26c0"}
