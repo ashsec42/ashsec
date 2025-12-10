@@ -1,7 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090496504_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg" group-title="Live",Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281
+#EXTINF:-1 tvg-id="1090496504_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg" group-title="Live",Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [HIN] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281
+#EXTINF:-1 tvg-id="1090496504_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg" group-title="Live",Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [TAM] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281
+#EXTINF:-1 tvg-id="1090496504_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg" group-title="Live",Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [TEL] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281
 #EXTINF:-1 tvg-id="1090496502_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764740530232688_UYL2526_MD6_Real_Madrid_vs_Man_City_2dec_landscape_thumb.jpg" group-title="Live",Real Madrid vs Man City - MD 6 - 10 Dec 2025 [ENG] - UEFA Youth League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765424505~acl=/*~id=32740643827578679350552575146545~hmac=8a4c82fb4119f300fe9619f9c5884c93df3ce9a6e78a692989d475f375ad705b
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +184,12 @@ https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=IEL2qQfwGxY2sEboCvzd1g&expi
 https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=IhTucZnjE4JQP-sC_2RoxA&expires=1765388760
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-10 21:32:10 (BD Time)
+# Update on 2025-12-10 21:52:43 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 10 December 2025 at 9:21:06 pm
+#DATE:- Wednesday, 10 December 2025 at 9:56:07 pm
 #EXTINF:-1 tvg-id="138632" tvg-name="Sharjah Warriorz Vs Gulf Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138632_5786_GG_SWR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sharjah Warriorz Vs Gulf Giants
 https://in-mc-fdlive.fancode.com/mumbai/138632_english_hls_88e4b812bf39142_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
