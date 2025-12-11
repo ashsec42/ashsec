@@ -177,9 +177,7 @@ https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=zjDWisTN12tmMZ3Tx8YZYQ&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 11 December 2025 at 6:56:06 pm
-#EXTINF:-1 tvg-id="138323" tvg-name="Lumbini Lions Vs Biratnagar Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138314_5771_BK_LBL_FC-Web_1764576118857.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Lumbini Lions Vs Biratnagar Kings
-https://in-mc-fdlive.fancode.com/mumbai/138323_english_hls_beba96eb2527032_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Thursday, 11 December 2025 at 7:21:07 pm
 #EXTINF:-1 tvg-id="136186" tvg-name="Kaya Vs Pohang Steelers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136186_5648_KAYA_PHG_fc-Web_1758118382982.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Kaya Vs Pohang Steelers
 https://in-mc-fdlive.fancode.com/mumbai/136186_english_hls_f74de83aa315337_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136185" tvg-name="Bg Pathum United Vs Tampines Rovers Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136185_5648_PNU_TAM_fc-Web_1758118382839.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Bg Pathum United Vs Tampines Rovers Fc
@@ -190,6 +188,8 @@ https://in-mc-fdlive.fancode.com/mumbai/136150_english_hls_49025f7cf275271_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/136149_english_hls_f43fdb97c510945_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138691" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Championship_Old-Match-Card.png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 1
 https://in-mc-fdlive.fancode.com/mumbai/138691_english_hls_c77b31d12a5941_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138323" tvg-name="Lumbini Lions Vs Biratnagar Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138314_5771_BK_LBL_FC-Web_1764576118857.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Lumbini Lions Vs Biratnagar Kings
+https://in-mc-fdlive.fancode.com/mumbai/138323_english_hls_beba96eb2527032_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
