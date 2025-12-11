@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090497159_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255347137892_NZvsWI25_2nd_test_day3_9dec_landscape_thumb.jpg" group-title="Live",2nd Test - Day 3 - 12 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765535969~acl=/*~id=11900855302328539464053101861152~hmac=18b068b56166af8e229dfdeae0e8419aa9e983589d5609d7c09991024a46e0aa
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765537798~acl=/*~id=74460889749652119203554217796710~hmac=a8788203da6e76a2a4f05bb58f689b6b72e530c9dc2e58e8a44273c4569b2c21
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=fdBwV8mfQPI5QyEUAQVG1w&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=dD5-x1PYflpG317LqLyqTw&expires=1765500253
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-12 04:25:08 (BD Time)
+# Update on 2025-12-12 04:51:09 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 12 December 2025 at 4:21:06 am
+#DATE:- Friday, 12 December 2025 at 4:49:07 am
 #EXTINF:-1 tvg-id="137697" tvg-name="West Indies Vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | West Indies Vs New Zealand
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1765521004~acl=/*~id=006bd987f15a4b6ef36615e2d03dde54-1765477800455~hmac=f6f8fc22bfbbe413192e8472bad41c75e88bf2bdf38d888602b90a1205ec0979|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
