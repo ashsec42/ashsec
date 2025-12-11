@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090496525_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764085273329276_UEL2526_MD6_Utrecht_vs_Nottm_Forest_25nov_landscape_thumb.jpg" group-title="Live",Utrecht vs Nott'm Forest - MD 6 - 11 Dec 2025 [ENG] - UEFA Europa League 2025-26 - ENG
+#EXTINF:-1 tvg-id="1090496654_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764096257454276_UEL2526_MD6_Basel_vs_Aston_Villa_25nov_landscape_thumb.jpg" group-title="Live",Basel vs Aston Villa - MD 6 - 12 Dec 2025 [ENG] - UEFA Europa League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525017~acl=/*~id=39380994387039281746862008816223~hmac=b66df513132ea9640cc63dbc716df004d72fbfd515512646a05ab1787b913367
-#EXTINF:-1 tvg-id="1090496519_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764084518497276_UEL2526_MD6_GNK_Dinamo_vs_Real_Betis_25nov_landscape_thumb.jpg" group-title="Live",GNK Dinamo vs Real Betis - MD 6 - 11 Dec 2025 [ENG] - UEFA Europa League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525017~acl=/*~id=39380994387039281746862008816223~hmac=b66df513132ea9640cc63dbc716df004d72fbfd515512646a05ab1787b913367
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765526842~acl=/*~id=99347396906474171099327342622945~hmac=02abb78d5f4cf974db2c55cfefb154a56f655ec07b95e0227d4ad005fb5ad5c3
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,12 +172,12 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=AUyvb8UPK-b2Qn3TZvnrDQ&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=24q7_ye04BZSo5Y389AOgA&expires=1765489243
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-12 01:23:37 (BD Time)
+# Update on 2025-12-12 01:48:46 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 # No live streams available
-# Updated: 12/12/2025, 1:21:07 am
+# Updated: 12/12/2025, 1:49:09 am
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
