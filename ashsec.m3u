@@ -169,12 +169,16 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=YT7yZychZdV8-1lls2fxpw&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=aDt6cheKnuLvbkkJSc39hA&expires=1765553686
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-12 19:38:00 (BD Time)
+# Update on 2025-12-12 19:56:39 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 12 December 2025 at 7:28:07 pm
+#DATE:- Friday, 12 December 2025 at 7:56:06 pm
+#EXTINF:-1 tvg-id="138634" tvg-name="Gulf Giants Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138634_5786_GG_DV_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Gulf Giants Vs Desert Vipers
+https://in-mc-fdlive.fancode.com/mumbai/138634_english_hls_5637598c009595_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138714" tvg-name="Saudi Arabia Women Vs Bahrain Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138714_5798_KSAW_BRNW_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Saudi Arabia Women Vs Bahrain Women
+https://in-mc-fdlive.fancode.com/mumbai/138714_english_hls_f17e528e2f80712_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138692" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Championship_Old-Match-Card.png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
 https://in-mc-fdlive.fancode.com/mumbai/138692_english_hls_91620cb798791_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
