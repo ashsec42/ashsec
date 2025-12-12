@@ -169,18 +169,16 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=qvMY9F1OPfrc7_ElwOn_mg&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=HeBuuQD11xW7RAx7xiIL_A&expires=1765557690
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-12 20:26:23 (BD Time)
+# Update on 2025-12-12 20:49:30 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 12 December 2025 at 8:21:07 pm
+#DATE:- Friday, 12 December 2025 at 8:49:06 pm
 #EXTINF:-1 tvg-id="138634" tvg-name="Gulf Giants Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138634_5786_GG_DV_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Gulf Giants Vs Desert Vipers
 https://in-mc-fdlive.fancode.com/mumbai/138634_english_hls_5637598c009595_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138714" tvg-name="Bahrain Women Vs Saudi Arabia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138714_5798_KSAW_BRNW_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bahrain Women Vs Saudi Arabia Women
 https://in-mc-fdlive.fancode.com/mumbai/138714_english_hls_f17e528e2f80712_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138692" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Championship_Old-Match-Card.png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
-https://in-mc-fdlive.fancode.com/mumbai/138692_english_hls_91620cb798791_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
