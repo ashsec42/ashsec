@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090497361_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012247/1765445978616868_AC25_U19_AFG_vs_BAN_11dec_Landscape_thumb.jpg" group-title="Live",Afghanistan U19 vs Bangladesh U19 - 13 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765665793~acl=/*~id=69324283101467381950554574722825~hmac=749f2b842259a4c02d7592f60e6539446708d2b466f0c3c44b0ce8c33a421fa4
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765667012~acl=/*~id=26757700136327858855657684580228~hmac=642c19839dd5ca554feac935d022ff47b9b8a6a2b61baba76acd9310acc39e75
 #EXTINF:-1 tvg-id="1090497275_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011992/1764737889081679_AsianTour25_Saudi_Open_presented_by_PIF_Day4_2dec_landscape_thumb.jpg" group-title="Live",PIF Saudi Open - Day 4 - 13 Dec 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765665793~acl=/*~id=69324283101467381950554574722825~hmac=749f2b842259a4c02d7592f60e6539446708d2b466f0c3c44b0ce8c33a421fa4
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765667012~acl=/*~id=26757700136327858855657684580228~hmac=642c19839dd5ca554feac935d022ff47b9b8a6a2b61baba76acd9310acc39e75
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,18 +175,16 @@ https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=ih-HO3G-0cZA_jqKdfr3rw&expi
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=QOEVdfFHY0UAETnVyKc08g&expires=1765629748
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-13 16:24:45 (BD Time)
+# Update on 2025-12-13 16:49:29 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 13 December 2025 at 4:21:07 pm
+#DATE:- Saturday, 13 December 2025 at 4:42:09 pm
 #EXTINF:-1 tvg-id="138324" tvg-name="Sudurpaschim Royals Vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138305_5771_LBL_SPR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sudurpaschim Royals Vs Lumbini Lions
 https://in-mc-fdlive.fancode.com/mumbai/138324_english_hls_4fe8fc9a0782100_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138716" tvg-name="Oman Women Vs Saudi Arabia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138716_5798_OMN-W_KSAW_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Oman Women Vs Saudi Arabia Women
 https://in-mc-fdlive.fancode.com/mumbai/138716_english_hls_e513d15d8c44553_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138797" tvg-name="Melbourne Victory Vs Adelaide United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138797_5802_MLV_ADL_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Melbourne Victory Vs Adelaide United
-https://in-mc-fdlive.fancode.com/mumbai/138797_english_hls_333841081151986_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138798" tvg-name="Perth Glory Vs Sydney Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138798_5802_PG_SYD_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Perth Glory Vs Sydney Fc
 https://in-mc-fdlive.fancode.com/mumbai/138798_english_hls_071c23600054977_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138693" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Championship_Old-Match-Card.png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 3
