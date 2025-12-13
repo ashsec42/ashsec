@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090497314_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764308901692124_Bundesliga_MD14_BayerLeverkusen_vs_FC_Koln_landscape_thumb.jpg" group-title="Live",Bayer Leverkusen vs FC Koln - MD 14 - 13 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765698079~acl=/*~id=51697269304851351022324560350722~hmac=7a9da0bf92875a202ebeb63077fc4665d1867e2f17abc7e0029929255b29fb25
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,24 +169,18 @@ https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=Znz28jXJwc0GQ7xiv3swnA&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=EgVtw5_54rDYdySbeS-GqA&expires=1765661822
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-14 01:19:14 (BD Time)
+# Update on 2025-12-14 01:47:55 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 14 December 2025 at 1:21:07 am
+#DATE:- Sunday, 14 December 2025 at 1:49:03 am
 #EXTINF:-1 tvg-id="130984" tvg-name="Getafe Cf Vs Rcd Espanyol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130984_5427_GEF_ESL_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Getafe Cf Vs Rcd Espanyol
 https://in-mc-fdlive.fancode.com/mumbai/130984_english_hls_1506319c7e67106_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138620" tvg-name="Real Zaragoza Vs Cádiz" tvg-logo="https://images.fancode.com/aig/match/v1/138620_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Real Zaragoza Vs Cádiz
 https://in-mc-fdlive.fancode.com/mumbai/138620_english_hls_de9c8afe1380585_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138729" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
 https://in-mc-fdlive.fancode.com/mumbai/138729_english_hls_509a3b62cb30853_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130989" tvg-name="Fc Barcelona Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Fc Barcelona Vs Ca Osasuna
-https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130989" tvg-name="Fc Barcelona Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" tvg-language="HINDI" group-title="Football",HIN | Fc Barcelona Vs Ca Osasuna
-https://in-mc-fdlive.fancode.com/mumbai/130989_hindi_hls_36e9e708da49967_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130989" tvg-name="Fc Barcelona Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" tvg-language="BENGALI" group-title="Football",BEN | Fc Barcelona Vs Ca Osasuna
-https://in-mc-fdlive.fancode.com/mumbai/130989_bengali_hls_a04164d23d2805_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
