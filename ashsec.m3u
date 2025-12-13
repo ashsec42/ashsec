@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090497314_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764308901692124_Bundesliga_MD14_BayerLeverkusen_vs_FC_Koln_landscape_thumb.jpg" group-title="Live",Bayer Leverkusen vs FC Koln - MD 14 - 13 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765688337~acl=/*~id=93314487799521321811746066750922~hmac=cc2b62460d64775bab924430b126b6e05d945dacf1f4a20343a712b7942e3189
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,22 +172,28 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=KPlDwBdLc5QV143bF7SxZQ&expi
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=-8kLMbf09ARRx1p4ZAYmxA&expires=1765651599
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-13 22:29:30 (BD Time)
+# Update on 2025-12-13 22:53:14 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 13 December 2025 at 10:21:03 pm
+#DATE:- Saturday, 13 December 2025 at 10:42:04 pm
 #EXTINF:-1 tvg-id="138635" tvg-name="Dubai Capitals Vs Abu Dhabi Knight Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138635_5786_ADKR_DC_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dubai Capitals Vs Abu Dhabi Knight Riders
 https://in-mc-fdlive.fancode.com/mumbai/138635_english_hls_d8c1dedcbc37574_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138717" tvg-name="Bahrain Women Vs Kuwait Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138717_5798_BRNW_KU-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bahrain Women Vs Kuwait Women
 https://in-mc-fdlive.fancode.com/mumbai/138717_english_hls_23c9efdc5a60218_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="136982" tvg-name="Wrexham A.f.c. Vs Watford F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136982_5489_WRX_WAT_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Wrexham A.f.c. Vs Watford F.c.
-https://in-mc-fdlive.fancode.com/mumbai/136982_english_hls_cf5d267e0166435_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130983" tvg-name="Rcd Mallorca Vs Elche Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130983_5427_MRC_ELC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Rcd Mallorca Vs Elche Cf
 https://in-mc-fdlive.fancode.com/mumbai/130983_english_hls_b392c4731f92633_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="130989" tvg-name="Fc Barcelona Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Fc Barcelona Vs Ca Osasuna
+https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="130989" tvg-name="Fc Barcelona Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" tvg-language="HINDI" group-title="Football",HIN | Fc Barcelona Vs Ca Osasuna
+https://in-mc-fdlive.fancode.com/mumbai/130989_hindi_hls_36e9e708da49967_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="130989" tvg-name="Fc Barcelona Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" tvg-language="BENGALI" group-title="Football",BEN | Fc Barcelona Vs Ca Osasuna
+https://in-mc-fdlive.fancode.com/mumbai/130989_bengali_hls_a04164d23d2805_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138619" tvg-name="Sporting De Gijón Vs Granada" tvg-logo="https://images.fancode.com/aig/match/v1/138619_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Sporting De Gijón Vs Granada
 https://in-mc-fdlive.fancode.com/mumbai/138619_english_hls_92e07ba7eb6998_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="136982" tvg-name="Wrexham A.f.c. Vs Watford F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136982_5489_WRX_WAT_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Wrexham A.f.c. Vs Watford F.c.
+https://in-mc-fdlive.fancode.com/mumbai/136982_english_hls_cf5d267e0166435_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
