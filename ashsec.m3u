@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090497361_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012247/1765445978616868_AC25_U19_AFG_vs_BAN_11dec_Landscape_thumb.jpg" group-title="Live",Afghanistan U19 vs Bangladesh U19 - 13 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765662139~acl=/*~id=47350249119023739798033788022890~hmac=72278bdfa46b69802cbaeed91924685c02833f5268d1e320587812a81cb071e7
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765663357~acl=/*~id=96751344753848494884056440619580~hmac=fd06bcf08cb97013e75041f8a76b2908c05925612a83228ced75ccef2ba994bb
 #EXTINF:-1 tvg-id="1090497275_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011992/1764737889081679_AsianTour25_Saudi_Open_presented_by_PIF_Day4_2dec_landscape_thumb.jpg" group-title="Live",PIF Saudi Open - Day 4 - 13 Dec 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765662139~acl=/*~id=47350249119023739798033788022890~hmac=72278bdfa46b69802cbaeed91924685c02833f5268d1e320587812a81cb071e7
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765663357~acl=/*~id=96751344753848494884056440619580~hmac=fd06bcf08cb97013e75041f8a76b2908c05925612a83228ced75ccef2ba994bb
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,12 +175,12 @@ https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=065BiVgY6cgmVLVHP7ervA&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=zEcG7MRItSvIGm6iUwA1Xg&expires=1765625968
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-13 15:24:33 (BD Time)
+# Update on 2025-12-13 15:47:45 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 13 December 2025 at 3:21:06 pm
+#DATE:- Saturday, 13 December 2025 at 3:49:07 pm
 #EXTINF:-1 tvg-id="138324" tvg-name="Sudurpaschim Royals Vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138305_5771_LBL_SPR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sudurpaschim Royals Vs Lumbini Lions
 https://in-mc-fdlive.fancode.com/mumbai/138324_english_hls_4fe8fc9a0782100_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138716" tvg-name="Oman Women Vs Saudi Arabia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138716_5798_OMN-W_KSAW_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Oman Women Vs Saudi Arabia Women
