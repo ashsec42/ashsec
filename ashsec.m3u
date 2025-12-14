@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090497484_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764310946965124_Bundesliga_MD14_WerderBremen_vs_VfB_Stuttgart_Landscape_thumb.jpg" group-title="Live",Werder Bremen vs VfB Stuttgart - MD 14 - 15 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765784028~acl=/*~id=40671340661319240512929289457231~hmac=1cd92ab17281e041963fd8973efb7073f12130bbe8dcd1ade07c2d3aa90272b8
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765785854~acl=/*~id=68700827473340037206655254975662~hmac=0391c776f8954d8e7b7b4c4227fd1060be42124f7ccbd68e7cd2075f48b8bc56
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=877zaZ4GFXofUitTG5JWpw&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Uhe4FLfw_8eJk-oR7ARCTQ&expires=1765748216
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-15 01:19:38 (BD Time)
+# Update on 2025-12-15 01:47:56 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 15 December 2025 at 1:21:08 am
+#DATE:- Monday, 15 December 2025 at 1:56:04 am
 #EXTINF:-1 tvg-id="130987" tvg-name="Deportivo Alaves Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130987_5427_ALA_RM_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Deportivo Alaves Vs Real Madrid
 https://in-mc-fdlive.fancode.com/mumbai/130987_english_hls_57f73c799a91831_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130987" tvg-name="Deportivo Alaves Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130987_5427_ALA_RM_fc-web.jpg" tvg-language="HINDI" group-title="Football",HIN | Deportivo Alaves Vs Real Madrid
