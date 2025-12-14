@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090497479_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764309717719124_Bundesliga_MD14_SC_Freiburg_vs_BorussiaDortmund_landscape_thumb.jpg" group-title="Live",SC Freiburg vs Borussia Dortmund - MD 14 - 14 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765766369~acl=/*~id=41273775320562703758294800059656~hmac=c3dd3338834fc5ae0876564f36e0cba4509eeafce2706dc43365e8c86830aa68
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765767584~acl=/*~id=65229057509986983308968179341190~hmac=4bfb5f5c5cb4c6826cb08f9671cdd41ef3905b5c97fa21564b61934b85e52e46
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,18 +172,18 @@ https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=KeSbBpnY772l2MRNKmlieQ&expi
 https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=7sH0AgxN_pdVQtIqFWEIgw&expires=1765730459
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-14 20:22:15 (BD Time)
+# Update on 2025-12-14 20:48:20 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 14 December 2025 at 8:21:05 pm
+#DATE:- Sunday, 14 December 2025 at 8:49:08 pm
 #EXTINF:-1 tvg-id="138637" tvg-name="Dubai Capitals Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138637_5786_DV_DC_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dubai Capitals Vs Desert Vipers
 https://in-mc-fdlive.fancode.com/mumbai/138637_english_hls_1b85ddf4e932717_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130986" tvg-name="Sevilla Fc Vs Real Oviedo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130986_5427_SEV_RO_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Sevilla Fc Vs Real Oviedo
-https://in-mc-fdlive.fancode.com/mumbai/130986_english_hls_19c9fb892719297_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130981" tvg-name="Rc Celta Vs Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130981_5427_CEV_ATH_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Rc Celta Vs Athletic Club
 https://in-mc-fdlive.fancode.com/mumbai/130981_english_hls_c9e2f5fc2f47732_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="130986" tvg-name="Sevilla Fc Vs Real Oviedo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130986_5427_SEV_RO_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Sevilla Fc Vs Real Oviedo
+https://in-mc-fdlive.fancode.com/mumbai/130986_english_hls_19c9fb892719297_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
