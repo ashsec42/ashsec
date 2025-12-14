@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090497424_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012312/1765536441245773_Messi_India_Tour25_Mumbai_12dec_landscape_thumb.jpg" group-title="Live",Mumbai Event - 14 Dec 2025 [ENG] - Messi's GOAT Tour Of India - ENG
+#EXTINF:-1 tvg-id="1090497479_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764309717719124_Bundesliga_MD14_SC_Freiburg_vs_BorussiaDortmund_landscape_thumb.jpg" group-title="Live",SC Freiburg vs Borussia Dortmund - MD 14 - 14 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765762718~acl=/*~id=12964041463079328377311042218909~hmac=02ad009de47168442311f949e3dacb249a24aa3476caacda48f2e1ea924dfa37
-#EXTINF:-1 tvg-id="1090497528_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012366/1765628523593836_AC25_U19_UAE_vs_MAS_13dec_Landscape_thumb.jpg" group-title="Live",UAE U19 vs Malaysia U19 - 14 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765762718~acl=/*~id=12964041463079328377311042218909~hmac=02ad009de47168442311f949e3dacb249a24aa3476caacda48f2e1ea924dfa37
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765763935~acl=/*~id=08051527675231089973601856599088~hmac=beb148c2fa4adfc392e7701e1475ff2334fed970de35f5a530652c54482f96ac
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,14 +172,14 @@ https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=zIpOeeWuDxDyp9Xn6fPq_Q&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Rt8bixOiIum6T3ADLTUbtA&expires=1765727064
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-14 19:30:51 (BD Time)
+# Update on 2025-12-14 19:49:25 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 14 December 2025 at 7:14:05 pm
-#EXTINF:-1 tvg-id="138636" tvg-name="Sharjah Warriorz Vs Mi Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138636_5786_MIE_SWR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sharjah Warriorz Vs Mi Emirates
-https://in-mc-fdlive.fancode.com/mumbai/138636_english_hls_bcbeaeaa7b56276_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday, 14 December 2025 at 7:42:03 pm
+#EXTINF:-1 tvg-id="138637" tvg-name="Desert Vipers Vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138637_5786_DV_DC_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Desert Vipers Vs Dubai Capitals
+https://in-mc-fdlive.fancode.com/mumbai/138637_english_hls_1b85ddf4e932717_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130986" tvg-name="Sevilla Fc Vs Real Oviedo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130986_5427_SEV_RO_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Sevilla Fc Vs Real Oviedo
 https://in-mc-fdlive.fancode.com/mumbai/130986_english_hls_19c9fb892719297_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
