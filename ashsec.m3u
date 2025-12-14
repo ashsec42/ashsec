@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090497483_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764309988748124_Bundesliga_MD14_BayernMunich_vs_Mainz_Landscape_thumb.jpg" group-title="Live",Bayern Munich vs Mainz - MD 14 - 14 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765777325~acl=/*~id=04546679287065786511753925574729~hmac=267059c34bed63ee9950c36ec4da47f394fe9e4234bce857c187e9ca5d35ac72
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765779153~acl=/*~id=50846271207566167731248740267978~hmac=3b738e2623e8da9003aae0f5810ee8214e60bbb42011f759bfec5813bfcea15e
+#EXTINF:-1 tvg-id="1090497484_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764310946965124_Bundesliga_MD14_WerderBremen_vs_VfB_Stuttgart_Landscape_thumb.jpg" group-title="Live",Werder Bremen vs VfB Stuttgart - MD 14 - 15 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765779153~acl=/*~id=50846271207566167731248740267978~hmac=3b738e2623e8da9003aae0f5810ee8214e60bbb42011f759bfec5813bfcea15e
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,14 +175,12 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=PZrEWgSmcdU7vxXp7aexIA&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=kvTSpAnuhVjLwDTXoGSRlw&expires=1765741222
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-14 23:20:52 (BD Time)
+# Update on 2025-12-14 23:48:04 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 14 December 2025 at 11:21:10 pm
-#EXTINF:-1 tvg-id="138637" tvg-name="Dubai Capitals Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138637_5786_DV_DC_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dubai Capitals Vs Desert Vipers
-https://in-mc-fdlive.fancode.com/mumbai/138637_english_hls_1b85ddf4e932717_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday, 14 December 2025 at 11:56:04 pm
 #EXTINF:-1 tvg-id="138730" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 3
 https://in-mc-fdlive.fancode.com/mumbai/138730_english_hls_b8b4aee44e51905_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
