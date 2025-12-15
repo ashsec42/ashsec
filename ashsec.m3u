@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090497668_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012366/1765628316664836_AC25_U19_AFG_vs_SL_13dec_Landscape_thumb.jpg" group-title="Live",Afghanistan U19 vs Sri Lanka U19 - 15 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765827977~acl=/*~id=74551176941681067302207424691241~hmac=a3075c7eaa6b707b3b2b0284781dfee7a5a726ca8a8f451fc32ac5db3099bf0c
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765829804~acl=/*~id=10328118896250047705182312831984~hmac=8053fd8fc9a1ce546fc1575f364671fb8bc475421858df9df81c1508a623efa0
 #EXTINF:-1 tvg-id="1090497673_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012366/1765628417942836_AC25_U19_BAN_vs_NEP_13dec_Landscape_thumb.jpg" group-title="Live",Bangladesh U19 vs Nepal U19 - 15 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765827977~acl=/*~id=74551176941681067302207424691241~hmac=a3075c7eaa6b707b3b2b0284781dfee7a5a726ca8a8f451fc32ac5db3099bf0c
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765829804~acl=/*~id=10328118896250047705182312831984~hmac=8053fd8fc9a1ce546fc1575f364671fb8bc475421858df9df81c1508a623efa0
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,12 +175,12 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=xfox-Vn4003oC-4I0XY-4g&expi
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=o-bBlxUBVeimYClYJnYvdg&expires=1765791867
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-15 13:29:01 (BD Time)
+# Update on 2025-12-15 13:51:26 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 15 December 2025 at 1:28:06 pm
+#DATE:- Monday, 15 December 2025 at 2:07:05 pm
 #EXTINF:-1 tvg-id="138718" tvg-name="Bahrain Women Vs Oman Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138718_5798_BRNW_OMN-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bahrain Women Vs Oman Women
 https://in-mc-fdlive.fancode.com/mumbai/138718_english_hls_a76d00537f42746_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
