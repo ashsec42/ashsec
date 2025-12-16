@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090497802_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012421/1765779495622981_AC25_U19_IND_vs_MAS_15dec_Landscape_thumb.jpg" group-title="Live",India U19 vs Malaysia U19 - 16 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765917540~acl=/*~id=22355768239310912741262258418715~hmac=d145046f19f4a23873b3f77caf81a23d6c246eac192f1af28a312d9ad7969155
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765919371~acl=/*~id=39643202505142750312130415383088~hmac=7e1770e7cc33809c8939dec5c1dc5a6c0fb4fa5098c315b94003431221e6faa5
 #EXTINF:-1 tvg-id="1090497781_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012420/1765778755102237_AC25_U19_PAK_vs_UAE_15dec_Landscape_thumb.jpg" group-title="Live",Pakistan U19 vs UAE U19 - 16 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765917540~acl=/*~id=22355768239310912741262258418715~hmac=d145046f19f4a23873b3f77caf81a23d6c246eac192f1af28a312d9ad7969155
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765919371~acl=/*~id=39643202505142750312130415383088~hmac=7e1770e7cc33809c8939dec5c1dc5a6c0fb4fa5098c315b94003431221e6faa5
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,18 +175,16 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=0d16Ji9ETqnfr2wpmrXTVg&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=YEydkewKnvJ9aoMmX5TC_Q&expires=1765881020
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-16 14:36:53 (BD Time)
+# Update on 2025-12-16 15:00:43 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 16 December 2025 at 2:28:06 pm
+#DATE:- Tuesday, 16 December 2025 at 3:00:05 pm
 #EXTINF:-1 tvg-id="138910" tvg-name="General Education Academy Vs Al Barkat" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | General Education Academy Vs Al Barkat
 https://in-mc-fdlive.fancode.com/mumbai/138910_english_hls_ea9fe29d8e72649_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138911" tvg-name="Anjuman English Allana Vs Dyandeep Seva Mandal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Anjuman English Allana Vs Dyandeep Seva Mandal
 https://in-mc-fdlive.fancode.com/mumbai/138911_english_hls_465e4ec22294901_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138721" tvg-name="Qatar Women Vs Bahrain Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138721_5798_BRNW_QAT-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Qatar Women Vs Bahrain Women
-https://in-mc-fdlive.fancode.com/mumbai/138721_english_hls_53e73ece8970767_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
