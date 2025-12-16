@@ -169,14 +169,12 @@ https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=UzOFaQriIH2SxDjFX354AA&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=ExL9GflECCEdjQL7ljid2Q&expires=1765917131
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-17 00:38:41 (BD Time)
+# Update on 2025-12-17 01:00:25 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 17 December 2025 at 12:21:06 am
-#EXTINF:-1 tvg-id="138639" tvg-name="Abu Dhabi Knight Riders Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_8513.jpeg" tvg-language="ENGLISH" group-title="Cricket",ENG | Abu Dhabi Knight Riders Vs Desert Vipers
-https://in-mc-fdlive.fancode.com/mumbai/138639_english_hls_822cb0754554888_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Wednesday, 17 December 2025 at 12:49:05 am
 #EXTINF:-1 tvg-id="138895" tvg-name="Eibar Vs Elche Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Eibar_vs_Elche-CF_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Eibar Vs Elche Cf
 https://in-mc-fdlive.fancode.com/mumbai/138895_english_hls_ed893917eb12994_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138894" tvg-name="Deportivo La Coruna Vs Rcd Mallorca" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Deportivo-La-Coruna_vs_RCD-Mallorca_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Deportivo La Coruna Vs Rcd Mallorca
