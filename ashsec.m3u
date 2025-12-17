@@ -169,16 +169,16 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=Ef18aLzXcIkzGN8mrU6LYA&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=ylQWWjjbklgOTDFQ3hovGQ&expires=1766000818
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-17 23:00:39 (BD Time)
+# Update on 2025-12-17 23:52:45 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 17 December 2025 at 11:21:19 pm
-#EXTINF:-1 tvg-id="138640" tvg-name="Mi Emirates Vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138640_5786_DC_MIE_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Mi Emirates Vs Dubai Capitals
-https://in-mc-fdlive.fancode.com/mumbai/138640_english_hls_46562a8c4855048_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Thursday, 18 December 2025 at 12:07:04 am
 #EXTINF:-1 tvg-id="138900" tvg-name="Cd Atletico Baleares Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138900_5806_ABA_ATL_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Cd Atletico Baleares Vs Atletico De Madrid
 https://in-mc-fdlive.fancode.com/mumbai/138900_english_hls_23b747430214291_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138640" tvg-name="Mi Emirates Vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138640_5786_DC_MIE_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Mi Emirates Vs Dubai Capitals
+https://in-mc-fdlive.fancode.com/mumbai/138640_english_hls_46562a8c4855048_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138899" tvg-name="Cultural Leonesa Vs Levante" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138899_5806_CL_LE_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Cultural Leonesa Vs Levante
 https://in-mc-fdlive.fancode.com/mumbai/138899_english_hls_201af2524850827_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138903" tvg-name="Racing De Santander Vs Villarreal Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138903_5806_RAC_VIL_FC-Web-(1).jpg" tvg-language="ENGLISH" group-title="Football",ENG | Racing De Santander Vs Villarreal Cf
