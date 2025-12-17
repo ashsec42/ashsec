@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090497811_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012422/1765779940878818_AC25_U19_BAN_vs_SL_15dec_Landscape_thumb.jpg" group-title="Live",Bangladesh U19 vs Sri Lanka U19 - 17 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766004037~acl=/*~id=46032677496918557128561458725982~hmac=b145bbcc6eec617977972c0480e66dcad25ce4312dd483163a9035d3655852b6
+https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766005871~acl=/*~id=15962062700570164094002605699405~hmac=79d0edd3ae9fb46fd741c24775cdaa46075fce3fca1fa78081e080af36a6bb1f
 #EXTINF:-1 tvg-id="1090497812_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012423/1765780570504989_AC25_U19_AFG_vs_NEP_15dec_Landscape_thumb.jpg" group-title="Live",Afghanistan U19 vs Nepal U19 - 17 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766004037~acl=/*~id=46032677496918557128561458725982~hmac=b145bbcc6eec617977972c0480e66dcad25ce4312dd483163a9035d3655852b6
+https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766005871~acl=/*~id=15962062700570164094002605699405~hmac=79d0edd3ae9fb46fd741c24775cdaa46075fce3fca1fa78081e080af36a6bb1f
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,12 +175,14 @@ https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=Rm2dXHBlxiQqOATTDR2vUw&expi
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=f9RbeFg3Q0kjDTxJfGZqtg&expires=1765967430
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-17 14:36:40 (BD Time)
+# Update on 2025-12-17 15:00:37 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 17 December 2025 at 2:21:05 pm
+#DATE:- Wednesday, 17 December 2025 at 3:00:05 pm
+#EXTINF:-1 tvg-id="138825" tvg-name="Vb Realty Hawks Vs Aussie Mavericks Kites" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138825_5803_VBR_AMK_fc-web.jpg" tvg-language="ENGLISH" group-title="Team Tennis",ENG | Vb Realty Hawks Vs Aussie Mavericks Kites
+https://in-mc-fdlive.fancode.com/mumbai/138825_english_hls_f5ce856b117847_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138910" tvg-name="General Education Academy Vs Al Barkat" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | General Education Academy Vs Al Barkat
 https://in-mc-fdlive.fancode.com/mumbai/138910_english_hls_ea9fe29d8e15886_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138911" tvg-name="Anjuman English Allana Vs Dyandeep Seva Mandal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Anjuman English Allana Vs Dyandeep Seva Mandal
