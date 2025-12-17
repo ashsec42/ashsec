@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090497218_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546465282346_NZvsWI25_3rd_test_day_1_12dec_landscape_thumb.jpg" group-title="Live",3rd Test - Day 1 - 18 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766048918~acl=/*~id=85941637164149560896789810826402~hmac=e49fac6ca0f9e2e7bb26db7e11820fcd766525b5a2cfcf32a19ae66ca76b0941
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,20 +172,18 @@ https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=kAjjjMtLCnBMlKJbYyNmcA&expi
 https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=TppgO16XUJSRj3OPJr2YWQ&expires=1766011551
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-18 02:30:24 (BD Time)
+# Update on 2025-12-18 02:53:04 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 18 December 2025 at 2:21:06 am
+#DATE:- Thursday, 18 December 2025 at 2:49:06 am
 #EXTINF:-1 tvg-id="137983" tvg-name="Manchester City Vs Brentford" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/04_Manchester-City-vs--Brentford_.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Manchester City Vs Brentford
 https://in-mc-fdlive.fancode.com/mumbai/137983_english_hls_60626a727d89666_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138905" tvg-name="Club De Futbol Talavera De La Reina Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138905_5806_CFT_RM_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Club De Futbol Talavera De La Reina Vs Real Madrid
 https://in-mc-fdlive.fancode.com/mumbai/138905_english_hls_8eed67590c55608_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137606" tvg-name="Paris Fc Women Vs Barcelona Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137606_5720_PFC-W_BAR-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Paris Fc Women Vs Barcelona Women
 https://in-mc-fdlive.fancode.com/mumbai/137606_english_hls_46669f6d1119354_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138901" tvg-name="Albacete Vs Rc Celta" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138901_5806_ALB_CEV_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Albacete Vs Rc Celta
-https://in-mc-fdlive.fancode.com/mumbai/138901_english_hls_bcb508a9e692026_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137608" tvg-name="Bayern Munich Women Vs Valerenga Fotball Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137608_5720_BAY-W_VAL-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Bayern Munich Women Vs Valerenga Fotball Women
 https://in-mc-fdlive.fancode.com/mumbai/137608_english_hls_86d6f994083421_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="137607" tvg-name="Oud Heverlee Leuven Women Vs Arsenal Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137607_5720_OHL-W_ARS-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Oud Heverlee Leuven Women Vs Arsenal Women
