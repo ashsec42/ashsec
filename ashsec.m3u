@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498044_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546480148346_NZvsWI25_3rd_test_day_2_12dec_landscape_thumb.jpg" group-title="Live",3rd Test - Day 2 - 19 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766137240~acl=/*~id=79930871829776403280683324395295~hmac=cf1db6baa0e19aec3704199b3079e55660b9e76b9ee0340c05e667fd0a0212d5
-#EXTINF:-1 tvg-id="1090497943_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011931/1764523912887515_UECL2526_MD6_Crystal_Palace_vs_Kuopion_Palloseura_30nov_landscape_thumb.jpg" group-title="Live",Crystal Palace vs Kuopion Palloseura - MD 6 - 19 Dec 2025 [ENG] - UEFA Conference League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766137240~acl=/*~id=79930871829776403280683324395295~hmac=cf1db6baa0e19aec3704199b3079e55660b9e76b9ee0340c05e667fd0a0212d5
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766139062~acl=/*~id=55673405668348057435883499466269~hmac=009954971e7b16eb61796e622e254e2e7007076b8213f7d7a5c204d75a3e0c92
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,18 +172,14 @@ https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=EJiGWmcz91thZ0R37-SwFA&expi
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=lD_Ep7H_eGX12Mas8yIVPA&expires=1766101149
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-19 03:21:34 (BD Time)
+# Update on 2025-12-19 03:48:08 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 19 December 2025 at 3:28:05 am
+#DATE:- Friday, 19 December 2025 at 3:56:05 am
 #EXTINF:-1 tvg-id="137698" tvg-name="New Zealand Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | New Zealand Vs West Indies
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766125801~acl=/*~id=bc29fe212de336630f6cebd17d777f42-1766082600195~hmac=b52b036f67e65f5f351de19a0ab35d6f58abf6c6628f71f53ba3bb5a0bb75e9e|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138908" tvg-name="Real Murcia Club De Futbol Vs Real Betis" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138908_5806_RMFC_RB_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Murcia Club De Futbol Vs Real Betis
-https://in-mc-fdlive.fancode.com/mumbai/138908_english_hls_b9ae41533821643_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="135966" tvg-name="Reading Vs Luton Town" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png" tvg-language="ENGLISH" group-title="Football",ENG | Reading Vs Luton Town
-https://in-mc-fdlive.fancode.com/mumbai/135966_english_hls_7f4c3f005836068_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
