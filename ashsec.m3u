@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498121_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176467402842142_Bundesliga_MD15_Borussia-Dortmund-vs-Borussia-Mgladbach_landscape_thumb.jpg" group-title="Live",Borussia Dortmund vs Borussia M'gladbach - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766216473~acl=/*~id=78489570818512961721138703077173~hmac=22a7da7592aabcea2bc9da0bc80a8ba4dc3b893d598c0877e04a2da2910cbff6
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766218303~acl=/*~id=15721927404210383100642038623996~hmac=b7c2d97aa73e4c674f6e276f671cb9e8ff9774f9b2f59fb447b19775156d90ac
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=OPHx8EkqO9smG_K1_GlvFA&expi
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=CLNTUI7wOi8j3jRR4SXigA&expires=1766180268
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-20 01:24:09 (BD Time)
+# Update on 2025-12-20 01:47:51 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 20 December 2025 at 1:21:11 am
+#DATE:- Saturday, 20 December 2025 at 1:49:06 am
 #EXTINF:-1 tvg-id="130995" tvg-name="Valencia Cf Vs Rcd Mallorca" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130995_5427_VAL_MRC_fc-web_1765803305969.png" tvg-language="ENGLISH" group-title="Football",ENG | Valencia Cf Vs Rcd Mallorca
 https://in-mc-fdlive.fancode.com/mumbai/130995_english_hls_67aa1abd8e5278_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136985" tvg-name="Swansea City A.f.c. Vs Wrexham A.f.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136985_5489_SWA_WRX_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Swansea City A.f.c. Vs Wrexham A.f.c.
