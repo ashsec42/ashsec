@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498122_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546498374346_NZvsWI25_3rd_test_day_3_12dec_landscape_thumb.jpg" group-title="Live",3rd Test - Day 3 - 20 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766223119~acl=/*~id=17502696892215825518405472694606~hmac=e30080581acdd5073119fcc571b3701b7ff5775163205b21e712a040ab80ef2f
-#EXTINF:-1 tvg-id="1090498121_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176467402842142_Bundesliga_MD15_Borussia-Dortmund-vs-Borussia-Mgladbach_landscape_thumb.jpg" group-title="Live",Borussia Dortmund vs Borussia M'gladbach - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766223119~acl=/*~id=17502696892215825518405472694606~hmac=e30080581acdd5073119fcc571b3701b7ff5775163205b21e712a040ab80ef2f
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766224998~acl=/*~id=07197454290111768908261330103873~hmac=70bc40d895e3b72561ceb39ce717a1e73edcc8c868f87477bda0952bae139a9c
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,18 +172,14 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=EzZiypKQFnALEgV4r3Zr3Q&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=zMSrdaPmFfBKyGwODiEoPw&expires=1766187573
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-20 03:22:57 (BD Time)
+# Update on 2025-12-20 03:48:08 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 20 December 2025 at 3:21:06 am
+#DATE:- Saturday, 20 December 2025 at 3:49:06 am
 #EXTINF:-1 tvg-id="137698" tvg-name="New Zealand Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | New Zealand Vs West Indies
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766212202~acl=/*~id=90d938c899ed07a3d2927a8c5a15dab0-1766169000186~hmac=671e2d01872c1b5e385b0c83cd7308ec79ca0405161f22a025eddff8ddb532cd|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130995" tvg-name="Valencia Cf Vs Rcd Mallorca" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130995_5427_VAL_MRC_fc-web_1765803305969.png" tvg-language="ENGLISH" group-title="Football",ENG | Valencia Cf Vs Rcd Mallorca
-https://in-mc-fdlive.fancode.com/mumbai/130995_english_hls_67aa1abd8e5278_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="136985" tvg-name="Swansea City A.f.c. Vs Wrexham A.f.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136985_5489_SWA_WRX_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Swansea City A.f.c. Vs Wrexham A.f.c.
-https://in-mc-fdlive.fancode.com/mumbai/136985_english_hls_dcbbf1236f71828_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
