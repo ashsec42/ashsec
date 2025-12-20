@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090498270_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546513450346_NZvsWI25_3rd_test_day_4_12dec_landscape_thumb.jpg" group-title="Live",3rd Test - Day 4 - 21 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766307860~acl=/*~id=05223972476941441949253581504307~hmac=2cae711cc7f3b5b9e4208ef1a3fccfdef8888ab017626bcca12ebe793205f4ea
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,12 +172,12 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=X_tWp_8QKpCZ75QNi6EBnQ&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=e8RLZttekfmqjVo8LD3jdQ&expires=1766270419
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-21 02:25:49 (BD Time)
+# Update on 2025-12-21 02:48:34 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 21 December 2025 at 2:21:05 am
+#DATE:- Sunday, 21 December 2025 at 2:42:05 am
 #EXTINF:-1 tvg-id="130990" tvg-name="Real Madrid Vs Sevilla Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130990_5427_RM_SEV_fc-web_1765803328431.png" tvg-language="ENGLISH" group-title="Football",ENG | Real Madrid Vs Sevilla Fc
 https://in-mc-fdlive.fancode.com/mumbai/130990_english_hls_c8f61dfffc635_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130990" tvg-name="Real Madrid Vs Sevilla Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130990_5427_RM_SEV_fc-web_1765803328431.png" tvg-language="HINDI" group-title="Football",HIN | Real Madrid Vs Sevilla Fc
