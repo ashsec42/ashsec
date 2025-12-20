@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498270_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546513450346_NZvsWI25_3rd_test_day_4_12dec_landscape_thumb.jpg" group-title="Live",3rd Test - Day 4 - 21 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766313335~acl=/*~id=27913723114067009587218820542750~hmac=edde7cc5a13dc16d70ceadce057e7712fd507a9019f93f32ab344972ed0cfc2d
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766315158~acl=/*~id=79427921604204123506605823631595~hmac=bb8ed9a957d3fc4b7a445bf7f52405115eccfb1f2dcc2afa60f057bd5bf2db7f
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,22 +172,14 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=VGaEH4I4tyOa_nPGUllAlQ&exp
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Nxp3-Nd1IBRopPD4eTlXPw&expires=1766277645
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-21 04:23:03 (BD Time)
+# Update on 2025-12-21 04:48:10 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 21 December 2025 at 4:21:05 am
-#EXTINF:-1 tvg-id="130990" tvg-name="Real Madrid Vs Sevilla Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130990_5427_RM_SEV_fc-web_1765803328431.png" tvg-language="ENGLISH" group-title="Football",ENG | Real Madrid Vs Sevilla Fc
-https://in-mc-fdlive.fancode.com/mumbai/130990_english_hls_c8f61dfffc635_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130990" tvg-name="Real Madrid Vs Sevilla Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130990_5427_RM_SEV_fc-web_1765803328431.png" tvg-language="HINDI" group-title="Football",HIN | Real Madrid Vs Sevilla Fc
-https://in-mc-fdlive.fancode.com/mumbai/130990_hindi_hls_aa3797b33d39080_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130990" tvg-name="Real Madrid Vs Sevilla Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130990_5427_RM_SEV_fc-web_1765803328431.png" tvg-language="BENGALI" group-title="Football",BEN | Real Madrid Vs Sevilla Fc
-https://in-mc-fdlive.fancode.com/mumbai/130990_bengali_hls_7eb0cf990642809_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday, 21 December 2025 at 4:49:07 am
 #EXTINF:-1 tvg-id="137698" tvg-name="New Zealand Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | New Zealand Vs West Indies
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766298602~acl=/*~id=ca8f7d959df5c224f03bedd5c13b14bd-1766255400178~hmac=ed859a0cc646a143fa46e591e7606156bd455092c872f4129762f464c43c5a27|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138961" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship_FC-Web_1766132279851.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 2
-https://in-mc-fdlive.fancode.com/mumbai/138961_english_hls_d6e276404364593_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
