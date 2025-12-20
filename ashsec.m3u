@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090498123_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="Live",Goal Arena - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766282365~acl=/*~id=54938101222236279253017105528285~hmac=ab55438010dbfb8977c8a5e0e77adb75fb6775d6e63fdb73e6ae3b676c8bf517
+#EXTINF:-1 tvg-id="1090498124_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176467439232442_Bundesliga_MD15_FC-Augsburg-vs-Werder-Bremen_landscape_thumb.jpg" group-title="Live",FC Augsburg vs Werder Bremen - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766282365~acl=/*~id=54938101222236279253017105528285~hmac=ab55438010dbfb8977c8a5e0e77adb75fb6775d6e63fdb73e6ae3b676c8bf517
+#EXTINF:-1 tvg-id="1090498125_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176467456822042_Bundesliga_MD15_FC-Koln-vs-Union-Berlin_landscape_thumb.jpg" group-title="Live",FC Koln vs Union Berlin - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766282365~acl=/*~id=54938101222236279253017105528285~hmac=ab55438010dbfb8977c8a5e0e77adb75fb6775d6e63fdb73e6ae3b676c8bf517
+#EXTINF:-1 tvg-id="1090498128_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176467875891542_Bundesliga_MD15_VfL-Wolfsburg-vs-SC-Freiburg_landscape_thumb.jpg" group-title="Live",VfL Wolfsburg vs SC Freiburg - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766282365~acl=/*~id=54938101222236279253017105528285~hmac=ab55438010dbfb8977c8a5e0e77adb75fb6775d6e63fdb73e6ae3b676c8bf517
+#EXTINF:-1 tvg-id="1090498127_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176467510904442_Bundesliga_MD15_VfB-Stuttgart-vs-Hoffenheim_landscape_thumb.jpg" group-title="Live",VfB Stuttgart vs Hoffenheim - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766282365~acl=/*~id=54938101222236279253017105528285~hmac=ab55438010dbfb8977c8a5e0e77adb75fb6775d6e63fdb73e6ae3b676c8bf517
+#EXTINF:-1 tvg-id="1090498126_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176467473719742_Bundesliga_MD15_Hamburg-SV-vs-Eintracht-Frankfurt_landscape_thumb.jpg" group-title="Live",Hamburger SV vs Eintracht Frankfurt - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766282365~acl=/*~id=54938101222236279253017105528285~hmac=ab55438010dbfb8977c8a5e0e77adb75fb6775d6e63fdb73e6ae3b676c8bf517
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,22 +187,20 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=AD_z8pm3x--WP39TxSGWbg&exp
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=RGafSQjwLKPR-Z9njS7kzQ&expires=1766245463
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-20 19:30:41 (BD Time)
+# Update on 2025-12-20 19:49:07 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 20 December 2025 at 7:14:05 pm
+#DATE:- Saturday, 20 December 2025 at 7:42:05 pm
+#EXTINF:-1 tvg-id="138644" tvg-name="Sharjah Warriorz Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138644_5786_DV_SWR_FC-Web-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sharjah Warriorz Vs Desert Vipers
+https://in-mc-fdlive.fancode.com/mumbai/138644_english_hls_8d202f52e599076_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136984" tvg-name="Southampton F.c. Vs Coventry City Football Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136984_5489_SOU_CVC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Southampton F.c. Vs Coventry City Football Club
 https://in-mc-fdlive.fancode.com/mumbai/136984_english_hls_d616d17aa982293_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130994" tvg-name="Real Oviedo Vs Rc Celta" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130994_5427_RO_CEV_fc-web_1765803312868.png" tvg-language="ENGLISH" group-title="Football",ENG | Real Oviedo Vs Rc Celta
 https://in-mc-fdlive.fancode.com/mumbai/130994_english_hls_16130fdd0085020_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138697" tvg-name="Afrasia Bank Mauritius Open" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Afrasia Bank Mauritius Open
-https://in-mc-fdlive.fancode.com/mumbai/138697_english_hls_661420901791345_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138831" tvg-name="Aos Eagles Vs Aussie Mavericks Kites" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138827_5803_AMK_AOS_fc-web.jpg" tvg-language="ENGLISH" group-title="Team Tennis",ENG | Aos Eagles Vs Aussie Mavericks Kites
 https://in-mc-fdlive.fancode.com/mumbai/138831_english_hls_f03fdfd6bf76778_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138643" tvg-name="Mi Emirates Vs Abu Dhabi Knight Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138643_5786_ADKR_MIE_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Mi Emirates Vs Abu Dhabi Knight Riders
-https://in-mc-fdlive.fancode.com/mumbai/138643_english_hls_d8fbbdf51274529_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
