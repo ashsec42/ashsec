@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498272_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176468200831042_Bundesliga_MD15_Heidenheim-vs-Bayern-Munich_landscape_thumb.jpg" group-title="Live",Heidenheim vs Bayern Munich - MD 15 - 21 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766381653~acl=/*~id=14446422816238747619607607533129~hmac=cef4e2b507d1aa82949e086c0209bee6df81433d2c812231d65e8fe5d5d73ac6
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766384084~acl=/*~id=49972613097059756074281905825707~hmac=535bf46305b5360d02c5508a49279db1c4bf96928905f462a79b8e8740037061
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,14 +172,12 @@ https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=c2XVAMFqaRNZmBexn6_reg&expi
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=quGF35Mfd90SwWFM-CrpUA&expires=1766346044
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-21 23:21:00 (BD Time)
+# Update on 2025-12-21 23:48:19 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 21 December 2025 at 11:21:06 pm
-#EXTINF:-1 tvg-id="138646" tvg-name="Desert Vipers Vs Mi Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138646_5786_DV_MIE_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Desert Vipers Vs Mi Emirates
-https://in-mc-fdlive.fancode.com/mumbai/138646_english_hls_4931acf80e81400_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Monday, 22 December 2025 at 12:00:07 am
 #EXTINF:-1 tvg-id="130998" tvg-name="Elche Cf Vs Rayo Vallecano" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130998_5427_ELC_RVL_fc-web_1765803345558.png" tvg-language="ENGLISH" group-title="Football",ENG | Elche Cf Vs Rayo Vallecano
 https://in-mc-fdlive.fancode.com/mumbai/130998_english_hls_ebe1582e0175925_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138962" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship_FC-Web_1766132279851.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 3
@@ -440,7 +438,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1766407123~acl=%2f*~id=d8addbf3-12fb-4713-b117-e97ec9ba11cd~data=hdntl~hmac=525b985b594695b431e250dacadbaf2e9e040c79e46d7b6b75da6e9eef44832c
-#Generated on 1766320882
+#Generated on 1766341797
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1766368809~acl=%2f*~id=fa0fdee45bc479b917c1832fff67f616~data=hdntl~hmac=9cc72d490c247654bd75832ec0ebfc67d563f919e3ed7a345bf17d2946756d67"}
