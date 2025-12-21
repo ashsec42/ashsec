@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498271_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176468180251242_Bundesliga_MD15_Mainz-vs-St-Pauli_landscape_thumb.jpg" group-title="Live",Mainz vs St. Pauli - MD 15 - 21 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766373733~acl=/*~id=14431225249305146618567415175819~hmac=bd6d5270d639b0eeff1cdf5263bbb903ecc9d4607701d8b71d3291420307caf2
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766374343~acl=/*~id=90220523044457519081999640690202~hmac=97be0ee245f5887d0f8ffd1c00604499fd004017969126bf6fd6f1fc1091693a
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,7 +177,7 @@ https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=S4_QpH8tTrIrdj4FBRPJhg&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 21 December 2025 at 9:07:05 pm
+#DATE:- Sunday, 21 December 2025 at 9:21:06 pm
 #EXTINF:-1 tvg-id="138646" tvg-name="Desert Vipers Vs Mi Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138646_5786_DV_MIE_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Desert Vipers Vs Mi Emirates
 https://in-mc-fdlive.fancode.com/mumbai/138646_english_hls_4931acf80e81400_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130993" tvg-name="Villarreal Cf Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130993_5427_VIL_BAR_fc-web_1765803339397.png" tvg-language="ENGLISH" group-title="Football",ENG | Villarreal Cf Vs Fc Barcelona
