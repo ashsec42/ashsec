@@ -1,7 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090498314_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="Live",India U19 vs Pakistan U19 - Final - 21 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766335204~acl=/*~id=99855469355642448739943252401135~hmac=d8b59f5c7b3496ea8997fb8ad790196899baa08b6c2086727ea97c73ed029c8b
+#EXTINF:-1 tvg-id="1090498314_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="Live",India U19 vs Pakistan U19 - Final - 21 Dec 2025 [HIN] - DP World Men's U19 Asia Cup 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766335204~acl=/*~id=99855469355642448739943252401135~hmac=d8b59f5c7b3496ea8997fb8ad790196899baa08b6c2086727ea97c73ed029c8b
+#EXTINF:-1 tvg-id="1090498314_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="Live",India U19 vs Pakistan U19 - Final - 21 Dec 2025 [TAM] - DP World Men's U19 Asia Cup 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766335204~acl=/*~id=99855469355642448739943252401135~hmac=d8b59f5c7b3496ea8997fb8ad790196899baa08b6c2086727ea97c73ed029c8b
+#EXTINF:-1 tvg-id="1090498314_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="Live",India U19 vs Pakistan U19 - Final - 21 Dec 2025 [TEL] - DP World Men's U19 Asia Cup 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766335204~acl=/*~id=99855469355642448739943252401135~hmac=d8b59f5c7b3496ea8997fb8ad790196899baa08b6c2086727ea97c73ed029c8b
 #EXTINF:-1 tvg-id="1090498270_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546513450346_NZvsWI25_3rd_test_day_4_12dec_landscape_thumb.jpg" group-title="Live",3rd Test - Day 4 - 21 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766332793~acl=/*~id=59419951023732635191769659999407~hmac=e29295c255bfd5309e2e20e2aef337dff29cf5f3bfde904d41a919b2656d08c9
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766335204~acl=/*~id=99855469355642448739943252401135~hmac=d8b59f5c7b3496ea8997fb8ad790196899baa08b6c2086727ea97c73ed029c8b
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,11 +189,9 @@ https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=ILKBaxJkGpQuv2eAPef1jg&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 21 December 2025 at 9:49:06 am
+#DATE:- Sunday, 21 December 2025 at 10:21:06 am
 #EXTINF:-1 tvg-id="137698" tvg-name="New Zealand Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | New Zealand Vs West Indies
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766298602~acl=/*~id=ca8f7d959df5c224f03bedd5c13b14bd-1766255400178~hmac=ed859a0cc646a143fa46e591e7606156bd455092c872f4129762f464c43c5a27|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138806" tvg-name="Wellington Phoenix Vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138806_5802_WEL_CCM_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Wellington Phoenix Vs Central Coast Mariners
-https://in-mc-fdlive.fancode.com/mumbai/138806_english_hls_ee72fb4bb628314_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
