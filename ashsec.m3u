@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498271_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176468180251242_Bundesliga_MD15_Mainz-vs-St-Pauli_landscape_thumb.jpg" group-title="Live",Mainz vs St. Pauli - MD 15 - 21 Dec 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766371249~acl=/*~id=12849632816238820550084536250946~hmac=e7f6804a00a7184752857064393c7167659dc279037b5fdf471a34993424ba29
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766372514~acl=/*~id=47586170177798883796977739423256~hmac=5c19cc6d4fc874eed4b5722717dffab4dbe15763948074d3909beb9435c779d3
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=UwidZXCLVbqiUxK1aXFvYA&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=XX15xy72Se0BCZauJNwERw&expires=1766335268
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-21 20:22:18 (BD Time)
+# Update on 2025-12-21 20:48:45 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 21 December 2025 at 8:28:05 pm
+#DATE:- Sunday, 21 December 2025 at 8:56:06 pm
 #EXTINF:-1 tvg-id="138646" tvg-name="Desert Vipers Vs Mi Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138646_5786_DV_MIE_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Desert Vipers Vs Mi Emirates
 https://in-mc-fdlive.fancode.com/mumbai/138646_english_hls_4931acf80e81400_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130993" tvg-name="Villarreal Cf Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130993_5427_VIL_BAR_fc-web_1765803339397.png" tvg-language="ENGLISH" group-title="Football",ENG | Villarreal Cf Vs Fc Barcelona
@@ -186,8 +186,6 @@ https://in-mc-fdlive.fancode.com/mumbai/130993_english_hls_ef1f00097140350_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/130993_hindi_hls_627fd1c0a560530_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130993" tvg-name="Villarreal Cf Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130993_5427_VIL_BAR_fc-web_1765803339397.png" tvg-language="BENGALI" group-title="Football",BEN | Villarreal Cf Vs Fc Barcelona
 https://in-mc-fdlive.fancode.com/mumbai/130993_bengali_hls_884507b0a546626_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130992" tvg-name="Girona Fc Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130992_5427_GIR_ATL_fc-web_1765803333703.png" tvg-language="ENGLISH" group-title="Football",ENG | Girona Fc Vs Atletico De Madrid
-https://in-mc-fdlive.fancode.com/mumbai/130992_english_hls_b631c3db3053300_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
