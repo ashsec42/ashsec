@@ -169,16 +169,12 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=-Crp596d32Or6HK7mZJPwg&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=yLnqYugg6jPP3moOZwpQXQ&expires=1766446796
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-23 03:23:10 (BD Time)
+# Update on 2025-12-23 03:48:10 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 23 December 2025 at 3:28:06 am
-#EXTINF:-1 tvg-id="130996" tvg-name="Athletic Club Vs Rcd Espanyol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130996_5427_ATH_ESL_fc-web_1765803538982.png" tvg-language="ENGLISH" group-title="Football",ENG | Athletic Club Vs Rcd Espanyol
-https://in-mc-fdlive.fancode.com/mumbai/130996_english_hls_dbc7ecc08c24850_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138338" tvg-name="Egypt Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138338_5774_EGY_ZIM_fc-web_1766386873972.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Egypt Vs Zimbabwe
-https://in-mc-fdlive.fancode.com/mumbai/138338_english_hls_13a456adb872165_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Tuesday, 23 December 2025 at 3:49:06 am
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
