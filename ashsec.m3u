@@ -169,14 +169,12 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=N3Y3C7rzo_FXKkkS0amn-w&exp
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=4Buirlll6jIkpRVSrZoWlw&expires=1766435460
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-23 00:37:10 (BD Time)
+# Update on 2025-12-23 00:58:00 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 23 December 2025 at 12:21:05 am
-#EXTINF:-1 tvg-id="138339" tvg-name="South Africa Vs Angola" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138339_5774_SA_AGL_fc-web_1766386873984.jpg" tvg-language="ENGLISH" group-title="Football",ENG | South Africa Vs Angola
-https://in-mc-fdlive.fancode.com/mumbai/138339_english_hls_ff309b7ffe9393_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Tuesday, 23 December 2025 at 12:49:05 am
 #EXTINF:-1 tvg-id="136076" tvg-name="Al Gharafa Vs Al Wahda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136076_5647_AGH_ALW_FC-Web_1766226888791.png" tvg-language="ENGLISH" group-title="Football",ENG | Al Gharafa Vs Al Wahda
 https://in-mc-fdlive.fancode.com/mumbai/136076_english_hls_f446c8f4c854658_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136075" tvg-name="Al Shorta Vs Al Ahli Saudi Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136075_5647_SHR_AAS_FC-Web_1766226888748.png" tvg-language="ENGLISH" group-title="Football",ENG | Al Shorta Vs Al Ahli Saudi Fc
