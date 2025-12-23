@@ -169,20 +169,18 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=cPJrLaVOawkDCjhpNa0VNQ&expi
 https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Ujmca3uefKe2DZPnuAoJ-A&expires=1766511857
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-23 21:28:04 (BD Time)
+# Update on 2025-12-23 21:52:22 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 23 December 2025 at 9:21:08 pm
+#DATE:- Tuesday, 23 December 2025 at 10:00:05 pm
 #EXTINF:-1 tvg-id="138648" tvg-name="Gulf Giants Vs Mi Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138648_5786_MIE_GG_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Gulf Giants Vs Mi Emirates
 https://in-mc-fdlive.fancode.com/mumbai/138648_english_hls_75db31f1bc45458_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138342" tvg-name="Senegal Vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138342_5774_SEN_BOT_fc-web_1766386873974.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Senegal Vs Botswana
 https://in-mc-fdlive.fancode.com/mumbai/138342_english_hls_418284f2bd28827_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136077" tvg-name="Al Sadd Vs Shabab Al Ahli" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136077_5647_SDD_SAA_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Al Sadd Vs Shabab Al Ahli
 https://in-mc-fdlive.fancode.com/mumbai/136077_english_hls_6498afc05516577_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="136126" tvg-name="Al Hussein Vs Ahal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136126_5648_HUS_AH_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Hussein Vs Ahal
-https://in-mc-fdlive.fancode.com/mumbai/136126_english_hls_076fbffeee37419_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
