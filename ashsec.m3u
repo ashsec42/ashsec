@@ -169,12 +169,12 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=-n4S_6xqaTJqNKIbMGr56Q&exp
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=XyUxWVHxDiWbDM0soYfOWQ&expires=1766476095
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-23 11:29:01 (BD Time)
+# Update on 2025-12-23 11:53:17 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 23 December 2025 at 11:21:05 am
+#DATE:- Tuesday, 23 December 2025 at 12:07:05 pm
 #EXTINF:-1 tvg-id="139142" tvg-name="Al Barkat Vs Anjuman English Allana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2_1765970952698.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Al Barkat Vs Anjuman English Allana
 https://in-mc-fdlive.fancode.com/mumbai/139142_english_hls_074be7c0d140901_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
@@ -433,7 +433,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1766540565~acl=%2f*~id=33e3c72e-e26b-4c65-a04f-1967723ada78~data=hdntl~hmac=d9a2f2f86d5c3ca3ef3a4b7561387d45f160562b0b492f9ba65e4fa60a27ee16
-#Generated on 1766454540
+#Generated on 1766471768
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1766523611~acl=%2f*~id=749d3b5576071d94527333dccce53ce1~data=hdntl~hmac=666d73abdab027da52cfce61ea6076570940ebce8f89473720aa0887000c2617"}
