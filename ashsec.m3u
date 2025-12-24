@@ -172,18 +172,18 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=u4ytTVZqCRxi5euskZxrYQ&expi
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=W16qgVPz8LstC_oSx0vurg&expires=1766594661
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-24 20:24:27 (BD Time)
+# Update on 2025-12-24 20:51:29 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 24 December 2025 at 8:21:10 pm
+#DATE:- Wednesday, 24 December 2025 at 8:49:09 pm
 #EXTINF:-1 tvg-id="138649" tvg-name="Sharjah Warriorz Vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138649_5786_DC_SWR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sharjah Warriorz Vs Dubai Capitals
 https://in-mc-fdlive.fancode.com/mumbai/138649_english_hls_4688461df473589_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139143" tvg-name="Renaissance Challengers Vs Muscat Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Renaissance Challengers Vs Muscat Thunders
-https://in-mc-fdlive.fancode.com/mumbai/139143_english_hls_1b2500688776141_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138344" tvg-name="Algeria Vs Sudan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138344_5774_ALG_SUD_fc-web_1766386874035.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Algeria Vs Sudan
 https://in-mc-fdlive.fancode.com/mumbai/138344_english_hls_b3086ed67a65788_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139144" tvg-name="Ias Invincibles Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ias Invincibles Vs Majees Titans
+https://in-mc-fdlive.fancode.com/mumbai/139144_english_hls_8f96c9aa3735535_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
