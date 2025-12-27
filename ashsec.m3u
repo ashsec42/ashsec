@@ -177,11 +177,9 @@ https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=UJwtmJRX5tN1kuC5c4v5OQ&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 28 December 2025 at 12:56:05 am
+#DATE:- Sunday, 28 December 2025 at 1:07:06 am
 #EXTINF:-1 tvg-id="138353" tvg-name="Uganda Vs Tanzania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138353_5774_UGN_TNZ_fc-web_1766386874109.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Uganda Vs Tanzania
 https://in-mc-fdlive.fancode.com/mumbai/138353_english_hls_02ce9c70c111541_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138442" tvg-name="Al Ittihad Vs Al Shabab Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138442_5655_ITT_ASF_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Ittihad Vs Al Shabab Fc
-https://in-mc-fdlive.fancode.com/mumbai/138442_english_hls_2fa60f08fc36861_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
