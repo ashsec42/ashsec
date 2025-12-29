@@ -172,16 +172,16 @@ https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=_eB40DNa686mEwzP2VIQqQ&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Ferh2oRKEKS53JJCe4S5jQ&expires=1767026851
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-29 20:26:47 (BD Time)
+# Update on 2025-12-29 20:54:30 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 29 December 2025 at 8:14:06 pm
+#DATE:- Monday, 29 December 2025 at 8:49:11 pm
 #EXTINF:-1 tvg-id="138921" tvg-name="Noakhali Express Vs Rajshahi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138921_5808_DBR_NOE_fc-web_1766733054270.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Noakhali Express Vs Rajshahi Warriors
 https://in-mc-fdlive.fancode.com/mumbai/138921_english_hls_d69a6a330972121_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139154" tvg-name="Majees Titans Vs Royal Oman Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Majees Titans Vs Royal Oman Stallions
-https://in-mc-fdlive.fancode.com/mumbai/139154_english_hls_8ae796895f75648_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139155" tvg-name="Ias Invincibles Vs Renaissance Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ias Invincibles Vs Renaissance Challengers
+https://in-mc-fdlive.fancode.com/mumbai/139155_english_hls_2c904ed39f11454_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
