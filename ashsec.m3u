@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090498556_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766775407828152_SuperSmash2526_mens_Otago_Volts_vs_Central_Stags_26dec_landscape_thumb.jpg" group-title="Live",Otago Volts vs Central Stags - 30 Dec 2025 [ENG] - Super Smash 2025/26 Men's - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767120293~acl=/*~id=32429471805420817317253003818074~hmac=5ca1fa9e55fb5ca23f5d8535c8c424cee5e1f143c9f3313f924ac56d980bdf3b
 #EXTINF:-1 tvg-id="1090498499_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg" group-title="Live",Best Of Sports 2025 - 24x7 [ENG] - Best Of Sports 2025  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
@@ -175,12 +172,12 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=KBLaZ9nEl1jGyKswU0H1Lg&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=LQfuir9LWk0DL1Qat5vyjw&expires=1767083603
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-30 12:40:10 (BD Time)
+# Update on 2025-12-30 13:01:32 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 30 December 2025 at 12:24:06 pm
+#DATE:- Tuesday, 30 December 2025 at 12:59:07 pm
 #EXTINF:-1 tvg-id="138735" tvg-name="Otago Volts Vs Central Stags" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138735_5800_OV_CS_fc-web_1766641250982.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Otago Volts Vs Central Stags
 https://in-mc-fdlive.fancode.com/mumbai/138735_english_hls_5368e9832344607_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
