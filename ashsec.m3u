@@ -172,16 +172,12 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=yf0EC5ifEKWXR2JXd9cXFg&expi
 https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=2zSUQ1yD56hJ6mVLefx6-w&expires=1767134662
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-31 02:28:28 (BD Time)
+# Update on 2025-12-31 02:52:10 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
-#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 31 December 2025 at 2:14:06 am
-#EXTINF:-1 tvg-id="138374" tvg-name="Benin Vs Senegal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138374_5774_BNI_SEN_fc-web_1766386874374.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Benin Vs Senegal
-https://in-mc-fdlive.fancode.com/mumbai/138374_english_hls_9058822ae748445_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138373" tvg-name="Botswana Vs Dr Congo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Botswana-vs-DR-Congo_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Botswana Vs Dr Congo
-https://in-mc-fdlive.fancode.com/mumbai/138373_english_hls_563824bdc529815_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+##Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Last Checked: 31/12/2025, 02:49:08
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
