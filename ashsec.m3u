@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498557_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776094363152_SuperSmash2526_mens_Northern_Brave_vs_Wellington_Firebirds_26dec_landscape_thumb.jpg" group-title="Live",Northern Brave vs Wellington Firebirds - 31 Dec 2025 [ENG] - Super Smash 2025/26 Men's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767200012~acl=/*~id=55178052996626918039891603932708~hmac=d24ba9bd3119b4ffe320df733aea4e0451421372acb2d922679c2bce98de1c95
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767201229~acl=/*~id=65144290718663911510385441459951~hmac=450273c15d7ae148235289d37e38414de11ff6541be6b861acb46cdc9180a762
 #EXTINF:-1 tvg-id="1090498499_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg" group-title="Live",Best Of Sports 2025 - 24x7 [ENG] - Best Of Sports 2025  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
@@ -180,7 +180,7 @@ https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=7uz9nVx__FdrB5eavroSsg&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 31 December 2025 at 10:49:05 am
+#DATE:- Wednesday, 31 December 2025 at 11:14:06 am
 #EXTINF:-1 tvg-id="138736" tvg-name="Wellington Firebirds Vs Northern Districts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138736_5800_ND_WF_fc-web_1766641250917.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Wellington Firebirds Vs Northern Districts
 https://in-mc-fdlive.fancode.com/mumbai/138736_english_hls_b32ae9a2cf65677_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
