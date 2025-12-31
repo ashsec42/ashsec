@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498557_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776094363152_SuperSmash2526_mens_Northern_Brave_vs_Wellington_Firebirds_26dec_landscape_thumb.jpg" group-title="Live",Northern Brave vs Wellington Firebirds - 31 Dec 2025 [ENG] - Super Smash 2025/26 Men's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767203054~acl=/*~id=19731847403721757625546090551192~hmac=dfd13ba8152aead68135865085783e00f5a8760cac9fa4643fd4c7d2691d1728
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767204274~acl=/*~id=31322530440251927643796118088390~hmac=eb2bc60b2c2c939c4d9aab074ee075274ca8696b219cc6a9a147e8acc6084494
 #EXTINF:-1 tvg-id="1090498499_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg" group-title="Live",Best Of Sports 2025 - 24x7 [ENG] - Best Of Sports 2025  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
@@ -175,12 +175,12 @@ https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=kMAM47dZrbbCbT7e1Wn0Ig&expi
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Bes_OJIm-t-UazI8mq_cRQ&expires=1767167357
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-31 11:29:37 (BD Time)
+# Update on 2025-12-31 11:53:42 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 31 December 2025 at 11:24:06 am
+#DATE:- Wednesday, 31 December 2025 at 12:09:05 pm
 #EXTINF:-1 tvg-id="138736" tvg-name="Wellington Firebirds Vs Northern Districts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138736_5800_ND_WF_fc-web_1766641250917.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Wellington Firebirds Vs Northern Districts
 https://in-mc-fdlive.fancode.com/mumbai/138736_english_hls_b32ae9a2cf65677_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
@@ -439,7 +439,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1767231844~acl=%2f*~id=42867009-b271-4f20-8cf4-f1c555bf1c32~data=hdntl~hmac=ef06704c3701efb7c19b26220c1b889c4bc4fa9ba3bd88e5536a6f1a277b6938
-#Generated on 1767145807
+#Generated on 1767162981
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1766811610~acl=%2f*~id=6dab2fe2e7331e559dbf327230fb2a90~data=hdntl~hmac=cb5fd92c393e2baa222317ffa490f634c7a87cd4256f4a931d92c756451d13d6"}
