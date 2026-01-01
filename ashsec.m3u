@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498551_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776649472152_SuperSmash2526_mens_Canterbury_Kings_vs_Central_Stags_26dec_landscape_thumb.jpg" group-title="Live",Canterbury Kings vs Central Stags - 1 Jan 2026 [ENG] - Super Smash 2025/26 Men's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767295557~acl=/*~id=35383803608918973573525384990621~hmac=5cf045e14a415b6a3e5511a74896fdf0c237f607e45393aae1661ffad3f3e12d
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767296166~acl=/*~id=64780164234735067697479429824200~hmac=fee7005913e2feeba2de9288eee5136b28c6c9a713ef00e43db9d068602982f8
 #EXTINF:-1 tvg-id="1090498499_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg" group-title="Live",Best Of Sports 2025 - 24x7 [ENG] - Best Of Sports 2025  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
@@ -180,7 +180,7 @@ https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=dzuODFXx0It3-W4tIvk5Fw&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 1 January 2026 at 1:04:05 pm
+#DATE:- Thursday, 1 January 2026 at 1:14:06 pm
 #EXTINF:-1 tvg-id="138737" tvg-name="Canterbury Vs Central Stags" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138737_5800_CTB_CS_fc-web_1766641250989.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Canterbury Vs Central Stags
 https://in-mc-fdlive.fancode.com/mumbai/138737_english_hls_bb09d5de5079575_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138924" tvg-name="Sylhet Titans Vs Dhaka Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138924_5808_SYL_DC_fc-web_1766733054268.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sylhet Titans Vs Dhaka Capitals
