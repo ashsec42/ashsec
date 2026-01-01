@@ -172,14 +172,16 @@ https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=oWH1TCQ03H0t9NRvwZaudQ&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Tg_jZJshL1WsRpjVrJzfDw&expires=1767281603
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-01 19:36:27 (BD Time)
+# Update on 2026-01-01 19:54:32 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 1 January 2026 at 7:24:07 pm
+#DATE:- Thursday, 1 January 2026 at 7:49:05 pm
 #EXTINF:-1 tvg-id="138925" tvg-name="Rajshahi Warriors Vs Rangpur Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138925_5808_RAN_DBR_fc-web_1766733054891.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Rajshahi Warriors Vs Rangpur Riders
 https://in-mc-fdlive.fancode.com/mumbai/138925_english_hls_94185bf7d073249_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138654" tvg-name="Abu Dhabi Knight Riders Vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138629_5786_DC_ADKR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Abu Dhabi Knight Riders Vs Dubai Capitals
+https://in-mc-fdlive.fancode.com/mumbai/138654_english_hls_0ecfc48b3251304_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139157" tvg-name="Yalla Shabab Giants Vs Royal Oman Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Yalla Shabab Giants Vs Royal Oman Stallions
 https://in-mc-fdlive.fancode.com/mumbai/139157_english_hls_18a39603bb77153_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136992" tvg-name="Blackburn Rovers F.c. Vs Wrexham A.f.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136992_5489_BLK_WRX_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Blackburn Rovers F.c. Vs Wrexham A.f.c.
