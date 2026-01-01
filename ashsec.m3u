@@ -180,11 +180,13 @@ https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=dzuODFXx0It3-W4tIvk5Fw&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 1 January 2026 at 1:14:06 pm
+#DATE:- Thursday, 1 January 2026 at 1:29:06 pm
 #EXTINF:-1 tvg-id="138737" tvg-name="Canterbury Vs Central Stags" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138737_5800_CTB_CS_fc-web_1766641250989.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Canterbury Vs Central Stags
 https://in-mc-fdlive.fancode.com/mumbai/138737_english_hls_bb09d5de5079575_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138924" tvg-name="Sylhet Titans Vs Dhaka Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138924_5808_SYL_DC_fc-web_1766733054268.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sylhet Titans Vs Dhaka Capitals
 https://in-mc-fdlive.fancode.com/mumbai/138924_english_hls_6196cf49e75704_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138814" tvg-name="Western Sydney Wanderers Vs Macarthur" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138814_5802_SYW_MAC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Western Sydney Wanderers Vs Macarthur
+https://in-mc-fdlive.fancode.com/mumbai/138814_english_hls_215d5a1a8d63379_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
