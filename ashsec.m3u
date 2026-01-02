@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498562_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776883972152_SuperSmash2526_womens_Auckland_Hearts_vs_Wellington_Blaze_26dec_landscape_thumb.jpg" group-title="Live",Auckland Hearts vs Wellington Blaze - 2 Jan 2026 [ENG] - Super Smash 2025/26 Women's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767353917~acl=/*~id=26206536623458256218855956380791~hmac=ef206a2a4e40670e093c44399a0cd57c6026b1f6af8a73c14d2c84de91496090
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767358174~acl=/*~id=48168789947253818354793351690991~hmac=084204d5d9c3c3fbb2ff484dac1fa542f00393404ab48390d597d605b5294085
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=IXkPZosaa50pS64gb9z8Xw&expi
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Wu1M4HRnmCfuCM7xNpH2SA&expires=1767318062
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-02 05:24:26 (BD Time)
+# Update on 2026-01-02 05:49:52 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 2 January 2026 at 5:24:06 am
+#DATE:- Friday, 2 January 2026 at 7:09:05 am
 #EXTINF:-1 tvg-id="138770" tvg-name="Wellington Blaze Vs Auckland Hearts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138770_5801_AH-W_WB-W_fc-web_1766596522148.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Wellington Blaze Vs Auckland Hearts
 https://in-mc-fdlive.fancode.com/mumbai/138770_english_hls_ce7d2fed291474_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
