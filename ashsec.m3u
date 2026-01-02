@@ -169,18 +169,16 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=9at3qIJmIVnkvXbyngB6AQ&exp
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=YNQQJkoY3eThTjCzFhmr3Q&expires=1767382921
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-02 23:22:35 (BD Time)
+# Update on 2026-01-02 23:48:48 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 2 January 2026 at 11:28:05 pm
+#DATE:- Saturday, 3 January 2026 at 12:07:04 am
 #EXTINF:-1 tvg-id="139161" tvg-name="Ias Invincibles Vs Royal Oman Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ias Invincibles Vs Royal Oman Stallions
 https://in-mc-fdlive.fancode.com/mumbai/139161_english_hls_863599e16528674_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139198" tvg-name="Al Ahli Saudi Fc Vs Al Nassr Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-vs-Al-Nassr_fc-web_1767365352732.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Ahli Saudi Fc Vs Al Nassr Fc
 https://in-mc-fdlive.fancode.com/mumbai/139198_english_hls_8e24473f2b52638_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138655" tvg-name="Abu Dhabi Knight Riders Vs Mi Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138633_5786_MIE_ADKR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Abu Dhabi Knight Riders Vs Mi Emirates
-https://in-mc-fdlive.fancode.com/mumbai/138655_english_hls_f3a36ee85a97188_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
@@ -437,7 +435,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
-#Generated on 1767357866
+#Generated on 1767378700
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1766811610~acl=%2f*~id=6dab2fe2e7331e559dbf327230fb2a90~data=hdntl~hmac=cb5fd92c393e2baa222317ffa490f634c7a87cd4256f4a931d92c756451d13d6"}
