@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090498764_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012862/176733628664789_UC26_Belgium_vs_China_2jan_landscape_thumb.jpg" group-title="Live",Belgium vs China - 3 Jan 2026 [ENG] - United Cup 2026  - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767438466~acl=/*~id=31689910190616656987062638316375~hmac=1ade93f2c188652e273447a74dd50a153ade268514ff412ca1b3d5a11f320d52
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,7 +172,7 @@ https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=z7I2_fvExVY0QVeOYxh9jw&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=GFZlEFUUNpGglMz3Lp9y3Q&expires=1767401064
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-03 04:25:32 (BD Time)
+# Update on 2026-01-03 04:52:14 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
