@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498763_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767159010787170_UC26_greece_vs_japan_31dec_landscape_thumb.jpg" group-title="Live", Greece vs Japan - 2 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767394080~acl=/*~id=44210656286102533070448927446572~hmac=1b2598f507a18aa87d20fda6b7f50fcce928acf69857ea6b5fc786b76f5835d8
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767395297~acl=/*~id=18425012776118218999035064992399~hmac=1663c58186bb1d4c8addad3590dbdbaf67a34950e0605f14e2f0a92a62d6ec43
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=k8AYrmbB4c4db50P3ds94Q&expi
 https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=fU0Cji0M1NmcWTkySRa3Yw&expires=1767357961
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-02 16:27:32 (BD Time)
+# Update on 2026-01-02 16:52:25 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 2 January 2026 at 4:21:05 pm
+#DATE:- Friday, 2 January 2026 at 4:42:06 pm
 #EXTINF:-1 tvg-id="138926" tvg-name="Dhaka Capitals Vs Chattogram Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138926_5808_DC_CCH_fc-web_1766733054203.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dhaka Capitals Vs Chattogram Royals
 https://in-mc-fdlive.fancode.com/mumbai/138926_english_hls_bf9d95893460924_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
