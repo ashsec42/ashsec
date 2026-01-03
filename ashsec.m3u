@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498813_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012918/1767433775698306_PWL26_auction_2jan_live_Landscape_thumb_re1.jpg" group-title="Live",Auction - 3 Jan 2026 [ENG] - Pro Wrestling League 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767494471~acl=/*~id=97939180711520917928102905217956~hmac=8c7e30f0f2420b16596e4b7bc45161cfc854544d258c0021daa8c9a5ba95b6ac
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767495689~acl=/*~id=33973463733649755319686437016474~hmac=e66fd52adc4bd43dfb7f21bd891f9e3e05d129c2216bcd7b37b89de6ea01fd00
 #EXTINF:-1 tvg-id="1090498797_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012867/1767337836864765_UC26_Usa_vs_Argentina_2jan_landscape_thumb.jpg" group-title="Live",USA vs Argentina - 3 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767494471~acl=/*~id=97939180711520917928102905217956~hmac=8c7e30f0f2420b16596e4b7bc45161cfc854544d258c0021daa8c9a5ba95b6ac
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767495689~acl=/*~id=33973463733649755319686437016474~hmac=e66fd52adc4bd43dfb7f21bd891f9e3e05d129c2216bcd7b37b89de6ea01fd00
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,18 +175,18 @@ https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=MsLWY8BOp7MIH2z7-Oifkg&expi
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=4OM28s9bIFYsvcVo_j8oVw&expires=1767458546
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-03 20:23:35 (BD Time)
+# Update on 2026-01-03 20:49:41 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 3 January 2026 at 8:14:10 pm
+#DATE:- Saturday, 3 January 2026 at 8:42:06 pm
 #EXTINF:-1 tvg-id="139162" tvg-name="Majees Titans Vs Ias Invincibles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Majees Titans Vs Ias Invincibles
 https://in-mc-fdlive.fancode.com/mumbai/139162_english_hls_75c3a3338234094_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131008" tvg-name="Rc Celta Vs Valencia Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131008_5427_CEV_VAL_fc-web.png" tvg-language="ENGLISH" group-title="Football",ENG | Rc Celta Vs Valencia Cf
-https://in-mc-fdlive.fancode.com/mumbai/131008_english_hls_a37b79268a86819_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="131000" tvg-name="Ca Osasuna Vs Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131000_5427_OSN_ATH_fc-web.png" tvg-language="ENGLISH" group-title="Football",ENG | Ca Osasuna Vs Athletic Club
 https://in-mc-fdlive.fancode.com/mumbai/131000_english_hls_7314cb0fc061198_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131008" tvg-name="Rc Celta Vs Valencia Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131008_5427_CEV_VAL_fc-web.png" tvg-language="ENGLISH" group-title="Football",ENG | Rc Celta Vs Valencia Cf
+https://in-mc-fdlive.fancode.com/mumbai/131008_english_hls_a37b79268a86819_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
