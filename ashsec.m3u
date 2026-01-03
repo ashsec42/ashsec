@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498764_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012865/1767337567004298_UC26_Australia_vs_Norway_2jan_landscape_thumb.jpg" group-title="Live",Australia vs Norway - 3 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767476211~acl=/*~id=45920197356809514192874221528605~hmac=bc86cfb549738220e3cd0b6daecbebc0763201ca295087d3505c95cc98974516
-#EXTINF:-1 tvg-id="1090498797_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012864/1767337389784631_UC26_France_vs_Switzerland_2jan_landscape_thumb.jpg" group-title="Live",France vs Switzerland - 3 Jan 2026 [ENG] - United Cup 2026  - ENG
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767478037~acl=/*~id=93130377036243547262392780555200~hmac=d2b1f1e78ae3baf799ab36c9a3b974b17cf3a0d110216d94b11011c8e92e7be7
+#EXTINF:-1 tvg-id="1090498797_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012867/1767337836864765_UC26_Usa_vs_Argentina_2jan_landscape_thumb.jpg" group-title="Live",USA vs Argentina - 3 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767476211~acl=/*~id=45920197356809514192874221528605~hmac=bc86cfb549738220e3cd0b6daecbebc0763201ca295087d3505c95cc98974516
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767478037~acl=/*~id=93130377036243547262392780555200~hmac=d2b1f1e78ae3baf799ab36c9a3b974b17cf3a0d110216d94b11011c8e92e7be7
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,12 +175,12 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=b0fw2GbPY9K8H672QEO1DA&expi
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=2h3aVVTciBZkEXSO5Fc3Ag&expires=1767440477
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-03 15:25:37 (BD Time)
+# Update on 2026-01-03 15:49:26 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 3 January 2026 at 3:28:06 pm
+#DATE:- Saturday, 3 January 2026 at 3:56:05 pm
 #EXTINF:-1 tvg-id="139295" tvg-name="Oman Women's Red Vs Oman Women's Blue" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-Womens_Exhibition-match-FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Oman Women's Red Vs Oman Women's Blue
 https://in-mc-fdlive.fancode.com/mumbai/139295_english_hls_6203f5261a30960_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138817" tvg-name="Melbourne City Vs Sydney Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138817_5802_MLC_SYD_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Melbourne City Vs Sydney Fc
