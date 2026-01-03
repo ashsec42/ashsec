@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498764_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012865/1767337567004298_UC26_Australia_vs_Norway_2jan_landscape_thumb.jpg" group-title="Live",Australia vs Norway - 3 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767480473~acl=/*~id=28395633729087302673378002137094~hmac=5b3a2defc0633b658b818730fc8bd7b9421ad6afba63bd49e90d2a303a8144c0
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767481081~acl=/*~id=92102391254574995733782070555346~hmac=2ac7c2dcd72ddd4014e47f1e68fcd65a35a2ef33b1e7106a2ff2796325105fac
 #EXTINF:-1 tvg-id="1090498797_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012867/1767337836864765_UC26_Usa_vs_Argentina_2jan_landscape_thumb.jpg" group-title="Live",USA vs Argentina - 3 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767480473~acl=/*~id=28395633729087302673378002137094~hmac=5b3a2defc0633b658b818730fc8bd7b9421ad6afba63bd49e90d2a303a8144c0
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767481081~acl=/*~id=92102391254574995733782070555346~hmac=2ac7c2dcd72ddd4014e47f1e68fcd65a35a2ef33b1e7106a2ff2796325105fac
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,12 +175,12 @@ https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=uvbaryd9Cro5kKht-3JfKQ&expi
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=ci_Sg7b8_Tjxx1kln_44jA&expires=1767444250
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-03 16:25:59 (BD Time)
+# Update on 2026-01-03 16:51:23 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 3 January 2026 at 4:21:05 pm
+#DATE:- Saturday, 3 January 2026 at 4:49:05 pm
 #EXTINF:-1 tvg-id="139295" tvg-name="Oman Women's Red Vs Oman Women's Blue" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-Womens_Exhibition-match-FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Oman Women's Red Vs Oman Women's Blue
 https://in-mc-fdlive.fancode.com/mumbai/139295_english_hls_6203f5261a30960_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
