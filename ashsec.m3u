@@ -169,20 +169,18 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=O1EZFTFmZik5A678lQ9dPg&exp
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=XfboJ37NPlPfXN9XZ3ss2g&expires=1767562655
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-05 01:19:51 (BD Time)
+# Update on 2026-01-05 01:47:52 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 5 January 2026 at 1:21:09 am
+#DATE:- Monday, 5 January 2026 at 1:49:06 am
 #EXTINF:-1 tvg-id="138383" tvg-name="South Africa Vs Cameroon" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-vs-Cameroon_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | South Africa Vs Cameroon
 https://in-mc-fdlive.fancode.com/mumbai/138383_english_hls_1c86ed249198186_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="131001" tvg-name="Real Sociedad Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131001_5427_RS_ATL_fc-web.png" tvg-language="ENGLISH" group-title="Football",ENG | Real Sociedad Vs Atletico De Madrid
 https://in-mc-fdlive.fancode.com/mumbai/131001_english_hls_61a5b6264b76453_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138915" tvg-name="Deportivo La Coruna Vs Cádiz" tvg-logo="https://images.fancode.com/aig/match/v1/138915_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Deportivo La Coruna Vs Cádiz
 https://in-mc-fdlive.fancode.com/mumbai/138915_english_hls_d46df3cb6315335_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131007" tvg-name="Deportivo Alaves Vs Real Oviedo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131007_5427_ALA_RO_fc-web.png" tvg-language="ENGLISH" group-title="Football",ENG | Deportivo Alaves Vs Real Oviedo
-https://in-mc-fdlive.fancode.com/mumbai/131007_english_hls_484c87b6d672414_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
