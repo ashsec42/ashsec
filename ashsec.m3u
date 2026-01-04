@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498851_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012907/1767418859715450_UC26_Italy_vs_Switzerland_3jan_landscape_thumb.jpg" group-title="Live",Italy vs Switzerland - 4 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767562630~acl=/*~id=65833086293857527196655907071717~hmac=299fb4f20f28d725a35fb0ae9d392da9591355e71d66ad8dc92ae6285dc757c9
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767564458~acl=/*~id=88187037944976577801218127683972~hmac=c9e21e067f2d1ad7cd57e36d39de9f51acc55c27959b298d0f7062ac77718b4b
 #EXTINF:-1 tvg-id="1090498819_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012906/176741854171177_UC26_Canada_vs_China_3jan_landscape_thumb.jpg" group-title="Live",Canada vs China - 4 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767562630~acl=/*~id=65833086293857527196655907071717~hmac=299fb4f20f28d725a35fb0ae9d392da9591355e71d66ad8dc92ae6285dc757c9
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767564458~acl=/*~id=88187037944976577801218127683972~hmac=c9e21e067f2d1ad7cd57e36d39de9f51acc55c27959b298d0f7062ac77718b4b
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,20 +175,18 @@ https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=Vcqgavwm3SHnNtDIB7DFcA&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=ZdOyzSKoqaWmFZZBsQb1AA&expires=1767526836
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-04 15:24:35 (BD Time)
+# Update on 2026-01-04 15:48:11 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 4 January 2026 at 3:14:06 pm
-#EXTINF:-1 tvg-id="138922" tvg-name="Sylhet Titans Vs Chattogram Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138922_5808_SYL_CCH_fc-web_1766733054335.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sylhet Titans Vs Chattogram Royals
-https://in-mc-fdlive.fancode.com/mumbai/138922_english_hls_f600312ea539382_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday, 4 January 2026 at 3:56:07 pm
 #EXTINF:-1 tvg-id="138818" tvg-name="Adelaide United Vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138818_5802_ADL_CCM_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Adelaide United Vs Central Coast Mariners
 https://in-mc-fdlive.fancode.com/mumbai/138818_english_hls_e5eade658c26634_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139185" tvg-name="Show Court 1   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Show Court 1   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/139185_english_hls_3ad8fbc07a69956_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139184" tvg-name="Pat Rafter Arena   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Pat Rafter Arena   Day 1
-https://in-mc-fdlive.fancode.com/mumbai/139184_english_hls_fbd0e5d5dc38428_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138922" tvg-name="Sylhet Titans Vs Chattogram Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138922_5808_SYL_CCH_fc-web_1766733054335.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sylhet Titans Vs Chattogram Royals
+https://in-mc-fdlive.fancode.com/mumbai/138922_english_hls_f600312ea539382_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
