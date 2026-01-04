@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498851_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012907/1767418859715450_UC26_Italy_vs_Switzerland_3jan_landscape_thumb.jpg" group-title="Live",Italy vs Switzerland - 4 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767566286~acl=/*~id=12603882260782252171063408681614~hmac=087b74afb59c7854d13520b25ad3400a31d1dd7d42ff56b32babed7aeca97dd9
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767568115~acl=/*~id=34526452842160085896552459822714~hmac=c4eaf4ed512b0df0a24cd779c967da56f68069a222354cd80f3aa1697e568208
 #EXTINF:-1 tvg-id="1090498819_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012906/176741854171177_UC26_Canada_vs_China_3jan_landscape_thumb.jpg" group-title="Live",Canada vs China - 4 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767566286~acl=/*~id=12603882260782252171063408681614~hmac=087b74afb59c7854d13520b25ad3400a31d1dd7d42ff56b32babed7aeca97dd9
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767568115~acl=/*~id=34526452842160085896552459822714~hmac=c4eaf4ed512b0df0a24cd779c967da56f68069a222354cd80f3aa1697e568208
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,7 +175,7 @@ https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=2pvGSr1TRY5HyLC0iu-VTA&expi
 https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=YwkIqZynEQeFExBao8RedQ&expires=1767530646
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-04 16:25:15 (BD Time)
+# Update on 2026-01-04 16:50:53 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
