@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498866_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767426294128238_UC26_Great-Britain-vs-Greece_3jan_landscape_thumb.jpg" group-title="Live",Great Britain vs Greece - 5 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767667985~acl=/*~id=92829725239758191507512542931932~hmac=93edf893993f8886643fe5f55b6fa18db8d25dbe48ecf903ef464eb6c0620a78
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767668595~acl=/*~id=25062418740401038597486306075462~hmac=01048afc1633720fcda668f7cd653fd189796bb0c73b794b17d9a5e8f7d57116
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=jj19jK2cpc_dj20BFrYXIA&expi
 https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=f-K9SqWAwndgpMReNonaHw&expires=1767631875
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-05 20:29:47 (BD Time)
+# Update on 2026-01-05 20:57:10 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 5 January 2026 at 8:21:05 pm
+#DATE:- Monday, 5 January 2026 at 8:49:05 pm
 #EXTINF:-1 tvg-id="138931" tvg-name="Chattogram Royals Vs Rangpur Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138931_5808_CCH_RAN_fc-web_1766733054166.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Chattogram Royals Vs Rangpur Riders
 https://in-mc-fdlive.fancode.com/mumbai/138931_english_hls_cf91c4037e70925_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
