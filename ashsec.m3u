@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498866_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767425229366632_UnitedCup26_USA_vs_SPAIN_Landscape_thumb.jpg" group-title="Live",USA vs Spain - 5 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767646030~acl=/*~id=68042736930450539790254066054386~hmac=1c8ed0d7adc926451ea99eee713ded52c18785d9a12e9504784d6feda02b280c
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647857~acl=/*~id=18148698123592098570688053672434~hmac=8fb6bbc808394a1da04b4cdf55fc37b25b5c6610c5ea93196ae19087ecb94d8d
 #EXTINF:-1 tvg-id="1090498865_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767425512224238_UC26_Germany-vs-Poland_3jan_landscape_thumb.jpg" group-title="Live",Germany vs Poland - 5 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767646030~acl=/*~id=68042736930450539790254066054386~hmac=1c8ed0d7adc926451ea99eee713ded52c18785d9a12e9504784d6feda02b280c
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647857~acl=/*~id=18148698123592098570688053672434~hmac=8fb6bbc808394a1da04b4cdf55fc37b25b5c6610c5ea93196ae19087ecb94d8d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,12 +175,12 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=v5hFU9hQeecFXWDdv0D60w&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=ffvGIxeyBS2qtlovd7mScA&expires=1767609206
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-05 14:40:15 (BD Time)
+# Update on 2026-01-05 15:03:27 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 5 January 2026 at 2:28:06 pm
+#DATE:- Monday, 5 January 2026 at 3:07:06 pm
 #EXTINF:-1 tvg-id="138930" tvg-name="Noakhali Express Vs Sylhet Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138930_5808_NOE_SYL_fc-web_1766733054379.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Noakhali Express Vs Sylhet Titans
 https://in-mc-fdlive.fancode.com/mumbai/138930_english_hls_57b78a095b30592_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139296" tvg-name="Macarthur Vs Auckland" tvg-logo="https://images.fancode.com/aig/match/v1/139296_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Macarthur Vs Auckland
