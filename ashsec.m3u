@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090498903_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767427703499238_UC26_Canada-vs-Belgium_3jan_landscape_thumb.jpg" group-title="Live",Canada vs Belgium - 6 Jan 2026 [ENG] - United Cup 2026  - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767697786~acl=/*~id=50455327766679860228245224057220~hmac=2e845d99e4c76005a341382d5aafb4cff7215280b458d470f08aab93726a7f6d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,12 +172,12 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=Vru-I6hh2f0KKEAaEfAE_Q&exp
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=AD6OiRf5pWxdkRtG14au_A&expires=1767660369
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-06 04:26:18 (BD Time)
+# Update on 2026-01-06 04:52:57 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 6 January 2026 at 4:21:10 am
+#DATE:- Tuesday, 6 January 2026 at 4:49:06 am
 #EXTINF:-1 tvg-id="133963" tvg-name="Victoria Women Vs Act Meteors" tvg-logo="https://images.fancode.com/aig/match/v1/133963_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Victoria Women Vs Act Meteors
 https://in-mc-fdlive.fancode.com/mumbai/133963_english_hls_7ca9b4a79566659_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
