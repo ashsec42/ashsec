@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498866_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767426294128238_UC26_Great-Britain-vs-Greece_3jan_landscape_thumb.jpg" group-title="Live",Great Britain vs Greece - 5 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767674089~acl=/*~id=77998817763551590072518853335477~hmac=f4b5cd24e8077c78106d59bd7616041ac6275586cd97b8da854fabd99bc0c57c
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767675916~acl=/*~id=83836416408990661456130652144850~hmac=ef2b47554bcc015c1988abf87ebbdf7d5453f1698900aff6a9d9755528760600
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=2Yq1DT6Bb1i-ohkp9IIbVA&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=98TSU8aFObeqdrXF2Ia3TA&expires=1767637841
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-05 22:33:10 (BD Time)
+# Update on 2026-01-05 22:58:20 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 5 January 2026 at 10:28:05 pm
+#DATE:- Monday, 5 January 2026 at 11:00:07 pm
 #EXTINF:-1 tvg-id="138381" tvg-name="Egypt Vs Benin" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Egypt-vs-Benin_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Egypt Vs Benin
 https://in-mc-fdlive.fancode.com/mumbai/138381_english_hls_0777ec1e3575216_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
