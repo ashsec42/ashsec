@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498866_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767425229366632_UnitedCup26_USA_vs_SPAIN_Landscape_thumb.jpg" group-title="Live",USA vs Spain - 5 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767635668~acl=/*~id=60894341449679480617122915096586~hmac=ab3a22fed57d81051593406a20b8dceab5b859300a93f824a6118d3c52222364
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767638105~acl=/*~id=88632028819801157031320573090343~hmac=b455a9d85754d349bae34b1257259104602149f4bf2d43b125161f37e00158eb
+#EXTINF:-1 tvg-id="1090498865_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767425512224238_UC26_Germany-vs-Poland_3jan_landscape_thumb.jpg" group-title="Live",Germany vs Poland - 5 Jan 2026 [ENG] - United Cup 2026  - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767638105~acl=/*~id=88632028819801157031320573090343~hmac=b455a9d85754d349bae34b1257259104602149f4bf2d43b125161f37e00158eb
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +175,12 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=1th2I0bmJkZXWW8e5_7JUQ&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=UR7y9XeQvvzAa2Rn84AX1A&expires=1767598801
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-05 11:22:25 (BD Time)
+# Update on 2026-01-05 12:01:03 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 5 January 2026 at 11:49:06 am
+#DATE:- Monday, 5 January 2026 at 12:28:06 pm
 #EXTINF:-1 tvg-id="138930" tvg-name="Noakhali Express Vs Sylhet Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138930_5808_NOE_SYL_fc-web_1766733054379.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Noakhali Express Vs Sylhet Titans
 https://in-mc-fdlive.fancode.com/mumbai/138930_english_hls_57b78a095b30592_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139187" tvg-name="Show Court 1   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Show Court 1   Day 2
@@ -442,7 +445,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1767664454~acl=%2f*~id=dad23700-1d4a-4d39-992d-b7652c2eaae8~data=hdntl~hmac=e4f886fb0104cfdb7482d780e0560628c0e54761b8a49cf4e73119177b555259
-#Generated on 1767578449
+#Generated on 1767595268
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1766811610~acl=%2f*~id=6dab2fe2e7331e559dbf327230fb2a90~data=hdntl~hmac=cb5fd92c393e2baa222317ffa490f634c7a87cd4256f4a931d92c756451d13d6"}
