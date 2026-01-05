@@ -169,14 +169,12 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=uoOS8fqKpObl44UtPH-gpQ&expi
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=EMFJbpb2vADsURYXJ9BPJw&expires=1767656559
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-06 03:26:47 (BD Time)
+# Update on 2026-01-06 03:50:51 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
-#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 6 January 2026 at 3:21:05 am
-#EXTINF:-1 tvg-id="136996" tvg-name="Leicester City F.c. Vs West Bromwich Albion F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136996_5489_LEI_WBA_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Leicester City F.c. Vs West Bromwich Albion F.c.
-https://in-mc-fdlive.fancode.com/mumbai/136996_english_hls_0dcfed604a94678_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+##Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Last Checked: 6/1/2026, 03:42:05
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
