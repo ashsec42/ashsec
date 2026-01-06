@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090498903_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767426670814632_UnitedCup26_Australia_vs_Czechia__landscape_thumb.jpg" group-title="Live",Australia vs Czechia - 6 Jan 2026 [ENG] - United Cup 2026  - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767742901~acl=/*~id=41210059758337480813390834375228~hmac=1ce5df4a0580fc0732ece6185fdaecf704e789316da5344ec951281080a1dcb5
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,16 +169,14 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=BBaj_47hSVor0boM3XN5bw&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=_OhH7qEvuuNZIM2dkg30Iw&expires=1767706833
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-06 17:23:47 (BD Time)
+# Update on 2026-01-06 17:49:14 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 6 January 2026 at 5:22:02 pm
+#DATE:- Tuesday, 6 January 2026 at 6:07:05 pm
 #EXTINF:-1 tvg-id="139251" tvg-name="Vietnam U23 Vs Jordan U23" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139251_5822_VIE-U23_JOR-U23_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Vietnam U23 Vs Jordan U23
 https://in-mc-fdlive.fancode.com/mumbai/139251_english_hls_06a0584b3f96296_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139205" tvg-name="Center Court   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Center Court   Day 2
-https://in-mc-fdlive.fancode.com/mumbai/139205_english_hls_2d73b606da56886_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139284" tvg-name="Centre Court   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Centre Court   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/139284_english_hls_7a28b3ff2d36797_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
