@@ -169,18 +169,16 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=5ZYSPGD6UsCHax7KZ3h_8A&expi
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=vIGfKaNS3Jq7qXBbdu0bew&expires=1767728877
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-06 23:34:14 (BD Time)
+# Update on 2026-01-06 23:53:40 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 6 January 2026 at 11:21:10 pm
+#DATE:- Wednesday, 7 January 2026 at 12:07:06 am
 #EXTINF:-1 tvg-id="138385" tvg-name="Algeria Vs Dr Congo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Algeria Vs Dr Congo
 https://in-mc-fdlive.fancode.com/mumbai/138385_english_hls_661a51027281776_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138909" tvg-name="Granada Vs Rayo Vallecano" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138909_5806_GRD_RVL_FC-Web_1767677416823.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Granada Vs Rayo Vallecano
 https://in-mc-fdlive.fancode.com/mumbai/138909_english_hls_a06e4ac05a52513_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139252" tvg-name="Saudi Arabia U23 Vs Kyrgyz Republic U23" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139252_5822_SU-U23_KYG-U23_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Saudi Arabia U23 Vs Kyrgyz Republic U23
-https://in-mc-fdlive.fancode.com/mumbai/139252_english_hls_400082b1c226677_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
@@ -437,7 +435,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1767789858~acl=%2f*~id=e2cf1d5e-7715-4327-8d59-af76a2904ce0~data=hdntl~hmac=02372b6006c324ca37a8112cd603560d55f063f925dc526a718d6d65a20074db
-#Generated on 1767703726
+#Generated on 1767724467
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1766811610~acl=%2f*~id=6dab2fe2e7331e559dbf327230fb2a90~data=hdntl~hmac=cb5fd92c393e2baa222317ffa490f634c7a87cd4256f4a931d92c756451d13d6"}
