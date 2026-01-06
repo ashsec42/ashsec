@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498904_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767426438011632_UnitedCup26_Italy_vs_France_landscape_thumb.jpg" group-title="Live",Italy vs France - 6 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767731909~acl=/*~id=95530386549484080016567008044069~hmac=05584ff3a1246cfb28d5ad7b516df492b94615d3b5b708eabea2dc9703f3d914
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767733740~acl=/*~id=46347358663961797700154985454757~hmac=7f4c473aec21938907dd5d9c84b3475c2f486fe9f4e173dedb4bd2ebac312951
 #EXTINF:-1 tvg-id="1090498903_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767426670814632_UnitedCup26_Australia_vs_Czechia__landscape_thumb.jpg" group-title="Live",Australia vs Czechia - 6 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767731909~acl=/*~id=95530386549484080016567008044069~hmac=05584ff3a1246cfb28d5ad7b516df492b94615d3b5b708eabea2dc9703f3d914
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767733740~acl=/*~id=46347358663961797700154985454757~hmac=7f4c473aec21938907dd5d9c84b3475c2f486fe9f4e173dedb4bd2ebac312951
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,12 +175,12 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=ko4gV1E_VnJotyOY2nfg1A&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=3PeH-wPQaVczDXtz_mMBeA&expires=1767695474
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-06 14:37:44 (BD Time)
+# Update on 2026-01-06 15:00:56 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 6 January 2026 at 2:28:05 pm
+#DATE:- Tuesday, 6 January 2026 at 3:00:05 pm
 #EXTINF:-1 tvg-id="139297" tvg-name="Melbourne City Vs Brisbane Roar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139297_5802_MLC_BRB_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Melbourne City Vs Brisbane Roar
 https://in-mc-fdlive.fancode.com/mumbai/139297_english_hls_f36047abdf47496_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139188" tvg-name="Pat Rafter Arena   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Pat Rafter Arena   Day 3
