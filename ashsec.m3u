@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498833_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012967/1767596813484377_SuperSmash2526_mens_Auckland_Aces_vs_Otago_Volts_5jan_landscape_thumb.jpg" group-title="Live",Auckland Aces vs Otago Volts - 6 Jan 2026 [ENG] - Super Smash 2025/26 Men's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767699609~acl=/*~id=97522736716650044765930312688966~hmac=80b553b526d824de5a34b5f33edf59d60c851f232e043cca093daf621b58409f
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767703871~acl=/*~id=89156909125804897364395563994487~hmac=8ab18140f01c93cfe387464bde3d959f3955c04ec36f4dcae5beb1eff0c8816f
 #EXTINF:-1 tvg-id="1090498903_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767427703499238_UC26_Canada-vs-Belgium_3jan_landscape_thumb.jpg" group-title="Live",Canada vs Belgium - 6 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767699609~acl=/*~id=97522736716650044765930312688966~hmac=80b553b526d824de5a34b5f33edf59d60c851f232e043cca093daf621b58409f
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767703871~acl=/*~id=89156909125804897364395563994487~hmac=8ab18140f01c93cfe387464bde3d959f3955c04ec36f4dcae5beb1eff0c8816f
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,18 +175,20 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=5eAGwGQo8bTR-4o_6zxVzQ&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Lf3QO0C6a9T_5xBAorGjXg&expires=1767663715
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-06 05:25:28 (BD Time)
+# Update on 2026-01-06 05:49:14 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 6 January 2026 at 5:21:05 am
+#DATE:- Tuesday, 6 January 2026 at 7:14:05 am
 #EXTINF:-1 tvg-id="138741" tvg-name="Auckland Aces Vs Otago Volts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138741_5800_AA_OV_fc-web_1766641250967.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Auckland Aces Vs Otago Volts
 https://in-mc-fdlive.fancode.com/mumbai/138741_english_hls_b36cd39d8d7465_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133963" tvg-name="Victoria Women Vs Act Meteors" tvg-logo="https://images.fancode.com/aig/match/v1/133963_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Victoria Women Vs Act Meteors
 https://in-mc-fdlive.fancode.com/mumbai/133963_english_hls_7ca9b4a79566659_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133965" tvg-name="Queensland Fire Vs Tasmania Women" tvg-logo="https://images.fancode.com/aig/match/v1/133965_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Queensland Fire Vs Tasmania Women
 https://in-mc-fdlive.fancode.com/mumbai/133965_english_hls_6f58f9021288256_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139189" tvg-name="Show Court 1   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Show Court 1   Day 3
+https://in-mc-fdlive.fancode.com/mumbai/139189_english_hls_113052468285825_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
