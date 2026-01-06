@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090499006_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012941/1767503753535728_UnitedCup26_Poland_vs_Netherlands_4jan_landscape_thumb.jpg" group-title="Live",Poland vs Netherlands - 7 Jan 2026 [ENG] - United Cup 2026  - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767783664~acl=/*~id=06784921915042968363211161450941~hmac=42e3ec66e1758aa92b7c6b8be45eb450589997c1ad69307fcecca6e0d75956b8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,12 +172,12 @@ https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=_Fa204bANXHRb20pWxFI9g&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=iqw-AnFenC69AauqqV3_8A&expires=1767746779
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-07 04:26:50 (BD Time)
+# Update on 2026-01-07 04:53:18 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 7 January 2026 at 4:21:05 am
+#DATE:- Wednesday, 7 January 2026 at 4:49:05 am
 #EXTINF:-1 tvg-id="139165" tvg-name="The Bay Vs Atlanta" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png" tvg-language="ENGLISH" group-title="Golf",ENG | The Bay Vs Atlanta
 https://in-mc-fdlive.fancode.com/mumbai/139165_english_hls_b04d47724517739_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
