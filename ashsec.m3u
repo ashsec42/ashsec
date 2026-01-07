@@ -169,12 +169,14 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=2gylMWMcxu0hFMIpEo0CBw&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=stX_xT6HQXKKCN8dwJxg1w&expires=1767833117
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-08 04:25:58 (BD Time)
+# Update on 2026-01-08 04:53:00 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
-##Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Last Checked: 8/1/2026, 02:49:06
+#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#DATE:- Thursday, 8 January 2026 at 4:49:05 am
+#EXTINF:-1 tvg-id="133964" tvg-name="Act Meteors Vs Victoria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Act Meteors Vs Victoria Women
+https://in-mc-fdlive.fancode.com/mumbai/133964_english_hls_c8232439ed41862_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
