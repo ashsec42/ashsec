@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090498834_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766837945135385_SuperSmash2526_mens_Wellington-Firebirds-vs-Central-Stags_27dec_landscape_thumb.jpg" group-title="Live",Wellington Firebirds vs Central Stags - 7 Jan 2026 [ENG] - Super Smash 2025/26 Men's - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767812938~acl=/*~id=50757599180475779634190293255734~hmac=adb3d81fccb92a50a07bebca28cf0dc72a496c023d07d4536f872bf2536f9230
 #EXTINF:-1 tvg-id="1090499000_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013030/1767696632540902_UC26_QF_USA_vs_greece_6jan_landscape_thumb.jpg" group-title="Live",USA vs Greece - Quarter-final - 7 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767812938~acl=/*~id=50757599180475779634190293255734~hmac=adb3d81fccb92a50a07bebca28cf0dc72a496c023d07d4536f872bf2536f9230
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767814768~acl=/*~id=72140850973821919195016145924750~hmac=89df2aac45d5127d3b6a0aea1e71905f065d27e95d2b9bd01e28753e877b1a06
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -180,7 +177,7 @@ https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=TwuyswK5bJiKm8tS53apzQ&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 7 January 2026 at 1:07:04 pm
+#DATE:- Wednesday, 7 January 2026 at 1:21:05 pm
 #EXTINF:-1 tvg-id="138940" tvg-name="Noakhali Express Vs Dhaka Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138940_5808_DC_NOE_fc-web_1766733054889.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Noakhali Express Vs Dhaka Capitals
 https://in-mc-fdlive.fancode.com/mumbai/138940_english_hls_a8879097a196658_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139191" tvg-name="Show Court 1   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Show Court 1   Day 4
@@ -191,8 +188,6 @@ https://in-mc-fdlive.fancode.com/mumbai/139190_english_hls_e3450c9bd795754_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139206_english_hls_a7689c2f3e19261_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139285" tvg-name="Centre Court   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Centre Court   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/139285_english_hls_b93736c6a4488_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138742" tvg-name="Central Stags Vs Wellington Firebirds" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138742_5800_WF_CS_fc-web_1766641251042.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Central Stags Vs Wellington Firebirds
-https://in-mc-fdlive.fancode.com/mumbai/138742_english_hls_abe2a9963978817_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
