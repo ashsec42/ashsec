@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090499000_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013030/1767697177599902_UC26_QF_Switzerland_vs_Argentina_6jan_landscape_thumb.jpg" group-title="Live",Switzerland vs Argentina - Quarter-final - 7 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767829387~acl=/*~id=27730317694549739443740362967708~hmac=e3ce2fa845416694613b1356dc83b9e94bfdf6818e14355e90fe2a5e257c6486
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767831822~acl=/*~id=44246866165224895060403046872427~hmac=09d46275127c900e247816d81480bb0a5fe962af710b33bf75c01acf1d519a6d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,20 +172,18 @@ https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=Hczar-6wV-0eiUPycebEmw&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=KqgXRuXU8JWcgM1YBJ2MwA&expires=1767793298
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-07 17:25:09 (BD Time)
+# Update on 2026-01-07 17:49:31 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 7 January 2026 at 5:21:04 pm
+#DATE:- Wednesday, 7 January 2026 at 6:14:05 pm
 #EXTINF:-1 tvg-id="138941" tvg-name="Chattogram Royals Vs Sylhet Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138941_5808_CCH_SYL_fc-web_1766733054205.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Chattogram Royals Vs Sylhet Titans
 https://in-mc-fdlive.fancode.com/mumbai/138941_english_hls_48ed6eee9983049_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139254" tvg-name="Korea Republic U23 Vs Ir Iran U23" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139254_5822_KR-U23_IRN-U23_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Korea Republic U23 Vs Ir Iran U23
 https://in-mc-fdlive.fancode.com/mumbai/139254_english_hls_638114bb7c9231_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139253" tvg-name="Japan U23 Vs Syria U23" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139253_5822_JP-U23_SYR-U23_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Japan U23 Vs Syria U23
 https://in-mc-fdlive.fancode.com/mumbai/139253_english_hls_4b585058b680046_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139191" tvg-name="Show Court 1   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Show Court 1   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/139191_english_hls_078c776f8b1233_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139206" tvg-name="Center Court   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Center Court   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/139206_english_hls_a7689c2f3e19261_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139285" tvg-name="Centre Court   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Centre Court   Day 3
