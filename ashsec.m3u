@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090499075_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013066/1767772964809351_UC26_QF_Belgium_vs_Czechia_7jan_landscape_thumb.jpg" group-title="Live",Belgium vs Czechia - Quarter-final - 8 Jan 2026 [ENG] - United Cup 2026  - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767923763~acl=/*~id=74336126934149737158020586164051~hmac=0dd53db273139dc1eb115e5a8310ef87e98b4ac971827bc615b859f121b492da
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,7 +174,7 @@ https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=ifP-nWJevwkYztnAEZsXNg&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 8 January 2026 at 7:28:06 pm
+#DATE:- Thursday, 8 January 2026 at 8:00:05 pm
 #EXTINF:-1 tvg-id="138943" tvg-name="Sylhet Titans Vs Dhaka Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-web_1766733054878.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sylhet Titans Vs Dhaka Capitals
 https://in-mc-fdlive.fancode.com/mumbai/138943_english_hls_91d58682b68698_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139258" tvg-name="Iraq U23 Vs China Pr U23" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Iraq U23 Vs China Pr U23
