@@ -169,20 +169,18 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=vzn93iuTvnLyWFDb1AoPQQ&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=acQ2MgoXOttadWl5ijXVvA&expires=1767891135
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-08 20:30:33 (BD Time)
+# Update on 2026-01-08 20:57:49 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 8 January 2026 at 8:21:05 pm
+#DATE:- Thursday, 8 January 2026 at 9:00:05 pm
 #EXTINF:-1 tvg-id="138943" tvg-name="Sylhet Titans Vs Dhaka Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-web_1766733054878.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sylhet Titans Vs Dhaka Capitals
 https://in-mc-fdlive.fancode.com/mumbai/138943_english_hls_91d58682b68698_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139201" tvg-name="Al Hilal Sfc Vs Al Hazem Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Hilal Sfc Vs Al Hazem Fc
 https://in-mc-fdlive.fancode.com/mumbai/139201_english_hls_2182a66a3147455_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139258" tvg-name="Iraq U23 Vs China Pr U23" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Iraq U23 Vs China Pr U23
 https://in-mc-fdlive.fancode.com/mumbai/139258_english_hls_881b2abad447661_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139286" tvg-name="Centre Court   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Centre Court   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/139286_english_hls_cde3a41cb797754_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
