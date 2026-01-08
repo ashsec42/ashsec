@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090499075_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013066/1767772964809351_UC26_QF_Belgium_vs_Czechia_7jan_landscape_thumb.jpg" group-title="Live",Belgium vs Czechia - Quarter-final - 8 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767906652~acl=/*~id=43861443476015930325179616770868~hmac=dcbc9d86ca1a62c1757582d376a436ec1a05ca10b92727c08cf9f1555a53254e
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767908533~acl=/*~id=70995195737278130901375742870869~hmac=f452e8e2565c0b1759f95d08e5598aea9dc247a51195fcd28c84c779cb04e8e2
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,7 +177,7 @@ https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=VwWXhtfkNAOV7VQwXS5Yvw&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 8 January 2026 at 3:14:05 pm
+#DATE:- Thursday, 8 January 2026 at 3:28:06 pm
 #EXTINF:-1 tvg-id="138942" tvg-name="Noakhali Express Vs Rajshahi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138942_5808_NOE_DBR_fc-web_1766733054198.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Noakhali Express Vs Rajshahi Warriors
 https://in-mc-fdlive.fancode.com/mumbai/138942_english_hls_736f816f2a16580_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133966" tvg-name="Western Australia Women Vs South Australian Scorpions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Western Australia Women Vs South Australian Scorpions
