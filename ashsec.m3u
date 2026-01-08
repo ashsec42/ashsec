@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498844_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012825/1766989413323768_SuperSmash2526_womens_Northern-Brave-vs-Canterbury-Magicians_29dec_landscape_thumb.jpg" group-title="Live",Northern Brave vs Canterbury Magicians- 8 Jan 2026 [ENG] -  Super Smash 2025/26 Women's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767901220~acl=/*~id=24703633481837543868724792552286~hmac=93c3e2a7d30e4278cae542e4d00f0ae09fd215c51ce76d0751c7ba81edf6d9dd
 #EXTINF:-1 tvg-id="1090499075_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013066/1767772964809351_UC26_QF_Belgium_vs_Czechia_7jan_landscape_thumb.jpg" group-title="Live",Belgium vs Czechia - Quarter-final - 8 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767901220~acl=/*~id=24703633481837543868724792552286~hmac=93c3e2a7d30e4278cae542e4d00f0ae09fd215c51ce76d0751c7ba81edf6d9dd
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -180,7 +180,7 @@ https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=9MpQVlp7SgjHZvqkjW6xyg&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 8 January 2026 at 1:14:07 pm
+#DATE:- Thursday, 8 January 2026 at 1:28:05 pm
 #EXTINF:-1 tvg-id="138775" tvg-name="Northern Brave Women Vs Canterbury Magicians" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138775_5801_NB-W_CM-W_fc-web_1766596522081.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Northern Brave Women Vs Canterbury Magicians
 https://in-mc-fdlive.fancode.com/mumbai/138775_english_hls_c78ed37c3f20696_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138942" tvg-name="Noakhali Express Vs Rajshahi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138942_5808_NOE_DBR_fc-web_1766733054198.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Noakhali Express Vs Rajshahi Warriors
