@@ -169,20 +169,20 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=woQUoADHkR5124lwWW3srg&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=K97HnDI_jztxm82U4asi5A&expires=1767988024
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-09 23:33:21 (BD Time)
+# Update on 2026-01-09 23:53:32 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 9 January 2026 at 11:21:05 pm
+#DATE:- Saturday, 10 January 2026 at 12:00:05 am
 #EXTINF:-1 tvg-id="139573" tvg-name="Majees Titans Vs Oman Development Team" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Majees Titans Vs Oman Development Team
 https://in-mc-fdlive.fancode.com/mumbai/139573_english_hls_562482020234301_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138387" tvg-name="Mali Vs Senegal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mali-vs-Senegal_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Mali Vs Senegal
-https://in-mc-fdlive.fancode.com/mumbai/138387_english_hls_a23068726030840_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139203" tvg-name="Al Kholood Club Vs Al Ittihad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Kholood-Club-vs-Al-Ittihad_fc-web_1767365352759.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Kholood Club Vs Al Ittihad
 https://in-mc-fdlive.fancode.com/mumbai/139203_english_hls_3a37c84ef261787_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139260" tvg-name="Jordan U23 Vs Saudi Arabia U23" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139260_5822_JOR-U23_SU-U23_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Jordan U23 Vs Saudi Arabia U23
 https://in-mc-fdlive.fancode.com/mumbai/139260_english_hls_5dd96706e371962_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138387" tvg-name="Mali Vs Senegal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mali-vs-Senegal_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Mali Vs Senegal
+https://in-mc-fdlive.fancode.com/mumbai/138387_english_hls_a23068726030840_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
