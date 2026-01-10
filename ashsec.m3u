@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090499151_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013177/1767966837383634_UC26_SF_USA_vs_Poland_9jan_landscape_thumb.jpg" group-title="Live",USA vs Poland - Semi-final - 10 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768084675~acl=/*~id=23883419030968951746032728362381~hmac=177f0f1e5ab7e024bc1661ad418bf0dec7155833a0847473707a5a10a6db5303
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768085899~acl=/*~id=01415130571738216243863025598072~hmac=064f8496d9ffdbaea4b5cccc0e2ea0d6b77fae2d5319b1a3bf0835f707b6f9fd
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,16 +172,14 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=Ye5EjxgOoPEt14ZjEmcqJQ&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=q4RTxmh7dDbdu61ZRzEtBg&expires=1768049042
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-10 16:26:06 (BD Time)
+# Update on 2026-01-10 16:51:20 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 10 January 2026 at 4:21:05 pm
+#DATE:- Saturday, 10 January 2026 at 4:42:05 pm
 #EXTINF:-1 tvg-id="139574" tvg-name="Ias Invincibles Vs Yalla Shabab Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ias Invincibles Vs Yalla Shabab Giants
 https://in-mc-fdlive.fancode.com/mumbai/139574_english_hls_4f1227598c45864_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138821" tvg-name="Macarthur Vs Sydney Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138821_5802_MAC_SYD_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Macarthur Vs Sydney Fc
-https://in-mc-fdlive.fancode.com/mumbai/138821_english_hls_2072bc5cba47760_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138822" tvg-name="Perth Glory Vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138822_5802_PG_CCM_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Perth Glory Vs Central Coast Mariners
 https://in-mc-fdlive.fancode.com/mumbai/138822_english_hls_cfe5c38cc542363_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139209" tvg-name="Center Court   Day 6" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Center Court   Day 6
