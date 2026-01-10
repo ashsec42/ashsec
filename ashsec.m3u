@@ -1,7 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090499190_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013149/1767939274147777_facup26_RD3_Macclesfield_vs_Crystal_Palace_9jan_Landscape_thumb.jpg" group-title="Live",Macclesfield vs Crystal Palace - Round 3 - 10 Jan 2026 [ENG] - The Emirates FA Cup 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768088333~acl=/*~id=11091119960716449469011823305635~hmac=7c2961ab45fbdedc394fb66cf172c7d088d48ce674896d30a0575db8343874d2
 #EXTINF:-1 tvg-id="1090499151_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013177/1767966837383634_UC26_SF_USA_vs_Poland_9jan_landscape_thumb.jpg" group-title="Live",USA vs Poland - Semi-final - 10 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768087116~acl=/*~id=19443324564530325226792199371962~hmac=64eba4bde5400bba87b7970e3a4827f9666ddbb4d2fc4baa742fa1a86f796bce
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768088333~acl=/*~id=11091119960716449469011823305635~hmac=7c2961ab45fbdedc394fb66cf172c7d088d48ce674896d30a0575db8343874d2
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,7 +180,7 @@ https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=RoHzQlbQRTGf0RQrTRljyQ&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 10 January 2026 at 5:14:05 pm
+#DATE:- Saturday, 10 January 2026 at 5:21:05 pm
 #EXTINF:-1 tvg-id="139574" tvg-name="Ias Invincibles Vs Yalla Shabab Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ias Invincibles Vs Yalla Shabab Giants
 https://in-mc-fdlive.fancode.com/mumbai/139574_english_hls_4f1227598c45864_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138822" tvg-name="Perth Glory Vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138822_5802_PG_CCM_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Perth Glory Vs Central Coast Mariners
