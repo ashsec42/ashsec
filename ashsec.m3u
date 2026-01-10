@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090499182_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767949166351145_FA_CUP_26_RD3_Charlton-vs-Chelsea_9jan_Landscape_thumb.jpg" group-title="Live",Charlton vs Chelsea - Round 3 - 11 Jan 2026 [ENG] - The Emirates FA Cup 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768124277~acl=/*~id=94413529323498754463753281316273~hmac=b15320e16b308762a756f49b07efe2be3c4cfe47fff68b278b3107f043fdb6d8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,16 +169,16 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=zYncOSgC5JnJfVF_9Sfq4g&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=-QCSbP6vDoX1NlLE4W0ipQ&expires=1768088377
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-11 03:22:43 (BD Time)
+# Update on 2026-01-11 03:48:25 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 11 January 2026 at 3:21:06 am
-#EXTINF:-1 tvg-id="131014" tvg-name="Valencia Cf Vs Elche Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131014_5427_VAL_ELC_fc-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Valencia Cf Vs Elche Cf
-https://in-mc-fdlive.fancode.com/mumbai/131014_english_hls_bfd56b4c1f36423_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday, 11 January 2026 at 3:49:06 am
 #EXTINF:-1 tvg-id="139249" tvg-name="Racing Club Vs Real Zaragoza" tvg-logo="https://images.fancode.com/aig/match/v1/139249_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Racing Club Vs Real Zaragoza
 https://in-mc-fdlive.fancode.com/mumbai/139249_english_hls_27b9a905d037471_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131014" tvg-name="Valencia Cf Vs Elche Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131014_5427_VAL_ELC_fc-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Valencia Cf Vs Elche Cf
+https://in-mc-fdlive.fancode.com/mumbai/131014_english_hls_bfd56b4c1f36423_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
