@@ -187,16 +187,14 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=eNSR-HoxIHJvsqVF2ID7qw&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=ZoQL24vFcFhbN24tTHKZgA&expires=1768074066
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-10 23:22:16 (BD Time)
+# Update on 2026-01-10 23:48:45 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 10 January 2026 at 11:21:05 pm
+#DATE:- Sunday, 11 January 2026 at 12:00:07 am
 #EXTINF:-1 tvg-id="139575" tvg-name="Renaissance Challengers Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Renaissance Challengers Vs Majees Titans
 https://in-mc-fdlive.fancode.com/mumbai/139575_english_hls_f59d58231925850_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="138389" tvg-name="Algeria Vs Nigeria" tvg-logo="https://images.fancode.com/aig/match/v1/138389_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Algeria Vs Nigeria
-https://in-mc-fdlive.fancode.com/mumbai/138389_english_hls_3bdeb30da51292_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="131019" tvg-name="Girona Fc Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-Web_1767595548457.png" tvg-language="ENGLISH" group-title="Football",ENG | Girona Fc Vs Ca Osasuna
 https://in-mc-fdlive.fancode.com/mumbai/131019_english_hls_b23b5104c747563_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139264" tvg-name="Syria U23 Vs Qatar U23" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139264_5822_SYR-U23_QAT-U23_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Syria U23 Vs Qatar U23
@@ -459,7 +457,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1768135185~acl=%2f*~id=490706db-c4ba-419b-9b79-9a469da5eaa8~data=hdntl~hmac=f9677c70b4aaf1acdda424e79a10ea6b50ec1eff82f0047d97d2a2f7ea01f51e
-#Generated on 1768048957
+#Generated on 1768069880
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1766811610~acl=%2f*~id=6dab2fe2e7331e559dbf327230fb2a90~data=hdntl~hmac=cb5fd92c393e2baa222317ffa490f634c7a87cd4256f4a931d92c756451d13d6"}
