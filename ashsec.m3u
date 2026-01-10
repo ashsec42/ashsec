@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090499151_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013177/1767966837383634_UC26_SF_USA_vs_Poland_9jan_landscape_thumb.jpg" group-title="Live",USA vs Poland - Semi-final - 10 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768072119~acl=/*~id=06673965910521073537833833951496~hmac=a54a816ecb2fa52906413e10ae78152cb9b50d72ea0302344ffba347f6a8ff28
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768073942~acl=/*~id=33679448048993569649444123416792~hmac=b52b0f7c9f0923a5f48cfce4f72cee9044d6361ef8ae0fbb3e5e33513f81aad9
 #EXTINF:-1 tvg-id="1090498877_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012842/1767168385338275_SuperSmash2526_mens_Canterbury-Kings-vs-Auckland-Aces_31dec_landscape_thumb.jpg" group-title="Live",Canterbury Kings vs Auckland Aces - 10 Jan 2026 [ENG] - Super Smash 2025/26 Men's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768072119~acl=/*~id=06673965910521073537833833951496~hmac=a54a816ecb2fa52906413e10ae78152cb9b50d72ea0302344ffba347f6a8ff28
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768073942~acl=/*~id=33679448048993569649444123416792~hmac=b52b0f7c9f0923a5f48cfce4f72cee9044d6361ef8ae0fbb3e5e33513f81aad9
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -180,7 +180,7 @@ https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=BiRWiS1rfr0Gy_qJUaPt0Q&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 10 January 2026 at 1:07:06 pm
+#DATE:- Saturday, 10 January 2026 at 1:21:05 pm
 #EXTINF:-1 tvg-id="138745" tvg-name="Canterbury Vs Auckland Aces" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138745_5800_CTB_AA_fc-web_1766641251005.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Canterbury Vs Auckland Aces
 https://in-mc-fdlive.fancode.com/mumbai/138745_english_hls_8f03bdbe1325766_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138820" tvg-name="Melbourne Victory Vs Western Sydney Wanderers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138820_5802_MLV_SYW_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Melbourne Victory Vs Western Sydney Wanderers
