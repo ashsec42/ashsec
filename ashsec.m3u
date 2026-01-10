@@ -192,13 +192,15 @@ https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=LrzINm_jKkbAIl9de7UFsQ&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 11 January 2026 at 12:56:05 am
-#EXTINF:-1 tvg-id="131019" tvg-name="Girona Fc Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-Web_1767595548457.png" tvg-language="ENGLISH" group-title="Football",ENG | Girona Fc Vs Ca Osasuna
-https://in-mc-fdlive.fancode.com/mumbai/131019_english_hls_b23b5104c747563_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday, 11 January 2026 at 1:07:05 am
 #EXTINF:-1 tvg-id="138390" tvg-name="Egypt Vs Ivory Coast" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Egypt-vs-Ivory-Coast_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Egypt Vs Ivory Coast
 https://in-mc-fdlive.fancode.com/mumbai/138390_english_hls_9fe78d79a136280_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131014" tvg-name="Valencia Cf Vs Elche Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131014_5427_VAL_ELC_fc-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Valencia Cf Vs Elche Cf
+https://in-mc-fdlive.fancode.com/mumbai/131014_english_hls_bfd56b4c1f36423_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139248" tvg-name="Las Palmas Vs Deportivo La Coruna" tvg-logo="https://images.fancode.com/aig/match/v1/139248_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Las Palmas Vs Deportivo La Coruna
 https://in-mc-fdlive.fancode.com/mumbai/139248_english_hls_8036369be926297_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131019" tvg-name="Girona Fc Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-Web_1767595548457.png" tvg-language="ENGLISH" group-title="Football",ENG | Girona Fc Vs Ca Osasuna
+https://in-mc-fdlive.fancode.com/mumbai/131019_english_hls_b23b5104c747563_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
