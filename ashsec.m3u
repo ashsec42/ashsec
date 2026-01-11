@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090499229_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013204/1768038113639649_UC26_Final_Switzerland-vs-Poland_10jan_landscape_thumb.jpg" group-title="Live",Switzerland vs Poland - Final - 11 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768171585~acl=/*~id=46326955565140817366396622987867~hmac=40ab02182e7c8ebe101d04353785853ef330ed2a5fdce03f9e3598a03713f89b
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768172806~acl=/*~id=09382100571212329985680510019930~hmac=af2f47759e2b9a81bd6e55662fdb63d3014b69fcd56fc51c75dc48253cd982fa
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,14 +172,12 @@ https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=3bmX7vM4zFczs6xUSgpWrA&expi
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=rxg0IEjgotwZucBlUnXH_A&expires=1768135512
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-11 16:26:32 (BD Time)
+# Update on 2026-01-11 16:51:52 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
-#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 11 January 2026 at 4:21:05 pm
-#EXTINF:-1 tvg-id="138938" tvg-name="Rangpur Riders Vs Rajshahi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138938_5808_DBR_RAN_fc-web_1766733054364.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Rangpur Riders Vs Rajshahi Warriors
-https://in-mc-fdlive.fancode.com/mumbai/138938_english_hls_f09af0d11f77311_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+##Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Last Checked: 11/1/2026, 16:28:05
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
