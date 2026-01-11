@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090498882_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012842/1767188814441275_SuperSmash2526_mens_Wellington-Firebirds-vs-Northern-Brave_31dec_landscape_thumb.jpg" group-title="Live",Wellington Firebirds vs Northern Brave Men - 11 Jan 2026 [ENG] - Super Smash 2025/26 Men's - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768156966~acl=/*~id=96221239415697029577900121866654~hmac=f5996d2abdf40c194a3c3c826b196def95044dec83c8d2143f2ff6018da0d45c
 #EXTINF:-1 tvg-id="1090499229_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013204/1768038113639649_UC26_Final_Switzerland-vs-Poland_10jan_landscape_thumb.jpg" group-title="Live",Switzerland vs Poland - Final - 11 Jan 2026 [ENG] - United Cup 2026  - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768156966~acl=/*~id=96221239415697029577900121866654~hmac=f5996d2abdf40c194a3c3c826b196def95044dec83c8d2143f2ff6018da0d45c
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768158183~acl=/*~id=55058459532749541673273779038985~hmac=f2d5512bd29581729a54d98af38c1c1d1015936bdaabed5ab99f2062c423335e
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,18 +172,20 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=AX0ehL0X1Yj-HGwsaEkNsw&expi
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=wO22Tfn6oauhqkM3txttcg&expires=1768120329
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-11 12:38:40 (BD Time)
+# Update on 2026-01-11 13:00:02 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 11 January 2026 at 12:28:06 pm
+#DATE:- Sunday, 11 January 2026 at 12:56:07 pm
 #EXTINF:-1 tvg-id="138938" tvg-name="Rangpur Riders Vs Rajshahi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138938_5808_DBR_RAN_fc-web_1766733054364.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Rangpur Riders Vs Rajshahi Warriors
 https://in-mc-fdlive.fancode.com/mumbai/138938_english_hls_f09af0d11f77311_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="138824" tvg-name="Melbourne City Vs Newcastle Jets" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138824_5802_MLC_NJ_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Melbourne City Vs Newcastle Jets
 https://in-mc-fdlive.fancode.com/mumbai/138824_english_hls_97d46b4ea769591_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139197" tvg-name="Pat Rafter Arena   Day 8" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Pat Rafter Arena   Day 8
 https://in-mc-fdlive.fancode.com/mumbai/139197_english_hls_245973bb4850380_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139210" tvg-name="Center Court   Day 7" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Center Court   Day 7
+https://in-mc-fdlive.fancode.com/mumbai/139210_english_hls_ff251d6acd11194_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
