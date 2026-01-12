@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090499187_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767951554437145_FA_CUP_26_RD3_Liverpool-vs-Barnsley_9jan_Landscape_thumb.jpg" group-title="Live",Liverpool vs Barnsley - Round 3 - 13 Jan 2026 [ENG] - The Emirates FA Cup 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768289034~acl=/*~id=57363813171916370669490119475321~hmac=96e54b6455c622a8049f03524b0fca1fd6b2ddadbc0826226b5135fec70399a4
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768290250~acl=/*~id=66989674138378999646090349879518~hmac=6531129c40b959b6e4aec3471a10292e3b4058a43f0c845cf10d02f75db62a64
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,7 +177,7 @@ https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=QM3KJmRlDUz9zJpzctM_kw&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 13 January 2026 at 1:14:04 am
+#DATE:- Tuesday, 13 January 2026 at 1:21:05 am
 #EXTINF:-1 tvg-id="131013" tvg-name="Sevilla Fc Vs Rc Celta" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-Web_1768202652350.png" tvg-language="ENGLISH" group-title="Football",ENG | Sevilla Fc Vs Rc Celta
 https://in-mc-fdlive.fancode.com/mumbai/131013_english_hls_c86fac976263808_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
