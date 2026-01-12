@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090499187_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767951554437145_FA_CUP_26_RD3_Liverpool-vs-Barnsley_9jan_Landscape_thumb.jpg" group-title="Live",Liverpool vs Barnsley - Round 3 - 13 Jan 2026 [ENG] - The Emirates FA Cup 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768288426~acl=/*~id=38510348112163747816635346440027~hmac=52b28e3fcf7191b4a9ac2485c19fec14133a328a06f92e218f3a37b5c73d0d94
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,14 +172,16 @@ https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=ev-nidm83PrmIFBXl7iGAA&expi
 https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=HrWXsjf98rFDkRiKGvNpeg&expires=1768249989
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-13 00:39:41 (BD Time)
+# Update on 2026-01-13 01:02:31 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 13 January 2026 at 12:35:07 am
+#DATE:- Tuesday, 13 January 2026 at 1:00:06 am
 #EXTINF:-1 tvg-id="139357" tvg-name="Al Hilal Sfc Vs Al Nassr Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Nassr-FC_fc-web-(1).jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Hilal Sfc Vs Al Nassr Fc
 https://in-mc-fdlive.fancode.com/mumbai/139357_english_hls_2614494daf79038_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131013" tvg-name="Sevilla Fc Vs Rc Celta" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-Web_1768202652350.png" tvg-language="ENGLISH" group-title="Football",ENG | Sevilla Fc Vs Rc Celta
+https://in-mc-fdlive.fancode.com/mumbai/131013_english_hls_c86fac976263808_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
