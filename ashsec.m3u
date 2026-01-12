@@ -169,18 +169,16 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=6L3hhHSfZqoQMvkp832Vdw&expi
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=7gKgtID3yULoH_XQwXKRLQ&expires=1768213969
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-12 14:39:07 (BD Time)
+# Update on 2026-01-12 15:03:34 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 12 January 2026 at 2:28:05 pm
+#DATE:- Monday, 12 January 2026 at 3:14:06 pm
 #EXTINF:-1 tvg-id="138932" tvg-name="Rangpur Riders Vs Sylhet Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138932_5808_SYL_RAN_fc-web_1766733054172.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Rangpur Riders Vs Sylhet Titans
 https://in-mc-fdlive.fancode.com/mumbai/138932_english_hls_37c5b9692218209_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139666" tvg-name="V N Sule Vs Dyandeep Seva Mandal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | V N Sule Vs Dyandeep Seva Mandal
 https://in-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b987500_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139536" tvg-name="Atp 250   Asb Classic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Atp 250   Asb Classic
-https://in-mc-fdlive.fancode.com/mumbai/139536_english_hls_31cccb3ff817193_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139532" tvg-name="Centre Court   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Centre Court   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/139532_english_hls_60be8400f426190_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139533" tvg-name="Show Court 1   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Show Court 1   Day 1
