@@ -169,14 +169,12 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=gAPlQx1rEAKelxKgGXs-og&exp
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=6YZj9GOt4HnP1STIuTQ4xg&expires=1768247099
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-12 23:01:11 (BD Time)
+# Update on 2026-01-12 23:51:31 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 12 January 2026 at 11:28:05 pm
-#EXTINF:-1 tvg-id="139577" tvg-name="Yalla Shabab Giants Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Yalla Shabab Giants Vs Majees Titans
-https://in-mc-fdlive.fancode.com/mumbai/139577_english_hls_c62064f93993299_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Tuesday, 13 January 2026 at 12:14:05 am
 #EXTINF:-1 tvg-id="139357" tvg-name="Al Hilal Sfc Vs Al Nassr Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Nassr-FC_fc-web-(1).jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Hilal Sfc Vs Al Nassr Fc
 https://in-mc-fdlive.fancode.com/mumbai/139357_english_hls_2614494daf79038_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139268" tvg-name="Jordan U23 Vs Kyrgyz Republic U23" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139268_5822_JOR-U23_KYG-U23_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Jordan U23 Vs Kyrgyz Republic U23
@@ -439,7 +437,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1768308493~acl=%2f*~id=b9bca491-032b-4cdb-aa4e-0e5be235eee2~data=hdntl~hmac=8918e534927b88f60feacc525d757182d603b34385376bf3fb1aac5ac812078c
-#Generated on 1768222304
+#Generated on 1768242922
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1766811610~acl=%2f*~id=6dab2fe2e7331e559dbf327230fb2a90~data=hdntl~hmac=cb5fd92c393e2baa222317ffa490f634c7a87cd4256f4a931d92c756451d13d6"}
