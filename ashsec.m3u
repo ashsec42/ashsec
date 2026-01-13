@@ -169,22 +169,18 @@ https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=44Vw9rATB-UrLxPaobMhNw&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=mJeBJyW2eVijGByIvVPetA&expires=1768347814
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-14 03:27:04 (BD Time)
+# Update on 2026-01-14 03:52:15 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 14 January 2026 at 3:28:07 am
-#EXTINF:-1 tvg-id="139746" tvg-name="Jamaica Women Vs Leeward Islands Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Jamaica Women Vs Leeward Islands Women
-https://in-mc-fdlive.fancode.com/mumbai/139746_english_hls_9a8ce266ae19979_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139211" tvg-name="Newcastle United Vs Manchester City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/01_Newcastle-United-vs-Manchester-City_1768301098208.png" tvg-language="ENGLISH" group-title="Football",ENG | Newcastle United Vs Manchester City
-https://in-mc-fdlive.fancode.com/mumbai/139211_english_hls_79637da9ad62597_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Wednesday, 14 January 2026 at 4:00:05 am
 #EXTINF:-1 tvg-id="139670" tvg-name="Cultural Leonesa Vs Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139670_5806_CL_ATH_FC-Web_1768310393642.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Cultural Leonesa Vs Athletic Club
 https://in-mc-fdlive.fancode.com/mumbai/139670_english_hls_2b7e7ceeae50375_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139669" tvg-name="Real Sociedad Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139669_5806_RS_OSN_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Sociedad Vs Ca Osasuna
 https://in-mc-fdlive.fancode.com/mumbai/139669_english_hls_ccaf31104e46425_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139671" tvg-name="Deportivo La Coruna Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139671_5806_COR_ATL_FC-Web_1768310393634.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Deportivo La Coruna Vs Atletico De Madrid
-https://in-mc-fdlive.fancode.com/mumbai/139671_english_hls_c19d2bb8e243669_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139538" tvg-name="Atp 250   Asb Classic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Atp 250   Asb Classic
+https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
