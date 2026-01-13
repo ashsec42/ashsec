@@ -177,13 +177,15 @@ https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=WXtGgqKCpZRvxlWcWA-CZw&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 14 January 2026 at 5:14:05 am
+#DATE:- Wednesday, 14 January 2026 at 5:28:05 am
 #EXTINF:-1 tvg-id="138749" tvg-name="Canterbury Vs Auckland Aces" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Canterbury Vs Auckland Aces
 https://in-mc-fdlive.fancode.com/mumbai/138749_english_hls_48464bcb1d93181_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139747" tvg-name="Trinidad And Tobago Women Vs Barbados Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trinidad And Tobago Women Vs Barbados Women
 https://in-mc-fdlive.fancode.com/mumbai/139747_english_hls_96592331e222434_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139538" tvg-name="Atp 250   Asb Classic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Atp 250   Asb Classic
 https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139166" tvg-name="Jupiter Vs New York" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png" tvg-language="ENGLISH" group-title="Golf",ENG | Jupiter Vs New York
+https://in-mc-fdlive.fancode.com/mumbai/139166_english_hls_b0f80b410417709_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
