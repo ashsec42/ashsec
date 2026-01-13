@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090499498_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013313/1768285059261802_AO26_Rybakina_vs_Paolini_rev_landscape_thumb.jpg" group-title="Live",Paolini vs Rybakina - 13 Jan 2026 [ENG] - Australian Open 2026 - ENG
+#EXTINF:-1 tvg-id="1090499498_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013308/1768241336769463_AO26_Zverev_vs_Musetti_12jan_landscape_thumb.jpg" group-title="Live",Zverev vs Musetti - 13 Jan 2026 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768333442~acl=/*~id=56118431587287774535726975027054~hmac=a53f368c386d9f72c47948875a23612eac94c2dac4fafb82bf694b9078503848
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768335272~acl=/*~id=86922753776679162527523861170794~hmac=88a7970d22156408b297e2e2df73810411e58d04e6c7513d29ded898adc2db7c
 #EXTINF:-1 tvg-id="1090498893_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767248542948898_SuperSmash2526_mens_Central-Stags-vs-Northern-Brave_1jan_landscape_thumb.jpg" group-title="Live",Central Stags vs Northern Brave - 13 Jan 2026 [ENG] - Super Smash 2025/26 Men's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768333442~acl=/*~id=56118431587287774535726975027054~hmac=a53f368c386d9f72c47948875a23612eac94c2dac4fafb82bf694b9078503848
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768335272~acl=/*~id=86922753776679162527523861170794~hmac=88a7970d22156408b297e2e2df73810411e58d04e6c7513d29ded898adc2db7c
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,14 +175,12 @@ https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=s6juV-JgTlGfJcaBzWOY6A&expi
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=QV9TtK369LBlOLUkXrhQAg&expires=1768297499
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-13 13:29:20 (BD Time)
+# Update on 2026-01-13 13:51:31 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 13 January 2026 at 1:28:06 pm
-#EXTINF:-1 tvg-id="138748" tvg-name="Central Stags Vs Northern Districts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138748_5800_CS_ND_fc-web_1766641250992.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Central Stags Vs Northern Districts
-https://in-mc-fdlive.fancode.com/mumbai/138748_english_hls_5848d6ccc817928_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Tuesday, 13 January 2026 at 2:07:07 pm
 #EXTINF:-1 tvg-id="139666" tvg-name="V N Sule Vs Dyandeep Seva Mandal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | V N Sule Vs Dyandeep Seva Mandal
 https://in-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b995755_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139667" tvg-name="Swami Vivekanand Vs Rizvi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Swami Vivekanand Vs Rizvi
