@@ -174,13 +174,11 @@ https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=q97qIOoX7b3iuL3_UcrvkQ&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 15 January 2026 at 4:14:06 am
-#EXTINF:-1 tvg-id="138392" tvg-name="Nigeria Vs Morocco" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Morocco_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Nigeria Vs Morocco
-https://in-mc-fdlive.fancode.com/mumbai/138392_english_hls_a56d8afe5952257_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Thursday, 15 January 2026 at 4:28:05 am
 #EXTINF:-1 tvg-id="139539" tvg-name="Atp 250   Asb Classic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Atp 250   Asb Classic
 https://in-mc-fdlive.fancode.com/mumbai/139539_english_hls_5b30ee1e3a71739_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139673" tvg-name="Albacete Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139673_5806_ALB_RM_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Albacete Vs Real Madrid
-https://in-mc-fdlive.fancode.com/mumbai/139673_english_hls_1ed6b9f5df56643_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="138392" tvg-name="Nigeria Vs Morocco" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Morocco_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Nigeria Vs Morocco
+https://in-mc-fdlive.fancode.com/mumbai/138392_english_hls_a56d8afe5952257_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
