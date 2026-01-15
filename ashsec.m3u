@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090499614_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013387/1768403052642345_PWL_26_Punjab-Royals-vs-UP-Dominators_14jan_landscape_thumb.jpg" group-title="Live",Punjab Royals vs UP Dominators - 15 Jan 2026 [ENG] - Pro Wrestling League 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768530145~acl=/*~id=08889667694674669153532489539827~hmac=7a6e2f2640cb2eda94029a274402c6587e24a44af2813d739dc7c62f33648bba
+#EXTINF:-1 tvg-id="1090499614_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013387/1768403052642345_PWL_26_Punjab-Royals-vs-UP-Dominators_14jan_landscape_thumb.jpg" group-title="Live",Punjab Royals vs UP Dominators - 15 Jan 2026 [HIN] - Pro Wrestling League 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768530145~acl=/*~id=08889667694674669153532489539827~hmac=7a6e2f2640cb2eda94029a274402c6587e24a44af2813d739dc7c62f33648bba
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -174,7 +180,7 @@ https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=phI2wT8D-eTNfyT9Dt9zmw&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 15 January 2026 at 7:42:06 pm
+#DATE:- Thursday, 15 January 2026 at 8:14:07 pm
 #EXTINF:-1 tvg-id="139748" tvg-name="Barbados Women Vs Jamaica Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Barbados Women Vs Jamaica Women
 https://in-mc-fdlive.fancode.com/mumbai/139748_english_hls_3e659c1eb598132_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
