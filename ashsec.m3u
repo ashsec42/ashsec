@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090499564_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013378/1768394373358258_AO26_Djokovic_vs_Tiafoe_op_live_landscpae_thumb.jpg" group-title="Live",Novak Djokovic vs Frances Tiafoe - 15 Jan 2026 [ENG] - Australian Open 2026 - ENG
+#EXTINF:-1 tvg-id="1090499564_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013332/1768306701711693_AO26_Opening_week_Alcaraz_vs_De_Minaur_13jan_landscape_thumb.jpg" group-title="Live",Alcaraz vs De Minaur - 15 Jan 2026 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768505294~acl=/*~id=27054867236086008884933910892562~hmac=c19a7b4e33994095b62c9b22c88e469a3c850aed34710a8dd0d3ad181f7eb2df
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768506508~acl=/*~id=32515422557788729071121217771076~hmac=9dd606fa90f273a2f123ec9f881c44e4c715ee8613e880460f282f0553f414c7
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,20 +172,18 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=AJcKZy8d_m8a9oeqMcP8yg&expi
 https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=OuKukqZ31lH8qpyVm4davQ&expires=1768470324
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-15 13:29:42 (BD Time)
+# Update on 2026-01-15 13:52:03 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 15 January 2026 at 1:14:06 pm
+#DATE:- Thursday, 15 January 2026 at 2:00:05 pm
 #EXTINF:-1 tvg-id="138934" tvg-name="Chattogram Royals Vs Noakhali Express" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138934_5808_CCH_NOE_fc-web_1766733054213.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Chattogram Royals Vs Noakhali Express
 https://in-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b98092_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139667" tvg-name="Swami Vivekanand Vs Rizvi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Swami Vivekanand Vs Rizvi
 https://in-mc-fdlive.fancode.com/mumbai/139667_english_hls_e061157e2f88573_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139539" tvg-name="Atp 250   Asb Classic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Atp 250   Asb Classic
 https://in-mc-fdlive.fancode.com/mumbai/139539_english_hls_5b30ee1e3a71739_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139567" tvg-name="Show Court 1   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Show Court 1   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/139567_english_hls_a4360e563990286_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139566" tvg-name="Centre Court   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Centre Court   Day 4
 https://in-mc-fdlive.fancode.com/mumbai/139566_english_hls_cbc0042fbb45031_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
