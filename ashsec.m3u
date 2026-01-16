@@ -169,14 +169,16 @@ https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=5c-GYA01E728_ECiiIhOEw&expi
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=yuT9KhO6hbXrk7hsTZZrRQ&expires=1768595593
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-17 00:39:31 (BD Time)
+# Update on 2026-01-17 01:01:56 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 17 January 2026 at 12:28:05 am
+#DATE:- Saturday, 17 January 2026 at 12:49:13 am
 #EXTINF:-1 tvg-id="139360" tvg-name="Al Ittihad Vs Al Ettifaq" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-VS-Image-Al-Ettifaq_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Ittihad Vs Al Ettifaq
 https://in-mc-fdlive.fancode.com/mumbai/139360_english_hls_b89619e6db8075_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139787" tvg-name="Castellón Vs Leganés" tvg-logo="https://images.fancode.com/aig/match/v1/139787_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Castellón Vs Leganés
+https://in-mc-fdlive.fancode.com/mumbai/139787_english_hls_b66d45021423039_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139778" tvg-name="Featured Group   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Group   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/139778_english_hls_35c057050432718_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
