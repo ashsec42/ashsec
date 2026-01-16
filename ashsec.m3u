@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090499620_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012935/1767443224284690_SuperSmash2526_womens_Central-Hinds-vs-Auckland-Hearts_1jan_landscape_thumb.jpg" group-title="Live",Central Hinds vs Auckland Hearts - 16 Jan 2026 [ENG] - Super Smash 2025/26 Women's - ENG
+#EXTINF:-1 tvg-id="1090499621_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012935/1767443521776690_SuperSmash2526_mens_Central-Stags-vs-Auckland-Aces_1jan_landscape_thumb_.jpg" group-title="Live",Central Stags vs Auckland Aces - 16 Jan 2026 [ENG] - Super Smash 2025/26 Men's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768578684~acl=/*~id=14193988289829496169617892115720~hmac=003affa824406d185dc8ced6c28afddc0347b9259bde43205ac32d2dd93a85b7
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768581716~acl=/*~id=34447095864831812650666218944907~hmac=a59ad9a1cefba00c1076aeb3b1e0fc02f31ed2659e31dae8958d82551cd6eebc
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,7 +177,9 @@ https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=36K4aZc4xyMhhHtZf60xXg&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 16 January 2026 at 9:49:06 am
+#DATE:- Friday, 16 January 2026 at 10:21:05 am
+#EXTINF:-1 tvg-id="138751" tvg-name="Central Stags Vs Auckland Aces" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138751_5800_CS_AA_fc-web_1766641251076.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Central Stags Vs Auckland Aces
+https://in-mc-fdlive.fancode.com/mumbai/138751_english_hls_9494524cbc43118_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139540" tvg-name="Atp 250   Asb Classic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Atp 250   Asb Classic
 https://in-mc-fdlive.fancode.com/mumbai/139540_english_hls_8ee11e5cff66218_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
