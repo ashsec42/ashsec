@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090499622_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013386/1768398131523642_AO26_Sinner_vs_Auger_Aliassime_op_landscape_thumb.jpg" group-title="Live",Jannik Sinner vs Felix Auger-Aliassime - 16 Jan 2026 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768592675~acl=/*~id=80272374211870608673519315992223~hmac=5e5eb4175f25ca739fdb3655cff6cd27577e91a3d199e87196c3a8f3009fe45d
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768593896~acl=/*~id=87110571480749459055644940764015~hmac=d156dd0686cef0fb7e32cc768dd2a4f2fb927fb070939ea5b952c5ea87e3bef9
 #EXTINF:-1 tvg-id="1090499621_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012935/1767443521776690_SuperSmash2526_mens_Central-Stags-vs-Auckland-Aces_1jan_landscape_thumb_.jpg" group-title="Live",Central Stags vs Auckland Aces - 16 Jan 2026 [ENG] - Super Smash 2025/26 Men's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768592675~acl=/*~id=80272374211870608673519315992223~hmac=5e5eb4175f25ca739fdb3655cff6cd27577e91a3d199e87196c3a8f3009fe45d
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768593896~acl=/*~id=87110571480749459055644940764015~hmac=d156dd0686cef0fb7e32cc768dd2a4f2fb927fb070939ea5b952c5ea87e3bef9
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,16 +175,16 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=IMHeDI4jPX_T4E5GoYZsyQ&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=NTsqayyxae_7Y-YHkJeHvQ&expires=1768556693
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-16 13:29:14 (BD Time)
+# Update on 2026-01-16 13:51:38 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 16 January 2026 at 1:28:04 pm
-#EXTINF:-1 tvg-id="138751" tvg-name="Central Stags Vs Auckland Aces" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138751_5800_CS_AA_fc-web_1766641251076.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Central Stags Vs Auckland Aces
-https://in-mc-fdlive.fancode.com/mumbai/138751_english_hls_9494524cbc43118_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Friday, 16 January 2026 at 2:07:05 pm
 #EXTINF:-1 tvg-id="138934" tvg-name="Noakhali Express Vs Chattogram Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138934_5808_CCH_NOE_fc-web_1766733054213.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Noakhali Express Vs Chattogram Royals
 https://in-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b83261_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139424" tvg-name="Melbourne City Vs Auckland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Melbourne City Vs Auckland
+https://in-mc-fdlive.fancode.com/mumbai/139424_english_hls_cf389aeefd60676_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
