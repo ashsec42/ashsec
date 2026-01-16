@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090499622_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013423/176846861552253_AO26_Redbull_Baseline_live_landscape_thumb.jpg" group-title="Live",Redbull Baseline - 16 Jan 2026 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768596333~acl=/*~id=24136871421656722599933961449804~hmac=7f4dd819b5892978de6c6aa84c96c60d7a3ac131910c2c79accc365b13e11720
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768598158~acl=/*~id=79966424913568620377273464021254~hmac=b05ba1c1cd595c95666272b8731356232809f7a9ce0d8fd46b2200cfe7cd46e2
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,15 +172,15 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=Ex_rDQ_aBq87NYw6gvufDA&expi
 https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=2O_oJQH35mmE-7BjPj5lAg&expires=1768559424
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-16 14:36:24 (BD Time)
+# Update on 2026-01-16 14:59:27 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 16 January 2026 at 2:28:05 pm
+#DATE:- Friday, 16 January 2026 at 3:07:06 pm
 #EXTINF:-1 tvg-id="138934" tvg-name="Noakhali Express Vs Chattogram Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138934_5808_CCH_NOE_fc-web_1766733054213.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Noakhali Express Vs Chattogram Royals
 https://in-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b83261_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139424" tvg-name="Melbourne City Vs Auckland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Melbourne City Vs Auckland
+#EXTINF:-1 tvg-id="139424" tvg-name="Melbourne City Vs Auckland" tvg-logo="https://images.fancode.com/aig/match/v1/139424_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Melbourne City Vs Auckland
 https://in-mc-fdlive.fancode.com/mumbai/139424_english_hls_cf389aeefd60676_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
