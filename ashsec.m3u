@@ -1,19 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090499148_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013550/1768648860000750_AO2026_Landscape_Thumb_Yastremska_vs_Ruse_SP.jpg" group-title="Live",Yastremska vs Ruse - Round 1 - 18 Jan 2026	 [ENG] - Australian Open 2026 - ENG
+#EXTINF:-1 tvg-id="1090499148_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013545/1768664291046549_AO2026_Landscape_Thumb_Sasnovich_v_Paolini_sp.jpg" group-title="Live",Sasnovich vs Paolini - Round 1 - 18 Jan 2026 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768735972~acl=/*~id=21066514836748640686175935925768~hmac=eabb558deea9cdea4a39345033479119113d4556c2b55c27f938443204cb71d7
-#EXTINF:-1 tvg-id="1090499148_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013550/1768648860000750_AO2026_Landscape_Thumb_Yastremska_vs_Ruse_SP.jpg" group-title="Live",Yastremska vs Ruse - Round 1 - 18 Jan 2026	 [HIN] - Australian Open 2026 - ENG
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
+#EXTINF:-1 tvg-id="1090499148_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013545/1768664291046549_AO2026_Landscape_Thumb_Sasnovich_v_Paolini_sp.jpg" group-title="Live",Sasnovich vs Paolini - Round 1 - 18 Jan 2026 [HIN] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768735972~acl=/*~id=21066514836748640686175935925768~hmac=eabb558deea9cdea4a39345033479119113d4556c2b55c27f938443204cb71d7
-#EXTINF:-1 tvg-id="1090499148_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013550/1768648860000750_AO2026_Landscape_Thumb_Yastremska_vs_Ruse_SP.jpg" group-title="Live",Yastremska vs Ruse - Round 1 - 18 Jan 2026	 [TAM] - Australian Open 2026 - ENG
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
+#EXTINF:-1 tvg-id="1090499148_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013545/1768664291046549_AO2026_Landscape_Thumb_Sasnovich_v_Paolini_sp.jpg" group-title="Live",Sasnovich vs Paolini - Round 1 - 18 Jan 2026 [TAM] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768735972~acl=/*~id=21066514836748640686175935925768~hmac=eabb558deea9cdea4a39345033479119113d4556c2b55c27f938443204cb71d7
-#EXTINF:-1 tvg-id="1090499148_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013550/1768648860000750_AO2026_Landscape_Thumb_Yastremska_vs_Ruse_SP.jpg" group-title="Live",Yastremska vs Ruse - Round 1 - 18 Jan 2026	 [TEL] - Australian Open 2026 - ENG
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
+#EXTINF:-1 tvg-id="1090499148_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013545/1768664291046549_AO2026_Landscape_Thumb_Sasnovich_v_Paolini_sp.jpg" group-title="Live",Sasnovich vs Paolini - Round 1 - 18 Jan 2026 [TEL] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768735972~acl=/*~id=21066514836748640686175935925768~hmac=eabb558deea9cdea4a39345033479119113d4556c2b55c27f938443204cb71d7
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
+#EXTINF:-1 tvg-id="1090498779_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013544/1768663946215881_AO2026_Landscape_Thumb_Sakkari_V_Jeanjean_sp.jpg" group-title="Live",Sakkari vs Jeanjean - Round 1 - 18 Jan 2026 [ENG] - Australian Open 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
 #EXTINF:-1 tvg-id="1090499840_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012935/1767438584500690_SuperSmash2526_womens_Otago-Sparks-vs-Northern-Brave_1jan_landscape_thumb.jpg" group-title="Live",Otago Sparks vs Northern Brave - 18 Jan 2026 [ENG] - Super Smash 2025/26 Women's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768735972~acl=/*~id=21066514836748640686175935925768~hmac=eabb558deea9cdea4a39345033479119113d4556c2b55c27f938443204cb71d7
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -184,16 +187,16 @@ https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=euU6jMNO1mmPLF-zSSPnSA&expi
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=iOkK_DpvkKbTfL4gqUWyNw&expires=1768700422
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-18 05:23:49 (BD Time)
+# Update on 2026-01-18 05:48:42 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 18 January 2026 at 5:21:11 am
+#DATE:- Sunday, 18 January 2026 at 7:56:05 am
 #EXTINF:-1 tvg-id="138784" tvg-name="Otago Sparks Vs Northern Brave Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138784_5801_OS-W_NB-W_fc-web_1766596522109.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Otago Sparks Vs Northern Brave Women
 https://in-mc-fdlive.fancode.com/mumbai/138784_english_hls_3c4fb9396974834_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139753" tvg-name="Jamaica Women Vs Guyana Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Jamaica Women Vs Guyana Women
-https://in-mc-fdlive.fancode.com/mumbai/139753_english_hls_05a811bd2569781_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139922" tvg-name="Mexico Legends Vs International Legends" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Juego-de-leyendas_web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Mexico Legends Vs International Legends
+https://in-mc-fdlive.fancode.com/mumbai/139922_english_hls_a70226954d38569_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139780" tvg-name="Featured Group   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Group   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/139780_english_hls_ec50c15d8d92249_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139774" tvg-name="World Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 3
@@ -249,7 +252,7 @@ https://prudentmcdn.rixcast.com/prudentm.m3u8
 https://satpros.tech/hls/ingoanews/ingoanews_live_stream/index.m3u8
 #EXTINF:-1 tvg-name="Prime TV" tvg-logo="https://www.primetvgoa.in/wp-content/uploads/2022/11/primetv-mobile-app-e1716881809302.jpg" group-title="Goa", Prime TV
 https://primetvgoa.rixcast.com/primegoa.m3u8
-#Generated on 1768653579
+#Generated on 1768701168
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?
@@ -454,7 +457,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?
-#Generated on 1768674644
+#Generated on 1768701583
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":""}
