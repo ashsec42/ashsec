@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090499148_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="Live",Zverev vs Diallo - Round 1 - 18 Jan 2026 [ENG] - Australian Open 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768754816~acl=/*~id=34304870534720133001856729344734~hmac=6cf0688a82167457f8f7783e3c1424e18fda847e2e9fe8294966be9a3123530f
-#EXTINF:-1 tvg-id="1090499148_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="Live",Zverev vs Diallo - Round 1 - 18 Jan 2026 [HIN] - Australian Open 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768754816~acl=/*~id=34304870534720133001856729344734~hmac=6cf0688a82167457f8f7783e3c1424e18fda847e2e9fe8294966be9a3123530f
-#EXTINF:-1 tvg-id="1090499148_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="Live",Zverev vs Diallo - Round 1 - 18 Jan 2026 [TAM] - Australian Open 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768754816~acl=/*~id=34304870534720133001856729344734~hmac=6cf0688a82167457f8f7783e3c1424e18fda847e2e9fe8294966be9a3123530f
-#EXTINF:-1 tvg-id="1090499148_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="Live",Zverev vs Diallo - Round 1 - 18 Jan 2026 [TEL] - Australian Open 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768754816~acl=/*~id=34304870534720133001856729344734~hmac=6cf0688a82167457f8f7783e3c1424e18fda847e2e9fe8294966be9a3123530f
-#EXTINF:-1 tvg-id="1090498779_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768637104369986_AO26_Margaret_Court_Arena_r1_landscape_thumb.jpg" group-title="Live",Margaret Court Arena - 18 Jan 2026 [ENG] - Australian Open 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768754816~acl=/*~id=34304870534720133001856729344734~hmac=6cf0688a82167457f8f7783e3c1424e18fda847e2e9fe8294966be9a3123530f
-#EXTINF:-1 tvg-id="1090499842_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012935/1767438730675690_SuperSmash2526_mens_Otago-Volts-vs-Northern-Brave_1jan_landscape_thumb_re1.jpg" group-title="Live",Otago Volts vs Northern Brave - 18 Jan 2026 [ENG] - Super Smash 2025/26 Men's - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768754816~acl=/*~id=34304870534720133001856729344734~hmac=6cf0688a82167457f8f7783e3c1424e18fda847e2e9fe8294966be9a3123530f
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -192,15 +174,13 @@ https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=2mUHXn2eoWlj8DFmXQ15Dw&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 18 January 2026 at 10:28:05 am
+#DATE:- Sunday, 18 January 2026 at 11:00:05 am
 #EXTINF:-1 tvg-id="138752" tvg-name="Northern Districts Vs Otago Volts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138752_5800_OV_ND_fc-web_1766641251141.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Northern Districts Vs Otago Volts
 https://in-mc-fdlive.fancode.com/mumbai/138752_english_hls_503be3c87843023_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139219" tvg-name="Bangladesh Women Vs Usa Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/01_USA-Women-vs-Bangladesh-Women_1768652240804.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Bangladesh Women Vs Usa Women
 https://in-mc-fdlive.fancode.com/mumbai/139219_english_hls_124a12be2468131_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139218" tvg-name="Nepal Women Vs Thailand Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_Thailand-Women-vs-Nepal-Women_1768652427014.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Nepal Women Vs Thailand Women
 https://in-mc-fdlive.fancode.com/mumbai/139218_english_hls_15dd1c037997901_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139923" tvg-name="Central Coast Mariners Vs Macarthur" tvg-logo="https://images.fancode.com/aig/match/v1/139387_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Central Coast Mariners Vs Macarthur
-https://in-mc-fdlive.fancode.com/mumbai/139923_english_hls_27bc2c71f992783_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
