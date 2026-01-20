@@ -1,16 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090499148_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013711/1768843670437838_AO2026_Landscape_Thumb_Fernandez_v_Tjen_SP.jpg" group-title="Live",Fernandez vs Tje - Round 1 - 20 Jan 2026	 [ENG] - Australian Open 2026 - ENG
+#EXTINF:-1 tvg-id="1090499148_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013716/176884367152860_AO2026_Landscape_Thumb_Oliynykova_vs_Keys_SP.jpg" group-title="Live",Oliynykova vs Keys - Round 1 - 20 Jan 2026	 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8
-#EXTINF:-1 tvg-id="1090499148_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013711/1768843670437838_AO2026_Landscape_Thumb_Fernandez_v_Tjen_SP.jpg" group-title="Live",Fernandez vs Tje - Round 1 - 20 Jan 2026	 [HIN] - Australian Open 2026 - ENG
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768913329~acl=/*~id=73989116652475563757550676713183~hmac=3df8076791e6abb3b5e8bdfbbba3584b03be3a5e8aec61b0d52af8baf66f15d3
+#EXTINF:-1 tvg-id="1090499148_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013716/176884367152860_AO2026_Landscape_Thumb_Oliynykova_vs_Keys_SP.jpg" group-title="Live",Oliynykova vs Keys - Round 1 - 20 Jan 2026	 [HIN] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8
-#EXTINF:-1 tvg-id="1090499148_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013711/1768843670437838_AO2026_Landscape_Thumb_Fernandez_v_Tjen_SP.jpg" group-title="Live",Fernandez vs Tje - Round 1 - 20 Jan 2026	 [TAM] - Australian Open 2026 - ENG
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768913329~acl=/*~id=73989116652475563757550676713183~hmac=3df8076791e6abb3b5e8bdfbbba3584b03be3a5e8aec61b0d52af8baf66f15d3
+#EXTINF:-1 tvg-id="1090499148_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013716/176884367152860_AO2026_Landscape_Thumb_Oliynykova_vs_Keys_SP.jpg" group-title="Live",Oliynykova vs Keys - Round 1 - 20 Jan 2026	 [TAM] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8
-#EXTINF:-1 tvg-id="1090499148_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013711/1768843670437838_AO2026_Landscape_Thumb_Fernandez_v_Tjen_SP.jpg" group-title="Live",Fernandez vs Tje - Round 1 - 20 Jan 2026	 [TEL] - Australian Open 2026 - ENG
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768913329~acl=/*~id=73989116652475563757550676713183~hmac=3df8076791e6abb3b5e8bdfbbba3584b03be3a5e8aec61b0d52af8baf66f15d3
+#EXTINF:-1 tvg-id="1090499148_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013716/176884367152860_AO2026_Landscape_Thumb_Oliynykova_vs_Keys_SP.jpg" group-title="Live",Oliynykova vs Keys - Round 1 - 20 Jan 2026	 [TEL] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768913329~acl=/*~id=73989116652475563757550676713183~hmac=3df8076791e6abb3b5e8bdfbbba3584b03be3a5e8aec61b0d52af8baf66f15d3
+#EXTINF:-1 tvg-id="1090498779_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013715/1768843671322446_AO2026_Landscape_Thumb_Musetti_vs_Collignon_SP.jpg" group-title="Live",Lorenzo Musetti vs Raphael Collignon - Men's Singles - 20 Jan 2026 [ENG] - Australian Open 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768913329~acl=/*~id=73989116652475563757550676713183~hmac=3df8076791e6abb3b5e8bdfbbba3584b03be3a5e8aec61b0d52af8baf66f15d3
+#EXTINF:-1 tvg-id="1090500142_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013020/1767676218093714_SuperSmash2526_womens_Northern_Brave_vs_Central_Hinds_6jan_landscape_thumb.jpg" group-title="Live",Northern Brave vs Central Hinds - 20 Jan 2026 [ENG] - Super Smash 2025/26 Women's - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768913329~acl=/*~id=73989116652475563757550676713183~hmac=3df8076791e6abb3b5e8bdfbbba3584b03be3a5e8aec61b0d52af8baf66f15d3
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -181,12 +187,14 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=WfwKNddmXU0W6S6eqpGbjA&exp
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=iIIfK_JzfGOzTVxNQdRcFg&expires=1768873336
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-20 05:25:53 (BD Time)
+# Update on 2026-01-20 05:51:29 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 20 January 2026 at 5:21:05 am
+#DATE:- Tuesday, 20 January 2026 at 7:14:06 am
+#EXTINF:-1 tvg-id="138786" tvg-name="Northern Brave Women Vs Central Hinds" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138786_5801_NB-W_CH-W_fc-web_1766596522273.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Northern Brave Women Vs Central Hinds
+https://in-mc-fdlive.fancode.com/mumbai/138786_english_hls_720891e92c62599_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133969" tvg-name="Act Meteors Vs New South Wales Breakers" tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Act Meteors Vs New South Wales Breakers
 https://in-mc-fdlive.fancode.com/mumbai/133969_english_hls_4e8f78f0ec36340_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139756" tvg-name="Jamaica Women Vs Windward Islands Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Jamaica Women Vs Windward Islands Women
