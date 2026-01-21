@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090499148_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013808/1768945256668989_AO2026_Landscape_Thumb_Sakkari_v_Andreeva_SP_Landscape_thumb.jpg" group-title="Live",Sakkari vs Andreeva - Round 2 - 21 Jan 2026 [ENG] - Australian Open 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769028932~acl=/*~id=09265351708438466825404353604736~hmac=7974a0b6656ba97299c161b82b98527fd8eab06e774357a6f55dcd7bd5c2d8a8
+#EXTINF:-1 tvg-id="1090499148_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013808/1768945256668989_AO2026_Landscape_Thumb_Sakkari_v_Andreeva_SP_Landscape_thumb.jpg" group-title="Live",Sakkari vs Andreeva - Round 2 - 21 Jan 2026 [HIN] - Australian Open 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769028932~acl=/*~id=09265351708438466825404353604736~hmac=7974a0b6656ba97299c161b82b98527fd8eab06e774357a6f55dcd7bd5c2d8a8
+#EXTINF:-1 tvg-id="1090499148_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013808/1768945256668989_AO2026_Landscape_Thumb_Sakkari_v_Andreeva_SP_Landscape_thumb.jpg" group-title="Live",Sakkari vs Andreeva - Round 2 - 21 Jan 2026 [TAM] - Australian Open 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769028932~acl=/*~id=09265351708438466825404353604736~hmac=7974a0b6656ba97299c161b82b98527fd8eab06e774357a6f55dcd7bd5c2d8a8
+#EXTINF:-1 tvg-id="1090499148_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013808/1768945256668989_AO2026_Landscape_Thumb_Sakkari_v_Andreeva_SP_Landscape_thumb.jpg" group-title="Live",Sakkari vs Andreeva - Round 2 - 21 Jan 2026 [TEL] - Australian Open 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769028932~acl=/*~id=09265351708438466825404353604736~hmac=7974a0b6656ba97299c161b82b98527fd8eab06e774357a6f55dcd7bd5c2d8a8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,12 +181,12 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=6qd5x49N8V_pBQGv_gzzew&expi
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=leqbPnbvGQevmf-8TiIxSA&expires=1768991521
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-21 14:38:30 (BD Time)
+# Update on 2026-01-21 15:03:49 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 21 January 2026 at 2:28:07 pm
+#DATE:- Wednesday, 21 January 2026 at 3:14:05 pm
 #EXTINF:-1 tvg-id="139668" tvg-name="Dyandeep Seva Mandal Vs Swami Vivekanand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dyandeep Seva Mandal Vs Swami Vivekanand
 https://in-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946996761_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
