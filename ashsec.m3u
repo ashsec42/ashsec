@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090499773_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013468/1768416492926644_UCL_26_MD7_Slavia-Prague-vs-Barcelona_15jan_landscape_thumb.jpg" group-title="Live",Slavia Prague vs Barcelona - MD 7 - 22 Jan 2026 [ENG] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769074738~acl=/*~id=08292656807090824756100049550232~hmac=8cd1f7ab676ddad804c51d9474ae9fb05e8fa776dffcd5502cda9e0412c93856
-#EXTINF:-1 tvg-id="1090499607_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013468/1768448155737644_UCL_26_MD7_Marseille-vs-Liverpool_15jan_landscape_thumb.jpg" group-title="Live",Marseille vs Liverpool - MD 7 - 22 Jan 2026 [ENG] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769074738~acl=/*~id=08292656807090824756100049550232~hmac=8cd1f7ab676ddad804c51d9474ae9fb05e8fa776dffcd5502cda9e0412c93856
-#EXTINF:-1 tvg-id="1090499607_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013468/1768448155737644_UCL_26_MD7_Marseille-vs-Liverpool_15jan_landscape_thumb.jpg" group-title="Live",Marseille vs Liverpool - MD 7 - 22 Jan 2026 [HIN] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769074738~acl=/*~id=08292656807090824756100049550232~hmac=8cd1f7ab676ddad804c51d9474ae9fb05e8fa776dffcd5502cda9e0412c93856
-#EXTINF:-1 tvg-id="1090499607_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013468/1768448155737644_UCL_26_MD7_Marseille-vs-Liverpool_15jan_landscape_thumb.jpg" group-title="Live",Marseille vs Liverpool - MD 7 - 22 Jan 2026 [TAM] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769074738~acl=/*~id=08292656807090824756100049550232~hmac=8cd1f7ab676ddad804c51d9474ae9fb05e8fa776dffcd5502cda9e0412c93856
-#EXTINF:-1 tvg-id="1090499607_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013468/1768448155737644_UCL_26_MD7_Marseille-vs-Liverpool_15jan_landscape_thumb.jpg" group-title="Live",Marseille vs Liverpool - MD 7 - 22 Jan 2026 [TEL] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769074738~acl=/*~id=08292656807090824756100049550232~hmac=8cd1f7ab676ddad804c51d9474ae9fb05e8fa776dffcd5502cda9e0412c93856
-#EXTINF:-1 tvg-id="1090499771_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013468/1768406495706644_UCL_26_MD7_Chelsea-vs-Pafos_15jan_landscape_thumb.jpg" group-title="Live",Chelsea vs Pafos - MD 7 - 22 Jan 2026 [ENG] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769074738~acl=/*~id=08292656807090824756100049550232~hmac=8cd1f7ab676ddad804c51d9474ae9fb05e8fa776dffcd5502cda9e0412c93856
-#EXTINF:-1 tvg-id="1090499762_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013468/1768405603585644_UCL_26_MD7_Bayern-Munich-vs-Union-SG_15jan_landscape_thumb.jpg" group-title="Live",Bayern Munich vs Union SG - MD 7 - 22 Jan 2026 [ENG] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769074738~acl=/*~id=08292656807090824756100049550232~hmac=8cd1f7ab676ddad804c51d9474ae9fb05e8fa776dffcd5502cda9e0412c93856
-#EXTINF:-1 tvg-id="1090499772_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013468/1768416106952644_UCL_26_MD7_Newcastle-vs-PSV_15jan_landscape_thumb.jpg" group-title="Live",Newcastle vs PSV - MD 7 - 22 Jan 2026 [ENG] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769074738~acl=/*~id=08292656807090824756100049550232~hmac=8cd1f7ab676ddad804c51d9474ae9fb05e8fa776dffcd5502cda9e0412c93856
-#EXTINF:-1 tvg-id="1090499611_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013468/1768415857113644_UCL_26_MD7_Juventus-vs-Benfica_15jan_landscape_thumb.jpg" group-title="Live",Juventus vs Benfica - MD 7 - 22 Jan 2026 [ENG] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769074738~acl=/*~id=08292656807090824756100049550232~hmac=8cd1f7ab676ddad804c51d9474ae9fb05e8fa776dffcd5502cda9e0412c93856
-#EXTINF:-1 tvg-id="1090499753_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013471/1768399853172210_UCL_26_MD7_Atalanta-vs-Athletic_14jan_landscape_thumb.jpg" group-title="Live", Atalanta vs Athletic Club - MD 7 - 22 Jan 2026 [ENG] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769074738~acl=/*~id=08292656807090824756100049550232~hmac=8cd1f7ab676ddad804c51d9474ae9fb05e8fa776dffcd5502cda9e0412c93856
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -199,14 +169,12 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=k3MBy_kmtJcSWIIQcSfJBw&expi
 https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=A-527HmA9aZq2OEQGlRQ0A&expires=1769038617
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-22 03:36:42 (BD Time)
+# Update on 2026-01-22 03:56:49 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
-#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 22 January 2026 at 3:28:04 am
-#EXTINF:-1 tvg-id="139340" tvg-name="Stoke City F.c. Vs Middlesbrough F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139340_5489_STK_MIDD_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Stoke City F.c. Vs Middlesbrough F.c.
-https://in-mc-fdlive.fancode.com/mumbai/139340_english_hls_80a048a24124860_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+##Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Last Checked: 22/1/2026, 03:42:04
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
