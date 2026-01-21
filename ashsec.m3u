@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090499148_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013783/1768924829302400_AO26_stream1_R2_landscape_thumb.jpg" group-title="Live",Medjedovic vs De Minaur - Round 2 - 21 Jan 2026	 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769035674~acl=/*~id=08621049773930917647431623196094~hmac=3b3226681a0b3bcbe73376ef2c99b68f8d9ec66d554fe68447d5e6732cede24b
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769037494~acl=/*~id=99892082075986101109310988561428~hmac=ff45367deb2d3060f22d1e86176ddba5b104f42215fffdfc25640c13b822ff90
 #EXTINF:-1 tvg-id="1090499148_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013783/1768924829302400_AO26_stream1_R2_landscape_thumb.jpg" group-title="Live",Medjedovic vs De Minaur - Round 2 - 21 Jan 2026	 [HIN] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769035674~acl=/*~id=08621049773930917647431623196094~hmac=3b3226681a0b3bcbe73376ef2c99b68f8d9ec66d554fe68447d5e6732cede24b
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769037494~acl=/*~id=99892082075986101109310988561428~hmac=ff45367deb2d3060f22d1e86176ddba5b104f42215fffdfc25640c13b822ff90
 #EXTINF:-1 tvg-id="1090499148_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013783/1768924829302400_AO26_stream1_R2_landscape_thumb.jpg" group-title="Live",Medjedovic vs De Minaur - Round 2 - 21 Jan 2026	 [TAM] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769035674~acl=/*~id=08621049773930917647431623196094~hmac=3b3226681a0b3bcbe73376ef2c99b68f8d9ec66d554fe68447d5e6732cede24b
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769037494~acl=/*~id=99892082075986101109310988561428~hmac=ff45367deb2d3060f22d1e86176ddba5b104f42215fffdfc25640c13b822ff90
 #EXTINF:-1 tvg-id="1090499148_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013783/1768924829302400_AO26_stream1_R2_landscape_thumb.jpg" group-title="Live",Medjedovic vs De Minaur - Round 2 - 21 Jan 2026	 [TEL] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769035674~acl=/*~id=08621049773930917647431623196094~hmac=3b3226681a0b3bcbe73376ef2c99b68f8d9ec66d554fe68447d5e6732cede24b
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769037494~acl=/*~id=99892082075986101109310988561428~hmac=ff45367deb2d3060f22d1e86176ddba5b104f42215fffdfc25640c13b822ff90
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -185,8 +185,10 @@ https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=hqvv1osmskdoJ-8e7mTQ0Q&expi
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
-##Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Last Checked: 21/1/2026, 16:35:06
+#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#DATE:- Wednesday, 21 January 2026 at 5:07:05 pm
+#EXTINF:-1 tvg-id="138948" tvg-name="Rajshahi Warriors Vs Sylhet Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138935_5808_DBR_SYL_fc-web_1766733054259.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Rajshahi Warriors Vs Sylhet Titans
+https://in-mc-fdlive.fancode.com/mumbai/138948_english_hls_333621e70680609_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
