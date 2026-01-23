@@ -169,14 +169,14 @@ https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=NhTu-WvclL4qYYsXy2Wa4w&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=F-QHsDHXFiNK_WNpO68Kqw&expires=1769196773
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-23 23:04:01 (BD Time)
+# Update on 2026-01-23 23:53:01 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 23 January 2026 at 11:21:06 pm
-#EXTINF:-1 tvg-id="139281" tvg-name="Vietnam U23 Vs Korea Republic U23" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Vietnam-U23_vs_KoreaRU23_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Vietnam U23 Vs Korea Republic U23
-https://in-mc-fdlive.fancode.com/mumbai/139281_english_hls_c89fd845d223030_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Saturday, 24 January 2026 at 12:00:05 am
+#EXTINF:-1 tvg-id="139761" tvg-name="Trinidad And Tobago Women Vs Guyana Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trinidad And Tobago Women Vs Guyana Women
+https://in-mc-fdlive.fancode.com/mumbai/139761_english_hls_99c69b8e8927484_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139994" tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/139994_english_hls_89fb0de88046733_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139995" tvg-name="Marquee Group   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Marquee Group   Day 2
