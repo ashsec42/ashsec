@@ -172,18 +172,12 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=i1hs4pQKIBpT68X43N8YeA&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=KlHm2knfB9myPp-WIhpkKQ&expires=1769297988
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-25 03:22:37 (BD Time)
+# Update on 2026-01-25 03:48:01 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 25 January 2026 at 3:21:05 am
-#EXTINF:-1 tvg-id="131034" tvg-name="Villarreal Cf Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131034_5427_VIL_RM_fc-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Villarreal Cf Vs Real Madrid
-https://in-mc-fdlive.fancode.com/mumbai/131034_english_hls_dfe98e9bd026217_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131034" tvg-name="Villarreal Cf Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131034_5427_VIL_RM_fc-Web.png" tvg-language="HINDI" group-title="Football",HIN | Villarreal Cf Vs Real Madrid
-https://in-mc-fdlive.fancode.com/mumbai/131034_hindi_hls_443a7f315568024_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131034" tvg-name="Villarreal Cf Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131034_5427_VIL_RM_fc-Web.png" tvg-language="BENGALI" group-title="Football",BEN | Villarreal Cf Vs Real Madrid
-https://in-mc-fdlive.fancode.com/mumbai/131034_bengali_hls_e67a01bc7f84986_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday, 25 January 2026 at 3:49:05 am
 #EXTINF:-1 tvg-id="140007" tvg-name="Cádiz Vs Granada" tvg-logo="https://images.fancode.com/aig/match/v1/140007_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Cádiz Vs Granada
 https://in-mc-fdlive.fancode.com/mumbai/140007_english_hls_b5e8323a6812769_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139998" tvg-name="Main Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 3
