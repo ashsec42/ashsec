@@ -172,14 +172,12 @@ https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=jjO74552EBS6hUerfGYpuw&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=2qF4rtbbGfXRPvzSFg7p1A&expires=1769359405
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-25 20:24:06 (BD Time)
+# Update on 2026-01-25 20:51:06 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 25 January 2026 at 8:21:06 pm
-#EXTINF:-1 tvg-id="131036" tvg-name="Atletico De Madrid Vs Rcd Mallorca" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131036_5427_ATL_MRC_fc-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Atletico De Madrid Vs Rcd Mallorca
-https://in-mc-fdlive.fancode.com/mumbai/131036_english_hls_c22f7c10c319429_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday, 25 January 2026 at 8:49:05 pm
 #EXTINF:-1 tvg-id="131037" tvg-name="Fc Barcelona Vs Real Oviedo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131037_5427_BAR_RO_fc-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Fc Barcelona Vs Real Oviedo
 https://in-mc-fdlive.fancode.com/mumbai/131037_english_hls_635a04446178415_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="131037" tvg-name="Fc Barcelona Vs Real Oviedo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131037_5427_BAR_RO_fc-Web.png" tvg-language="HINDI" group-title="Football",HIN | Fc Barcelona Vs Real Oviedo
