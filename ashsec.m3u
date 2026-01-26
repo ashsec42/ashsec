@@ -1,13 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090501598_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769329348071276_WLPT20L26_delhi_vs_dubai_25jan_landscape_thumb.jpg" group-title="Live",Delhi Warriors vs Dubai Royals - 26 Jan 2026 [ENG] - World Legends Pro T20 League 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0
-#EXTINF:-1 tvg-id="1090501643_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013446/17684765589147_PWL_26_Maharashtra-Kesari-vs-Punjab-Royals_15jan_landscape_thumb.jpg" group-title="Live",Maharashtra Kesari vs Punjab Royals - 26 Jan 2026 [ENG] - Pro Wrestling League 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0
-#EXTINF:-1 tvg-id="1090501643_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013446/17684765589147_PWL_26_Maharashtra-Kesari-vs-Punjab-Royals_15jan_landscape_thumb.jpg" group-title="Live",Maharashtra Kesari vs Punjab Royals - 26 Jan 2026 [HIN] - Pro Wrestling League 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769492720~acl=/*~id=99289228706879132289340275688931~hmac=21faad39ac264223eb93ae48eca19567127bd1de0a59cd320ef902b1d819dba8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -183,13 +177,13 @@ https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=61ft4f2L1FQZTy_CwDk4LQ&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 26 January 2026 at 10:56:05 pm
-#EXTINF:-1 tvg-id="140073" tvg-name="Dubai Royals Vs Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140073_5928_DW_DR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dubai Royals Vs Delhi Warriors
-https://in-mc-fdlive.fancode.com/mumbai/140073_english_hls_165411df3f51112_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139585" tvg-name="Dubai Vs Emirates Red" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dubai Vs Emirates Red
-https://in-mc-fdlive.fancode.com/mumbai/139585_english_hls_62b5edcd7023872_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Monday, 26 January 2026 at 11:21:07 pm
+#EXTINF:-1 tvg-id="139586" tvg-name="Emirates Blues Vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Emirates Blues Vs Ajman
+https://in-mc-fdlive.fancode.com/mumbai/139586_english_hls_9536b0ef8e5728_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139829" tvg-name="Al Nassr Fc Vs Al Taawoun" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139829_5655_ANF_ALTW_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Nassr Fc Vs Al Taawoun
 https://in-mc-fdlive.fancode.com/mumbai/139829_english_hls_12e11e4ae52390_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140073" tvg-name="Dubai Royals Vs Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140073_5928_DW_DR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dubai Royals Vs Delhi Warriors
+https://in-mc-fdlive.fancode.com/mumbai/140073_english_hls_165411df3f51112_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
