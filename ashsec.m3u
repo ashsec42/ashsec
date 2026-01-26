@@ -177,11 +177,9 @@ https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=2vra41klWqUrrTtZLxzWGg&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 26 January 2026 at 8:14:06 pm
+#DATE:- Monday, 26 January 2026 at 8:42:08 pm
 #EXTINF:-1 tvg-id="140073" tvg-name="Dubai Royals Vs Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140073_5928_DW_DR_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dubai Royals Vs Delhi Warriors
 https://in-mc-fdlive.fancode.com/mumbai/140073_english_hls_165411df3f51112_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139584" tvg-name="Sharjah Vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sharjah Vs Emirates Blues
-https://in-mc-fdlive.fancode.com/mumbai/139584_english_hls_83367eaa9d51343_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
