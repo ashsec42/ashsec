@@ -172,18 +172,16 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=itd4fjSG_akdQqLJMDIuhw&expi
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=aDhgPh5A-SN7R9Mko12TZA&expires=1769413102
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-26 11:20:14 (BD Time)
+# Update on 2026-01-26 11:58:37 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 26 January 2026 at 11:28:05 am
+#DATE:- Monday, 26 January 2026 at 12:21:04 pm
 #EXTINF:-1 tvg-id="138760" tvg-name="Auckland Aces Vs Central Stags" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138760_5800_AA_CS_fc-web_1766641251083.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Auckland Aces Vs Central Stags
 https://in-mc-fdlive.fancode.com/mumbai/138760_english_hls_e20823bc8656864_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139235" tvg-name="Papua New Guinea Women Vs Usa Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/17_USA-Women-vs-Papua-New-Guinea-Women_1768653874875.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Papua New Guinea Women Vs Usa Women
-https://in-mc-fdlive.fancode.com/mumbai/139235_english_hls_66ce22234b19371_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139234" tvg-name="Scotland Women Vs Nepal Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/18_Nepal-Women-vs-Scotland-Women_1768653937569.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Scotland Women Vs Nepal Women
-https://in-mc-fdlive.fancode.com/mumbai/139234_english_hls_f0757208b212777_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139395" tvg-name="Melbourne Victory Vs Sydney Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139395_5802_MLV_SYD_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Melbourne Victory Vs Sydney Fc
+https://in-mc-fdlive.fancode.com/mumbai/139395_english_hls_8f53cd55bd67755_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
@@ -440,7 +438,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1769478929~acl=%2f*~id=e47352fc-3981-456a-beef-d409b41b812c~data=hdntl~hmac=6a39182ea35dc2b56eba82be963b0c111b18e65afd7f0861387f6d394bbf6fcd
-#Generated on 1769392944
+#Generated on 1769409588
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":""}
