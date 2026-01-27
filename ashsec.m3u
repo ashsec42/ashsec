@@ -1,22 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090499148_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg" group-title="Live",Stream 1 - Quarter-final - 27 Jan 2026	 [ENG] - Australian Open 2026 - ENG
+#EXTINF:-1 tvg-id="1090499148_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014248/1769447177176955_AO2026_Landscape_Thumb_Gauff_v_Svitolina_SP.jpg" group-title="Live",Coco Gauff vs Elina Svitolina - Quarter-final - 27 Jan 2026 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769542770~acl=/*~id=25632370206212523462810470683158~hmac=a2ba8d759c9d9d09e8c32314cc4c8e9d28d874788e25dedcb2a85c8ff0f26f39
-#EXTINF:-1 tvg-id="1090499148_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg" group-title="Live",Stream 1 - Quarter-final - 27 Jan 2026	 [HIN] - Australian Open 2026 - ENG
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+#EXTINF:-1 tvg-id="1090499148_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014248/1769447177176955_AO2026_Landscape_Thumb_Gauff_v_Svitolina_SP.jpg" group-title="Live",Coco Gauff vs Elina Svitolina - Quarter-final - 27 Jan 2026 [HIN] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769542770~acl=/*~id=25632370206212523462810470683158~hmac=a2ba8d759c9d9d09e8c32314cc4c8e9d28d874788e25dedcb2a85c8ff0f26f39
-#EXTINF:-1 tvg-id="1090499148_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg" group-title="Live",Stream 1 - Quarter-final - 27 Jan 2026	 [TAM] - Australian Open 2026 - ENG
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+#EXTINF:-1 tvg-id="1090499148_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014248/1769447177176955_AO2026_Landscape_Thumb_Gauff_v_Svitolina_SP.jpg" group-title="Live",Coco Gauff vs Elina Svitolina - Quarter-final - 27 Jan 2026 [TAM] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769542770~acl=/*~id=25632370206212523462810470683158~hmac=a2ba8d759c9d9d09e8c32314cc4c8e9d28d874788e25dedcb2a85c8ff0f26f39
-#EXTINF:-1 tvg-id="1090499148_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg" group-title="Live",Stream 1 - Quarter-final - 27 Jan 2026	 [TEL] - Australian Open 2026 - ENG
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+#EXTINF:-1 tvg-id="1090499148_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014248/1769447177176955_AO2026_Landscape_Thumb_Gauff_v_Svitolina_SP.jpg" group-title="Live",Coco Gauff vs Elina Svitolina - Quarter-final - 27 Jan 2026 [TEL] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769542770~acl=/*~id=25632370206212523462810470683158~hmac=a2ba8d759c9d9d09e8c32314cc4c8e9d28d874788e25dedcb2a85c8ff0f26f39
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+#EXTINF:-1 tvg-id="1090501809_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769329926969276_WLPT20L26_pune_vs_gurugram_25jan_landscape_thumb.jpg" group-title="Live",Pune Panthers vs Gurugram Thunders - 27 Jan 2026 [ENG] - World Legends Pro T20 League 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
 #EXTINF:-1 tvg-id="1090498779_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372844796933_AO26_QF_Margaret_Court_Arena_Landscape_thumb.jpg" group-title="Live",Kubler/Polmans vs Doumbia/Reboul - Men's Doubles - 27 Jan 2026 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769542770~acl=/*~id=25632370206212523462810470683158~hmac=a2ba8d759c9d9d09e8c32314cc4c8e9d28d874788e25dedcb2a85c8ff0f26f39
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
 #EXTINF:-1 tvg-id="1090498773_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014198/1769374799588582_AO26_QF_stream2_landscape_thumb_SP.jpg" group-title="Live",Stream 2 - 27 Jan 2026 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769542770~acl=/*~id=25632370206212523462810470683158~hmac=a2ba8d759c9d9d09e8c32314cc4c8e9d28d874788e25dedcb2a85c8ff0f26f39
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -187,12 +190,16 @@ https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=s8VM6ptxTZUhCSVhaDjjpw&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=_Uk5nJXrvJ_7OtO0xfaUDg&expires=1769507373
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-27 13:32:48 (BD Time)
+# Update on 2026-01-27 13:53:42 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 27 January 2026 at 1:28:04 pm
+#DATE:- Tuesday, 27 January 2026 at 2:14:05 pm
+#EXTINF:-1 tvg-id="140074" tvg-name="Gurugram Thunders Vs Rajasthan Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140074_5928_GT_RLS_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Gurugram Thunders Vs Rajasthan Lions
+https://in-mc-fdlive.fancode.com/mumbai/140074_english_hls_b67341f10193939_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140074" tvg-name="Gurugram Thunders Vs Rajasthan Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140074_5928_GT_RLS_FC-Web.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Gurugram Thunders Vs Rajasthan Lions
+https://in-mc-fdlive.fancode.com/mumbai/140074_hindi_hls_d8e671d73b84729_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139882" tvg-name="Iraq Vs Kyrgyz Republic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Iraq Vs Kyrgyz Republic
 https://in-mc-fdlive.fancode.com/mumbai/139882_english_hls_e03280110543384_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
