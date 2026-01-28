@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090501921_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496463023465_World_Legends_Pro_T20_League_2026_Delhi-Warriors-vs-Pune-Panthers_landscape_thumb.jpg" group-title="Live",Delhi Warriors vs Pune Panthers - 28 Jan 2026 [ENG] - World Legends Pro T20 League 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769665914~acl=/*~id=48944563520365267111003215666874~hmac=1b6d2cd50be5108d3dd1f509df770994acc5ac7bb33d095aae243d50ab63e3bd
-#EXTINF:-1 tvg-id="1090501921_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496463023465_World_Legends_Pro_T20_League_2026_Delhi-Warriors-vs-Pune-Panthers_landscape_thumb.jpg" group-title="Live",Delhi Warriors vs Pune Panthers - 28 Jan 2026 [HIN] - World Legends Pro T20 League 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769665914~acl=/*~id=48944563520365267111003215666874~hmac=1b6d2cd50be5108d3dd1f509df770994acc5ac7bb33d095aae243d50ab63e3bd
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,22 +169,18 @@ https://d9.merichunidya.com:1686/hls/fox501.m3u8?md5=8Fdf8bO21cHsghdHMzaCBA&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=-OS_HBZVFAlt5-xbLZYfLQ&expires=1769628734
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-28 23:18:42 (BD Time)
+# Update on 2026-01-29 00:00:25 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 28 January 2026 at 11:42:04 pm
+#DATE:- Thursday, 29 January 2026 at 12:21:06 am
 #EXTINF:-1 tvg-id="139594" tvg-name="Abu Dhabi Vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Abu Dhabi Vs Ajman
 https://in-mc-fdlive.fancode.com/mumbai/139594_english_hls_7e2b5254b735858_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139830" tvg-name="Al Ahli Saudi Fc Vs Al Ettifaq" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139830_5655_AAS_ETT_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Ahli Saudi Fc Vs Al Ettifaq
 https://in-mc-fdlive.fancode.com/mumbai/139830_english_hls_f7d82cc74420589_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140162" tvg-name="Day 1   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" tvg-language="ENGLISH" group-title="Padel",ENG | Day 1   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140162_english_hls_6cd8476ea644007_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140077" tvg-name="Delhi Warriors Vs Pune Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140077_5928_DW_GT_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Delhi Warriors Vs Pune Panthers
-https://in-mc-fdlive.fancode.com/mumbai/140077_english_hls_cb6148611d29993_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140077" tvg-name="Delhi Warriors Vs Pune Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140077_5928_DW_GT_FC-Web.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Delhi Warriors Vs Pune Panthers
-https://in-mc-fdlive.fancode.com/mumbai/140077_hindi_hls_b2aeb9b0a15945_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
@@ -447,7 +437,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1769691074~acl=%2f*~id=146abdee-03e3-4f55-ab02-6d45695e6edb~data=hdntl~hmac=b3e4b02f5ad8da30757b9c1c6cfb950b460a7d7be89d89dfd964a62287c87216
-#Generated on 1769604869
+#Generated on 1769625584
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":""}
