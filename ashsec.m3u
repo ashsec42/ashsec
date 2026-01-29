@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090502149_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013970/176908771569375_UEFA_Europa_League_2025_26_Aston_Villa_vs_Salzburg_landscape_thumb.jpg" group-title="Live",Aston Villa vs Salzburg - MD 8 - 30 Jan 2026 [ENG] - UEFA Europa League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769758843~acl=/*~id=79913012015890242294220639567926~hmac=49133fd733a23a725234579fc0b83cf712ff7bc6c770f5a934298ef1df6c62b6
+#EXTINF:-1 tvg-id="1090502151_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014011/1769144562373371_UEFA_Europa_League_2025_26_Nottm-Forest_vs_Ferencvaros_landscape_thumb.jpg" group-title="Live",Nottingham Forest vs Ferencvaros - MD 8 - 30 Jan 2026 [ENG] - UEFA Europa League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769758843~acl=/*~id=79913012015890242294220639567926~hmac=49133fd733a23a725234579fc0b83cf712ff7bc6c770f5a934298ef1df6c62b6
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,14 +175,12 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=pyUmQmjazx-Z_glVi8-4yQ&exp
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=5CSqRWwBE925rItNAQTsqg&expires=1769720948
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-30 00:05:21 (BD Time)
+# Update on 2026-01-30 01:19:29 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 30 January 2026 at 1:07:05 am
-#EXTINF:-1 tvg-id="139598" tvg-name="Ajman Vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ajman Vs Sharjah
-https://in-mc-fdlive.fancode.com/mumbai/139598_english_hls_581663139781518_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Friday, 30 January 2026 at 1:28:06 am
 #EXTINF:-1 tvg-id="140164" tvg-name="Day 2   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" tvg-language="ENGLISH" group-title="Padel",ENG | Day 2   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140164_english_hls_318f4d02a767737_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140021" tvg-name="Main Feed   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 1
@@ -187,8 +191,8 @@ https://in-mc-fdlive.fancode.com/mumbai/140024_english_hls_bab0487a5a76887_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140023_english_hls_f1dfe15fef93729_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140022" tvg-name="Marquee Group   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png" tvg-language="ENGLISH" group-title="Golf",ENG | Marquee Group   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140022_english_hls_20028e408f83303_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139831" tvg-name="Al Qadsiah Fc Vs Al Hilal Sfc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139831_5655_ALQ_AHS_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Qadsiah Fc Vs Al Hilal Sfc
-https://in-mc-fdlive.fancode.com/mumbai/139831_english_hls_3c9127d7f227326_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140020" tvg-name="World Feed   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 1
+https://in-mc-fdlive.fancode.com/mumbai/140020_english_hls_5ec79ec2341569_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
