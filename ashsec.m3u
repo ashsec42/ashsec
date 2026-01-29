@@ -190,14 +190,16 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=REOf9tNZITyglOPWyCzTQw&expi
 https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=zkkNiJTOBCmBM-dYxm3dEg&expires=1769673980
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-29 11:31:54 (BD Time)
+# Update on 2026-01-29 12:27:20 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 29 January 2026 at 12:28:05 pm
+#DATE:- Thursday, 29 January 2026 at 1:21:14 pm
 #EXTINF:-1 tvg-id="139889" tvg-name="Lebanon Vs Vietnam" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Lebanon Vs Vietnam
 https://in-mc-fdlive.fancode.com/mumbai/139889_english_hls_f0b105dfc749642_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139890" tvg-name="Korea Republic Vs Iraq" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Korea Republic Vs Iraq
+https://in-mc-fdlive.fancode.com/mumbai/139890_english_hls_eea79bb07575658_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
