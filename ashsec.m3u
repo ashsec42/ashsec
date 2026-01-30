@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090502579_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769162403868392_Bundesliga_2025_26_FC_Koln_vs_VfL-Wolfsburg_landscape_thumb.jpg" group-title="Live",FC Koln vs VfL Wolfsburg - MD 20 - 31 Jan 2026 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769845059~acl=/*~id=61753971123104921056628273735362~hmac=fe83a41de70bcf31ddc3a51290b3d312b59604df38bf636f7077d49b21c3e449
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769846874~acl=/*~id=03812197472973554356072197044478~hmac=7f962c1acafe12be0330fba19412dcada9e2e4409c95a169b19bc590e09a0bcc
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=Ku4GUvIEh1bLFzxtPNIH5A&expi
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=s8dKULW0H1qeMGpndLIJAw&expires=1769808712
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-31 01:19:56 (BD Time)
+# Update on 2026-01-31 01:57:41 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 31 January 2026 at 1:28:06 am
+#DATE:- Saturday, 31 January 2026 at 2:00:05 am
 #EXTINF:-1 tvg-id="131049" tvg-name="Rcd Espanyol Vs Deportivo Alaves" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131049_5427_ESL_ALA_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Rcd Espanyol Vs Deportivo Alaves
 https://in-mc-fdlive.fancode.com/mumbai/131049_english_hls_ad38dd050340759_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139345" tvg-name="Bristol City F.c. Vs Derby County Football Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139345_5489_BRI_DER_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Bristol City F.c. Vs Derby County Football Club
@@ -194,6 +194,8 @@ https://in-mc-fdlive.fancode.com/mumbai/140029_english_hls_6bcd3247e853583_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140028_english_hls_c12538667399400_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140027" tvg-name="Marquee Group   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Marquee Group   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140027_english_hls_e548bad07f82404_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140025" tvg-name="World Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 2
+https://in-mc-fdlive.fancode.com/mumbai/140025_english_hls_8f0440044384792_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
