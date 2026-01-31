@@ -1,13 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090499148_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="Live",Stream 1 - 31 Jan 2026 [ENG] - Australian Open 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
+#EXTINF:-1 tvg-id="1090499148_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="Live",Stream 1 - 31 Jan 2026 [HIN] - Australian Open 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
+#EXTINF:-1 tvg-id="1090499148_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="Live",Stream 1 - 31 Jan 2026 [TAM] - Australian Open 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
+#EXTINF:-1 tvg-id="1090499148_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="Live",Stream 1 - 31 Jan 2026 [TEL] - Australian Open 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
 #EXTINF:-1 tvg-id="1090502632_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014625/1769816489071275_SS_mens_FINAL_Northen-Districts-V-Canterbury-Kings_Landscape_thumb.jpg" group-title="Live",Northen Brave vs Canterbury Kings - Final - 31 Jan 2026 [ENG] - Super Smash 2025/26 Men's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769885660~acl=/*~id=79600662932976792581952798099714~hmac=e24401254b7eb0b023d1ed57c4961b690f428ffe2aeec6a9159540a12258f83c
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
 #EXTINF:-1 tvg-id="1090498781_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014577/1769774745614353_AO26_final_KIA_Arena_30jan_landscape_thumb.jpg" group-title="Live",Martin De la Puente vs Tokito Oda - 31 Jan 2026 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769885660~acl=/*~id=79600662932976792581952798099714~hmac=e24401254b7eb0b023d1ed57c4961b690f428ffe2aeec6a9159540a12258f83c
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
 #EXTINF:-1 tvg-id="1090498773_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014573/1769774281955989_AO26_final_stream2_30jan_landscape_thumb.jpg" group-title="Live",Stream 2 - 31 Jan 2026 [ENG] - Australian Open 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769885660~acl=/*~id=79600662932976792581952798099714~hmac=e24401254b7eb0b023d1ed57c4961b690f428ffe2aeec6a9159540a12258f83c
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -178,12 +190,12 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=ewyUA1sagxAbj1Sda9br6Q&expi
 https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=NQgLwOs3Ea86NAHOlpwxmg&expires=1769849581
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-31 12:04:20 (BD Time)
+# Update on 2026-01-31 13:07:27 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 31 January 2026 at 12:35:05 pm
+#DATE:- Saturday, 31 January 2026 at 1:07:04 pm
 #EXTINF:-1 tvg-id="138762" tvg-name="Canterbury Vs Northern Districts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Canterbury Vs Northern Districts
 https://in-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140133" tvg-name="Ireland Vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Ireland Vs United Arab Emirates
