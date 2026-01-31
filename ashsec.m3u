@@ -202,32 +202,32 @@ https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=C2qT5bQ8nRmwEni8rm8jZA&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=EFPb3Oy5-OaoFB2OiupLsw&expires=1769878227
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-01-31 20:28:51 (BD Time)
+# Update on 2026-01-31 20:56:22 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 31 January 2026 at 8:21:09 pm
+#DATE:- Saturday, 31 January 2026 at 8:49:10 pm
 #EXTINF:-1 tvg-id="140083" tvg-name="Pune Panthers Vs Dubai Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pune Panthers Vs Dubai Royals
 https://in-mc-fdlive.fancode.com/mumbai/140083_english_hls_1c689b86ca82425_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140083" tvg-name="Pune Panthers Vs Dubai Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Pune Panthers Vs Dubai Royals
 https://in-mc-fdlive.fancode.com/mumbai/140083_hindi_hls_a398d95df242556_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139604" tvg-name="Ajman Vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ajman Vs Abu Dhabi
-https://in-mc-fdlive.fancode.com/mumbai/139604_english_hls_53ecb956f482829_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139771" tvg-name="Trinidad And Tobago Women Vs Barbados Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trinidad And Tobago Women Vs Barbados Women
 https://in-mc-fdlive.fancode.com/mumbai/139771_english_hls_c91209300573504_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139770" tvg-name="Leeward Islands Women Vs Jamaica Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Leeward Islands Women Vs Jamaica Women
 https://in-mc-fdlive.fancode.com/mumbai/139770_english_hls_0ea4ec86db77405_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139769" tvg-name="Windward Islands Women Vs Guyana Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Windward Islands Women Vs Guyana Women
 https://in-mc-fdlive.fancode.com/mumbai/139769_english_hls_fc8cb32e1e37514_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131043" tvg-name="Real Oviedo Vs Girona Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131043_5427_RO_GIR_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Real Oviedo Vs Girona Fc
-https://in-mc-fdlive.fancode.com/mumbai/131043_english_hls_256ceeb3e71542_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139347" tvg-name="Portsmouth F.c. Vs West Bromwich Albion F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139347_5489_PRM_WBA_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Portsmouth F.c. Vs West Bromwich Albion F.c.
 https://in-mc-fdlive.fancode.com/mumbai/139347_english_hls_7c6df135b872490_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="131048" tvg-name="Ca Osasuna Vs Villarreal Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131048_5427_OSN_VIL_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Ca Osasuna Vs Villarreal Cf
 https://in-mc-fdlive.fancode.com/mumbai/131048_english_hls_1526422ab378838_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139605" tvg-name="Sharjah Vs Emirates Red" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sharjah Vs Emirates Red
+https://in-mc-fdlive.fancode.com/mumbai/139605_english_hls_98b99e6ed197170_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140168" tvg-name="Day 4   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 4   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131043" tvg-name="Real Oviedo Vs Girona Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131043_5427_RO_GIR_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Real Oviedo Vs Girona Fc
+https://in-mc-fdlive.fancode.com/mumbai/131043_english_hls_256ceeb3e71542_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
