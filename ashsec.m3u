@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090502759_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969000060690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_final_Race_9jan_landscape_thumb.jpg" group-title="Live",Round 3 - Miami E-Prix - Final Race - 31 Jan 2026 [ENG] - ABB FIA Formula E World Championship - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769931812~acl=/*~id=99103924270098479156181473145581~hmac=7ee5cecf9fa567443cda7e2481403f9333bbaffdfca972928705c232b63b807d
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769933022~acl=/*~id=80362375033854670495568479321423~hmac=fad7f12fc17c1b4b8f5cc5710fbd07e48201ea4da10ed978f852b8ff9b4d6b3d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=CsDYp7zuM4UYPv4c8mCC0Q&expi
 https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Z-jw-NwhGG_tdWsV-FTtsg&expires=1769895718
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-01 01:02:37 (BD Time)
+# Update on 2026-02-01 01:50:22 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 1 February 2026 at 1:21:08 am
+#DATE:- Sunday, 1 February 2026 at 1:56:05 am
 #EXTINF:-1 tvg-id="139771" tvg-name="Trinidad And Tobago Women Vs Barbados Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trinidad And Tobago Women Vs Barbados Women
 https://in-mc-fdlive.fancode.com/mumbai/139771_english_hls_c91209300573504_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139770" tvg-name="Leeward Islands Women Vs Jamaica Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Leeward Islands Women Vs Jamaica Women
@@ -190,8 +190,6 @@ https://in-mc-fdlive.fancode.com/mumbai/131041_english_hls_3cab0967848633_1ta-di
 https://in-mc-fdlive.fancode.com/mumbai/131041_hindi_hls_79015740d562541_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="131041" tvg-name="Elche Cf Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png" tvg-language="BENGALI" group-title="Football",BEN | Elche Cf Vs Fc Barcelona
 https://in-mc-fdlive.fancode.com/mumbai/131041_bengali_hls_24ab3ffe9d40372_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140010" tvg-name="Cultural Leonesa Vs Deportivo La Coruna" tvg-logo="https://images.fancode.com/aig/match/v1/140010_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Cultural Leonesa Vs Deportivo La Coruna
-https://in-mc-fdlive.fancode.com/mumbai/140010_english_hls_d31568c46179077_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140168" tvg-name="Day 4   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 4   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140031" tvg-name="Main Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 3
@@ -204,8 +202,6 @@ https://in-mc-fdlive.fancode.com/mumbai/140033_english_hls_97fcdda9ad89287_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140032_english_hls_6ce940b61978129_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140030" tvg-name="World Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131040" tvg-name="Levante Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131040_5427_LE_ATL_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Levante Vs Atletico De Madrid
-https://in-mc-fdlive.fancode.com/mumbai/131040_english_hls_86a8497dc77036_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
