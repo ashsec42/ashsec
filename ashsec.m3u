@@ -169,24 +169,12 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=b96zUWLIcEO28R7Tn0Xogw&expi
 https://d8.merichunidya.com:1686/hls/ten1hd.m3u8?md5=fOIclWMG2SyPond-NrpfTw&expires=1769989572
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-02 03:32:03 (BD Time)
+# Update on 2026-02-02 03:53:43 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 2 February 2026 at 3:21:05 am
-#EXTINF:-1 tvg-id="131045" tvg-name="Athletic Club Vs Real Sociedad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131045_5427_ATH_RS_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Athletic Club Vs Real Sociedad
-https://in-mc-fdlive.fancode.com/mumbai/131045_english_hls_fdd7e2aa8a90203_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140011" tvg-name="Granada Vs Racing De Santander" tvg-logo="https://images.fancode.com/aig/match/v1/140011_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Granada Vs Racing De Santander
-https://in-mc-fdlive.fancode.com/mumbai/140011_english_hls_4c408f3bc030409_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140036" tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/140036_english_hls_f67591382827326_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140039" tvg-name="Featured Holes   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/140039_english_hls_b4990ad2ab39861_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140038" tvg-name="Featured Groups   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Groups   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/140038_english_hls_86860ea2b190758_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140037" tvg-name="Marquee Group   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Marquee Group   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/140037_english_hls_07bf2924d942520_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Monday, 2 February 2026 at 4:00:05 am
 #EXTINF:-1 tvg-id="140035" tvg-name="World Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 4
 https://in-mc-fdlive.fancode.com/mumbai/140035_english_hls_a22edbe27d943_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
