@@ -186,7 +186,7 @@ https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=55Eu4sjvx4h852PwTEgRew&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 1 February 2026 at 12:49:06 pm
+#DATE:- Sunday, 1 February 2026 at 1:21:17 pm
 #EXTINF:-1 tvg-id="139246" tvg-name="Scotland Women Vs Usa Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Scotland Women Vs Usa Women
 https://in-mc-fdlive.fancode.com/mumbai/139246_english_hls_39bfc319e228275_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139401" tvg-name="Central Coast Mariners Vs Melbourne Victory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139401_5802_CCM_MLV_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Central Coast Mariners Vs Melbourne Victory
@@ -201,6 +201,10 @@ https://in-mc-fdlive.fancode.com/mumbai/140333_english_hls_518e0f687f63025_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140332_english_hls_35577dde3679087_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140331" tvg-name="Day 2   Table 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 2   Table 4
 https://in-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139902" tvg-name="Tajikistan Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Tajikistan Vs Australia
+https://in-mc-fdlive.fancode.com/mumbai/139902_english_hls_a71954447d38201_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139901" tvg-name="Japan Vs Uzbekistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Japan Vs Uzbekistan
+https://in-mc-fdlive.fancode.com/mumbai/139901_english_hls_d715a104ee83494_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
