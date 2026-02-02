@@ -169,12 +169,12 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=PQY1sGL7wqfqr5KerFpjMw&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=zCnZ11M4UpVY60BKhzr7ow&expires=1770019388
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-02 11:01:21 (BD Time)
+# Update on 2026-02-02 12:43:05 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 2 February 2026 at 12:07:08 pm
+#DATE:- Monday, 2 February 2026 at 1:07:07 pm
 #EXTINF:-1 tvg-id="140311" tvg-name="Day 3   Table 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 3   Table 1
 https://in-mc-fdlive.fancode.com/mumbai/140311_english_hls_046a5fd0a12299_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140336" tvg-name="Day 3   Table 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 3   Table 2
@@ -439,7 +439,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1770084614~acl=%2f*~id=b1296034-c7f5-4e4d-afd3-8f445ad3ac03~data=hdntl~hmac=40595a73923cb5410b100729469ce9ce92ec707b3fe206cf0d357ce154b6664a
-#Generated on 1769999124
+#Generated on 1770015852
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":""}
