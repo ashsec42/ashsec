@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090503152_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014730/1769947463075742_WPL26_Bengaluru_vs_Jaipur_1feb_landscape_thumb.jpg" group-title="Live",Bengaluru Jawans vs Rajasthan Titans - 4 Feb 2026 [ENG] - World Pickleball League 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770251167~acl=/*~id=38173513211305926117679215932542~hmac=9252ef8c8e7795a8f2badb08c57b8f09555e38b2802f380ab8fbd18b9cc65520
+#EXTINF:-1 tvg-id="1090503122_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014798/177006281679271_UYL2526_RD32_Legia_vs_Ajax_3feb_landscape_thumb.jpg" group-title="Live",Legia vs Ajax - 4 Feb 2026 [ENG] - UEFA Youth League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770251167~acl=/*~id=38173513211305926117679215932542~hmac=9252ef8c8e7795a8f2badb08c57b8f09555e38b2802f380ab8fbd18b9cc65520
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,18 +175,18 @@ https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=rYFPgkZ-bbemLlJd_nI10Q&expi
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Q1Q5mxC9l51Ntvfv3X6NbQ&expires=1770211965
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-04 17:37:21 (BD Time)
+# Update on 2026-02-04 18:00:52 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 4 February 2026 at 5:21:07 pm
-#EXTINF:-1 tvg-id="139615" tvg-name="Sharjah Vs Dubai" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sharjah Vs Dubai
+#DATE:- Wednesday, 4 February 2026 at 6:28:19 pm
+#EXTINF:-1 tvg-id="139615" tvg-name="Dubai Vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dubai Vs Sharjah
 https://in-mc-fdlive.fancode.com/mumbai/139615_english_hls_c235c6b89874999_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140319" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card_1770185442984.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 1
-https://in-mc-fdlive.fancode.com/mumbai/140319_english_hls_29bbe4b83322381_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140343" tvg-name="Quarter   Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Quarter   Finals
-https://in-mc-fdlive.fancode.com/mumbai/140343_english_hls_3a43a5d1da78053_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140090" tvg-name="Pune Panthers Vs Dubai Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pune Panthers Vs Dubai Royals
+https://in-mc-fdlive.fancode.com/mumbai/140090_english_hls_dfbad77bba75901_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140090" tvg-name="Pune Panthers Vs Dubai Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Pune Panthers Vs Dubai Royals
+https://in-mc-fdlive.fancode.com/mumbai/140090_hindi_hls_1ba03ea9dd77274_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
