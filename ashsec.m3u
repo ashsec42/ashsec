@@ -169,16 +169,14 @@ https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=ifADBXZespRIB6nAn8J8PQ&expi
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=BHOnv9Q1LUynFVRcpfKcpg&expires=1770190267
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-04 10:44:22 (BD Time)
+# Update on 2026-02-04 11:53:32 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 4 February 2026 at 11:57:36 am
+#DATE:- Wednesday, 4 February 2026 at 12:56:06 pm
 #EXTINF:-1 tvg-id="133976" tvg-name="Tasmania Women Vs Act Meteors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Tasmania Women Vs Act Meteors
 https://in-mc-fdlive.fancode.com/mumbai/133976_english_hls_ec5ef1c66e88949_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140370" tvg-name="San Diego Vs Pumas Unam" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_San-Diego-vs-Pumas-UNAM_1770142761000.png" tvg-language="ENGLISH" group-title="Football",ENG | San Diego Vs Pumas Unam
-https://in-mc-fdlive.fancode.com/mumbai/140370_english_hls_826cbd474579774_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140313" tvg-name="Day 5   Table 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 5   Table 1
 https://in-mc-fdlive.fancode.com/mumbai/140313_english_hls_0a52d15e6275475_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140342" tvg-name="Day 5   Table 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 5   Table 2
@@ -445,7 +443,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1770257003~acl=%2f*~id=ac7bfc98-2bc1-4ab2-979f-9591f078947e~data=hdntl~hmac=38267bbf5d9aa7d46f9cd5dbb5ab310188a5af69adde2928338538d1bb851dc0
-#Generated on 1770171038
+#Generated on 1770188115
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1769930883~acl=%2f*~id=a45328320e7e6d937fe64f7b20745acb~data=hdntl~hmac=63a93e20c57be4592bf4086b35edded53757b60059b4184a92abfc0cfd38037d"}
