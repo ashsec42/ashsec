@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090503283_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014730/1769948075202742_WPL26_Delhi_vs_Jaipur_1feb_landscape_thumb.jpg" group-title="Live",Dilli Dillwale vs Rajasthan Titans - 6 Feb 2026 [ENG] - World Pickelball League 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770434225~acl=/*~id=78715482672924252184563759479219~hmac=b91a9baf1215dcfc1295bb331ed51597483a75e56ee859c46f70874e0291225d
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770436647~acl=/*~id=56560535083125333795412457334314~hmac=3718e169728718f26fd2a04b33b8386a99b8a6625ad77f40e39c2f1c4c8ebea4
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-06 20:25:51 (BD Time)
+# Update on 2026-02-06 21:24:30 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 6 February 2026 at 9:07:15 pm
+#DATE:- Friday, 6 February 2026 at 9:49:06 pm
 #EXTINF:-1 tvg-id="139623" tvg-name="Sharjah Vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sharjah Vs Ajman
 https://in-mc-fdlive.fancode.com/mumbai/139623_english_hls_b93164c98613890_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140184" tvg-name="Day 5" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Day 5
