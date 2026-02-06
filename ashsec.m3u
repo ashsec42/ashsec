@@ -1,12 +1,18 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-06 23:26:12 (BD Time)
+# Update on 2026-02-07 00:06:21 (BD Time)
+# Note: I do not host any content, everything is publicly available.
+#EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 1",Fallback Channel
+https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
+# By Abu SAEEID X Noob
+# Github @abusaeeidx
+# Update on 2026-02-07 00:26:46 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 6 February 2026 at 11:28:06 pm
+#DATE:- Saturday, 7 February 2026 at 12:35:06 am
 #EXTINF:-1 tvg-id="139624" tvg-name="Emirates Blues Vs Dubai" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Emirates Blues Vs Dubai
 https://in-mc-fdlive.fancode.com/mumbai/139624_english_hls_28c34e77b264819_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139837" tvg-name="Al Nassr Fc Vs Al Ittihad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Ittihad_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Nassr Fc Vs Al Ittihad
@@ -275,7 +281,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1770469170~acl=%2f*~id=99826c63-e98b-4fa2-ac23-180e54a78265~data=hdntl~hmac=bd4dc5ebc0dab397a474adcd77b6b994e20f3c1ee3b8cf76e947c2563e44c8ee
-#Generated on 1770383012
+#Generated on 1770404030
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"hdntl=exp=1770429063~acl=%2f*~id=3d6551153f5f3d3c6583cb887b995d03~data=hdntl~hmac=c0e2e8943f0a87d083064685f2c9b0cc0bacc0ed11d69a132ac51a3c867dfdd7"}
