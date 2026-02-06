@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090503326_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014298/1769517862101875_Bundesliga_2025_26_Union-Berlin-vs-Eintracht-Frankfurt_landscape_thumb.jpg" group-title="Live",Union Berlin vs Eintracht Frankfurt - MD 21 - 7 Feb 2026 [ENG] - Bundesliga 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770457222~acl=/*~id=49704715579828884069396750461493~hmac=9e5672729a19a0353deb50467886e0b2b2158440b693a6e74f30e2286e0cf07b
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,16 +169,12 @@ https://d6.merichunidya.com:1686/hls/fox501.m3u8?md5=RT3MPSdlBOgbUTvWUJf7Ow&expi
 https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=gSf5IR3TJyurmB5LfJlB4A&expires=1770420636
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-07 03:03:04 (BD Time)
+# Update on 2026-02-07 03:56:26 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 7 February 2026 at 3:21:07 am
-#EXTINF:-1 tvg-id="131050" tvg-name="Rc Celta Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131050_5427_CEV_OSN_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Rc Celta Vs Ca Osasuna
-https://in-mc-fdlive.fancode.com/mumbai/131050_english_hls_fcd7d8a48695573_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139348" tvg-name="Charlton Athletic F.c Vs Queens Park Rangers F.c." tvg-logo="https://images.fancode.com/aig/match/v1/139348_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Charlton Athletic F.c Vs Queens Park Rangers F.c.
-https://in-mc-fdlive.fancode.com/mumbai/139348_english_hls_915c7c961552394_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Saturday, 7 February 2026 at 3:49:06 am
 #EXTINF:-1 tvg-id="140395" tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web_1770182154885.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140395_english_hls_ed18c3829423764_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140397" tvg-name="Featured Holes   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web_1770182154885.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 2
@@ -190,6 +183,8 @@ https://in-mc-fdlive.fancode.com/mumbai/140397_english_hls_f6f8c88cba33967_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140396_english_hls_134b91debe95022_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140041" tvg-name="World Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140041_english_hls_231affc53d40363_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131050" tvg-name="Rc Celta Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131050_5427_CEV_OSN_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Rc Celta Vs Ca Osasuna
+https://in-mc-fdlive.fancode.com/mumbai/131050_english_hls_fcd7d8a48695573_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
