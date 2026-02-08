@@ -180,27 +180,23 @@ https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=FbxqpkO9PFMk0QMqWMi-1g&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 8 February 2026 at 7:28:09 pm
-#EXTINF:-1 tvg-id="140101" tvg-name="West Ham United Women Vs Brighton And Hove Albion Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140101_5826_WHU-W_BHA-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | West Ham United Women Vs Brighton And Hove Albion Women
-https://in-mc-fdlive.fancode.com/mumbai/140101_english_hls_78571c76d135008_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140100" tvg-name="London City Lionesses Vs Everton Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140100_5826_LCL_EVE-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | London City Lionesses Vs Everton Women
-https://in-mc-fdlive.fancode.com/mumbai/140100_english_hls_f4b19f5cc747792_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140099" tvg-name="Arsenal Women Vs Manchester City Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140099_5826_ARS-W_MCI-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Arsenal Women Vs Manchester City Women
-https://in-mc-fdlive.fancode.com/mumbai/140099_english_hls_7c6869c29a99249_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140098" tvg-name="Liverpool Women Vs Aston Villa Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140098_5826_LIV-W_AST-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Liverpool Women Vs Aston Villa Women
-https://in-mc-fdlive.fancode.com/mumbai/140098_english_hls_5816bbef1492554_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday, 8 February 2026 at 8:14:08 pm
 #EXTINF:-1 tvg-id="131056" tvg-name="Deportivo Alaves Vs Getafe Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Deportivo Alaves Vs Getafe Cf
 https://in-mc-fdlive.fancode.com/mumbai/131056_english_hls_f9cac542f252226_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140294" tvg-name="Rangers Vs Queen's Park" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Rangers Vs Queen's Park
-https://in-mc-fdlive.fancode.com/mumbai/140294_english_hls_2031b781538611_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140102" tvg-name="Tottenham Hotspur Women Vs Chelsea F.c. Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140102_5826_TOT-W_CHE-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Tottenham Hotspur Women Vs Chelsea F.c. Women
+https://in-mc-fdlive.fancode.com/mumbai/140102_english_hls_6ad3a122af68241_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131053" tvg-name="Sevilla Fc Vs Girona Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131053_5427_SEV_GIR_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Sevilla Fc Vs Girona Fc
+https://in-mc-fdlive.fancode.com/mumbai/131053_english_hls_272ab041873662_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131057" tvg-name="Athletic Club Vs Levante" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131057_5427_ATH_LE_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Athletic Club Vs Levante
+https://in-mc-fdlive.fancode.com/mumbai/131057_english_hls_0f147c501129921_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140430" tvg-name="Real Valladolid Vs Castellón" tvg-logo="https://images.fancode.com/aig/match/v1770347072524/140430_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Real Valladolid Vs Castellón
 https://in-mc-fdlive.fancode.com/mumbai/140430_english_hls_287845a7cf93054_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140294" tvg-name="Rangers Vs Queen's Park" tvg-logo="https://images.fancode.com/aig/match/v1770559004497/140294_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Rangers Vs Queen's Park
+https://in-mc-fdlive.fancode.com/mumbai/140294_english_hls_2031b781538611_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140529" tvg-name="Bcpl Auction" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg" tvg-language="ENGLISH" group-title="Live Events",ENG | Bcpl Auction
 https://in-mc-fdlive.fancode.com/mumbai/140529_english_hls_5bfd8cd4eb49701_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140186" tvg-name="Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg" tvg-language="ENGLISH" group-title="Tennis",ENG | Finals
 https://in-mc-fdlive.fancode.com/mumbai/140186_english_hls_8e47b2787f27163_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139351" tvg-name="Swansea City A.f.c. Vs Sheffield Wednesday F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139351_5489_SWA_SHFF_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Swansea City A.f.c. Vs Sheffield Wednesday F.c.
-https://in-mc-fdlive.fancode.com/mumbai/139351_english_hls_98fd288b3b51792_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
