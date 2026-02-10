@@ -169,20 +169,20 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=sprG6zfB0GLTuSb0pHD8yg&exp
 https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=SH9lxYqC4t-pj2epVwawkQ&expires=1770752042
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-10 23:08:02 (BD Time)
+# Update on 2026-02-11 00:39:36 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 11 February 2026 at 12:07:10 am
+#DATE:- Wednesday, 11 February 2026 at 1:07:06 am
 #EXTINF:-1 tvg-id="136084" tvg-name="Al Ittihad Vs Al Gharafa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/16_Al-Ittihad-vs--Al-Gharafa_1770635658022.png" tvg-language="ENGLISH" group-title="Football",ENG | Al Ittihad Vs Al Gharafa
 https://in-mc-fdlive.fancode.com/mumbai/136084_english_hls_bcb9fc0b8627697_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139000" tvg-name="Hertha Bsc Vs Sc Freiburg" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_Hertha-BSC-vs-SC-Freiburg_1769793016237.png" tvg-language="ENGLISH" group-title="Football",ENG | Hertha Bsc Vs Sc Freiburg
+https://in-mc-fdlive.fancode.com/mumbai/139000_english_hls_1da02b1cf413076_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140543" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" tvg-language="ENGLISH" group-title="Tennis",ENG | World Feed
 https://in-mc-fdlive.fancode.com/mumbai/140543_english_hls_f65455d4a422900_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140542" tvg-name="Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140542_english_hls_647ee1df7834456_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140544" tvg-name="Court 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Court 1
-https://in-mc-fdlive.fancode.com/mumbai/140544_english_hls_53771c29ef75606_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140202" tvg-name="Cancha Guillermo Vilas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png" tvg-language="ENGLISH" group-title="Tennis",ENG | Cancha Guillermo Vilas
 https://in-mc-fdlive.fancode.com/mumbai/140202_english_hls_162ef3e0251699_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140188" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png" tvg-language="ENGLISH" group-title="Tennis",ENG | World Feed
