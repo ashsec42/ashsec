@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090475059_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" group-title="Live",Cricket Blockbusters 24x7 [ENG] - Cricket Classics - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+http://invalid.stream.url
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,16 +172,12 @@ https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=7jqSB_Z7aX_2EZ4QFX5ZYg&expi
 https://d5.merichunidya.com:1686/hls/ten1hd.m3u8?md5=m9oks-Aqtbba9ncO_naOdw&expires=1770838360
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-11 22:43:40 (BD Time)
+# Update on 2026-02-12 00:00:04 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 12 February 2026 at 12:07:07 am
-#EXTINF:-1 tvg-id="140406" tvg-name="Oud Heverlee Leuven Women Vs Arsenal Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oud-Heverlee-Leuven-Women-VS-Arsenal-Women_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Oud Heverlee Leuven Women Vs Arsenal Women
-https://in-mc-fdlive.fancode.com/mumbai/140406_english_hls_81e92eb46584394_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140057" tvg-name="Sepahan Vs Al Ahli Saudi Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140057_5648_SEP_AAS_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Sepahan Vs Al Ahli Saudi Fc
-https://in-mc-fdlive.fancode.com/mumbai/140057_english_hls_fea1f30d0461530_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Thursday, 12 February 2026 at 1:14:08 am
 #EXTINF:-1 tvg-id="140196" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" tvg-language="ENGLISH" group-title="Tennis",ENG | World Feed
 https://in-mc-fdlive.fancode.com/mumbai/140196_english_hls_78b42dfd6d20454_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140546" tvg-name="Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Centre Court
@@ -193,6 +192,8 @@ https://in-mc-fdlive.fancode.com/mumbai/140189_english_hls_70ca4a650162083_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140535_english_hls_d741f0449a1617_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140534" tvg-name="Grandstand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Grandstand
 https://in-mc-fdlive.fancode.com/mumbai/140534_english_hls_b71d88a261499_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140406" tvg-name="Oud Heverlee Leuven Women Vs Arsenal Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oud-Heverlee-Leuven-Women-VS-Arsenal-Women_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Oud Heverlee Leuven Women Vs Arsenal Women
+https://in-mc-fdlive.fancode.com/mumbai/140406_english_hls_81e92eb46584394_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
