@@ -169,14 +169,12 @@ https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=BgSX2FUc5eolj5fw6XShoQ&exp
 https://d3.merichunidya.com:1686/hls/ten1hd.m3u8?md5=FTQEzcgaz6uCSihsIBRT3g&expires=1770913871
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-12 20:35:01 (BD Time)
+# Update on 2026-02-12 21:32:34 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 12 February 2026 at 8:35:09 pm
-#EXTINF:-1 tvg-id="140603" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 1
-https://in-mc-fdlive.fancode.com/mumbai/140603_english_hls_9af047dcaa91442_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Thursday, 12 February 2026 at 9:35:06 pm
 #EXTINF:-1 tvg-id="140197" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" tvg-language="ENGLISH" group-title="Tennis",ENG | World Feed
 https://in-mc-fdlive.fancode.com/mumbai/140197_english_hls_24d1fb510145499_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140548" tvg-name="Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Centre Court
@@ -185,6 +183,8 @@ https://in-mc-fdlive.fancode.com/mumbai/140548_english_hls_ebfcad5e0613700_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140547_english_hls_305e1e721982028_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139559" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg" tvg-language="ENGLISH" group-title="Formula 1",ENG | Day 2
 https://india-mpv2.fancode.com/out/v1/ap-south-1/139559_english_888691/ad-h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140204" tvg-name="Cancha Guillermo Vilas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png" tvg-language="ENGLISH" group-title="Tennis",ENG | Cancha Guillermo Vilas
+https://in-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
