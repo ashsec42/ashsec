@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090475059_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" group-title="Live",Cricket Blockbusters 24x7 [ENG] - Cricket Classics - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-http://invalid.stream.url
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,7 +174,7 @@ https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=RTGLNEsIqaehwBSGRhePkQ&expi
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 12 February 2026 at 12:14:07 pm
+#DATE:- Thursday, 12 February 2026 at 1:07:07 pm
 #EXTINF:-1 tvg-id="140318" tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 4
 https://in-mc-fdlive.fancode.com/mumbai/140318_english_hls_d621b5dcd676482_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140603" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 1
