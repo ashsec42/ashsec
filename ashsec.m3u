@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090503624_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014909/1770322663392886_ABBFIAFormulaE_WC26_Round4_JeddahEPrix_final_Race_6feb_landscape_thumb.jpg" group-title="Live",Round 4 - Jeddah E-Prix - Final Race - 13 Feb 2026 [ENG] - ABB FIA Formula E World Championship - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771046053~acl=/*~id=45584301762099412411244013393767~hmac=adaf931987dbf1a0af8841da016be17cf720e411b655718db7f6454f18039fa6
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771048475~acl=/*~id=70951720397424264504719442749220~hmac=b2b63c0c037d5864bab919f39aabb40c95109fca78fe6438054f498f3f7ddead
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://n8.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=HSb4dEKF7fRGTh-FNerdqA&exp
 https://n1.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=qrz1aD3KbQEn8QEjk6DeZA&expires=1771010164
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-13 22:25:21 (BD Time)
+# Update on 2026-02-13 23:28:21 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 13 February 2026 at 11:14:06 pm
+#DATE:- Friday, 13 February 2026 at 11:56:07 pm
 #EXTINF:-1 tvg-id="139840" tvg-name="Al Ittihad Vs Al Fayha Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Al-Fayha-FC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Ittihad Vs Al Fayha Fc
 https://in-mc-fdlive.fancode.com/mumbai/139840_english_hls_a4d60de1db72659_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140198" tvg-name="Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Centre Court
@@ -192,6 +192,12 @@ https://in-mc-fdlive.fancode.com/mumbai/140628_english_hls_b717d6d84760625_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140625_english_hls_e87c1a62fb91775_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140627" tvg-name="Featured Holes   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140627_english_hls_5fc2a13dbb70811_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140191" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png" tvg-language="ENGLISH" group-title="Tennis",ENG | World Feed
+https://in-mc-fdlive.fancode.com/mumbai/140191_english_hls_bb4a0cd38111838_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140538" tvg-name="Center Court" tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png" tvg-language="ENGLISH" group-title="Tennis",ENG | Center Court
+https://in-mc-fdlive.fancode.com/mumbai/140538_english_hls_abde6fad6b18281_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140626" tvg-name="Featured Groups   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Groups   Day 2
+https://in-mc-fdlive.fancode.com/mumbai/140626_english_hls_1c0b3a43136357_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
