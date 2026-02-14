@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090503863_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014882/1770272153311520_FA_26_RD4_Liverpool-vs-Brighton-Hove-Albion_Landscape_thumb.jpg" group-title="Live",Liverpool vs Brighton & Hove Albion - Round 4 - 15 Feb 2026 [ENG] - The Emirates FA Cup 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771148725~acl=/*~id=06867117958795644199634915880364~hmac=e6429a8dfb991527349b99a1169dc8ab498af01573fc830f1b04db31cecc3e3a
-#EXTINF:-1 tvg-id="1090503863_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014882/1770272153311520_FA_26_RD4_Liverpool-vs-Brighton-Hove-Albion_Landscape_thumb.jpg" group-title="Live",Liverpool vs Brighton & Hove Albion - Round 4 - 15 Feb 2026 [HIN] - The Emirates FA Cup 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771148725~acl=/*~id=06867117958795644199634915880364~hmac=e6429a8dfb991527349b99a1169dc8ab498af01573fc830f1b04db31cecc3e3a
-#EXTINF:-1 tvg-id="1090503863_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014882/1770272153311520_FA_26_RD4_Liverpool-vs-Brighton-Hove-Albion_Landscape_thumb.jpg" group-title="Live",Liverpool vs Brighton & Hove Albion - Round 4 - 15 Feb 2026 [TAM] - The Emirates FA Cup 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771148725~acl=/*~id=06867117958795644199634915880364~hmac=e6429a8dfb991527349b99a1169dc8ab498af01573fc830f1b04db31cecc3e3a
-#EXTINF:-1 tvg-id="1090503863_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014882/1770272153311520_FA_26_RD4_Liverpool-vs-Brighton-Hove-Albion_Landscape_thumb.jpg" group-title="Live",Liverpool vs Brighton & Hove Albion - Round 4 - 15 Feb 2026 [TEL] - The Emirates FA Cup 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771148725~acl=/*~id=06867117958795644199634915880364~hmac=e6429a8dfb991527349b99a1169dc8ab498af01573fc830f1b04db31cecc3e3a
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -181,7 +169,7 @@ https://n12.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=zbCzhHBQ0cccI6rxnpatZw&ex
 https://n11.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=loieUB6uV_6C06XuJp48TA&expires=1771112831
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-15 03:33:09 (BD Time)
+# Update on 2026-02-15 03:54:58 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
