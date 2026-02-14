@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090503802_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015146/1770991979351685_ACC_bangladesh_Women_vs_sri_lanka_Women_landscape_thumb.jpg" group-title="Live",Bangladesh A Women vs Sri Lanka A Women - 14 Feb 2026 [ENG] - ACC Women’s Rising Stars 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771098365~acl=/*~id=66774262201732460396471515773769~hmac=4ad841fe1e4cb2925fe27c6008663d2e340f8452d035540cbb5eb2f2a232c5c3
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771100183~acl=/*~id=73399301205750517034200964833471~hmac=9a7ae07af63e41b4377ee95564caf455e9faa13ff7c020c90fbafcbb3157d830
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,14 +172,14 @@ https://n2.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=2Z3A9JYvw14qIhmK2KK1WA&exp
 https://n7.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=qAnhhjtVW9o0csCnqA1gPQ&expires=1771062836
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-14 13:37:37 (BD Time)
+# Update on 2026-02-14 13:59:02 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 14 February 2026 at 1:35:06 pm
-#EXTINF:-1 tvg-id="139410" tvg-name="Melbourne Victory Vs Brisbane Roar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139410_5802_MLV_BRB_1770722069741.png" tvg-language="ENGLISH" group-title="Football",ENG | Melbourne Victory Vs Brisbane Roar
-https://in-mc-fdlive.fancode.com/mumbai/139410_english_hls_0167d6f73770914_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Saturday, 14 February 2026 at 2:21:06 pm
+#EXTINF:-1 tvg-id="139411" tvg-name="Sydney Fc Vs Adelaide United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139411_5802_SYD_ADL_1770722182837.png" tvg-language="ENGLISH" group-title="Football",ENG | Sydney Fc Vs Adelaide United
+https://in-mc-fdlive.fancode.com/mumbai/139411_english_hls_4eab237abc97022_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140605" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140605_english_hls_0e3b993a4574255_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 # https://t.me/cricindia95
