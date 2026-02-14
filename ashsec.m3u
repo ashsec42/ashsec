@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090503802_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015146/1770991979351685_ACC_bangladesh_Women_vs_sri_lanka_Women_landscape_thumb.jpg" group-title="Live",Bangladesh A Women vs Sri Lanka A Women - 14 Feb 2026 [ENG] - ACC Women’s Rising Stars 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771105031~acl=/*~id=80155485578625229121558589005897~hmac=c2fbedad301cc95c554767dfa4b1e6b3d25f79a231861a44ec521f5f7778fa0f
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771106849~acl=/*~id=19656082674772245630457930572295~hmac=197373a1c372bac5e3c9fee98450d8904ee725d1a601876c79c5da3066ad7066
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://n6.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=ZKqnSmvB8CTUg2_wEbk65Q&exp
 https://n3.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=lH4NsyLHkPK1jIHCgzWzdw&expires=1771068624
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-14 15:36:33 (BD Time)
+# Update on 2026-02-14 15:58:05 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 14 February 2026 at 3:21:08 pm
+#DATE:- Saturday, 14 February 2026 at 4:00:05 pm
 #EXTINF:-1 tvg-id="139411" tvg-name="Sydney Fc Vs Adelaide United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139411_5802_SYD_ADL_1770722182837.png" tvg-language="ENGLISH" group-title="Football",ENG | Sydney Fc Vs Adelaide United
 https://in-mc-fdlive.fancode.com/mumbai/139411_english_hls_4eab237abc97022_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140605" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 3
