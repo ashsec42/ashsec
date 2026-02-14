@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090503706_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014851/1769601948560891_FA_26_RD4_Burton-Albion-vs-West-Ham-United_Landscape_thumb.jpg" group-title="Live",Burton Albion vs West Ham United - Round 4 - 14 Feb 2026 [ENG] - The Emirates FA Cup 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771112901~acl=/*~id=07556023232897044833275924550433~hmac=bf2d00b34c995f90310b553b4a941f4baed4c1888f46740579c0aa957ea1e25a
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771114718~acl=/*~id=80793554329664609827918382930456~hmac=e191087a9fc423ed9aa93365eb521130baf710f0a804ad46e0e129bb307c6302
+#EXTINF:-1 tvg-id="1090503718_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014909/1770323471257886_ABBFIAFormulaE_WC26_Round5_JeddahEPrix_Qualifying_Race_6feb_landscape_thumb.jpg" group-title="Live",Round 5 - Jeddah E-Prix - Qualifying Race - 14 Feb 2026 [ENG] - ABB FIA Formula E World Championship - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771114718~acl=/*~id=80793554329664609827918382930456~hmac=e191087a9fc423ed9aa93365eb521130baf710f0a804ad46e0e129bb307c6302
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,20 +175,24 @@ https://n7.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=FzTau-rYtfF9ro-Phkzv5g&exp
 https://n5.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=fII_gbmkk9bJxiaKwi8rFg&expires=1771076721
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-14 17:32:59 (BD Time)
+# Update on 2026-02-14 17:54:02 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 14 February 2026 at 5:28:06 pm
+#DATE:- Saturday, 14 February 2026 at 6:35:06 pm
 #EXTINF:-1 tvg-id="140404" tvg-name="Mohun Bagan Super Giant Vs Kerala Blasters Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140404_5956_MBSG_KBFC_fc-web_1771062546253.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Mohun Bagan Super Giant Vs Kerala Blasters Fc
-https://dai.fancode.com/primary/140404_english_hls_d6f8acdd6f73747_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/140404_english_hls_d6f8acdd6f73747_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140404" tvg-name="Mohun Bagan Super Giant Vs Kerala Blasters Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140404_5956_MBSG_KBFC_fc-web_1771062546253.jpg" tvg-language="HINDI" group-title="Football",HIN | Mohun Bagan Super Giant Vs Kerala Blasters Fc
-https://in-mc-fdlive.fancode.com/mumbai/140404_hindi_hls_863fba60ea92167_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/140404_hindi_hls_863fba60ea92167_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140404" tvg-name="Mohun Bagan Super Giant Vs Kerala Blasters Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140404_5956_MBSG_KBFC_fc-web_1771062546253.jpg" tvg-language="MALAYALAM" group-title="Football",MAL | Mohun Bagan Super Giant Vs Kerala Blasters Fc
-https://in-mc-fdlive.fancode.com/mumbai/140404_malayalam_hls_a456b85dea83926_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/140404_malayalam_hls_a456b85dea83926_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140404" tvg-name="Mohun Bagan Super Giant Vs Kerala Blasters Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140404_5956_MBSG_KBFC_fc-web_1771062546253.jpg" tvg-language="BANGLA" group-title="Football",BAN | Mohun Bagan Super Giant Vs Kerala Blasters Fc
-https://in-mc-fdlive.fancode.com/mumbai/140404_bengali_hls_adb094ef3f48850_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/140404_bengali_hls_adb094ef3f48850_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131064" tvg-name="Rcd Espanyol Vs Rc Celta" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131064_5427_ESL_CEV_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Rcd Espanyol Vs Rc Celta
+https://in-mc-fdlive.fancode.com/mumbai/131064_english_hls_7f47cf482696177_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140016" tvg-name="Stevenage Vs Huddersfield Town A.f.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png" tvg-language="ENGLISH" group-title="Football",ENG | Stevenage Vs Huddersfield Town A.f.c.
+https://in-mc-fdlive.fancode.com/mumbai/140016_english_hls_2d34a1b6ce92567_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140605" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140605_english_hls_0e3b993a4574255_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140112" tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770293026599.png" tvg-language="ENGLISH" group-title="Golf",ENG | Day 4
