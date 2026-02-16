@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="1090475059_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" group-title="Live",Cricket Blockbusters 24x7 [ENG] - Cricket Classics - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
-#EXTINF:-1 tvg-id="1090504102_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770194297645737_FA_26_RD4_Macclesfield-vs-Brentford_Landscape_thumb.jpg" group-title="Live",Macclesfield vs Brentford - Round 4 - 17 Feb 2026 [ENG] - The Emirates FA Cup 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771319633~acl=/*~id=68048987716145131973959626561374~hmac=a6d993ac994f465756513f764fbed9248a4b5519f88e4d3bd200595211869e82
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -180,7 +177,7 @@ https://n2.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=3pGpcC6VoRfkHCUpSKV5GA&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 17 February 2026 at 3:14:06 am
+#DATE:- Tuesday, 17 February 2026 at 3:28:06 am
 #EXTINF:-1 tvg-id="136088" tvg-name="Al Shorta Vs Al Duhail" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/21_Al-Shorta-vs-Al-Duhail_1770636215875.png" tvg-language="ENGLISH" group-title="Football",ENG | Al Shorta Vs Al Duhail
 https://in-mc-flive.fancode.com/mumbai/136088_english_hls_83304fa5f020864_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="136087" tvg-name="Al Hilal Sfc Vs Al Wahda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/22_Al-Hilal-vs-Al-Wahda_1770636292603.png" tvg-language="ENGLISH" group-title="Football",ENG | Al Hilal Sfc Vs Al Wahda
