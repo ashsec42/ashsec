@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090503960_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308623265111_UCL26_Playoffs_Leg1_Benfica_vs_Real_Madrid_14feb_eng_landscape_thumb.jpg" group-title="Live",Benfica vs Real Madrid - Play-offs Leg 1 - 18 Feb 2026 [ENG] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771408302~acl=/*~id=64362061480739106799074704659008~hmac=b07bb2f852d3763ef833c5f64c95bba0706e43132e0b1905affa7cbf8d7b1f41
-#EXTINF:-1 tvg-id="1090503960_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308623265111_UCL26_Playoffs_Leg1_Benfica_vs_Real_Madrid_14feb_eng_landscape_thumb.jpg" group-title="Live",Benfica vs Real Madrid - Play-offs Leg 1 - 18 Feb 2026 [HIN] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771408302~acl=/*~id=64362061480739106799074704659008~hmac=b07bb2f852d3763ef833c5f64c95bba0706e43132e0b1905affa7cbf8d7b1f41
-#EXTINF:-1 tvg-id="1090503960_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308623265111_UCL26_Playoffs_Leg1_Benfica_vs_Real_Madrid_14feb_eng_landscape_thumb.jpg" group-title="Live",Benfica vs Real Madrid - Play-offs Leg 1 - 18 Feb 2026 [TAM] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771408302~acl=/*~id=64362061480739106799074704659008~hmac=b07bb2f852d3763ef833c5f64c95bba0706e43132e0b1905affa7cbf8d7b1f41
-#EXTINF:-1 tvg-id="1090503960_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308623265111_UCL26_Playoffs_Leg1_Benfica_vs_Real_Madrid_14feb_eng_landscape_thumb.jpg" group-title="Live",Benfica vs Real Madrid - Play-offs Leg 1 - 18 Feb 2026 [TEL] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771408302~acl=/*~id=64362061480739106799074704659008~hmac=b07bb2f852d3763ef833c5f64c95bba0706e43132e0b1905affa7cbf8d7b1f41
-#EXTINF:-1 tvg-id="1090503961_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308816819111_UCL26_Playoffs_Leg1_AS_Monaco_vs_PSG_landscape_thumb.jpg" group-title="Live",Monaco vs PSG - Play-offs Leg 1 - 18 Feb 2026 [ENG] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771408302~acl=/*~id=64362061480739106799074704659008~hmac=b07bb2f852d3763ef833c5f64c95bba0706e43132e0b1905affa7cbf8d7b1f41
-#EXTINF:-1 tvg-id="1090503962_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308803726111_UCL26_Playoffs_Leg1_Dortmund_vs_Atalanta_landscape_thumb.jpg" group-title="Live",Dortmund vs Atalanta - Play-offs Leg 1 - 18 Feb 2026 [ENG] - UEFA Champions League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771408302~acl=/*~id=64362061480739106799074704659008~hmac=b07bb2f852d3763ef833c5f64c95bba0706e43132e0b1905affa7cbf8d7b1f41
 #EXTINF:-1 tvg-id="1090475059_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" group-title="Live",Cricket Blockbusters 24x7 [ENG] - Cricket Classics - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
@@ -190,14 +172,14 @@ https://n1.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=qu67dUafcx2ilpebE3view&exp
 https://n8.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=VYdW5Og5JNXtuYFL3Yvy7A&expires=1771371373
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-18 03:07:28 (BD Time)
+# Update on 2026-02-18 04:00:47 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 18 February 2026 at 3:42:05 am
-#EXTINF:-1 tvg-id="140017" tvg-name="Blackpool Vs Mansfield Town" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png" tvg-language="english" group-title="Football",ENG | Blackpool Vs Mansfield Town
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140017&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#DATE:- Wednesday, 18 February 2026 at 4:21:07 am
+#EXTINF:-1 tvg-id="133984" tvg-name="Western Australia Women Vs Victoria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg" tvg-language="english" group-title="Cricket",ENG | Western Australia Women Vs Victoria Women
+https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=133984&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140296" tvg-name="Court A Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png" tvg-language="english" group-title="Tennis",ENG | Court A Feed
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140296&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140286" tvg-name="Qaudra 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png" tvg-language="english" group-title="Tennis",ENG | Qaudra 1
