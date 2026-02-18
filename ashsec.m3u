@@ -180,13 +180,15 @@ https://n1.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=n7FE1OQt6b8wvmT-OhOTqA&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 18 February 2026 at 12:07:34 pm
+#DATE:- Wednesday, 18 February 2026 at 1:07:38 pm
 #EXTINF:-1 tvg-id="134036" tvg-name="Victoria Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg" tvg-language="english" group-title="Cricket",ENG | Victoria Vs Western Australia
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=134036&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134037" tvg-name="Tasmania Vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg" tvg-language="english" group-title="Cricket",ENG | Tasmania Vs New South Wales
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=134037&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140601" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg" tvg-language="english" group-title="Live Events",ENG | Day 3
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140601&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139561" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg" tvg-language="english" group-title="Formula 1",ENG | Day 1
+https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=139561&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
