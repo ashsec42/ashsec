@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090504331_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308791689111_UCL26_Playoffs_Leg1_Qarabag_vs_Newcastle_16feb_eng_landscape_thumb.jpg" group-title="Live",FK Qarabag vs Newcastle United - Play-offs Leg 1 - 18 Feb 2026 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771479191~acl=/*~id=16248330724686749458853521472898~hmac=bfd26889324446ba7e257bce528667a3caaacd2662da8a1e1c544365b98023f9
+#EXTINF:-1 tvg-id="1090504331_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308791689111_UCL26_Playoffs_Leg1_Qarabag_vs_Newcastle_16feb_eng_landscape_thumb.jpg" group-title="Live",FK Qarabag vs Newcastle United - Play-offs Leg 1 - 18 Feb 2026 [HIN] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771479191~acl=/*~id=16248330724686749458853521472898~hmac=bfd26889324446ba7e257bce528667a3caaacd2662da8a1e1c544365b98023f9
+#EXTINF:-1 tvg-id="1090504331_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308791689111_UCL26_Playoffs_Leg1_Qarabag_vs_Newcastle_16feb_eng_landscape_thumb.jpg" group-title="Live",FK Qarabag vs Newcastle United - Play-offs Leg 1 - 18 Feb 2026 [TAM] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771479191~acl=/*~id=16248330724686749458853521472898~hmac=bfd26889324446ba7e257bce528667a3caaacd2662da8a1e1c544365b98023f9
+#EXTINF:-1 tvg-id="1090504331_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308791689111_UCL26_Playoffs_Leg1_Qarabag_vs_Newcastle_16feb_eng_landscape_thumb.jpg" group-title="Live",FK Qarabag vs Newcastle United - Play-offs Leg 1 - 18 Feb 2026 [TEL] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771479191~acl=/*~id=16248330724686749458853521472898~hmac=bfd26889324446ba7e257bce528667a3caaacd2662da8a1e1c544365b98023f9
 #EXTINF:-1 tvg-id="1090475059_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" group-title="Live",Cricket Blockbusters 24x7 [ENG] - Cricket Classics - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
@@ -172,20 +184,24 @@ https://n6.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=0YxeDliH_lFQAz17Izmkdw&exp
 https://n1.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=zSu4RU4fTq1grzdreprx-A&expires=1771439531
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-18 21:57:11 (BD Time)
+# Update on 2026-02-18 23:13:28 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 18 February 2026 at 10:42:36 pm
+#DATE:- Wednesday, 18 February 2026 at 11:32:40 pm
 #EXTINF:-1 tvg-id="140658" tvg-name="Van Der Stel Cricket Club Vs Maties Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140658_5968_VDCC_MAT_FC-Web.jpg" tvg-language="english" group-title="Cricket",ENG | Van Der Stel Cricket Club Vs Maties Cricket Club
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140658&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140416" tvg-name="Real Madrid Women Vs Paris Fc Women" tvg-logo="https://images.fancode.com/aig/match/v1771397809085/140416_CASACARDS_APP.png" tvg-language="english" group-title="Football",ENG | Real Madrid Women Vs Paris Fc Women
+https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140416&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140065" tvg-name="Al Nassr Fc Vs Fc Arkadag" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFC--AL-Nassr-v-FK-Arkadag--old-match-card.jpg" tvg-language="english" group-title="Football",ENG | Al Nassr Fc Vs Fc Arkadag
+https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140065&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140064" tvg-name="Al Ahli (qat) Vs Sepahan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140064_5648_ASC_SEP_FC-Web.jpg" tvg-language="english" group-title="Football",ENG | Al Ahli (qat) Vs Sepahan
+https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140064&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140210" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Qatar_web.jpg" tvg-language="english" group-title="Tennis",ENG | World Feed
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140210&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140745" tvg-name="Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-_1771246185234.jpg" tvg-language="english" group-title="Tennis",ENG | Center Court
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140745&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140744" tvg-name="Grandstand 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg" tvg-language="english" group-title="Tennis",ENG | Grandstand 1
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140744&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140746" tvg-name="Grandstand 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg" tvg-language="english" group-title="Tennis",ENG | Grandstand 2
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140746&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140297" tvg-name="Court A Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png" tvg-language="english" group-title="Tennis",ENG | Court A Feed
