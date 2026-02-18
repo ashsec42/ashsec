@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090504312_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015238/1771175858085856_AsiaCup_RisingStar_Womens2026_Sri_Lanka_A_vs_Thailand_15feb_eng_Landscape_thumb.jpg" group-title="Live",Sri Lanka A Women vs Thailand Women - 18 Feb 2026 [ENG] - ACC Women’s Rising Stars 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771443441~acl=/*~id=29149181972322049739474506753514~hmac=a4d46e1464d1cef5233ebf7257e32bdeca7e8a6fa970a1bae77bb521c992f9d5
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771446471~acl=/*~id=25837318393026206345331642567331~hmac=cb15b105746822ce7421819962a4e5173248d80d60096f12b59888c7bad7bf99
 #EXTINF:-1 tvg-id="1090475059_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" group-title="Live",Cricket Blockbusters 24x7 [ENG] - Cricket Classics - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
@@ -175,12 +175,12 @@ https://n5.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=GpbaX-TCruba9A4HXR7IoA&exp
 https://n2.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=mNAC4klpEpMrhriI0jvYjg&expires=1771407133
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-18 13:37:08 (BD Time)
+# Update on 2026-02-18 14:26:38 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 18 February 2026 at 1:52:36 pm
+#DATE:- Wednesday, 18 February 2026 at 2:52:35 pm
 #EXTINF:-1 tvg-id="134036" tvg-name="Victoria Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg" tvg-language="english" group-title="Cricket",ENG | Victoria Vs Western Australia
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=134036&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134037" tvg-name="Tasmania Vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg" tvg-language="english" group-title="Cricket",ENG | Tasmania Vs New South Wales
