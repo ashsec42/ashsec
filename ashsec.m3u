@@ -4,7 +4,7 @@
 http://invalid.stream.url
 #EXTINF:-1 tvg-id="1090504379_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401586595586_DP_World_Tour_Magical_Kenya_Open_Day1_landscape_thumb.jpg" group-title="Live",Magical Kenya Open - Day 1 - 19 Feb 2026 [ENG] - DP World Tour - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/20000092/DAI03MSL5-V3/std_lrh-800300010.m3u8?hdnea=exp=1771551315~acl=/*~id=61465207202053501516066262359340~hmac=e8df90138a48e59be36969f5c08a23c89d88de796e9045f79e114b7bd8faf1f5
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/20000092/DAI03MSL5-V3/std_lrh-800300010.m3u8?hdnea=exp=1771554955~acl=/*~id=16942652886156195736784950374075~hmac=2bc96842f7bc930ccdaac47703d2bea9434bb2eeeb169bc17dcce0612270a6f9
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,22 +175,12 @@ https://n1.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=j5kfC43CKbeFfDhAUi3koA&exp
 https://n4.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=F0y46TyAoPPq8jsV_HV0Eg&expires=1771515483
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-19 18:04:33 (BD Time)
+# Update on 2026-02-19 19:54:46 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 19 February 2026 at 7:37:38 pm
-#EXTINF:-1 tvg-id="140437" tvg-name="Mumbai City Fc Vs Chennaiyin Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web_1771419569202.jpg" tvg-language="english" group-title="Football",ENG | Mumbai City Fc Vs Chennaiyin Fc
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140437&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140437" tvg-name="Mumbai City Fc Vs Chennaiyin Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web_1771419569202.jpg" tvg-language="hindi" group-title="Football",HIN | Mumbai City Fc Vs Chennaiyin Fc
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140437&lang=hindi&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140437" tvg-name="Mumbai City Fc Vs Chennaiyin Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web_1771419569202.jpg" tvg-language="tamil" group-title="Football",TAM | Mumbai City Fc Vs Chennaiyin Fc
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140437&lang=tamil&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140437" tvg-name="Mumbai City Fc Vs Chennaiyin Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web_1771419569202.jpg" tvg-language="malayalam" group-title="Football",MAL | Mumbai City Fc Vs Chennaiyin Fc
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140437&lang=malayalam&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140437" tvg-name="Mumbai City Fc Vs Chennaiyin Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web_1771419569202.jpg" tvg-language="bengali" group-title="Football",BEN | Mumbai City Fc Vs Chennaiyin Fc
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140437&lang=bengali&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#DATE:- Thursday, 19 February 2026 at 8:07:08 pm
 #EXTINF:-1 tvg-id="140752" tvg-name="Mumbai City Fc Vs Chennaiyin Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web-(1).jpg" tvg-language="english" group-title="Football",ENG | Mumbai City Fc Vs Chennaiyin Fc
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140752&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139562" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg" tvg-language="english" group-title="Formula 1",ENG | Day 2
