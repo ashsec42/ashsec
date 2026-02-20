@@ -1,19 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090504514_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" group-title="Live",Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [ENG] - ACC Women’s Rising Stars 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771624106~acl=/*~id=88288035653356821344901256831882~hmac=7dc81804f5f9e9fc3ac9525335c967b2cab727a2212298d01b461ee3c3cc3146
-#EXTINF:-1 tvg-id="1090504514_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" group-title="Live",Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [HIN] - ACC Women’s Rising Stars 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771624106~acl=/*~id=88288035653356821344901256831882~hmac=7dc81804f5f9e9fc3ac9525335c967b2cab727a2212298d01b461ee3c3cc3146
-#EXTINF:-1 tvg-id="1090504514_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" group-title="Live",Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [TAM] - ACC Women’s Rising Stars 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771624106~acl=/*~id=88288035653356821344901256831882~hmac=7dc81804f5f9e9fc3ac9525335c967b2cab727a2212298d01b461ee3c3cc3146
-#EXTINF:-1 tvg-id="1090504514_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" group-title="Live",Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [TEL] - ACC Women’s Rising Stars 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771624106~acl=/*~id=88288035653356821344901256831882~hmac=7dc81804f5f9e9fc3ac9525335c967b2cab727a2212298d01b461ee3c3cc3146
 #EXTINF:-1 tvg-id="1090504529_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401575668586_DP_World_Tour_Magical_Kenya_Open_Day2_landscape_thumb.jpg" group-title="Live",Magical Kenya Open - Day 2 - 20 Feb 2026 [ENG] - DP World Tour - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771624106~acl=/*~id=88288035653356821344901256831882~hmac=7dc81804f5f9e9fc3ac9525335c967b2cab727a2212298d01b461ee3c3cc3146
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771626527~acl=/*~id=31863791171988175067391924066131~hmac=efe09a79163ddc6b908bcbb5578b0fe8724963db14384df6d1f3fd43ebf7d3ea
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -184,16 +172,14 @@ https://n5.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=77aJhiWv408Lrofs-8LZ7Q&exp
 https://n8.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=nclzK_re1xtQirxy7sKXJg&expires=1771587634
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-20 15:24:17 (BD Time)
+# Update on 2026-02-20 16:20:12 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 20 February 2026 at 3:49:09 pm
+#DATE:- Friday, 20 February 2026 at 4:28:16 pm
 #EXTINF:-1 tvg-id="140661" tvg-name="England Lions Vs Pakistan Shaheens" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png" tvg-language="english" group-title="Cricket",ENG | England Lions Vs Pakistan Shaheens
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140661&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139412" tvg-name="Adelaide United Vs Perth Glory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139412_5802_ADL_PG_1770722465261.png" tvg-language="english" group-title="Football",ENG | Adelaide United Vs Perth Glory
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=139412&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139563" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg" tvg-language="english" group-title="Formula 1",ENG | Day 3
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=139563&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 # https://t.me/cricindia95
