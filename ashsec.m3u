@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090504529_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401575668586_DP_World_Tour_Magical_Kenya_Open_Day2_landscape_thumb.jpg" group-title="Live",Magical Kenya Open - Day 2 - 20 Feb 2026 [ENG] - DP World Tour - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771630764~acl=/*~id=19917997551272648547205924779288~hmac=443f6e57748c6dbf2e50a4886a42c8087552d73019e8d13d9c9f063e043a8daa
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771633788~acl=/*~id=75543169162432672270556019976817~hmac=1fc2539c882f530d6059529babefadc22575f7f1b965877c5864d7271fa8c11e
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,20 +172,20 @@ https://n7.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=e4I6NdvxGcT0aAo32G2E9A&exp
 https://n3.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=dQWuMbofgxOLT6_jXOzdnw&expires=1771594318
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-20 17:17:36 (BD Time)
+# Update on 2026-02-20 17:59:33 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 20 February 2026 at 5:28:11 pm
+#DATE:- Friday, 20 February 2026 at 6:49:15 pm
+#EXTINF:-1 tvg-id="140138" tvg-name="West Indies Women Vs Sri Lanka Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg" tvg-language="english" group-title="Cricket",ENG | West Indies Women Vs Sri Lanka Women
+https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140138&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140661" tvg-name="England Lions Vs Pakistan Shaheens" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png" tvg-language="english" group-title="Cricket",ENG | England Lions Vs Pakistan Shaheens
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140661&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140660" tvg-name="Paarl Cc Vs Van Der Stel Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140660_5968_PRC_VDCC_FC-Web.jpg" tvg-language="english" group-title="Cricket",ENG | Paarl Cc Vs Van Der Stel Cricket Club
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140660&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139563" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg" tvg-language="english" group-title="Formula 1",ENG | Day 3
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=139563&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140212" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg" tvg-language="english" group-title="Tennis",ENG | World Feed
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140212&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140757" tvg-name="Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771348773886.jpg" tvg-language="english" group-title="Tennis",ENG | Center Court
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140757&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 # https://t.me/cricindia95
