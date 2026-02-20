@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090504587_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770358159193999_BLIGA_26_MD23_Mainz-vs-Hamburger-SV_landscape_thumb.jpg" group-title="Live",Mainz vs Hamburger SV - MD 23 - 21 Feb 2026 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771663436~acl=/*~id=68426265460956613623496724154445~hmac=9591d19f76eff616dd16929615a4c18909588ffad33b722b10af8f2cd43e7171
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771664645~acl=/*~id=31959919660046155279513429206698~hmac=d82959afc94d579925d6a6d30685ea214c5df0a20c45298f50ba4f616c526864
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,25 +177,19 @@ https://n8.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=c_9yK120-LSLDY-AlgKRtg&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 21 February 2026 at 2:00:07 am
-#EXTINF:-1 tvg-id="140138" tvg-name="Sri Lanka Women Vs West Indies Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg" tvg-language="english" group-title="Cricket",ENG | Sri Lanka Women Vs West Indies Women
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140138&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#DATE:- Saturday, 21 February 2026 at 3:00:09 am
 #EXTINF:-1 tvg-id="131075" tvg-name="Athletic Club Vs Elche Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131075_5427_ATH_ELC_FC-Web.png" tvg-language="english" group-title="Football",ENG | Athletic Club Vs Elche Cf
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=131075&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140122" tvg-name="Blackburn Rovers F.c. Vs Preston North End F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" tvg-language="english" group-title="Football",ENG | Blackburn Rovers F.c. Vs Preston North End F.c.
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140122&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140424" tvg-name="Ceuta Vs Granada" tvg-logo="https://images.fancode.com/aig/match/v1770347072513/140424_CASACARDS_APP.png" tvg-language="english" group-title="Football",ENG | Ceuta Vs Granada
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140424&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140757" tvg-name="Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771348773886.jpg" tvg-language="english" group-title="Tennis",ENG | Center Court
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140757&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140571" tvg-name="Featured Groups   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" tvg-language="english" group-title="Golf",ENG | Featured Groups   Day 2
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140571&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140570" tvg-name="Marquee Group   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" tvg-language="english" group-title="Golf",ENG | Marquee Group   Day 2
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140570&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140569" tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" tvg-language="english" group-title="Golf",ENG | Main Feed   Day 2
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140569&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140212" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-_1771246185234.jpg" tvg-language="english" group-title="Tennis",ENG | World Feed
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140212&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140299" tvg-name="Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png" tvg-language="english" group-title="Tennis",ENG | Center Court
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140299&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140760" tvg-name="Quadra 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png" tvg-language="english" group-title="Tennis",ENG | Quadra 1
@@ -204,6 +198,8 @@ https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS5
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140289&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140759" tvg-name="Quadra Guga Kuerten" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png" tvg-language="english" group-title="Tennis",ENG | Quadra Guga Kuerten
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140759&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140069" tvg-name="World Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" tvg-language="english" group-title="Golf",ENG | World Feed   Day 2
+https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140069&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
