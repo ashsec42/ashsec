@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090504604_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401562482586_DP_World_Tour_Magical_Kenya_Open_Day3_landscape_thumb.jpg" group-title="Live",Magical Kenya Open - Day 3 - 21 Feb 2026 [ENG] - DP World Tour - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771700337~acl=/*~id=32034862990274300302886737595162~hmac=09db05096a1cbe7cf180128a09da8c10d268f182b664311426e2314e183e734c
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,12 +172,12 @@ https://n6.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=YB0ZEAAQMJY-f2Ur8E_gJQ&exp
 https://n9.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=RwQR4Sj5DOEh-vL4RxWG5A&expires=1771660955
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-21 11:31:35 (BD Time)
+# Update on 2026-02-21 12:06:55 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 21 February 2026 at 12:21:19 pm
+#DATE:- Saturday, 21 February 2026 at 1:00:23 pm
 #EXTINF:-1 tvg-id="133947" tvg-name="Tasmania Vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web.jpg" tvg-language="english" group-title="Cricket",ENG | Tasmania Vs New South Wales
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=133947&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133948" tvg-name="Victoria Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Western-Australia-vs-Victoria_fc-web.jpg" tvg-language="english" group-title="Cricket",ENG | Victoria Vs Western Australia
@@ -183,8 +186,6 @@ https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS5
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140678&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139414" tvg-name="Sydney Fc Vs Brisbane Roar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139414_5802_SYD_BRB_1770723002209.png" tvg-language="english" group-title="Football",ENG | Sydney Fc Vs Brisbane Roar
 https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=139414&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140289" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png" tvg-language="english" group-title="Tennis",ENG | World Feed
-https://script.google.com/macros/s/AKfycbx1se8MAi7fH_MqojsukVfqqCEl-uUjHmeKh8FS53dUZI5wrNVQ0jZBRZMGID8Jdz3X4A/exec?id=140289&lang=english&e=.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
