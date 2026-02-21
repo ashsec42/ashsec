@@ -169,14 +169,12 @@ https://n4.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=SY3_39XNc4fUTNSVK9tjCA&exp
 https://n2.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=Y8gYGaFDSFO4GpGQGCDXOg&expires=1771681505
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-21 17:31:14 (BD Time)
+# Update on 2026-02-21 17:53:14 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 21 February 2026 at 5:21:17 pm
-#EXTINF:-1 tvg-id="133948" tvg-name="Victoria Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Western-Australia-vs-Victoria_fc-web.jpg" tvg-language="english" group-title="Cricket",ENG | Victoria Vs Western Australia
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=133948&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#DATE:- Saturday, 21 February 2026 at 6:28:10 pm
 #EXTINF:-1 tvg-id="140679" tvg-name="Van Der Stel Cricket Club Vs Vredenburg/saldanha Cc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140679_5968_VDCC_VDS_FC-Web.jpg" tvg-language="english" group-title="Cricket",ENG | Van Der Stel Cricket Club Vs Vredenburg/saldanha Cc
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140679&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140439" tvg-name="East Bengal Fc Vs Sporting Club Delhi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140439_5956_EBFC_SCD_fc-web_1771412947600.jpg" tvg-language="english" group-title="Football",ENG | East Bengal Fc Vs Sporting Club Delhi
@@ -189,6 +187,8 @@ https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140439&lang=malayalam|Us
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140439&lang=bengali|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140886" tvg-name="East Bengal Fc Vs Sporting Club Delhi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140439_5956_EBFC_SCD_fc-web_1771663314740.jpg" tvg-language="bengali" group-title="Football",BEN | East Bengal Fc Vs Sporting Club Delhi
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140886&lang=bengali|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140123" tvg-name="West Bromwich Albion F.c. Vs Coventry City Football Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" tvg-language="english" group-title="Football",ENG | West Bromwich Albion F.c. Vs Coventry City Football Club
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140123&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
