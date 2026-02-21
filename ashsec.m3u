@@ -174,9 +174,7 @@ https://n9.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=F4IgR11tHKWaCjSjSjvDGA&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 22 February 2026 at 2:14:31 am
-#EXTINF:-1 tvg-id="140699" tvg-name="Al Nassr Fc Vs Al Hazem Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140699_5655_ANF_HAZ_fc-web_1771482156495.jpg" tvg-language="english" group-title="Football",ENG | Al Nassr Fc Vs Al Hazem Fc
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140699&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#DATE:- Sunday, 22 February 2026 at 2:28:31 am
 #EXTINF:-1 tvg-id="140698" tvg-name="Al Hilal Sfc Vs Al Ittihad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140698_5655_AHS_ITT_fc-web.jpg" tvg-language="english" group-title="Football",ENG | Al Hilal Sfc Vs Al Ittihad
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140698&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140574" tvg-name="Featured Groups   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" tvg-language="english" group-title="Golf",ENG | Featured Groups   Day 3
@@ -195,6 +193,8 @@ https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140290&lang=english|User
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140300&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140890" tvg-name="Quadra 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png" tvg-language="english" group-title="Tennis",ENG | Quadra 1
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140890&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140699" tvg-name="Al Nassr Fc Vs Al Hazem Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140699_5655_ANF_HAZ_fc-web_1771482156495.jpg" tvg-language="english" group-title="Football",ENG | Al Nassr Fc Vs Al Hazem Fc
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140699&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
