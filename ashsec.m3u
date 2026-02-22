@@ -169,16 +169,12 @@ https://n14.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=fmlDnCRXkrU35SXggWNn7w&ex
 https://n3.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=l-_4y86Rjf8T90APf3UJrQ&expires=1771804051
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-23 03:33:02 (BD Time)
+# Update on 2026-02-23 03:55:12 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 23 February 2026 at 3:28:11 am
-#EXTINF:-1 tvg-id="131072" tvg-name="Villarreal Cf Vs Valencia Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131072_5427_VIL_VAL_FC-Web.png" tvg-language="english" group-title="Football",ENG | Villarreal Cf Vs Valencia Cf
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=131072&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140426" tvg-name="Málaga Vs Albacete" tvg-logo="https://images.fancode.com/aig/match/v1770347072514/140426_CASACARDS_APP.png" tvg-language="english" group-title="Football",ENG | Málaga Vs Albacete
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140426&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#DATE:- Monday, 23 February 2026 at 4:00:11 am
 #EXTINF:-1 tvg-id="140291" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png" tvg-language="english" group-title="Tennis",ENG | World Feed
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140291&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140762" tvg-name="Quadra Guga Kuerten" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png" tvg-language="english" group-title="Tennis",ENG | Quadra Guga Kuerten
@@ -193,6 +189,8 @@ https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140576&lang=english|User
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140071&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140301" tvg-name="Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png" tvg-language="english" group-title="Tennis",ENG | Center Court
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140301&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131072" tvg-name="Villarreal Cf Vs Valencia Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131072_5427_VIL_VAL_FC-Web.png" tvg-language="english" group-title="Football",ENG | Villarreal Cf Vs Valencia Cf
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=131072&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
