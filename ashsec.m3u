@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090504653_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015476/1771652994645249_UFC_Fight_Night_Strickland_vs_Hernandez_landscape_thumb.jpg" group-title="Live",UFC Fight Night - Strickland vs Hernandez - 22 Feb 2026 [ENG] - UFC Fight Night - Strickland vs Hernandez - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1771765750~acl=/*~id=38457220511498386507185420197704~hmac=205cb8402514109b6bad137c4f4d27ad1af4a1520a8ffa887c630c2d9546fd6d
+#EXTINF:-1 tvg-id="1090504653_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015476/1771652994645249_UFC_Fight_Night_Strickland_vs_Hernandez_landscape_thumb.jpg" group-title="Live",UFC Fight Night - Strickland vs Hernandez - 22 Feb 2026 [HIN] - UFC Fight Night - Strickland vs Hernandez - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1771765750~acl=/*~id=38457220511498386507185420197704~hmac=205cb8402514109b6bad137c4f4d27ad1af4a1520a8ffa887c630c2d9546fd6d
+#EXTINF:-1 tvg-id="1090504653_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015476/1771652994645249_UFC_Fight_Night_Strickland_vs_Hernandez_landscape_thumb.jpg" group-title="Live",UFC Fight Night - Strickland vs Hernandez - 22 Feb 2026 [TAM] - UFC Fight Night - Strickland vs Hernandez - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1771765750~acl=/*~id=38457220511498386507185420197704~hmac=205cb8402514109b6bad137c4f4d27ad1af4a1520a8ffa887c630c2d9546fd6d
+#EXTINF:-1 tvg-id="1090504653_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015476/1771652994645249_UFC_Fight_Night_Strickland_vs_Hernandez_landscape_thumb.jpg" group-title="Live",UFC Fight Night - Strickland vs Hernandez - 22 Feb 2026 [TEL] - UFC Fight Night - Strickland vs Hernandez - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1771765750~acl=/*~id=38457220511498386507185420197704~hmac=205cb8402514109b6bad137c4f4d27ad1af4a1520a8ffa887c630c2d9546fd6d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -169,24 +181,20 @@ https://n3.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=3VUJUtUrww3ixEK61wJROw&exp
 https://n7.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=4hBD-0JtRZnTceKtqhh01w&expires=1771724782
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-22 05:32:50 (BD Time)
+# Update on 2026-02-22 05:54:49 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 22 February 2026 at 5:28:25 am
+#DATE:- Sunday, 22 February 2026 at 8:21:16 am
 #EXTINF:-1 tvg-id="133982" tvg-name="Act Meteors Vs South Australian Scorpions" tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg" tvg-language="english" group-title="Cricket",ENG | Act Meteors Vs South Australian Scorpions
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=133982&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140761" tvg-name="Quadra Guga Kuerten" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png" tvg-language="english" group-title="Tennis",ENG | Quadra Guga Kuerten
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140761&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140070" tvg-name="World Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" tvg-language="english" group-title="Golf",ENG | World Feed   Day 3
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140070&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140290" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png" tvg-language="english" group-title="Tennis",ENG | World Feed
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140290&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140610" tvg-name="Diasqua Little Sai Wan Cricket Club Women Vs Hong Kong Cricket Club Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WPL_web_2.jpg" tvg-language="english" group-title="Cricket",ENG | Diasqua Little Sai Wan Cricket Club Women Vs Hong Kong Cricket Club Women
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140610&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140609" tvg-name="Lantau Cricket Club Women Vs Kowloon Cricket Club Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WPL_web.jpg" tvg-language="english" group-title="Cricket",ENG | Lantau Cricket Club Women Vs Kowloon Cricket Club Women
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140609&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140300" tvg-name="Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png" tvg-language="english" group-title="Tennis",ENG | Center Court
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140300&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140890" tvg-name="Quadra 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png" tvg-language="english" group-title="Tennis",ENG | Quadra 1
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140890&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
