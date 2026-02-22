@@ -1,7 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090504681_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770366458050999_BLIGA_26_MD23_Heidenheim-vs-VfB-Stuttgart_landscape_thumb.jpg" group-title="Live",Heidenheim vs VfB Stuttgart - MD 23 - 22 Feb 2026 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771827033~acl=/*~id=59584244444265258172759430425347~hmac=30f5bda6df85516ec1c4daf6d459c0bb82d0b2e1ffdbecc611e3f1ddb91493cb
 #EXTINF:-1 tvg-id="1090504680_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770363079049999_BLIGA_26_MD23_St-Pauli-vs-Werder-Bremen_landscape_thumb.jpg" group-title="Live",St. Pauli vs Werder Bremen - MD 23 - 22 Feb 2026 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771825213~acl=/*~id=44206975585522662898620873174477~hmac=e6b0596b40748674c44f76cf51ed82198a9332221d6dab0503404366529f69a9
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771827033~acl=/*~id=59584244444265258172759430425347~hmac=30f5bda6df85516ec1c4daf6d459c0bb82d0b2e1ffdbecc611e3f1ddb91493cb
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +175,12 @@ https://n4.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=ms0L6hjxnYQw1wJldq21ug&exp
 https://n8.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=JRPUVXCg1gvJVB7-HeirBQ&expires=1771788782
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-22 23:02:01 (BD Time)
+# Update on 2026-02-22 23:56:46 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 22 February 2026 at 11:28:12 pm
+#DATE:- Monday, 23 February 2026 at 12:07:12 am
 #EXTINF:-1 tvg-id="140139" tvg-name="Sri Lanka Women Vs West Indies Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg" tvg-language="english" group-title="Cricket",ENG | Sri Lanka Women Vs West Indies Women
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140139&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140683" tvg-name="Maties Cricket Club Vs Paarl East Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140683_5968_MAT_PECC_FC-Web.jpg" tvg-language="english" group-title="Cricket",ENG | Maties Cricket Club Vs Paarl East Cricket Club
