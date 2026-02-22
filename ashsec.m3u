@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090504681_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770366458050999_BLIGA_26_MD23_Heidenheim-vs-VfB-Stuttgart_landscape_thumb.jpg" group-title="Live",Heidenheim vs VfB Stuttgart - MD 23 - 22 Feb 2026 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771829458~acl=/*~id=63629978131837660824325756764030~hmac=7c9eaa2fd28be033ce94bfdeb5ec09df9f8d5884dedf8e1b08bd0bf0642d9d77
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771831878~acl=/*~id=51509223889748028660962521273426~hmac=0c8dc5c4478358037ac21878c6dcbf1c9f0f191b3950bd4a5bc3a3fcce97ec07
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,13 +177,11 @@ https://n6.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=jwIGh03bZVymIvbrvLzjZg&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 23 February 2026 at 12:42:25 am
+#DATE:- Monday, 23 February 2026 at 1:07:12 am
 #EXTINF:-1 tvg-id="140139" tvg-name="Sri Lanka Women Vs West Indies Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg" tvg-language="english" group-title="Cricket",ENG | Sri Lanka Women Vs West Indies Women
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140139&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140683" tvg-name="Maties Cricket Club Vs Paarl East Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140683_5968_MAT_PECC_FC-Web.jpg" tvg-language="english" group-title="Cricket",ENG | Maties Cricket Club Vs Paarl East Cricket Club
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140683&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131079" tvg-name="Rc Celta Vs Rcd Mallorca" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131079_5427_CEV_MRC_FC-Web.png" tvg-language="english" group-title="Football",ENG | Rc Celta Vs Rcd Mallorca
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=131079&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131072" tvg-name="Villarreal Cf Vs Valencia Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131072_5427_VIL_VAL_FC-Web.png" tvg-language="english" group-title="Football",ENG | Villarreal Cf Vs Valencia Cf
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=131072&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140291" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png" tvg-language="english" group-title="Tennis",ENG | World Feed
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140291&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140762" tvg-name="Quadra Guga Kuerten" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png" tvg-language="english" group-title="Tennis",ENG | Quadra Guga Kuerten
@@ -196,6 +194,8 @@ https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140577&lang=english|User
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140576&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140071" tvg-name="World Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" tvg-language="english" group-title="Golf",ENG | World Feed   Day 4
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140071&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131079" tvg-name="Rc Celta Vs Rcd Mallorca" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131079_5427_CEV_MRC_FC-Web.png" tvg-language="english" group-title="Football",ENG | Rc Celta Vs Rcd Mallorca
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=131079&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
