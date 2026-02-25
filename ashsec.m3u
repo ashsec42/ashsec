@@ -169,16 +169,18 @@ https://n14.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=orIy8_Pi1uY1HiyjOMkceA&ex
 https://n6.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=ql03RkaK3qXqyRWerVyLdw&expires=1771983099
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-02-25 05:04:10 (BD Time)
+# Update on 2026-02-25 06:00:27 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 25 February 2026 at 5:21:26 am
-#EXTINF:-1 tvg-id="140358" tvg-name="Court Jaime Fillol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png" tvg-language="english" group-title="Tennis",ENG | Court Jaime Fillol
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140358&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139173" tvg-name="New York Vs The Bay" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png" tvg-language="english" group-title="Golf",ENG | New York Vs The Bay
-https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=139173&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#DATE:- Wednesday, 25 February 2026 at 8:21:16 am
+#EXTINF:-1 tvg-id="140669" tvg-name="Japan Vs Thailand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140669_5970_TL_JPN_fc-web.jpg" tvg-language="english" group-title="Cricket",ENG | Japan Vs Thailand
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140669&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140384" tvg-name="Nashville Sc Vs Athletics Ottawa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140384_5954_NSH_ATO_FC-Web.jpg" tvg-language="english" group-title="Football",ENG | Nashville Sc Vs Athletics Ottawa
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140384&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140385" tvg-name="Los Angeles Football Club Vs Real España" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140385_5954_LAF_RE_FC-Web.jpg" tvg-language="english" group-title="Football",ENG | Los Angeles Football Club Vs Real España
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140385&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140352" tvg-name="Grandstand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" tvg-language="english" group-title="Tennis",ENG | Grandstand
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140352&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140835" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" tvg-language="english" group-title="Tennis",ENG | World Feed
@@ -187,6 +189,10 @@ https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140835&lang=english|User
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140834&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140833" tvg-name="Cancha 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" tvg-language="english" group-title="Tennis",ENG | Cancha 1
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140833&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140832" tvg-name="Cancha 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" tvg-language="english" group-title="Tennis",ENG | Cancha 2
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140832&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139174" tvg-name="Boston Vs New York" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png" tvg-language="english" group-title="Golf",ENG | Boston Vs New York
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=139174&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
