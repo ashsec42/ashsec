@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090505005_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015541/1771920520354652_NZw_vs_ZIMw_live_landscape_thumb.jpg" group-title="Live",1st T20I - 25 Feb 2026 [ENG] - Zimbabwe Women's Tour of New Zealand 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772046798~acl=/*~id=63820801493332297754913498406115~hmac=c5e8071ef6be7208a42a08803326e97ad8f3fb6635e047cb6cd7e5f4d3d92481
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772049222~acl=/*~id=75180523989931043326412833756001~hmac=79a13a88f68ae7e1766704d98c0928cd02447f38909d91773c747c25fe59a821
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,7 +177,7 @@ https://n4.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=EFPGd1rxyZCGVKY-oYqo2w&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 25 February 2026 at 1:28:11 pm
+#DATE:- Wednesday, 25 February 2026 at 2:28:11 pm
 #EXTINF:-1 tvg-id="140593" tvg-name="New Zealand Women Vs Zimbabwe Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_fc-web.jpg" tvg-language="english" group-title="Cricket",ENG | New Zealand Women Vs Zimbabwe Women
 https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=140593&lang=english|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140879" tvg-name="Hong Kong, China Vs Kuwait" tvg-logo="https://images.fancode.com/aig/match/v1771899776722/140879_CASACARDS_APP.png" tvg-language="english" group-title="Cricket",ENG | Hong Kong, China Vs Kuwait
