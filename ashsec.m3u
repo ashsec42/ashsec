@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090505337_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015688/1772277910909225_DP_World_Day4_landscape_thumb.jpg" group-title="Live",Investec South African Open Day 4 - 1 Mar 2026 [ENG] - DP World Tour - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772408310~acl=/*~id=76065943130145679458357404941245~hmac=bbd1afd2fa689a32153b442a429952a69888590b8063a0e46f59153477f0c906
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772410730~acl=/*~id=73367871391598920088626964762996~hmac=baa34dba16d591280ae80dd7cb524677d3c943b71d4f15dc8270ad482028a35f
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -172,12 +172,12 @@ https://n1.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=eZetVGwSlsoHr57xIofh1A&exp
 https://n4.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=3LllrhiK64gbCbhaOo6X4Q&expires=1772372555
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-01 17:25:30 (BD Time)
+# Update on 2026-03-01 17:51:37 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 1 March 2026 at 5:21:17 pm
+#DATE:- Sunday, 1 March 2026 at 6:14:20 pm
 #EXTINF:-1 tvg-id="140694" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png" tvg-language="english" group-title="Cricket - Maties Cricket Club Vs Paarl East Cricket Club",240p | ENG
 https://in-mc-flive.fancode.com/mumbai/140694_english_hls_5a3a9ee8c631732_1ta-di_h264/240p.m3u8?hdntl=Expires=1772451846~_GO=Generated~acl=/mumbai/140694_english_hls_5a3a9ee8c631732_1ta-di_h264/*~Signature=AR5gA-Hy6iQ0voo4c_r3UW_wVmy1f68i5HTmgH3PZGyxBCEKtqKcQ6GMI8IAmzzduyu7WMOHrmXc17e_nMwOrBCbgt4A|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140694" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png" tvg-language="english" group-title="Cricket - Maties Cricket Club Vs Paarl East Cricket Club",360p | ENG
@@ -274,6 +274,20 @@ https://in-mc-flive.fancode.com/mumbai/141089_tamil_hls_32315a4ebf28018_1ta-di_h
 https://in-mc-flive.fancode.com/mumbai/141089_tamil_hls_32315a4ebf28018_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772449935~_GO=Generated~acl=/mumbai/141089_tamil_hls_32315a4ebf28018_1ta-di_h264/*~Signature=AR5gA-EPZwdYhQufH6sXXF5XpmBuBN-QUO_7jyeHG0LjAxOO9Pmc14GeUOVCG98-gyTqfL0uSmBsexj5ZP1QgMDnsfUA|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141089" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140450_5956_ODS_CFC_fc-web-(1).jpg" tvg-language="tamil" group-title="Football - Odisha Fc Vs Chennaiyin Fc",1080p | TAM
 https://in-mc-flive.fancode.com/mumbai/141089_tamil_hls_32315a4ebf28018_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772449935~_GO=Generated~acl=/mumbai/141089_tamil_hls_32315a4ebf28018_1ta-di_h264/*~Signature=AR5gA-EPZwdYhQufH6sXXF5XpmBuBN-QUO_7jyeHG0LjAxOO9Pmc14GeUOVCG98-gyTqfL0uSmBsexj5ZP1QgMDnsfUA|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131086" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png" tvg-language="english" group-title="Football - Elche Cf Vs Rcd Espanyol",240p | ENG
+https://in-mc-flive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/240p.m3u8?hdntl=Expires=1772455025~_GO=Generated~acl=/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/*~Signature=AR5gA-FLTR7750NTjVRhNxKqia4NISwksxXK-V5A-ZMk9R-Ur2oUT8q2vhmj87LVdSVUlLNXDlqS8snAvli4KA5MNLIJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131086" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png" tvg-language="english" group-title="Football - Elche Cf Vs Rcd Espanyol",360p | ENG
+https://in-mc-flive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/360p.m3u8?hdntl=Expires=1772455025~_GO=Generated~acl=/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/*~Signature=AR5gA-FLTR7750NTjVRhNxKqia4NISwksxXK-V5A-ZMk9R-Ur2oUT8q2vhmj87LVdSVUlLNXDlqS8snAvli4KA5MNLIJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131086" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png" tvg-language="english" group-title="Football - Elche Cf Vs Rcd Espanyol",480p | ENG
+https://in-mc-flive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/480p.m3u8?hdntl=Expires=1772455025~_GO=Generated~acl=/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/*~Signature=AR5gA-FLTR7750NTjVRhNxKqia4NISwksxXK-V5A-ZMk9R-Ur2oUT8q2vhmj87LVdSVUlLNXDlqS8snAvli4KA5MNLIJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131086" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png" tvg-language="english" group-title="Football - Elche Cf Vs Rcd Espanyol",540p | ENG
+https://in-mc-flive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/540p.m3u8?hdntl=Expires=1772455025~_GO=Generated~acl=/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/*~Signature=AR5gA-FLTR7750NTjVRhNxKqia4NISwksxXK-V5A-ZMk9R-Ur2oUT8q2vhmj87LVdSVUlLNXDlqS8snAvli4KA5MNLIJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131086" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png" tvg-language="english" group-title="Football - Elche Cf Vs Rcd Espanyol",720p | ENG
+https://in-mc-flive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/720p.m3u8?hdntl=Expires=1772455025~_GO=Generated~acl=/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/*~Signature=AR5gA-FLTR7750NTjVRhNxKqia4NISwksxXK-V5A-ZMk9R-Ur2oUT8q2vhmj87LVdSVUlLNXDlqS8snAvli4KA5MNLIJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131086" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png" tvg-language="english" group-title="Football - Elche Cf Vs Rcd Espanyol",1080p | ENG
+https://in-mc-flive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772455025~_GO=Generated~acl=/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/*~Signature=AR5gA-FLTR7750NTjVRhNxKqia4NISwksxXK-V5A-ZMk9R-Ur2oUT8q2vhmj87LVdSVUlLNXDlqS8snAvli4KA5MNLIJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131086" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png" tvg-language="english" group-title="Football - Elche Cf Vs Rcd Espanyol",1080p | ENG
+https://in-mc-flive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772455025~_GO=Generated~acl=/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/*~Signature=AR5gA-FLTR7750NTjVRhNxKqia4NISwksxXK-V5A-ZMk9R-Ur2oUT8q2vhmj87LVdSVUlLNXDlqS8snAvli4KA5MNLIJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
