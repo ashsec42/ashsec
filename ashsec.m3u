@@ -1,7 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090505345_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015686/1772263685247596_BLIGA_26_MD24_VfB-Stuttgart-vs-VfL-Wolfsburg_landscape_thumb.jpg" group-title="Live",VfB Stuttgart vs VfL Wolfsburg - MD 24 - 1 Mar 2026 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772417998~acl=/*~id=76475487717403000918934399518534~hmac=ea4c4985a160b297fd15e377ec6fb8bdf991a7c9dd4a6693dc5da879af4fe0d9
 #EXTINF:-1 tvg-id="1090505337_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015688/1772277910909225_DP_World_Day4_landscape_thumb.jpg" group-title="Live",Investec South African Open Day 4 - 1 Mar 2026 [ENG] - DP World Tour - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772414363~acl=/*~id=29354405141196939599512175832507~hmac=29f951b1aba51b945bfd52cdf8076232434e1d3d1276f49aa7033a9973d38096
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772417998~acl=/*~id=76475487717403000918934399518534~hmac=ea4c4985a160b297fd15e377ec6fb8bdf991a7c9dd4a6693dc5da879af4fe0d9
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -177,7 +180,7 @@ https://n4.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=wnu7TPpPzgeUQiu1BRAq1A&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 1 March 2026 at 7:28:17 pm
+#DATE:- Sunday, 1 March 2026 at 8:00:15 pm
 #EXTINF:-1 tvg-id="140694" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png" tvg-language="english" group-title="Cricket - Maties Cricket Club Vs Paarl East Cricket Club",240p | ENG
 https://in-mc-flive.fancode.com/mumbai/140694_english_hls_5a3a9ee8c631732_1ta-di_h264/240p.m3u8?hdntl=Expires=1772451846~_GO=Generated~acl=/mumbai/140694_english_hls_5a3a9ee8c631732_1ta-di_h264/*~Signature=AR5gA-Hy6iQ0voo4c_r3UW_wVmy1f68i5HTmgH3PZGyxBCEKtqKcQ6GMI8IAmzzduyu7WMOHrmXc17e_nMwOrBCbgt4A|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140694" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png" tvg-language="english" group-title="Cricket - Maties Cricket Club Vs Paarl East Cricket Club",360p | ENG
