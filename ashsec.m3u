@@ -169,24 +169,12 @@ https://n6.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=5LhYR9FM0SWZPTRIpJeZag&exp
 https://n3.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=QMuTFtXvX8RY6N8Ck4t86Q&expires=1772415968
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-02 05:31:08 (BD Time)
+# Update on 2026-03-02 05:54:45 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
-#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 2 March 2026 at 5:21:14 am
-#EXTINF:-1 tvg-id="140363" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png" tvg-language="english" group-title="Tennis - Court Jaime Fillol",240p | ENG
-https://in-mc-flive.fancode.com/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/240p.m3u8?hdntl=Expires=1772489947~_GO=Generated~acl=/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/*~Signature=AR5gA-GMeHmEUfFBEK0T9v_69L1I0VzEvwbRbMmoY1nv879WgzKYB21F5e4X1_Es9ug24ys0ira53YP8lG5oVKRiquIB|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140363" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png" tvg-language="english" group-title="Tennis - Court Jaime Fillol",360p | ENG
-https://in-mc-flive.fancode.com/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/360p.m3u8?hdntl=Expires=1772489947~_GO=Generated~acl=/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/*~Signature=AR5gA-GMeHmEUfFBEK0T9v_69L1I0VzEvwbRbMmoY1nv879WgzKYB21F5e4X1_Es9ug24ys0ira53YP8lG5oVKRiquIB|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140363" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png" tvg-language="english" group-title="Tennis - Court Jaime Fillol",480p | ENG
-https://in-mc-flive.fancode.com/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/480p.m3u8?hdntl=Expires=1772489947~_GO=Generated~acl=/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/*~Signature=AR5gA-GMeHmEUfFBEK0T9v_69L1I0VzEvwbRbMmoY1nv879WgzKYB21F5e4X1_Es9ug24ys0ira53YP8lG5oVKRiquIB|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140363" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png" tvg-language="english" group-title="Tennis - Court Jaime Fillol",540p | ENG
-https://in-mc-flive.fancode.com/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/540p.m3u8?hdntl=Expires=1772489947~_GO=Generated~acl=/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/*~Signature=AR5gA-GMeHmEUfFBEK0T9v_69L1I0VzEvwbRbMmoY1nv879WgzKYB21F5e4X1_Es9ug24ys0ira53YP8lG5oVKRiquIB|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140363" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png" tvg-language="english" group-title="Tennis - Court Jaime Fillol",720p | ENG
-https://in-mc-flive.fancode.com/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/720p.m3u8?hdntl=Expires=1772489947~_GO=Generated~acl=/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/*~Signature=AR5gA-GMeHmEUfFBEK0T9v_69L1I0VzEvwbRbMmoY1nv879WgzKYB21F5e4X1_Es9ug24ys0ira53YP8lG5oVKRiquIB|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140363" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png" tvg-language="english" group-title="Tennis - Court Jaime Fillol",1080p | ENG
-https://in-mc-flive.fancode.com/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772489947~_GO=Generated~acl=/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/*~Signature=AR5gA-GMeHmEUfFBEK0T9v_69L1I0VzEvwbRbMmoY1nv879WgzKYB21F5e4X1_Es9ug24ys0ira53YP8lG5oVKRiquIB|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+# NO LIVE MATCHES AT THE MOMENT
+# Last Checked: Monday, 2 March 2026 at 6:42:14 am
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
