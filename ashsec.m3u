@@ -1,180 +1,183 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090505518_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768136250489648_bliga26_MD17_Hamburg_SV_vs_Leverkusen_11jan_landscape_thumb.jpg" group-title="Live",Hamburger SV vs Bayer Leverkusen - MD 17 - 5 Mar 2026 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772693779~acl=/*~id=01492145516515999078144505486867~hmac=9f8c72f59039a60404862128619bc1280bb12efc5f2592c5da669abb400b971b
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n2.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=radN81-S4gh5cJ2H8IrmzA&expires=1772653103
+https://n6.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=lceWLzVhUfu5MTxvsvz5xQ&expires=1772657493
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="CricHD 1",Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n9.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=cOZYsD4DJ6TciF55CAllVQ&expires=1772653103
+https://n8.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=ir4qIFmlRgD4-p8L9i2CwA&expires=1772657493
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="CricHD 1",PTV Sports
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n5.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=_c7bIsrmmDljvzQ9D8ZRmg&expires=1772653103
+https://n8.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=mF5kRRdghJalqzdoj4Q_Iw&expires=1772657493
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="CricHD 1",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n1.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=5EveWB-9i7ptudPX_58kUA&expires=1772653103
+https://n6.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=TcnGUHUbGxZBGg2yM9rXhQ&expires=1772657493
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="CricHD 1",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n4.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=E7E9WDy0VmDWtxyEaem8LQ&expires=1772653103
+https://n3.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=F-PFDzn7iNMbhE_GYFOsRg&expires=1772657494
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" group-title="CricHD 1",Ten Sports
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n1.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=1Yd8D9J6X37HgFGA0y5NJw&expires=1772653103
+https://n4.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=RkL9xemoDB-fwNHbYVN_QQ&expires=1772657494
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="CricHD 1",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n7.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=g1Wg_3f7lNrwtjB7qaKnmg&expires=1772653103
+https://n8.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=E59SspFRRzuGp7d1hZBHJw&expires=1772657494
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="CricHD 1",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n7.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=BxcabfJbCcFsRf7pptASpw&expires=1772653103
+https://n4.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=WefxVSg8F0Z72ziZ-wFosg&expires=1772657494
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" group-title="CricHD 1",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n7.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=L3J-4oA51dpK0S9oSD9uUA&expires=1772653103
+https://n4.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=8GS5iQhlPNHVOVYfroaQJA&expires=1772657494
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="CricHD 1",TNT 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n5.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=8g5EB6AtEGj6oCaGLBlz6A&expires=1772653104
+https://n14.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=Xj3yc85psfPAyjvACLYiGw&expires=1772657494
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="CricHD 1",TNT 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n7.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=Q-bHMbngzg22Mrp7BTgpmg&expires=1772653104
+https://n2.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=4fkmX4hH1A0ZLfwaKV8N0g&expires=1772657494
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="CricHD 1",TNT 3
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n8.sanwalyaarpya.com:1686/hls/bbtsp3.m3u8?md5=cRFn8lZ_tETbCbF3Ed8sgA&expires=1772653104
+https://n7.sanwalyaarpya.com:1686/hls/bbtsp3.m3u8?md5=n8hnf_nWgLneP9BxSPkB7g&expires=1772657495
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="CricHD 1",TNT 4
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n3.sanwalyaarpya.com:1686/hls/bbtespn.m3u8?md5=DT1FbbyIX8ESsMovHJJ_Qw&expires=1772653104
+https://n5.sanwalyaarpya.com:1686/hls/bbtespn.m3u8?md5=WBrUWrF9mxEtZABeu5WbHQ&expires=1772657495
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n2.sanwalyaarpya.com:1686/hls/sky1nz.m3u8?md5=FLyw7Sl18WhGMowW4v9Wcw&expires=1772653104
+https://n6.sanwalyaarpya.com:1686/hls/sky1nz.m3u8?md5=pZw3voqGsF0hQuSUwExZZw&expires=1772657495
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n6.sanwalyaarpya.com:1686/hls/sky2nz.m3u8?md5=z_plk_ET7JpYxrJocD39IQ&expires=1772653104
+https://n6.sanwalyaarpya.com:1686/hls/sky2nz.m3u8?md5=ecK-U9p3lp-krFCT3-e5iQ&expires=1772657495
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 3
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n9.sanwalyaarpya.com:1686/hls/sky3nz.m3u8?md5=mZYC4lCwXEIA4TyH8_eoww&expires=1772653104
+https://n6.sanwalyaarpya.com:1686/hls/sky3nz.m3u8?md5=LoJl6IF9KRNFnbo1m4vMDA&expires=1772657495
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 4
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n9.sanwalyaarpya.com:1686/hls/sky4nz.m3u8?md5=fpLaNABwUBHcw38cuqKsvw&expires=1772653104
+https://n6.sanwalyaarpya.com:1686/hls/sky4nz.m3u8?md5=AVByDDYx1LlSZNIHgw0vAQ&expires=1772657495
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 5
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n4.sanwalyaarpya.com:1686/hls/sky5nz.m3u8?md5=0-EzrxGorjS-tpqwV4-gyA&expires=1772653104
+https://n2.sanwalyaarpya.com:1686/hls/sky5nz.m3u8?md5=_PPLgo9E9HDX4r-WNUIkLA&expires=1772657495
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport 6 Nz
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n9.sanwalyaarpya.com:1686/hls/sky6nz.m3u8?md5=VaGTAqzryx0Cnhm1EwY38w&expires=1772653104
+https://n4.sanwalyaarpya.com:1686/hls/sky6nz.m3u8?md5=UNBnMEwgJqM66oRhghGZdg&expires=1772657495
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 7
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n14.sanwalyaarpya.com:1686/hls/sky7nz.m3u8?md5=TVMySgFIROIFczX5R3l_3A&expires=1772653104
+https://n8.sanwalyaarpya.com:1686/hls/sky7nz.m3u8?md5=ThAm0iSBYecfvlzMKI9ikA&expires=1772657496
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 8
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n14.sanwalyaarpya.com:1686/hls/sky8nz.m3u8?md5=XKL6S1oPdURhL8wuvWGOcQ&expires=1772653105
+https://n1.sanwalyaarpya.com:1686/hls/sky8nz.m3u8?md5=juGPuyEQ8vd83LeFBBFZew&expires=1772657496
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 9
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n3.sanwalyaarpya.com:1686/hls/sky9nz.m3u8?md5=x13DVUxN6qWKhhLk08SlCg&expires=1772653105
+https://n5.sanwalyaarpya.com:1686/hls/sky9nz.m3u8?md5=6fVJCSL5pZcPtg4vuvVVGw&expires=1772657496
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="CricHD 1",Sky Cinema
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n14.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=5L7nJuaqwL7_Sa8dsC3dGw&expires=1772653105
+https://n14.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=Q6Tj3jSft9oZF-RkrIWfBw&expires=1772657496
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png" group-title="CricHD 1",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n3.sanwalyaarpya.com:1686/hls/skysact.m3u8?md5=nrOlGRyfnTeHeDGYrQpqAg&expires=1772653105
+https://n2.sanwalyaarpya.com:1686/hls/skysact.m3u8?md5=b6MC8qUB_XW-I6ZGMYB5tQ&expires=1772657496
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png" group-title="CricHD 1",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n6.sanwalyaarpya.com:1686/hls/skysgol.m3u8?md5=2lAQepxGAEbIJCirxduIMg&expires=1772653105
+https://n4.sanwalyaarpya.com:1686/hls/skysgol.m3u8?md5=IJE7JQUQl95YKm6CJhqqGQ&expires=1772657496
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="CricHD 1",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n4.sanwalyaarpya.com:1686/hls/skysprem.m3u8?md5=SNp-PrKj186FIQ62RHrhUA&expires=1772653105
+https://n7.sanwalyaarpya.com:1686/hls/skysprem.m3u8?md5=ZEqiuz5LMmd-Cp6cja7NSQ&expires=1772657496
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="CricHD 1",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n5.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=JoUV_iR_dZmOmK1gDLNOpA&expires=1772653105
+https://n9.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=e4URj6ctyL6C2chcwtLMjQ&expires=1772657496
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" group-title="CricHD 1",Sky Sports Plus
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n14.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=SajyqavoPIrb7gx89j27dg&expires=1772653105
+https://n5.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=oF8FIymLJ4b3yEHpzGFYUw&expires=1772657497
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" group-title="CricHD 1",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n7.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=_SiuFTK4LltWth6iPZWW4g&expires=1772653105
+https://n8.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=H5shgYgUG-J8KUvvtBpmJg&expires=1772657497
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" group-title="CricHD 1",LaLiGA
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n2.sanwalyaarpya.com:1686/hls/laligauk.m3u8?md5=gDgDSgEZ5NC-u1DczpoDGw&expires=1772653105
+https://n7.sanwalyaarpya.com:1686/hls/laligauk.m3u8?md5=SaEWVEntEs9qLXbeNEmV3Q&expires=1772657497
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="CricHD 1",Premier Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n6.sanwalyaarpya.com:1686/hls/premieruk.m3u8?md5=z7Ur9eFOYqggjzHHFzzPhQ&expires=1772653105
+https://n3.sanwalyaarpya.com:1686/hls/premieruk.m3u8?md5=-yui-m0ozhedzBNebHC-Kg&expires=1772657497
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="CricHD 1",Premier Sports 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n7.sanwalyaarpya.com:1686/hls/hdchnl2.m3u8?md5=GuothBKG9FkPeoXDyzcqHQ&expires=1772653105
+https://n3.sanwalyaarpya.com:1686/hls/hdchnl2.m3u8?md5=SlJO0Y9qOQKtTqQylkXoPw&expires=1772657497
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="CricHD 1",Super Football
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n14.sanwalyaarpya.com:1686/hls/superfotball.m3u8?md5=V4IYzYpY4VpVkwIUKX9csg&expires=1772653105
+https://n7.sanwalyaarpya.com:1686/hls/superfotball.m3u8?md5=G9r58uxQ4mN3lunKXOaPsg&expires=1772657497
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="CricHD 1",Super Premier League
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n3.sanwalyaarpya.com:1686/hls/superpremier.m3u8?md5=XaJofMOwFIn_lbP4TTQvOw&expires=1772653106
+https://n14.sanwalyaarpya.com:1686/hls/superpremier.m3u8?md5=OP8KvIsueVZ-aLzN7H1Efg&expires=1772657497
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png" group-title="CricHD 1",Astro Cricket
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n14.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=VQy5kDRC2KnpMjO4Ycmidw&expires=1772653106
+https://n9.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=3w9xP23QBCfy3IvHE_T_nQ&expires=1772657497
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="CricHD 1",ESPN 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n9.sanwalyaarpya.com:1686/hls/espnusa.m3u8?md5=yD1jTAeJfETkiYqA5WuBXg&expires=1772653106
+https://n9.sanwalyaarpya.com:1686/hls/espnusa.m3u8?md5=97OIPBk3MDtzOdhfBO0U8w&expires=1772657498
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="CricHD 1",ESPN 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n8.sanwalyaarpya.com:1686/hls/espn2.m3u8?md5=pKszdUOXsuCMHjH9lRxwYg&expires=1772653106
+https://n14.sanwalyaarpya.com:1686/hls/espn2.m3u8?md5=6duIqT8_B9ja8MPrWh3gDA&expires=1772657498
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png" group-title="CricHD 1",Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n7.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=OJuhY6AO3F8xmDs7H4zdEA&expires=1772653106
+https://n1.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=TkMhQIveyzuipuKml21vIA&expires=1772657498
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png" group-title="CricHD 1",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n4.sanwalyaarpya.com:1686/hls/skysmixx.m3u8?md5=HJn6IWbmv_-qnzYDVUq2Ug&expires=1772653106
+https://n8.sanwalyaarpya.com:1686/hls/skysmixx.m3u8?md5=if3ID0xzVktWE6zHaZaRnQ&expires=1772657498
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png" group-title="CricHD 1",Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n7.sanwalyaarpya.com:1686/hls/skystennis.m3u8?md5=rKjjhUeC1eqiGxa0XqnVnA&expires=1772653106
+https://n4.sanwalyaarpya.com:1686/hls/skystennis.m3u8?md5=a_6A3gsnKv1d6TtfxhUuHg&expires=1772657498
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png" group-title="CricHD 1",Fox Cricket 501 HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n6.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=VQy5kDRC2KnpMjO4Ycmidw&expires=1772653106
+https://n1.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=s532hVItDVTsGs9i1Eqauw&expires=1772657498
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" group-title="CricHD 1",Sony Sports3
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n1.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=tgWCyHby447H6wPdQSq5yg&expires=1772653106
+https://n8.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=EVkQsafTUgEmmabB3ZGgCw&expires=1772657498
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-04 23:24:13 (BD Time)
+# Update on 2026-03-05 00:07:51 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 5 March 2026 at 12:21:30 am
+#DATE:- Thursday, 5 March 2026 at 1:07:14 am
 #EXTINF:-1 tvg-id="131055" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131055_5427_RVL_RO_FC-Web.png" tvg-language="english" group-title="Football - Rayo Vallecano Vs Real Oviedo",240p | ENG
 https://in-mc-flive.fancode.com/mumbai/131055_english_hls_8a223ba61290067_1ta-di_h264/240p.m3u8?hdntl=Expires=1772731807~_GO=Generated~acl=/mumbai/131055_english_hls_8a223ba61290067_1ta-di_h264/*~Signature=AR5gA-Gj5ISojFNDNLbB--HMyI5HYAwNPUHF68dcFJ-GkIu2F2dkYCX8_c2tUPBZuJBYbv4bV9HnmDtAqvwC4XsQRYgJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="131055" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131055_5427_RVL_RO_FC-Web.png" tvg-language="english" group-title="Football - Rayo Vallecano Vs Real Oviedo",360p | ENG
@@ -189,6 +192,30 @@ https://in-mc-flive.fancode.com/mumbai/131055_english_hls_8a223ba61290067_1ta-di
 https://in-mc-flive.fancode.com/mumbai/131055_english_hls_8a223ba61290067_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772731807~_GO=Generated~acl=/mumbai/131055_english_hls_8a223ba61290067_1ta-di_h264/*~Signature=AR5gA-Gj5ISojFNDNLbB--HMyI5HYAwNPUHF68dcFJ-GkIu2F2dkYCX8_c2tUPBZuJBYbv4bV9HnmDtAqvwC4XsQRYgJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="131055" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131055_5427_RVL_RO_FC-Web.png" tvg-language="english" group-title="Football - Rayo Vallecano Vs Real Oviedo",1080p | ENG
 https://in-mc-flive.fancode.com/mumbai/131055_english_hls_8a223ba61290067_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772731807~_GO=Generated~acl=/mumbai/131055_english_hls_8a223ba61290067_1ta-di_h264/*~Signature=AR5gA-Gj5ISojFNDNLbB--HMyI5HYAwNPUHF68dcFJ-GkIu2F2dkYCX8_c2tUPBZuJBYbv4bV9HnmDtAqvwC4XsQRYgJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140524" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140524_5806_RS_ATH_FC-Web.jpg" tvg-language="english" group-title="Football - Real Sociedad Vs Athletic Club",240p | ENG
+https://in-mc-flive.fancode.com/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/240p.m3u8?hdntl=Expires=1772738770~_GO=Generated~acl=/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/*~Signature=AR5gA-GsPBgMiGWBf1AOmH29x__jX9aSEXCfkix3_IZB_GMbU1jS4lQ-7EWTMkZ-lvV3pMCALeT8u6Zr84t55gEOSPEG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140524" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140524_5806_RS_ATH_FC-Web.jpg" tvg-language="english" group-title="Football - Real Sociedad Vs Athletic Club",360p | ENG
+https://in-mc-flive.fancode.com/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/360p.m3u8?hdntl=Expires=1772738770~_GO=Generated~acl=/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/*~Signature=AR5gA-GsPBgMiGWBf1AOmH29x__jX9aSEXCfkix3_IZB_GMbU1jS4lQ-7EWTMkZ-lvV3pMCALeT8u6Zr84t55gEOSPEG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140524" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140524_5806_RS_ATH_FC-Web.jpg" tvg-language="english" group-title="Football - Real Sociedad Vs Athletic Club",480p | ENG
+https://in-mc-flive.fancode.com/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/480p.m3u8?hdntl=Expires=1772738770~_GO=Generated~acl=/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/*~Signature=AR5gA-GsPBgMiGWBf1AOmH29x__jX9aSEXCfkix3_IZB_GMbU1jS4lQ-7EWTMkZ-lvV3pMCALeT8u6Zr84t55gEOSPEG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140524" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140524_5806_RS_ATH_FC-Web.jpg" tvg-language="english" group-title="Football - Real Sociedad Vs Athletic Club",540p | ENG
+https://in-mc-flive.fancode.com/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/540p.m3u8?hdntl=Expires=1772738770~_GO=Generated~acl=/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/*~Signature=AR5gA-GsPBgMiGWBf1AOmH29x__jX9aSEXCfkix3_IZB_GMbU1jS4lQ-7EWTMkZ-lvV3pMCALeT8u6Zr84t55gEOSPEG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140524" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140524_5806_RS_ATH_FC-Web.jpg" tvg-language="english" group-title="Football - Real Sociedad Vs Athletic Club",720p | ENG
+https://in-mc-flive.fancode.com/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/720p.m3u8?hdntl=Expires=1772738770~_GO=Generated~acl=/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/*~Signature=AR5gA-GsPBgMiGWBf1AOmH29x__jX9aSEXCfkix3_IZB_GMbU1jS4lQ-7EWTMkZ-lvV3pMCALeT8u6Zr84t55gEOSPEG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140524" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140524_5806_RS_ATH_FC-Web.jpg" tvg-language="english" group-title="Football - Real Sociedad Vs Athletic Club",1080p | ENG
+https://in-mc-flive.fancode.com/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772738770~_GO=Generated~acl=/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/*~Signature=AR5gA-GsPBgMiGWBf1AOmH29x__jX9aSEXCfkix3_IZB_GMbU1jS4lQ-7EWTMkZ-lvV3pMCALeT8u6Zr84t55gEOSPEG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140876" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png" tvg-language="english" group-title="Football - Luton Town Vs Northampton Town Fc",240p | ENG
+https://in-mc-plive.fancode.com/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/240p.m3u8?hdntl=Expires=1772738347~_GO=Generated~acl=/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/*~Signature=AR5gA-FL-mVtfwe-UeoTdej8WjTL7avspq6VMZCqlG29Nw_iUcvMMyTe9MkdIGX_XhCEWd_296b20yloR94FJPznY9YA|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140876" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png" tvg-language="english" group-title="Football - Luton Town Vs Northampton Town Fc",360p | ENG
+https://in-mc-plive.fancode.com/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/360p.m3u8?hdntl=Expires=1772738347~_GO=Generated~acl=/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/*~Signature=AR5gA-FL-mVtfwe-UeoTdej8WjTL7avspq6VMZCqlG29Nw_iUcvMMyTe9MkdIGX_XhCEWd_296b20yloR94FJPznY9YA|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140876" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png" tvg-language="english" group-title="Football - Luton Town Vs Northampton Town Fc",480p | ENG
+https://in-mc-plive.fancode.com/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/480p.m3u8?hdntl=Expires=1772738347~_GO=Generated~acl=/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/*~Signature=AR5gA-FL-mVtfwe-UeoTdej8WjTL7avspq6VMZCqlG29Nw_iUcvMMyTe9MkdIGX_XhCEWd_296b20yloR94FJPznY9YA|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140876" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png" tvg-language="english" group-title="Football - Luton Town Vs Northampton Town Fc",540p | ENG
+https://in-mc-plive.fancode.com/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/540p.m3u8?hdntl=Expires=1772738347~_GO=Generated~acl=/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/*~Signature=AR5gA-FL-mVtfwe-UeoTdej8WjTL7avspq6VMZCqlG29Nw_iUcvMMyTe9MkdIGX_XhCEWd_296b20yloR94FJPznY9YA|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140876" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png" tvg-language="english" group-title="Football - Luton Town Vs Northampton Town Fc",720p | ENG
+https://in-mc-plive.fancode.com/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/720p.m3u8?hdntl=Expires=1772738347~_GO=Generated~acl=/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/*~Signature=AR5gA-FL-mVtfwe-UeoTdej8WjTL7avspq6VMZCqlG29Nw_iUcvMMyTe9MkdIGX_XhCEWd_296b20yloR94FJPznY9YA|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140876" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png" tvg-language="english" group-title="Football - Luton Town Vs Northampton Town Fc",1080p | ENG
+https://in-mc-plive.fancode.com/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772738347~_GO=Generated~acl=/mumbai/140876_english_hls_fbb6491fbd83755_1ta-di_h264/*~Signature=AR5gA-FL-mVtfwe-UeoTdej8WjTL7avspq6VMZCqlG29Nw_iUcvMMyTe9MkdIGX_XhCEWd_296b20yloR94FJPznY9YA|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141006" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - B Court Feed",240p | ENG
 https://in-mc-flive.fancode.com/mumbai/141006_english_hls_6bf703572476628_1ta-di_h264/240p.m3u8?hdntl=Expires=1772736667~_GO=Generated~acl=/mumbai/141006_english_hls_6bf703572476628_1ta-di_h264/*~Signature=AR5gA-HLc7dkB3SZf3sE_I0rRGMOtgaMN30LbfJON07YdYo0MIHI0ZUzGM75uLb6TId4F3BC_d0aaGWizK0KZA1KGK0L|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141006" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - B Court Feed",360p | ENG
@@ -226,53 +253,53 @@ https://in-mc-flive.fancode.com/mumbai/141004_english_hls_30fd12082358848_1ta-di
 #EXTINF:-1 tvg-id="141004" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - World Feed",1080p | ENG
 https://in-mc-flive.fancode.com/mumbai/141004_english_hls_30fd12082358848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772736671~_GO=Generated~acl=/mumbai/141004_english_hls_30fd12082358848_1ta-di_h264/*~Signature=AR5gA-GW-OzAheQhFOWZVrtAHP_9463tXY5MKYBlbxzACGjzKJDbyfZkg-1QUpsDYuLRUlQKE3utA1-Uw_djlu_rb58L|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141231" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - G Court Feed",240p | ENG
-https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/240p.m3u8?hdntl=Expires=1772650604~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-HI37a2sVpjv0Wc92GAcKCr-HNVPkZbsuTEygy2uEzylitM_hLwNSVxDeISsQBptlSSrKLYUYb6lM2Fpaf2B5kK|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/240p.m3u8?hdntl=Expires=1772737087~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-GpwMxqiK3hayowMe3IReH_Q-SxePjhe-wPMQCUF0e70prZfjODLh4L4dsDHwOA145K5vmvEbnwRUf21REv0JII|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141231" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - G Court Feed",360p | ENG
-https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/360p.m3u8?hdntl=Expires=1772650604~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-HI37a2sVpjv0Wc92GAcKCr-HNVPkZbsuTEygy2uEzylitM_hLwNSVxDeISsQBptlSSrKLYUYb6lM2Fpaf2B5kK|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/360p.m3u8?hdntl=Expires=1772737087~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-GpwMxqiK3hayowMe3IReH_Q-SxePjhe-wPMQCUF0e70prZfjODLh4L4dsDHwOA145K5vmvEbnwRUf21REv0JII|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141231" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - G Court Feed",480p | ENG
-https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/480p.m3u8?hdntl=Expires=1772650604~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-HI37a2sVpjv0Wc92GAcKCr-HNVPkZbsuTEygy2uEzylitM_hLwNSVxDeISsQBptlSSrKLYUYb6lM2Fpaf2B5kK|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/480p.m3u8?hdntl=Expires=1772737087~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-GpwMxqiK3hayowMe3IReH_Q-SxePjhe-wPMQCUF0e70prZfjODLh4L4dsDHwOA145K5vmvEbnwRUf21REv0JII|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141231" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - G Court Feed",540p | ENG
-https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/540p.m3u8?hdntl=Expires=1772650604~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-HI37a2sVpjv0Wc92GAcKCr-HNVPkZbsuTEygy2uEzylitM_hLwNSVxDeISsQBptlSSrKLYUYb6lM2Fpaf2B5kK|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/540p.m3u8?hdntl=Expires=1772737087~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-GpwMxqiK3hayowMe3IReH_Q-SxePjhe-wPMQCUF0e70prZfjODLh4L4dsDHwOA145K5vmvEbnwRUf21REv0JII|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141231" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - G Court Feed",720p | ENG
-https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/720p.m3u8?hdntl=Expires=1772650604~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-HI37a2sVpjv0Wc92GAcKCr-HNVPkZbsuTEygy2uEzylitM_hLwNSVxDeISsQBptlSSrKLYUYb6lM2Fpaf2B5kK|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/720p.m3u8?hdntl=Expires=1772737087~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-GpwMxqiK3hayowMe3IReH_Q-SxePjhe-wPMQCUF0e70prZfjODLh4L4dsDHwOA145K5vmvEbnwRUf21REv0JII|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141231" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - G Court Feed",1080p | ENG
-https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772650604~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-HI37a2sVpjv0Wc92GAcKCr-HNVPkZbsuTEygy2uEzylitM_hLwNSVxDeISsQBptlSSrKLYUYb6lM2Fpaf2B5kK|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772737087~_GO=Generated~acl=/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/*~Signature=AR5gA-GpwMxqiK3hayowMe3IReH_Q-SxePjhe-wPMQCUF0e70prZfjODLh4L4dsDHwOA145K5vmvEbnwRUf21REv0JII|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141230" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - E Court Feed",240p | ENG
-https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/240p.m3u8?hdntl=Expires=1772650607~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-HkQKxvxEyjaSg3DyeXj1qeoXGvFQrzKZFvQt8spEAObF2FbrzBdsnU5CdKiLV4C_eMgXfc8pQaNyt1Y68kR1kH|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/240p.m3u8?hdntl=Expires=1772737089~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-G9HHHp_yT0SsFOXA7PQIFxEKnP8jwybGQxIACKFXC3x0XYl3b4WZ-QSt9ORm1-0BHsHI4fsnN7Fq_PHJ2JBw8N|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141230" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - E Court Feed",360p | ENG
-https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/360p.m3u8?hdntl=Expires=1772650607~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-HkQKxvxEyjaSg3DyeXj1qeoXGvFQrzKZFvQt8spEAObF2FbrzBdsnU5CdKiLV4C_eMgXfc8pQaNyt1Y68kR1kH|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/360p.m3u8?hdntl=Expires=1772737089~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-G9HHHp_yT0SsFOXA7PQIFxEKnP8jwybGQxIACKFXC3x0XYl3b4WZ-QSt9ORm1-0BHsHI4fsnN7Fq_PHJ2JBw8N|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141230" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - E Court Feed",480p | ENG
-https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/480p.m3u8?hdntl=Expires=1772650607~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-HkQKxvxEyjaSg3DyeXj1qeoXGvFQrzKZFvQt8spEAObF2FbrzBdsnU5CdKiLV4C_eMgXfc8pQaNyt1Y68kR1kH|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/480p.m3u8?hdntl=Expires=1772737089~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-G9HHHp_yT0SsFOXA7PQIFxEKnP8jwybGQxIACKFXC3x0XYl3b4WZ-QSt9ORm1-0BHsHI4fsnN7Fq_PHJ2JBw8N|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141230" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - E Court Feed",540p | ENG
-https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/540p.m3u8?hdntl=Expires=1772650607~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-HkQKxvxEyjaSg3DyeXj1qeoXGvFQrzKZFvQt8spEAObF2FbrzBdsnU5CdKiLV4C_eMgXfc8pQaNyt1Y68kR1kH|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/540p.m3u8?hdntl=Expires=1772737089~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-G9HHHp_yT0SsFOXA7PQIFxEKnP8jwybGQxIACKFXC3x0XYl3b4WZ-QSt9ORm1-0BHsHI4fsnN7Fq_PHJ2JBw8N|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141230" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - E Court Feed",720p | ENG
-https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/720p.m3u8?hdntl=Expires=1772650607~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-HkQKxvxEyjaSg3DyeXj1qeoXGvFQrzKZFvQt8spEAObF2FbrzBdsnU5CdKiLV4C_eMgXfc8pQaNyt1Y68kR1kH|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/720p.m3u8?hdntl=Expires=1772737089~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-G9HHHp_yT0SsFOXA7PQIFxEKnP8jwybGQxIACKFXC3x0XYl3b4WZ-QSt9ORm1-0BHsHI4fsnN7Fq_PHJ2JBw8N|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141230" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - E Court Feed",1080p | ENG
-https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772650607~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-HkQKxvxEyjaSg3DyeXj1qeoXGvFQrzKZFvQt8spEAObF2FbrzBdsnU5CdKiLV4C_eMgXfc8pQaNyt1Y68kR1kH|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772737089~_GO=Generated~acl=/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/*~Signature=AR5gA-G9HHHp_yT0SsFOXA7PQIFxEKnP8jwybGQxIACKFXC3x0XYl3b4WZ-QSt9ORm1-0BHsHI4fsnN7Fq_PHJ2JBw8N|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141229" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - D Court Feed",240p | ENG
-https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/240p.m3u8?hdntl=Expires=1772650610~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-EMFmthXheTr2SyHjCvLY8ict4lG-uhQ6tWLvHHQdhj-yhI-hCZvZFG1ya5wboS5T9C-9eUnYxsV64CND4d0UEF|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/240p.m3u8?hdntl=Expires=1772737091~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-HmhEb9-26-mqhNngAbD_nmJndqLv_BSybPEKPc7NWeMDfFQFetiYrKNZvTlhXc2h7OZn00pzXUSsoVxQt4JokG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141229" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - D Court Feed",360p | ENG
-https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/360p.m3u8?hdntl=Expires=1772650610~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-EMFmthXheTr2SyHjCvLY8ict4lG-uhQ6tWLvHHQdhj-yhI-hCZvZFG1ya5wboS5T9C-9eUnYxsV64CND4d0UEF|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/360p.m3u8?hdntl=Expires=1772737091~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-HmhEb9-26-mqhNngAbD_nmJndqLv_BSybPEKPc7NWeMDfFQFetiYrKNZvTlhXc2h7OZn00pzXUSsoVxQt4JokG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141229" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - D Court Feed",480p | ENG
-https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/480p.m3u8?hdntl=Expires=1772650610~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-EMFmthXheTr2SyHjCvLY8ict4lG-uhQ6tWLvHHQdhj-yhI-hCZvZFG1ya5wboS5T9C-9eUnYxsV64CND4d0UEF|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/480p.m3u8?hdntl=Expires=1772737091~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-HmhEb9-26-mqhNngAbD_nmJndqLv_BSybPEKPc7NWeMDfFQFetiYrKNZvTlhXc2h7OZn00pzXUSsoVxQt4JokG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141229" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - D Court Feed",540p | ENG
-https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/540p.m3u8?hdntl=Expires=1772650610~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-EMFmthXheTr2SyHjCvLY8ict4lG-uhQ6tWLvHHQdhj-yhI-hCZvZFG1ya5wboS5T9C-9eUnYxsV64CND4d0UEF|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/540p.m3u8?hdntl=Expires=1772737091~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-HmhEb9-26-mqhNngAbD_nmJndqLv_BSybPEKPc7NWeMDfFQFetiYrKNZvTlhXc2h7OZn00pzXUSsoVxQt4JokG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141229" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - D Court Feed",720p | ENG
-https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/720p.m3u8?hdntl=Expires=1772650610~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-EMFmthXheTr2SyHjCvLY8ict4lG-uhQ6tWLvHHQdhj-yhI-hCZvZFG1ya5wboS5T9C-9eUnYxsV64CND4d0UEF|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/720p.m3u8?hdntl=Expires=1772737091~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-HmhEb9-26-mqhNngAbD_nmJndqLv_BSybPEKPc7NWeMDfFQFetiYrKNZvTlhXc2h7OZn00pzXUSsoVxQt4JokG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141229" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - D Court Feed",1080p | ENG
-https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772650610~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-EMFmthXheTr2SyHjCvLY8ict4lG-uhQ6tWLvHHQdhj-yhI-hCZvZFG1ya5wboS5T9C-9eUnYxsV64CND4d0UEF|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772737091~_GO=Generated~acl=/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/*~Signature=AR5gA-HmhEb9-26-mqhNngAbD_nmJndqLv_BSybPEKPc7NWeMDfFQFetiYrKNZvTlhXc2h7OZn00pzXUSsoVxQt4JokG|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141228" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - C Court Feed",240p | ENG
-https://in-mc-flive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/240p.m3u8?hdntl=Expires=1772650612~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-FBGkAHstMTIpVLOg-33J2J8XUOi5UKeFIKWPpYQfAEAGGGmbLwrIIiinMndvju2VLHlEuQ_z45W-svrzHS5DoC|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/240p.m3u8?hdntl=Expires=1772737097~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-HJJoJ-xCNZyJNEAiEqQDVQ7SpAID6IDp3f2_uH-ZQ223rv6oUzSuzAhKL0FD7xLnZ_vgX8V6b-MlhpTHgLK0sM|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141228" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - C Court Feed",360p | ENG
-https://in-mc-flive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/360p.m3u8?hdntl=Expires=1772650612~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-FBGkAHstMTIpVLOg-33J2J8XUOi5UKeFIKWPpYQfAEAGGGmbLwrIIiinMndvju2VLHlEuQ_z45W-svrzHS5DoC|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/360p.m3u8?hdntl=Expires=1772737097~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-HJJoJ-xCNZyJNEAiEqQDVQ7SpAID6IDp3f2_uH-ZQ223rv6oUzSuzAhKL0FD7xLnZ_vgX8V6b-MlhpTHgLK0sM|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141228" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - C Court Feed",480p | ENG
-https://in-mc-flive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/480p.m3u8?hdntl=Expires=1772650612~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-FBGkAHstMTIpVLOg-33J2J8XUOi5UKeFIKWPpYQfAEAGGGmbLwrIIiinMndvju2VLHlEuQ_z45W-svrzHS5DoC|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/480p.m3u8?hdntl=Expires=1772737097~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-HJJoJ-xCNZyJNEAiEqQDVQ7SpAID6IDp3f2_uH-ZQ223rv6oUzSuzAhKL0FD7xLnZ_vgX8V6b-MlhpTHgLK0sM|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141228" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - C Court Feed",540p | ENG
-https://in-mc-flive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/540p.m3u8?hdntl=Expires=1772650612~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-FBGkAHstMTIpVLOg-33J2J8XUOi5UKeFIKWPpYQfAEAGGGmbLwrIIiinMndvju2VLHlEuQ_z45W-svrzHS5DoC|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/540p.m3u8?hdntl=Expires=1772737097~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-HJJoJ-xCNZyJNEAiEqQDVQ7SpAID6IDp3f2_uH-ZQ223rv6oUzSuzAhKL0FD7xLnZ_vgX8V6b-MlhpTHgLK0sM|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141228" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - C Court Feed",720p | ENG
-https://in-mc-flive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/720p.m3u8?hdntl=Expires=1772650612~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-FBGkAHstMTIpVLOg-33J2J8XUOi5UKeFIKWPpYQfAEAGGGmbLwrIIiinMndvju2VLHlEuQ_z45W-svrzHS5DoC|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/720p.m3u8?hdntl=Expires=1772737097~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-HJJoJ-xCNZyJNEAiEqQDVQ7SpAID6IDp3f2_uH-ZQ223rv6oUzSuzAhKL0FD7xLnZ_vgX8V6b-MlhpTHgLK0sM|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141228" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - C Court Feed",1080p | ENG
-https://in-mc-flive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772650612~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-FBGkAHstMTIpVLOg-33J2J8XUOi5UKeFIKWPpYQfAEAGGGmbLwrIIiinMndvju2VLHlEuQ_z45W-svrzHS5DoC|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772737097~_GO=Generated~acl=/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/*~Signature=AR5gA-HJJoJ-xCNZyJNEAiEqQDVQ7SpAID6IDp3f2_uH-ZQ223rv6oUzSuzAhKL0FD7xLnZ_vgX8V6b-MlhpTHgLK0sM|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
