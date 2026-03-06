@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090505661_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015830/1772732474234235_IFL26_AIZ_vs_RAJ_5mar_landscape_thumb.jpg" group-title="Live",Aizawl FC vs Rajasthan United FC - 6 Mar 2026 [ENG] - Indian Football League 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772851761~acl=/*~id=14081860060184417332166120404641~hmac=6b98abd38f501535614916a345e059e9c8616faec9bee8e6950f99713e9e3d1a
-#EXTINF:-1 tvg-id="1090505521_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261405160412_DP_World_Day2_Joburg-Open_landscape_thumb.jpg" group-title="Live",Joburg Open Day 2 - 6 Mar 2026 [ENG] - DP World Tour - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772851761~acl=/*~id=14081860060184417332166120404641~hmac=6b98abd38f501535614916a345e059e9c8616faec9bee8e6950f99713e9e3d1a
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -175,12 +169,12 @@ https://n8.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=Tao3Ds2O0qp3O__pPudI_A&exp
 https://n4.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=RYx0QreMpJGR2Jm4mxb1EA&expires=1772815157
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-06 20:22:34 (BD Time)
+# Update on 2026-03-06 21:07:58 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Friday, 6 March 2026 at 8:49:11 pm
+#DATE:- Friday, 6 March 2026 at 9:21:12 pm
 #EXTINF:-1 tvg-id="140453" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140453_5956_JFC_KSHI_FC-Web_1772450359895.jpg" tvg-language="english" group-title="Football - Jamshedpur Fc Vs Inter Kashi Fc",240p | ENG
 https://in-mc-flive.fancode.com/mumbai/140453_english_hls_140e0abd6d55690_1ta-di_h264/240p.m3u8?hdntl=Expires=1772891045~_GO=Generated~acl=/mumbai/140453_english_hls_140e0abd6d55690_1ta-di_h264/*~Signature=AQQqLwS0bRn5u29VUGvpiL0We2Uy7WYY7gRMxb16N_7HSZnm-pDxPbNiHC1EGqqDGYEaxIsFK8hiONuNPKZX6WoFE-oA|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140453" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140453_5956_JFC_KSHI_FC-Web_1772450359895.jpg" tvg-language="english" group-title="Football - Jamshedpur Fc Vs Inter Kashi Fc",360p | ENG
