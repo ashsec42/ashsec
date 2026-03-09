@@ -1,13 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090505907_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772107094000579_FC_Cup_26_RD5_West-Ham-United-vs-Brentford_landscape_thumb.jpg" group-title="Live",West Ham United vs Brentford - Round 5 - 10 Mar 2026 [ENG] - The Emirates FA Cup 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773130868~acl=/*~id=45546074533533913438623965865240~hmac=1f7362e94bd8a5618d86c7cb54b93af3a1e2e2eff4da31a1c4afa88ef9be638d
-# By Abu SAEEID X Noob
-# Github @abusaeeidx
-# Update on 2026-03-10 01:40:49 (BD Time)
-# Note: I do not host any content, everything is publicly available.
-#EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 1",Fallback Channel
-https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773132685~acl=/*~id=94243413851707332756518379491266~hmac=8b203f08a59bf67e26dce5dd148cb97e44a9698cb8db6e8af7441a6f054f62b2
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
 # Update on 2026-03-10 02:01:53 (BD Time)
@@ -15,7 +9,7 @@ https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/mai
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 10 March 2026 at 2:07:12 am
+#DATE:- Tuesday, 10 March 2026 at 2:28:11 am
 #EXTINF:-1 tvg-id="140708" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140708_5971_CAY_MEX_fc-Web.jpg" tvg-language="english" group-title="Cricket - Mexico Vs Cayman Islands",240p | ENG
 https://in-mc-flive.fancode.com/mumbai/140708_english_hls_5c3010dec957124_1ta-di_h264/240p.m3u8?hdntl=Expires=1773170343~_GO=Generated~acl=/mumbai/140708_english_hls_5c3010dec957124_1ta-di_h264/*~Signature=AQQqLwSwGKKxotuqTdhCMh20UTS2X8SyHmTal08IjC2buOc5tB9C-fd1lKzU_33OIFF8iScYeKLvpSNpxmJYhndgy9II|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140708" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140708_5971_CAY_MEX_fc-Web.jpg" tvg-language="english" group-title="Cricket - Mexico Vs Cayman Islands",360p | ENG
