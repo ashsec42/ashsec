@@ -1,21 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090505907_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772107094000579_FC_Cup_26_RD5_West-Ham-United-vs-Brentford_landscape_thumb.jpg" group-title="Live",West Ham United vs Brentford - Round 5 - 10 Mar 2026 [ENG] - The Emirates FA Cup 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773137529~acl=/*~id=80768364047594250117528489353910~hmac=cea37895108f2e5966c6513693211c715776857e87b8f7d8f7bc5d009440e521
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-10 03:33:07 (BD Time)
-# Note: I do not host any content, everything is publicly available.
-#EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 1",Fallback Channel
-https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
-# By Abu SAEEID X Noob
-# Github @abusaeeidx
-# Update on 2026-03-10 03:59:31 (BD Time)
+# Update on 2026-03-10 04:40:30 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 10 March 2026 at 4:14:11 am
+#DATE:- Tuesday, 10 March 2026 at 4:42:10 am
 #EXTINF:-1 tvg-id="141021" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - C Court Feed",240p | ENG
 https://in-mc-flive.fancode.com/mumbai/141021_english_hls_2d820f94d022891_1ta-di_h264/240p.m3u8?hdntl=Expires=1773179466~_GO=Generated~acl=/mumbai/141021_english_hls_2d820f94d022891_1ta-di_h264/*~Signature=AQQqLwQPkeQ6lX2pKKMFwyO6olpdWdQtS8I7qU4SeQT_rbTBt54eHxWOxZ1spAMD0980Aw1TmIkyeogVVBzkDrEc5QMP|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141021" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - C Court Feed",360p | ENG
