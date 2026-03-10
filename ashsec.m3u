@@ -1,30 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090505917_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010341852551_UCL26_R16_leg1_Galatasaray_vs_Liverpool_8mar_eng_landscape_thumb.jpg" group-title="Live",Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026 [ENG] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773207123~acl=/*~id=07606056854155968664161904918546~hmac=2bb5e1327f9c9b1d13e455fbaa91eb05d2474c0793d983db05eb58efeb3d21f0
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773210153~acl=/*~id=92749982471205822285495409207013~hmac=1d25da4933b5e412f2e4591dbe33ad55f098e45d05947d495ec1377da577e62c
 #EXTINF:-1 tvg-id="1090505917_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010341852551_UCL26_R16_leg1_Galatasaray_vs_Liverpool_8mar_eng_landscape_thumb.jpg" group-title="Live",Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026 [HIN] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773207123~acl=/*~id=07606056854155968664161904918546~hmac=2bb5e1327f9c9b1d13e455fbaa91eb05d2474c0793d983db05eb58efeb3d21f0
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773210153~acl=/*~id=92749982471205822285495409207013~hmac=1d25da4933b5e412f2e4591dbe33ad55f098e45d05947d495ec1377da577e62c
 #EXTINF:-1 tvg-id="1090505917_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010341852551_UCL26_R16_leg1_Galatasaray_vs_Liverpool_8mar_eng_landscape_thumb.jpg" group-title="Live",Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026 [TAM] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773207123~acl=/*~id=07606056854155968664161904918546~hmac=2bb5e1327f9c9b1d13e455fbaa91eb05d2474c0793d983db05eb58efeb3d21f0
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773210153~acl=/*~id=92749982471205822285495409207013~hmac=1d25da4933b5e412f2e4591dbe33ad55f098e45d05947d495ec1377da577e62c
 #EXTINF:-1 tvg-id="1090505917_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010341852551_UCL26_R16_leg1_Galatasaray_vs_Liverpool_8mar_eng_landscape_thumb.jpg" group-title="Live",Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026 [TEL] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773207123~acl=/*~id=07606056854155968664161904918546~hmac=2bb5e1327f9c9b1d13e455fbaa91eb05d2474c0793d983db05eb58efeb3d21f0
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773210153~acl=/*~id=92749982471205822285495409207013~hmac=1d25da4933b5e412f2e4591dbe33ad55f098e45d05947d495ec1377da577e62c
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-10 22:34:15 (BD Time)
-# Note: I do not host any content, everything is publicly available.
-#EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 1",Fallback Channel
-https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
-# By Abu SAEEID X Noob
-# Github @abusaeeidx
-# Update on 2026-03-10 22:59:43 (BD Time)
+# Update on 2026-03-11 00:05:06 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 10 March 2026 at 11:35:52 pm
+#DATE:- Wednesday, 11 March 2026 at 12:35:10 am
 #EXTINF:-1 tvg-id="141024" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - B Court Feed",240p | ENG
 https://in-mc-flive.fancode.com/mumbai/141024_english_hls_38374e3ee254830_1ta-di_h264/240p.m3u8?hdntl=Expires=1773251054~_GO=Generated~acl=/mumbai/141024_english_hls_38374e3ee254830_1ta-di_h264/*~Signature=AQQqLwQed9_7jqXSxpJVDNwDpPJMTCY2Q3niK810MWhb6Zup4A3X7Sc-13lrIOcKZfNCIJ5GAl9ylBlT0pcXy7guXUEI|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141024" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Tennis - B Court Feed",360p | ENG
