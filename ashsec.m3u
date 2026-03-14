@@ -174,15 +174,13 @@ https://n14.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=j4MgjrSCPRfvZjBUDdb_Dg&ex
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Saturday, 14 March 2026 at 8:14:50 pm
+#DATE:- Saturday, 14 March 2026 at 8:35:21 pm
 #EXTINF:-1 tvg-id="141308" tvg-name="Mumbai Spartans Vs India Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141308_6002_MSP_ING_FC-Web_1773487500003.jpg" tvg-language="English" group-title="Cricket",ENG | Mumbai Spartans Vs India Tigers
 https://fancode-hls.pages.dev/master_streams/141308-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141308" tvg-name="Mumbai Spartans Vs India Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141308_6002_MSP_ING_FC-Web_1773487500003.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Mumbai Spartans Vs India Tigers
 https://fancode-hls.pages.dev/master_streams/141308-HINDI.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140713" tvg-name="Argentina Vs Mexico" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140713_5971_MEX_ARG_fc-Web.jpg" tvg-language="English" group-title="Cricket",ENG | Argentina Vs Mexico
 https://fancode-hls.pages.dev/master_streams/140713-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131109" tvg-name="Girona Fc Vs Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131109_5427_GIR_ATH_FC-Web.png" tvg-language="English" group-title="Football",ENG | Girona Fc Vs Athletic Club
-https://fancode-hls.pages.dev/master_streams/131109-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140462" tvg-name="Bengaluru Fc Vs Mohun Bagan Super Giant" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140462_5956_BFC_MBSG_FC-Web_1772451336878.jpg" tvg-language="English" group-title="Football",ENG | Bengaluru Fc Vs Mohun Bagan Super Giant
 https://fancode-hls.pages.dev/master_streams/140462-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140462" tvg-name="Bengaluru Fc Vs Mohun Bagan Super Giant" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140462_5956_BFC_MBSG_FC-Web_1772451336878.jpg" tvg-language="Hindi" group-title="Football",HIN | Bengaluru Fc Vs Mohun Bagan Super Giant
@@ -205,6 +203,8 @@ https://fancode-hls.pages.dev/master_streams/141146-ENGLISH.m3u8|User-Agent=Reac
 https://fancode-hls.pages.dev/master_streams/141353-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141145" tvg-name="Featured Groups   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | Featured Groups   Day 3
 https://fancode-hls.pages.dev/master_streams/141145-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131109" tvg-name="Girona Fc Vs Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131109_5427_GIR_ATH_FC-Web.png" tvg-language="English" group-title="Football",ENG | Girona Fc Vs Athletic Club
+https://fancode-hls.pages.dev/master_streams/131109-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
