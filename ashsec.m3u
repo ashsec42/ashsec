@@ -174,7 +174,7 @@ https://n7.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=fkxkQ9Q10x0W2eui-f-LOA&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 15 March 2026 at 1:14:15 am
+#DATE:- Sunday, 15 March 2026 at 1:28:15 am
 #EXTINF:-1 tvg-id="140714" tvg-name="Suriname Vs Cayman Islands" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140714_5971_CAY_SRN_fc-Web.jpg" tvg-language="English" group-title="Cricket",ENG | Suriname Vs Cayman Islands
 https://fancode-hls.pages.dev/master_streams/140714-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140721" tvg-name="Al Fateh Sc Vs Al Hilal Sfc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140721_5655_AFF_AHS_fc-web.jpg" tvg-language="English" group-title="Football",ENG | Al Fateh Sc Vs Al Hilal Sfc
@@ -187,8 +187,6 @@ https://fancode-hls.pages.dev/master_streams/131100-ENGLISH.m3u8|User-Agent=Reac
 https://fancode-hls.pages.dev/master_streams/131100-HINDI.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="131100" tvg-name="Real Madrid Vs Elche Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131100_5427_RM_ELC_FC-Web.png" tvg-language="Bengali" group-title="Football",BEN | Real Madrid Vs Elche Cf
 https://fancode-hls.pages.dev/master_streams/131100-BENGALI.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141220" tvg-name="Real Zaragoza Vs Almería" tvg-logo="https://images.fancode.com/aig/match/v1773431102733/141220_CASACARDS_APP.png" tvg-language="English" group-title="Football",ENG | Real Zaragoza Vs Almería
-https://fancode-hls.pages.dev/master_streams/141220-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141144" tvg-name="Main Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | Main Feed   Day 3
 https://fancode-hls.pages.dev/master_streams/141144-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141146" tvg-name="Featured Holes   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | Featured Holes   Day 3
@@ -197,8 +195,6 @@ https://fancode-hls.pages.dev/master_streams/141146-ENGLISH.m3u8|User-Agent=Reac
 https://fancode-hls.pages.dev/master_streams/141145-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141143" tvg-name="World Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | World Feed   Day 3
 https://fancode-hls.pages.dev/master_streams/141143-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131108" tvg-name="Real Oviedo Vs Valencia Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131108_5427_RO_VAL_FC-Web.png" tvg-language="English" group-title="Football",ENG | Real Oviedo Vs Valencia Cf
-https://fancode-hls.pages.dev/master_streams/131108-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
