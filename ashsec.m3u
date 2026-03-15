@@ -169,28 +169,22 @@ https://n7.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=Amq19lolSs77hu8QsISJTQ&exp
 https://n4.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=ARqPHGgtjxvBD_gvjA5KlA&expires=1773617435
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-16 03:37:38 (BD Time)
+# Update on 2026-03-16 03:57:40 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 16 March 2026 at 3:21:13 am
+#DATE:- Monday, 16 March 2026 at 3:56:15 am
 #EXTINF:-1 tvg-id="140716" tvg-name="Argentina Vs Cayman Islands" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140716_5971_ARG_CAY_fc-Web.jpg" tvg-language="English" group-title="Cricket",ENG | Argentina Vs Cayman Islands
 https://fancode-hls.pages.dev/master_streams/140716-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131104" tvg-name="Real Sociedad Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131104_5427_RS_OSN_FC-Web.png" tvg-language="English" group-title="Football",ENG | Real Sociedad Vs Ca Osasuna
-https://fancode-hls.pages.dev/master_streams/131104-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141219" tvg-name="Sporting De Gijón Vs Castellón" tvg-logo="https://images.fancode.com/aig/match/v1773431102732/141219_CASACARDS_APP.png" tvg-language="English" group-title="Football",ENG | Sporting De Gijón Vs Castellón
 https://fancode-hls.pages.dev/master_streams/141219-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141148" tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | Main Feed   Day 4
-https://fancode-hls.pages.dev/master_streams/141148-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141150" tvg-name="Featured Holes   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | Featured Holes   Day 4
-https://fancode-hls.pages.dev/master_streams/141150-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141149" tvg-name="Featured Groups   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | Featured Groups   Day 4
-https://fancode-hls.pages.dev/master_streams/141149-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141147" tvg-name="World Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | World Feed   Day 4
 https://fancode-hls.pages.dev/master_streams/141147-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141033" tvg-name="Men's Singles   Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Daniil-Medvedev-vs-Jannik-Sinner_fc-web.jpg" tvg-language="English" group-title="Tennis",ENG | Men's Singles   Finals
 https://fancode-hls.pages.dev/master_streams/141033-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131104" tvg-name="Real Sociedad Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131104_5427_RS_OSN_FC-Web.png" tvg-language="English" group-title="Football",ENG | Real Sociedad Vs Ca Osasuna
+https://fancode-hls.pages.dev/master_streams/131104-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
