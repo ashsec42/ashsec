@@ -169,18 +169,14 @@ https://n9.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=2r3bQStKtCS8fQCHeXTMHQ&exp
 https://n8.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=1QJXJKi58jU__yyoAyIKNQ&expires=1773581681
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-15 17:31:06 (BD Time)
+# Update on 2026-03-15 17:54:53 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 15 March 2026 at 5:29:36 pm
+#DATE:- Sunday, 15 March 2026 at 6:42:17 pm
 #EXTINF:-1 tvg-id="141408" tvg-name="Bangladesh Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg" tvg-language="English" group-title="Cricket",ENG | Bangladesh Vs Pakistan
 https://fancode-hls.pages.dev/master_streams/141408-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133991" tvg-name="Act Meteors Vs Western Australia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg" tvg-language="English" group-title="Cricket",ENG | Act Meteors Vs Western Australia Women
-https://fancode-hls.pages.dev/master_streams/133991-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141201" tvg-name="Mumbai Maverics Vs Rajasthan Emperors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" tvg-language="English" group-title="Cricket",ENG | Mumbai Maverics Vs Rajasthan Emperors
-https://fancode-hls.pages.dev/master_streams/141201-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140463" tvg-name="Northeast United Fc Vs Jamshedpur Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140463_5956_NEUFC_JFC_FC-Web_1772451451365.jpg" tvg-language="English" group-title="Football",ENG | Northeast United Fc Vs Jamshedpur Fc
 https://fancode-hls.pages.dev/master_streams/140463-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140463" tvg-name="Northeast United Fc Vs Jamshedpur Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140463_5956_NEUFC_JFC_FC-Web_1772451451365.jpg" tvg-language="Hindi" group-title="Football",HIN | Northeast United Fc Vs Jamshedpur Fc
@@ -197,14 +193,16 @@ https://fancode-hls.pages.dev/master_streams/141151-ENGLISH.m3u8|User-Agent=Reac
 https://fancode-hls.pages.dev/master_streams/141154-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141153" tvg-name="Liverpool Women Vs Leicester City Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141153_5826_LIV-W_LEI-W_FC-Web.jpg" tvg-language="English" group-title="Football",ENG | Liverpool Women Vs Leicester City Women
 https://fancode-hls.pages.dev/master_streams/141153-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141441" tvg-name="Isgl Mumbai City Qualifiers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg" tvg-language="English" group-title="Live Events",ENG | Isgl Mumbai City Qualifiers
-https://fancode-hls.pages.dev/master_streams/141441-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131101" tvg-name="Rcd Mallorca Vs Rcd Espanyol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131101_5427_MRC_ESL_FC-Web.png" tvg-language="English" group-title="Football",ENG | Rcd Mallorca Vs Rcd Espanyol
+https://fancode-hls.pages.dev/master_streams/131101-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141148" tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | Main Feed   Day 4
 https://fancode-hls.pages.dev/master_streams/141148-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141150" tvg-name="Featured Holes   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | Featured Holes   Day 4
 https://fancode-hls.pages.dev/master_streams/141150-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141269" tvg-name="Ncc Odisha Vs Cag Delhi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" tvg-language="English" group-title="Cricket",ENG | Ncc Odisha Vs Cag Delhi
-https://fancode-hls.pages.dev/master_streams/141269-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141149" tvg-name="Featured Groups   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | Featured Groups   Day 4
+https://fancode-hls.pages.dev/master_streams/141149-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141354" tvg-name="Europe   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" tvg-language="English" group-title="Motorsports",ENG | Europe   Day 2
+https://fancode-hls.pages.dev/master_streams/141354-ENGLISH.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
