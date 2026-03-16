@@ -169,16 +169,18 @@ https://n1.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=wv0cHQxZJf3Y6pPMXrHeBQ&exp
 https://n14.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=6FegqWCnHj5mzR0kifCZtA&expires=1773707584
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-17 04:05:25 (BD Time)
+# Update on 2026-03-17 05:01:27 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 17 March 2026 at 4:42:16 am
+#DATE:- Tuesday, 17 March 2026 at 5:14:20 am
 #EXTINF:-1 tvg-id="134043" tvg-name="Tasmania Vs Queensland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | Tasmania Vs Queensland
 https://dai-fancode.pages.dev/mumbai/134043_english_hls_ad224acef247273_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134042" tvg-name="South Australia Vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | South Australia Vs Victoria
 https://dai-fancode.pages.dev/mumbai/134042_english_hls_bb67f89f6d71162_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="134041" tvg-name="New South Wales Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | New South Wales Vs Western Australia
+https://dai-fancode.pages.dev/mumbai/134041_english_hls_327851520331139_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
