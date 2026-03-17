@@ -169,18 +169,20 @@ https://n7.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=QsnMDwH2l4iwHvO3e2iDVw&exp
 https://n14.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=U97aYRIJ532NynKmKlm5rw&expires=1773738259
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-17 12:04:14 (BD Time)
+# Update on 2026-03-17 13:39:57 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Tuesday, 17 March 2026 at 1:00:31 pm
+#DATE:- Tuesday, 17 March 2026 at 1:56:13 pm
 #EXTINF:-1 tvg-id="141062" tvg-name="New Zealand Vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg" tvg-language="English" group-title="Cricket",ENG | New Zealand Vs South Africa
 https://dai-fancode.pages.dev/hls/live/2037141/DAI21SAVSZM/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141206" tvg-name="Bengal Royals Vs Tamil Nadu Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" tvg-language="English" group-title="Cricket",ENG | Bengal Royals Vs Tamil Nadu Titans
 https://dai-fancode.pages.dev/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="134041" tvg-name="New South Wales Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | New South Wales Vs Western Australia
-https://dai-fancode.pages.dev/mumbai/134041_english_hls_327851520331139_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141367" tvg-name="Yamuna Super Kings Vs Betwa Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-Web.jpg" tvg-language="English" group-title="Cricket",ENG | Yamuna Super Kings Vs Betwa Blasters
+https://dai-fancode.pages.dev/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140916" tvg-name="Sydney Fc Vs Melbourne City" tvg-logo="https://images.fancode.com/aig/match/v1773733471726/140916_CASACARDS_APP.png" tvg-language="English" group-title="Football",ENG | Sydney Fc Vs Melbourne City
+https://dai-fancode.pages.dev/mumbai/140916_english_hls_f436e9426f16006_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
