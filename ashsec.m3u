@@ -174,11 +174,11 @@ https://n9.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=iTdCzcq4SEo-kzT-_AFY6g&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 18 March 2026 at 4:56:14 pm
+#DATE:- Wednesday, 18 March 2026 at 5:29:31 pm
 #EXTINF:-1 tvg-id="141210" tvg-name="Punjab Lions Vs Chennai Warlords" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" tvg-language="English" group-title="Cricket",ENG | Punjab Lions Vs Chennai Warlords
 https://dai-fancode.pages.dev/mumbai/141210_english_hls_f44b54a92532418_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140817" tvg-name="Korea Republic Women Vs Japan Women" tvg-logo="https://images.fancode.com/aig/match/v1773823636354/140817_CASACARDS_APP.png" tvg-language="English" group-title="Football",ENG | Korea Republic Women Vs Japan Women
-https://dai-fancode.pages.dev/mumbai/140817_english_hls_567f2007ea59708_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141446" tvg-name="Eagles Xi Vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" tvg-language="English" group-title="Cricket",ENG | Eagles Xi Vs Uganda
+https://dai-fancode.pages.dev/mumbai/141446_english_hls_19e99d641b27325_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
