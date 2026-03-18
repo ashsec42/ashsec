@@ -169,16 +169,16 @@ https://n2.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=Gel_UVE0rmv-_jDt4A65BA&exp
 https://n6.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=oUGwi2oFTx8cHsV--NUabg&expires=1773798023
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-18 05:04:43 (BD Time)
+# Update on 2026-03-18 06:00:51 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 18 March 2026 at 6:21:15 am
-#EXTINF:-1 tvg-id="141101" tvg-name="Alajuelense Vs Los Angeles Football Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png" tvg-language="English" group-title="Football",ENG | Alajuelense Vs Los Angeles Football Club
-https://dai-fancode.pages.dev/mumbai/141101_english_hls_cf5c1469ff90674_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139179" tvg-name="Jupiter Vs Boston" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png" tvg-language="English" group-title="Golf",ENG | Jupiter Vs Boston
-https://dai-fancode.pages.dev/mumbai/139179_english_hls_a3f053d3ba88566_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Wednesday, 18 March 2026 at 9:07:12 am
+#EXTINF:-1 tvg-id="141368" tvg-name="Saryu Smashers Vs Chambal Chargers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141368_6007_SS_CC_FC-Web.jpg" tvg-language="English" group-title="Cricket",ENG | Saryu Smashers Vs Chambal Chargers
+https://dai-fancode.pages.dev/mumbai/141368_english_hls_5d0a8413ba38104_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141102" tvg-name="Cruz Azul Vs Monterrey" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772957805508.png" tvg-language="English" group-title="Football",ENG | Cruz Azul Vs Monterrey
+https://dai-fancode.pages.dev/mumbai/141102_english_hls_a68ba26a0053818_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
