@@ -169,26 +169,20 @@ https://n5.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=KBTLCGyU0gfLyxuEXZVS5Q&exp
 https://n14.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=2AXDcmDMRzqoN-lU-tgNgg&expires=1773852384
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-18 20:04:51 (BD Time)
+# Update on 2026-03-18 21:50:44 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Wednesday, 18 March 2026 at 8:28:30 pm
+#DATE:- Wednesday, 18 March 2026 at 9:42:21 pm
 #EXTINF:-1 tvg-id="141313" tvg-name="India Captains Vs India Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141313_6002_ICN_ING_FC-Web_1773487500216.jpg" tvg-language="English" group-title="Cricket",ENG | India Captains Vs India Tigers
 https://dai-fancode.pages.dev/mumbai/141313_english_hls_df187e54f668607_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141313" tvg-name="India Captains Vs India Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141313_6002_ICN_ING_FC-Web_1773487500216.jpg" tvg-language="Hindi" group-title="Cricket",HIN | India Captains Vs India Tigers
 https://dai-fancode.pages.dev/mumbai/141313_hindi_hls_f932bb6c1f83196_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141446" tvg-name="Eagles Xi Vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" tvg-language="English" group-title="Cricket",ENG | Eagles Xi Vs Uganda
-https://dai-fancode.pages.dev/mumbai/141446_english_hls_19e99d641b27325_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141035" tvg-name="A Court Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | A Court Feed
-https://dai-fancode.pages.dev/mumbai/141035_english_hls_5900cfeb7688176_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141034" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | World Feed
 https://dai-fancode.pages.dev/mumbai/141034_english_hls_3c163a1d2d32231_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141455" tvg-name="G Court Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | G Court Feed
 https://dai-fancode.pages.dev/mumbai/141455_english_hls_65cc85fdf925286_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141454" tvg-name="F Court Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | F Court Feed
-https://dai-fancode.pages.dev/mumbai/141454_english_hls_b7ad74690894626_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141453" tvg-name="D Court Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | D Court Feed
 https://dai-fancode.pages.dev/mumbai/141453_english_hls_5cd56ead4a65835_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141452" tvg-name="C Court Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | C Court Feed
