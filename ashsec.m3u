@@ -174,13 +174,15 @@ https://n4.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=BhhzWgvOgBvtp05CQg94Uw&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 19 March 2026 at 4:28:34 pm
+#DATE:- Thursday, 19 March 2026 at 5:14:40 pm
 #EXTINF:-1 tvg-id="141371" tvg-name="Betwa Blasters Vs Hindon Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141371_6007_HT_BB_FC-Web.jpg" tvg-language="English" group-title="Cricket",ENG | Betwa Blasters Vs Hindon Titans
 https://dai-fancode.pages.dev/mumbai/141371_english_hls_4234d97ff313187_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141214" tvg-name="Mumbai Mavericks Vs Punjab Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" tvg-language="English" group-title="Cricket",ENG | Mumbai Mavericks Vs Punjab Lions
 https://dai-fancode.pages.dev/mumbai/141214_english_hls_c8d37b9f3369575_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140819" tvg-name="Chinese Taipei Women Vs Dpr Korea Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140819_5979_TPE-W_NK-W_fc-Web.jpg" tvg-language="English" group-title="Football",ENG | Chinese Taipei Women Vs Dpr Korea Women
-https://dai-fancode.pages.dev/mumbai/140819_english_hls_50652d189c5112_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141447" tvg-name="Eagles Xi Vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" tvg-language="English" group-title="Cricket",ENG | Eagles Xi Vs Uganda
+https://dai-fancode.pages.dev/mumbai/141447_english_hls_7a0779e97250222_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141389" tvg-name="Marquee Feed   Day 1	" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="English" group-title="Golf",ENG | Marquee Feed   Day 1
+https://dai-fancode.pages.dev/mumbai/141389_english_hls_47996f64b322088_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
