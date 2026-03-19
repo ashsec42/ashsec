@@ -169,24 +169,20 @@ https://n5.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=HxlJQiADS-tUERMOFe0y_A&exp
 https://n14.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=_PS7rJiHtn9_27CXPNgPVg&expires=1773883826
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-19 05:03:58 (BD Time)
+# Update on 2026-03-19 05:57:46 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Thursday, 19 March 2026 at 5:28:16 am
-#EXTINF:-1 tvg-id="141103" tvg-name="Inter Miami Cf Vs Nashville Sc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141103_5954_MIA_NSH_1772957805501.png" tvg-language="English" group-title="Football",ENG | Inter Miami Cf Vs Nashville Sc
-https://dai-fancode.pages.dev/mumbai/141103_english_hls_9c6e52817643189_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141034" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | World Feed
-https://dai-fancode.pages.dev/mumbai/141034_english_hls_3c163a1d2d32231_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141455" tvg-name="G Court Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | G Court Feed
-https://dai-fancode.pages.dev/mumbai/141455_english_hls_65cc85fdf925286_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141453" tvg-name="D Court Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | D Court Feed
-https://dai-fancode.pages.dev/mumbai/141453_english_hls_5cd56ead4a65835_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141452" tvg-name="C Court Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | C Court Feed
-https://dai-fancode.pages.dev/mumbai/141452_english_hls_98be7635d422978_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141451" tvg-name="B Court Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | B Court Feed
-https://dai-fancode.pages.dev/mumbai/141451_english_hls_110d591b3169385_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Thursday, 19 March 2026 at 8:35:15 am
+#EXTINF:-1 tvg-id="141104" tvg-name="Club América Vs Philadelphia Union" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141104_5954_AME_PU_1772957805499.png" tvg-language="English" group-title="Football",ENG | Club América Vs Philadelphia Union
+https://dai-fancode.pages.dev/mumbai/141104_english_hls_932d60a24923981_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140818" tvg-name="Uzbekistan Women Vs Philippines Women" tvg-logo="https://images.fancode.com/aig/match/v1773823668701/140818_CASACARDS_APP.png" tvg-language="English" group-title="Football",ENG | Uzbekistan Women Vs Philippines Women
+https://dai-fancode.pages.dev/mumbai/140818_english_hls_81831b6b3146875_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141106" tvg-name="Seattle Sounders Fc Vs Vancouver Whitecaps Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772957805583.png" tvg-language="English" group-title="Football",ENG | Seattle Sounders Fc Vs Vancouver Whitecaps Fc
+https://dai-fancode.pages.dev/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141105" tvg-name="Toluca Vs San Diego" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png" tvg-language="English" group-title="Football",ENG | Toluca Vs San Diego
+https://dai-fancode.pages.dev/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
