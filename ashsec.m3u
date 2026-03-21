@@ -174,13 +174,11 @@ https://n7.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=v1WcxKalU47t__aRS0pSRw&exp
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Sunday, 22 March 2026 at 12:28:23 am
-#EXTINF:-1 tvg-id="140958" tvg-name="Swansea City A.f.c. Vs Coventry City F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg" tvg-language="English" group-title="Football",ENG | Swansea City A.f.c. Vs Coventry City F.c.
-https://dai-fancode.pages.dev/mumbai/140958_english_hls_86aa664e5d62535_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Sunday, 22 March 2026 at 1:00:20 am
 #EXTINF:-1 tvg-id="131117" tvg-name="Levante Vs Real Oviedo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131117_5427_LE_RO_FC-Web.png" tvg-language="English" group-title="Football",ENG | Levante Vs Real Oviedo
 https://dai-fancode.pages.dev/mumbai/131117_english_hls_8b603c489054273_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131111" tvg-name="Ca Osasuna Vs Girona Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131111_5427_OSN_GIR_FC-Web.png" tvg-language="English" group-title="Football",ENG | Ca Osasuna Vs Girona Fc
-https://dai-fancode.pages.dev/mumbai/131111_english_hls_90cbc64f7711673_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131118" tvg-name="Sevilla Fc Vs Valencia Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png" tvg-language="English" group-title="Football",ENG | Sevilla Fc Vs Valencia Cf
+https://dai-fancode.pages.dev/mumbai/131118_english_hls_e530995b3712973_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141409" tvg-name="Cádiz Vs Málaga" tvg-logo="https://images.fancode.com/aig/match/v1773431102733/141409_CASACARDS_APP.png" tvg-language="English" group-title="Football",ENG | Cádiz Vs Málaga
 https://dai-fancode.pages.dev/mumbai/141409_english_hls_bd1605cd3a99375_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139928" tvg-name="Brazil Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" tvg-language="English" group-title="MotoGP",ENG | Brazil Gp
@@ -207,6 +205,8 @@ https://dai-fancode.pages.dev/mumbai/141041_english_hls_f8c48ccdd719819_1ta-di_h
 https://dai-fancode.pages.dev/mumbai/141400_english_hls_c331ac49b455066_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141470" tvg-name="C Court Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="English" group-title="Tennis",ENG | C Court Feed
 https://dai-fancode.pages.dev/mumbai/141470_english_hls_4dd958ac9241482_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131111" tvg-name="Ca Osasuna Vs Girona Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131111_5427_OSN_GIR_FC-Web.png" tvg-language="English" group-title="Football",ENG | Ca Osasuna Vs Girona Fc
+https://dai-fancode.pages.dev/mumbai/131111_english_hls_90cbc64f7711673_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
