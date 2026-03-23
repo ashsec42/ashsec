@@ -169,18 +169,18 @@ https://n2.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=tPy3Qsiy0Ub408y0-6z7gQ&exp
 https://n14.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=tTPSjF7ggr6bLp2aljDIBA&expires=1774259056
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-03-23 12:50:28 (BD Time)
+# Update on 2026-03-23 14:03:56 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#DATE:- Monday, 23 March 2026 at 1:35:18 pm
-#EXTINF:-1 tvg-id="141341" tvg-name="Chennai Marvels Vs Chandigarh Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141341_6005_CML_CMA_fc-Web_1773994359697.jpg" tvg-language="English" group-title="Cricket",ENG | Chennai Marvels Vs Chandigarh Mavericks
-https://dai-fancode.pages.dev/mumbai/141341_english_hls_463c32e62f51427_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Monday, 23 March 2026 at 2:42:13 pm
 #EXTINF:-1 tvg-id="141449" tvg-name="Namibia Vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" tvg-language="English" group-title="Cricket",ENG | Namibia Vs Uganda
 https://dai-fancode.pages.dev/mumbai/141449_english_hls_2b45087d4a92556_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="141379" tvg-name="Ganga Warriors Vs Manorama Marvels" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141379_6007_MM_GW_FC-Web.jpg" tvg-language="English" group-title="Cricket",ENG | Ganga Warriors Vs Manorama Marvels
 https://dai-fancode.pages.dev/mumbai/141379_english_hls_b16ff42ccc76138_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141342" tvg-name="Delhi Titans Vs Ahmedabad Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141342_6005_DTA_ALA_fc-Web_1773994359694.jpg" tvg-language="English" group-title="Cricket",ENG | Delhi Titans Vs Ahmedabad Lions
+https://dai-fancode.pages.dev/mumbai/141342_english_hls_54e10e8a2213461_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # https://t.me/cricindia95
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1763955032~acl=/*~id=48386288125538907188836928344745~hmac=bdc381ca62a3886967d347e92b9c2dec05482b9d57cce7c075f4189ff6f84d22
