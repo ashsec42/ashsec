@@ -2234,7 +2234,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "04:46:39 PM 01-04-2026",
+"last update time": "05:27:11 PM 01-04-2026",
 "matches": [
 {
 "event_category": "Tennis",
@@ -2313,18 +2313,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "06:30:00 PM 01-04-2026"
 },
 {
-"event_category": "Football",
-"title": "Racing Club vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
-"src": "https://images.fancode.com/aig/match/v1774680543050/141494_CASACARDS_APP.png",
-"team_1": "Racing Club",
-"team_2": "Sporting de Gij\u00f3n",
-"status": "UPCOMING",
-"event_name": "LALIGA Hypermotion 2025-26",
-"match_name": "Racing Club vs Sporting de Gij\u00f3n",
-"match_id": 141494,
-"startTime": "01:00:00 AM 02-04-2026"
-},
-{
 "event_category": "Cricket",
 "title": "Scotland vs Oman (ICC CWC League 2, Namibia)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/141646_6025_SCO_OMN_fc-Web.jpg",
@@ -2335,6 +2323,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Scotland vs Oman",
 "match_id": 141646,
 "startTime": "01:00:00 PM 02-04-2026"
+},
+{
+"event_category": "Football",
+"title": "Racing Club vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
+"src": "https://images.fancode.com/aig/match/v1774680543050/141494_CASACARDS_APP.png",
+"team_1": "Racing Club",
+"team_2": "Sporting de Gij\u00f3n",
+"status": "UPCOMING",
+"event_name": "LALIGA Hypermotion 2025-26",
+"match_name": "Racing Club vs Sporting de Gij\u00f3n",
+"match_id": 141494,
+"startTime": "01:00:00 AM 02-04-2026"
 },
 {
 "event_category": "Football",
@@ -2397,6 +2397,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "01:30:00 AM 02-04-2026"
 },
 {
+"event_category": "Cricket",
+"title": "West Indies Women vs Australia Women (Australia Women's tour of West Indies 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1774864336440.png",
+"team_1": "West Indies Women",
+"team_2": "Australia Women",
+"status": "UPCOMING",
+"event_name": "Australia Women's tour of West Indies 2026",
+"match_name": "West Indies Women vs Australia Women",
+"match_id": 141333,
+"startTime": "11:30:00 PM 02-04-2026"
+},
+{
 "event_category": "Football",
 "title": "Japan U20 vs India U20 (AFC U20 Women's Asian Cup 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/141616_6021_JP-U20_IND-U20_FC-Web.png",
@@ -2419,18 +2431,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "DPR Korea U20 vs Jordan U20",
 "match_id": 141615,
 "startTime": "06:30:00 PM 02-04-2026"
-},
-{
-"event_category": "Cricket",
-"title": "West Indies Women vs Australia Women (Australia Women's tour of West Indies 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1774864336440.png",
-"team_1": "West Indies Women",
-"team_2": "Australia Women",
-"status": "UPCOMING",
-"event_name": "Australia Women's tour of West Indies 2026",
-"match_name": "West Indies Women vs Australia Women",
-"match_id": 141333,
-"startTime": "11:30:00 PM 02-04-2026"
 },
 {
 "event_category": "Football",
@@ -2481,18 +2481,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "10:30:00 PM 02-04-2026"
 },
 {
-"event_category": "Golf",
-"title": "Main Feed - Day 1 vs San Antonio, Texas (Valero Texas Open 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-"team_1": "Main Feed - Day 1",
-"team_2": "San Antonio, Texas",
-"status": "UPCOMING",
-"event_name": "Valero Texas Open 2026",
-"match_name": "Main Feed - Day 1",
-"match_id": 141777,
-"startTime": "06:00:00 PM 02-04-2026"
-},
-{
 "event_category": "Football",
 "title": "Lyon Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/140966_5720_OLY-W_WOL-W_fc-web.jpg",
@@ -2503,6 +2491,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Lyon Women vs VfL Wolfsburg Women",
 "match_id": 140966,
 "startTime": "12:30:00 AM 03-04-2026"
+},
+{
+"event_category": "Golf",
+"title": "Main Feed - Day 1 vs San Antonio, Texas (Valero Texas Open 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+"team_1": "Main Feed - Day 1",
+"team_2": "San Antonio, Texas",
+"status": "UPCOMING",
+"event_name": "Valero Texas Open 2026",
+"match_name": "Main Feed - Day 1",
+"match_id": 141777,
+"startTime": "06:00:00 PM 02-04-2026"
 },
 {
 "event_category": "Golf",
