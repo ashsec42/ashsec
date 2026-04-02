@@ -7400,7 +7400,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "04:55:50 AM 02-04-2026",
+"last update time": "05:26:14 AM 02-04-2026",
 "matches": [
 {
 "event_category": "Tennis",
@@ -7466,6 +7466,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
+"title": "Lyon Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/140966_5720_OLY-W_WOL-W_fc-web.jpg",
+"team_1": "Lyon Women",
+"team_2": "VfL Wolfsburg Women",
+"status": "UPCOMING",
+"event_name": "UEFA Women's Champions League 2025-26",
+"match_name": "Lyon Women vs VfL Wolfsburg Women",
+"match_id": 140966,
+"startTime": "12:30:00 AM 03-04-2026"
+},
+{
+"event_category": "Football",
 "title": "Macarthur vs Newcastle Jets (A League 2025-26)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/140923_5802_MAC_NJ_fc-web.jpg",
 "team_1": "Macarthur",
@@ -7499,18 +7511,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Korea Republic U20 vs Uzbekistan U20",
 "match_id": 141613,
 "startTime": "02:30:00 PM 02-04-2026"
-},
-{
-"event_category": "Football",
-"title": "Lyon Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/140966_5720_OLY-W_WOL-W_fc-web.jpg",
-"team_1": "Lyon Women",
-"team_2": "VfL Wolfsburg Women",
-"status": "UPCOMING",
-"event_name": "UEFA Women's Champions League 2025-26",
-"match_name": "Lyon Women vs VfL Wolfsburg Women",
-"match_id": 140966,
-"startTime": "12:30:00 AM 03-04-2026"
 },
 {
 "event_category": "Football",
