@@ -7391,10 +7391,16 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd?__hdnea__=s
 #EXTVLCOPT:http-user-agent=@StreamFlex19
 #EXTHTTP:{"cookie":"__hdnea__=st=1775110429~exp=1775196829~acl=/*~hmac=ef1ba26d35e9a08da73f2a3933d0a667446dfdfe955d43481944fe4c48b3500b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_Plus_BTS/output/index.mpd?__hdnea__=st=1775110429~exp=1775196829~acl=/*~hmac=ef1ba26d35e9a08da73f2a3933d0a667446dfdfe955d43481944fe4c48b3500b&xxx=%7Ccookie=__hdnea__=st=1775110429~exp=1775196829~acl=/*~hmac=ef1ba26d35e9a08da73f2a3933d0a667446dfdfe955d43481944fe4c48b3500b
+#EXTINF:-1 tvg-name="Prudent" tvg-logo="https://github.com/ashsec42/GA/blob/main/logos/pru.png?raw=true" group-title="Goa", Prudent
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:-1 tvg-name="IN GOA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/In_Goa_News.jpg" group-title="Goa", IN GOA NEWS
+https://satpros.tech/hls/ingoanews/ingoanews_live_stream/index.m3u8
+#EXTINF:-1 tvg-name="Prime TV" tvg-logo="https://www.primetvgoa.in/wp-content/uploads/2022/11/primetv-mobile-app-e1716881809302.jpg" group-title="Goa", Prime TV
+https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "09:59:17 PM 02-04-2026",
+"last update time": "11:00:00 PM 02-04-2026",
 "matches": [
 {
 "event_category": "Football",
@@ -7407,6 +7413,20 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_Plus_BTS/output/index.mpd?__hdnea
 "match_name": "Barcelona Women vs Real Madrid Women",
 "match_id": 140965,
 "startTime": "10:15:00 PM 02-04-2026",
+"dai_url": null,
+"adfree_url": null
+},
+{
+"event_category": "Football",
+"title": "Las Palmas vs Granada (LALIGA Hypermotion 2025-26)",
+"src": "https://images.fancode.com/aig/match/v1774680543069/141495_CASACARDS_APP.png",
+"team_1": "Las Palmas",
+"team_2": "Granada",
+"status": "LIVE",
+"event_name": "LALIGA Hypermotion 2025-26",
+"match_name": "Las Palmas vs Granada",
+"match_id": 141495,
+"startTime": "10:30:00 PM 02-04-2026",
 "dai_url": null,
 "adfree_url": null
 },
@@ -7494,18 +7514,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_Plus_BTS/output/index.mpd?__hdnea
 },
 {
 "event_category": "Football",
-"title": "Las Palmas vs Granada (LALIGA Hypermotion 2025-26)",
-"src": "https://images.fancode.com/aig/match/v1774680543069/141495_CASACARDS_APP.png",
-"team_1": "Las Palmas",
-"team_2": "Granada",
-"status": "UPCOMING",
-"event_name": "LALIGA Hypermotion 2025-26",
-"match_name": "Las Palmas vs Granada",
-"match_id": 141495,
-"startTime": "10:30:00 PM 02-04-2026"
-},
-{
-"event_category": "Football",
 "title": "Lyon Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/140966_5720_OLY-W_WOL-W_fc-web.jpg",
 "team_1": "Lyon Women",
@@ -7530,6 +7538,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_Plus_BTS/output/index.mpd?__hdnea
 },
 {
 "event_category": "Football",
+"title": "Middlesbrough F.C. vs Millwall F.C. (EFL Championship 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/141428_5489_MIDD_MLW_fc-web.jpg",
+"team_1": "Middlesbrough F.C.",
+"team_2": "Millwall F.C.",
+"status": "UPCOMING",
+"event_name": "EFL Championship 2025-26",
+"match_name": "Middlesbrough F.C. vs Millwall F.C.",
+"match_id": 141428,
+"startTime": "05:00:00 PM 03-04-2026"
+},
+{
+"event_category": "Football",
 "title": "Cambridge United vs Swindon Town (League Two 2025-26)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
 "team_1": "Cambridge United",
@@ -7551,30 +7571,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_Plus_BTS/output/index.mpd?__hdnea
 "match_name": "Legan\u00e9s vs Real Zaragoza",
 "match_id": 141496,
 "startTime": "01:00:00 AM 03-04-2026"
-},
-{
-"event_category": "Football",
-"title": "Middlesbrough F.C. vs Millwall F.C. (EFL Championship 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/141428_5489_MIDD_MLW_fc-web.jpg",
-"team_1": "Middlesbrough F.C.",
-"team_2": "Millwall F.C.",
-"status": "UPCOMING",
-"event_name": "EFL Championship 2025-26",
-"match_name": "Middlesbrough F.C. vs Millwall F.C.",
-"match_id": 141428,
-"startTime": "05:00:00 PM 03-04-2026"
-},
-{
-"event_category": "Football",
-"title": "Adelaide United vs Auckland (A League 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
-"team_1": "Adelaide United",
-"team_2": "Auckland",
-"status": "UPCOMING",
-"event_name": "A League 2025-26",
-"match_name": "Adelaide United vs Auckland",
-"match_id": 140925,
-"startTime": "02:05:00 PM 03-04-2026"
 },
 {
 "event_category": "Football",
@@ -7623,6 +7619,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_Plus_BTS/output/index.mpd?__hdnea
 "match_name": "Punjab FC vs Mohammedan SC",
 "match_id": 141801,
 "startTime": "07:30:00 PM 03-04-2026"
+},
+{
+"event_category": "Football",
+"title": "Adelaide United vs Auckland (A League 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
+"team_1": "Adelaide United",
+"team_2": "Auckland",
+"status": "UPCOMING",
+"event_name": "A League 2025-26",
+"match_name": "Adelaide United vs Auckland",
+"match_id": 140925,
+"startTime": "02:05:00 PM 03-04-2026"
 },
 {
 "event_category": "Football",
