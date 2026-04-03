@@ -7400,7 +7400,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "07:48:57 AM 03-04-2026",
+"last update time": "10:10:39 AM 03-04-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -7429,20 +7429,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "12:30:00 AM 03-04-2026",
 "dai_url": "https://dai-partner.fancode.com/primary/141081_english_hls_29077d768575402_1ta-di_h264/index.m3u8",
 "adfree_url": "https://dai-partner.fancode.com/primary/141081_english_hls_29077d768575402_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Golf",
-"title": "Day 1 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-"team_1": "Day 1",
-"team_2": "Shadow Creek Golf Club",
-"status": "LIVE",
-"event_name": "Aramco Championship USA 2026",
-"match_name": "Day 1",
-"match_id": 141636,
-"startTime": "03:30:00 AM 03-04-2026",
-"dai_url": "https://dai-partner.fancode.com/primary/141636_english_hls_5ed28162dc44409_1ta-di_h264/index.m3u8",
-"adfree_url": "https://dai-partner.fancode.com/primary/141636_english_hls_5ed28162dc44409_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Cricket",
@@ -7574,7 +7560,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
 "match_name": "Tiriac Open - Day 5",
 "match_id": 141292,
-"startTime": "11:00:00 AM 03-04-2026"
+"startTime": "12:30:00 PM 03-04-2026"
 },
 {
 "event_category": "Tennis",
@@ -7586,7 +7572,19 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "event_name": "ATP 250 - Grand Prix Hassan ll 2026",
 "match_name": "Grand Prix Hassan II - Day 5",
 "match_id": 141281,
-"startTime": "02:30:00 PM 03-04-2026"
+"startTime": "03:30:00 PM 03-04-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Namibia vs Oman (ICC CWC League 2, Namibia)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg",
+"team_1": "Namibia",
+"team_2": "Oman",
+"status": "UPCOMING",
+"event_name": "ICC CWC League 2, Namibia",
+"match_name": "Namibia vs Oman",
+"match_id": 141647,
+"startTime": "01:00:00 PM 04-04-2026"
 },
 {
 "event_category": "Golf",
@@ -7646,7 +7644,19 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "event_name": "ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay",
 "match_name": "A Court Feed",
 "match_id": 141082,
-"startTime": "11:30:00 PM 03-04-2026"
+"startTime": "10:30:00 PM 03-04-2026"
+},
+{
+"event_category": "Football",
+"title": "Central Coast Mariners vs Perth Glory (A League 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
+"team_1": "Central Coast Mariners",
+"team_2": "Perth Glory",
+"status": "UPCOMING",
+"event_name": "A League 2025-26",
+"match_name": "Central Coast Mariners vs Perth Glory",
+"match_id": 140926,
+"startTime": "11:30:00 AM 04-04-2026"
 },
 {
 "event_category": "Golf",
@@ -7671,30 +7681,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Day 2",
 "match_id": 141637,
 "startTime": "03:30:00 AM 04-04-2026"
-},
-{
-"event_category": "Cricket",
-"title": "Namibia vs Oman (ICC CWC League 2, Namibia)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg",
-"team_1": "Namibia",
-"team_2": "Oman",
-"status": "UPCOMING",
-"event_name": "ICC CWC League 2, Namibia",
-"match_name": "Namibia vs Oman",
-"match_id": 141647,
-"startTime": "01:00:00 PM 04-04-2026"
-},
-{
-"event_category": "Football",
-"title": "Central Coast Mariners vs Perth Glory (A League 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
-"team_1": "Central Coast Mariners",
-"team_2": "Perth Glory",
-"status": "UPCOMING",
-"event_name": "A League 2025-26",
-"match_name": "Central Coast Mariners vs Perth Glory",
-"match_id": 140926,
-"startTime": "11:30:00 AM 04-04-2026"
 },
 {
 "event_category": "Football",
@@ -7769,18 +7755,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "07:30:00 PM 04-04-2026"
 },
 {
-"event_category": "Tennis",
-"title": "Tiriac Open - Day 6 vs Bucharest, Romania (ATP 250 - Tiriac Open presented by UniCredit Bank )",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
-"team_1": "Tiriac Open - Day 6",
-"team_2": "Bucharest, Romania",
-"status": "UPCOMING",
-"event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
-"match_name": "Tiriac Open - Day 6",
-"match_id": 141294,
-"startTime": "02:30:00 PM 04-04-2026"
-},
-{
 "event_category": "Football",
 "title": "RCD Mallorca vs Real Madrid (LALIGA 2025-26)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/131127_5427_MRC_RM_FC-Web.png",
@@ -7803,6 +7777,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Vietnam U20 vs Thailand U20",
 "match_id": 141618,
 "startTime": "06:30:00 PM 04-04-2026"
+},
+{
+"event_category": "Tennis",
+"title": "Tiriac Open - Day 6 vs Bucharest, Romania (ATP 250 - Tiriac Open presented by UniCredit Bank )",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
+"team_1": "Tiriac Open - Day 6",
+"team_2": "Bucharest, Romania",
+"status": "UPCOMING",
+"event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
+"match_name": "Tiriac Open - Day 6",
+"match_id": 141294,
+"startTime": "02:30:00 PM 04-04-2026"
 },
 {
 "event_category": "Football",
@@ -7863,6 +7849,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Main Feed - Day 3",
 "match_id": 141787,
 "startTime": "07:45:00 PM 04-04-2026"
+},
+{
+"event_category": "Football",
+"title": "Atletico de Madrid vs FC Barcelona (LALIGA 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/131124_5427_ATL_BAR_FC-Web.png",
+"team_1": "Atletico de Madrid",
+"team_2": "FC Barcelona",
+"status": "UPCOMING",
+"event_name": "LALIGA 2025-26",
+"match_name": "Atletico de Madrid vs FC Barcelona",
+"match_id": 131124,
+"startTime": "12:30:00 AM 05-04-2026"
 }
 ]
 }
