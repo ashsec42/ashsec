@@ -6732,7 +6732,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "10:19:34 PM 04-04-2026",
+"last update time": "11:00:10 PM 04-04-2026",
 "matches": [
 {
 "event_category": "Football",
@@ -7004,6 +7004,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
+"title": "Real Oviedo vs Sevilla FC (LALIGA 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/131128_5427_RO_SEV_FC-Web.png",
+"team_1": "Real Oviedo",
+"team_2": "Sevilla FC",
+"status": "UPCOMING",
+"event_name": "LALIGA 2025-26",
+"match_name": "Real Oviedo vs Sevilla FC",
+"match_id": 131128,
+"startTime": "10:00:00 PM 05-04-2026"
+},
+{
+"event_category": "Football",
 "title": "Chinese Taipei U20 vs Japan U20 (AFC U20 Women's Asian Cup 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/141622_6021_CT-U20_JP-U20_FC-Web.png",
 "team_1": "Chinese Taipei U20",
@@ -7028,18 +7040,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"title": "Real Oviedo vs Sevilla FC (LALIGA 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/131128_5427_RO_SEV_FC-Web.png",
-"team_1": "Real Oviedo",
-"team_2": "Sevilla FC",
-"status": "UPCOMING",
-"event_name": "LALIGA 2025-26",
-"match_name": "Real Oviedo vs Sevilla FC",
-"match_id": 131128,
-"startTime": "10:00:00 PM 05-04-2026"
-},
-{
-"event_category": "Football",
 "title": "Al-Ettifaq vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/140724_5655_ETT_ALQ_fc-web.jpg",
 "team_1": "Al-Ettifaq",
@@ -7052,18 +7052,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"title": "Las Palmas vs Huesca (LALIGA Hypermotion 2025-26)",
-"src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
-"team_1": "Las Palmas",
-"team_2": "Huesca",
-"status": "UPCOMING",
-"event_name": "LALIGA Hypermotion 2025-26",
-"match_name": "Las Palmas vs Huesca",
-"match_id": 141685,
-"startTime": "10:00:00 PM 05-04-2026"
-},
-{
-"event_category": "Football",
 "title": "Deportivo Alaves vs CA Osasuna (LALIGA 2025-26)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/131123_5427_ALA_OSN_FC-Web.png",
 "team_1": "Deportivo Alaves",
@@ -7073,6 +7061,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Deportivo Alaves vs CA Osasuna",
 "match_id": 131123,
 "startTime": "12:30:00 AM 06-04-2026"
+},
+{
+"event_category": "Football",
+"title": "Las Palmas vs Huesca (LALIGA Hypermotion 2025-26)",
+"src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
+"team_1": "Las Palmas",
+"team_2": "Huesca",
+"status": "UPCOMING",
+"event_name": "LALIGA Hypermotion 2025-26",
+"match_name": "Las Palmas vs Huesca",
+"match_id": 141685,
+"startTime": "10:00:00 PM 05-04-2026"
 },
 {
 "event_category": "Golf",
