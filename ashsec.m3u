@@ -6732,7 +6732,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "02:32:49 AM 09-04-2026",
+"last update time": "03:23:25 AM 09-04-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -6832,18 +6832,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"title": "Tigres vs Seattle Sounders FC (CONCACAF Champions Cup 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/141882_5954_TIG_SS_FC-Web.png",
-"team_1": "Tigres",
-"team_2": "Seattle Sounders FC",
-"status": "UPCOMING",
-"event_name": "CONCACAF Champions Cup 2026",
-"match_name": "Tigres vs Seattle Sounders FC",
-"match_id": 141882,
-"startTime": "06:30:00 AM 09-04-2026"
-},
-{
-"event_category": "Football",
 "title": "Damac vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/140727_5655_DAM_ALQ_fc-web.jpg",
 "team_1": "Damac",
@@ -6853,6 +6841,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Damac vs Al-Qadsiah FC",
 "match_id": 140727,
 "startTime": "09:30:00 PM 09-04-2026"
+},
+{
+"event_category": "Football",
+"title": "Tigres vs Seattle Sounders FC (CONCACAF Champions Cup 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/141882_5954_TIG_SS_FC-Web.png",
+"team_1": "Tigres",
+"team_2": "Seattle Sounders FC",
+"status": "UPCOMING",
+"event_name": "CONCACAF Champions Cup 2026",
+"match_name": "Tigres vs Seattle Sounders FC",
+"match_id": 141882,
+"startTime": "06:30:00 AM 09-04-2026"
 },
 {
 "event_category": "Football",
