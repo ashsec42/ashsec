@@ -6732,7 +6732,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "05:51:45 PM 11-04-2026",
+"last update time": "07:02:42 PM 11-04-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -6761,6 +6761,62 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "05:45:00 PM 11-04-2026",
 "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141910_english_hls_7e6c6d4c0112386_1ta-di_h264/index.m3u8",
 "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141910_english_hls_7e6c6d4c0112386_1ta-di_h264/index.m3u8"
+},
+{
+"event_category": "Football",
+"title": "Real Sociedad vs Deportivo Alaves (LALIGA 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/131137_5427_RS_ALA_FC-Web.png",
+"team_1": "Real Sociedad",
+"team_2": "Deportivo Alaves",
+"status": "LIVE",
+"event_name": "LALIGA 2025-26",
+"match_name": "Real Sociedad vs Deportivo Alaves",
+"match_id": 131137,
+"startTime": "05:30:00 PM 11-04-2026",
+"dai_url": "https://dai-partner.fancode.com/primary/131137_english_hls_bdf9da542433211_1ta-di_h264/index.m3u8",
+"adfree_url": "https://dai-partner.fancode.com/primary/131137_english_hls_bdf9da542433211_1ta-di_h264/index.m3u8"
+},
+{
+"event_category": "Football",
+"title": "China PR U20 vs Uzbekistan U20 (AFC U20 Women's Asian Cup 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+"team_1": "China PR U20",
+"team_2": "Uzbekistan U20",
+"status": "LIVE",
+"event_name": "AFC U20 Women's Asian Cup 2026",
+"match_name": "China PR U20 vs Uzbekistan U20",
+"match_id": 141630,
+"startTime": "06:30:00 PM 11-04-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/141630_english_hls_cc1737669856857_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141630_english_hls_cc1737669856857_1ta-di_h264/index.m3u8"
+},
+{
+"event_category": "Tennis",
+"title": "Doubles Semi-final vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+"team_1": "Doubles Semi-final",
+"team_2": "Monaco",
+"status": "LIVE",
+"event_name": "ATP Masters Rolex Monte-Carlo 2026",
+"match_name": "Doubles Semi-final",
+"match_id": 141919,
+"startTime": "02:30:00 PM 11-04-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/index.m3u8"
+},
+{
+"event_category": "Tennis",
+"title": "C. Alcaraz vs V. Vacherot vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Carlos-Alcaraz-vs-Valentin-Vacherot_web.jpg",
+"team_1": "C. Alcaraz vs V. Vacherot",
+"team_2": "Monaco",
+"status": "LIVE",
+"event_name": "ATP Masters Rolex Monte-Carlo 2026",
+"match_name": "C. Alcaraz vs V. Vacherot",
+"match_id": 141918,
+"startTime": "05:00:00 PM 11-04-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/141918_english_hls_f126137e2958190_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141918_english_hls_f126137e2958190_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Football",
@@ -6817,88 +6873,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "05:00:00 PM 11-04-2026",
 "dai_url": "https://dai-partner.fancode.com/primary/141807_tamil_hls_f55a3913fd48048_1ta-di_h264/index.m3u8",
 "adfree_url": "https://dai-partner.fancode.com/primary/141807_tamil_hls_f55a3913fd48048_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Football",
-"title": "Real Sociedad vs Deportivo Alaves (LALIGA 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/131137_5427_RS_ALA_FC-Web.png",
-"team_1": "Real Sociedad",
-"team_2": "Deportivo Alaves",
-"status": "LIVE",
-"event_name": "LALIGA 2025-26",
-"match_name": "Real Sociedad vs Deportivo Alaves",
-"match_id": 131137,
-"startTime": "05:30:00 PM 11-04-2026",
-"dai_url": "https://dai-partner.fancode.com/primary/131137_english_hls_bdf9da542433211_1ta-di_h264/index.m3u8",
-"adfree_url": "https://dai-partner.fancode.com/primary/131137_english_hls_bdf9da542433211_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Football",
-"title": "Western Sydney Wanderers vs Sydney FC (A League 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/140932_5802_SYW_SYD_fc-web.jpg",
-"team_1": "Western Sydney Wanderers",
-"team_2": "Sydney FC",
-"status": "LIVE",
-"event_name": "A League 2025-26",
-"match_name": "Western Sydney Wanderers vs Sydney FC",
-"match_id": 140932,
-"startTime": "03:05:00 PM 11-04-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/140932_english_hls_353a89839e99375_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140932_english_hls_353a89839e99375_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Tennis",
-"title": "Doubles Semi-final vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-"team_1": "Doubles Semi-final",
-"team_2": "Monaco",
-"status": "LIVE",
-"event_name": "ATP Masters Rolex Monte-Carlo 2026",
-"match_name": "Doubles Semi-final",
-"match_id": 141919,
-"startTime": "02:30:00 PM 11-04-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Tennis",
-"title": "A. Zverev vs J. Sinner vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Alexander-Zverev_web-(1).jpg",
-"team_1": "A. Zverev vs J. Sinner",
-"team_2": "Monaco",
-"status": "LIVE",
-"event_name": "ATP Masters Rolex Monte-Carlo 2026",
-"match_name": "A. Zverev vs J. Sinner",
-"match_id": 141918,
-"startTime": "05:00:00 PM 11-04-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/141918_english_hls_f126137e2958190_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141918_english_hls_f126137e2958190_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Cricket",
-"title": "New Zealand A vs Sri Lanka A (New Zealand A Tour of Sri Lanka 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg",
-"team_1": "New Zealand A",
-"team_2": "Sri Lanka A",
-"status": "LIVE",
-"event_name": "New Zealand A Tour of Sri Lanka 2026",
-"match_name": "New Zealand A vs Sri Lanka A",
-"match_id": 141800,
-"startTime": "10:00:00 AM 11-04-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Football",
-"title": "China PR U20 vs Uzbekistan U20 (AFC U20 Women's Asian Cup 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
-"team_1": "China PR U20",
-"team_2": "Uzbekistan U20",
-"status": "UPCOMING",
-"event_name": "AFC U20 Women's Asian Cup 2026",
-"match_name": "China PR U20 vs Uzbekistan U20",
-"match_id": 141630,
-"startTime": "06:30:00 PM 11-04-2026"
 },
 {
 "event_category": "Football",
@@ -7009,18 +6983,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "01:00:00 PM 12-04-2026"
 },
 {
-"event_category": "Football",
-"title": "M\u00e1laga vs Las Palmas (LALIGA Hypermotion 2025-26)",
-"src": "https://images.fancode.com/aig/match/v1774680543089/141687_CASACARDS_APP.png",
-"team_1": "M\u00e1laga",
-"team_2": "Las Palmas",
-"status": "UPCOMING",
-"event_name": "LALIGA Hypermotion 2025-26",
-"match_name": "M\u00e1laga vs Las Palmas",
-"match_id": 141687,
-"startTime": "10:00:00 PM 11-04-2026"
-},
-{
 "event_category": "Cricket",
 "title": "Melbourne Pirates vs Everest Falcons (Brisbane Champions League 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
@@ -7031,6 +6993,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Melbourne Pirates vs Everest Falcons",
 "match_id": 141753,
 "startTime": "01:30:00 PM 12-04-2026"
+},
+{
+"event_category": "Football",
+"title": "M\u00e1laga vs Las Palmas (LALIGA Hypermotion 2025-26)",
+"src": "https://images.fancode.com/aig/match/v1774680543089/141687_CASACARDS_APP.png",
+"team_1": "M\u00e1laga",
+"team_2": "Las Palmas",
+"status": "UPCOMING",
+"event_name": "LALIGA Hypermotion 2025-26",
+"match_name": "M\u00e1laga vs Las Palmas",
+"match_id": 141687,
+"startTime": "10:00:00 PM 11-04-2026"
 },
 {
 "event_category": "Football",
@@ -7189,6 +7163,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "08:30:00 PM 12-04-2026"
 },
 {
+"event_category": "Football",
+"title": "Thailand U20 vs Korea Republic U20 (AFC U20 Women's Asian Cup 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+"team_1": "Thailand U20",
+"team_2": "Korea Republic U20",
+"status": "UPCOMING",
+"event_name": "AFC U20 Women's Asian Cup 2026",
+"match_name": "Thailand U20 vs Korea Republic U20",
+"match_id": 141632,
+"startTime": "06:30:00 PM 12-04-2026"
+},
+{
 "event_category": "Golf",
 "title": "Day 3 vs Georgia, USA (The Augusta Masters 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
@@ -7202,15 +7188,27 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"title": "Thailand U20 vs Korea Republic U20 (AFC U20 Women's Asian Cup 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
-"team_1": "Thailand U20",
-"team_2": "Korea Republic U20",
+"title": "Luton Town vs Stockport County (Vertu Trophy 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png",
+"team_1": "Luton Town",
+"team_2": "Stockport County",
 "status": "UPCOMING",
-"event_name": "AFC U20 Women's Asian Cup 2026",
-"match_name": "Thailand U20 vs Korea Republic U20",
-"match_id": 141632,
-"startTime": "06:30:00 PM 12-04-2026"
+"event_name": "Vertu Trophy 2025-26",
+"match_name": "Luton Town vs Stockport County",
+"match_id": 140877,
+"startTime": "07:30:00 PM 12-04-2026"
+},
+{
+"event_category": "Football",
+"title": "Huesca vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
+"src": "https://images.fancode.com/aig/match/v1774680543090/141688_CASACARDS_APP.png",
+"team_1": "Huesca",
+"team_2": "Deportivo La Coruna",
+"status": "UPCOMING",
+"event_name": "LALIGA Hypermotion 2025-26",
+"match_name": "Huesca vs Deportivo La Coruna",
+"match_id": 141688,
+"startTime": "07:45:00 PM 12-04-2026"
 }
 ]
 }
