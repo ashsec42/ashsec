@@ -4788,22 +4788,8 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "08:29:00 PM 18-04-2026",
+"last update time": "09:19:49 PM 18-04-2026",
 "matches": [
-{
-"event_category": "Cricket",
-"title": "Scotland vs Namibia (Scotland tour of Namibia, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
-"team_1": "Scotland",
-"team_2": "Namibia",
-"status": "LIVE",
-"event_name": "Scotland tour of Namibia, 2026",
-"match_name": "Scotland vs Namibia",
-"match_id": 142017,
-"startTime": "05:30:00 PM 18-04-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/142017_english_hls_0b86e621bc25639_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142017_english_hls_0b86e621bc25639_1ta-di_h264/index.m3u8"
-},
 {
 "event_category": "Football",
 "title": "FC Goa vs Mumbai City FC (ISL 2025-26)",
@@ -4929,18 +4915,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "12:30:00 PM 19-04-2026"
 },
 {
-"event_category": "Cricket",
-"title": "Italy Women vs Nepal Women (ICC Women's T20I Challenge Trophy, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/142049_6045_ITA-W_NP-W_fc-web.jpg",
-"team_1": "Italy Women",
-"team_2": "Nepal Women",
-"status": "UPCOMING",
-"event_name": "ICC Women's T20I Challenge Trophy, 2026",
-"match_name": "Italy Women vs Nepal Women",
-"match_id": 142049,
-"startTime": "04:30:00 PM 19-04-2026"
-},
-{
 "event_category": "Football",
 "title": "Buriram United vs Shabab Al Ahli (AFC Champions League Elite 2025-26)",
 "src": "https://images.fancode.com/aig/match/v1776321743564/141676_CASACARDS_APP.png",
@@ -4951,6 +4925,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Buriram United vs Shabab Al Ahli",
 "match_id": 141676,
 "startTime": "09:45:00 PM 18-04-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Italy Women vs Nepal Women (ICC Women's T20I Challenge Trophy, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/142049_6045_ITA-W_NP-W_fc-web.jpg",
+"team_1": "Italy Women",
+"team_2": "Nepal Women",
+"status": "UPCOMING",
+"event_name": "ICC Women's T20I Challenge Trophy, 2026",
+"match_name": "Italy Women vs Nepal Women",
+"match_id": 142049,
+"startTime": "04:30:00 PM 19-04-2026"
 },
 {
 "event_category": "Football",
@@ -4966,18 +4952,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"title": "Auckland vs Central Coast Mariners (A League 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/140939_5802_AFC_CCM_fc-web.jpg",
-"team_1": "Auckland",
-"team_2": "Central Coast Mariners",
-"status": "UPCOMING",
-"event_name": "A League 2025-26",
-"match_name": "Auckland vs Central Coast Mariners",
-"match_id": 140939,
-"startTime": "08:30:00 AM 19-04-2026"
-},
-{
-"event_category": "Football",
 "title": "Ipswich Town F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/141529_5489_IPT_MIDD_fc-web_1776167542451.jpg",
 "team_1": "Ipswich Town F.C.",
@@ -4987,6 +4961,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Ipswich Town F.C. vs Middlesbrough F.C.",
 "match_id": 141529,
 "startTime": "04:30:00 PM 19-04-2026"
+},
+{
+"event_category": "Football",
+"title": "Auckland vs Central Coast Mariners (A League 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/140939_5802_AFC_CCM_fc-web.jpg",
+"team_1": "Auckland",
+"team_2": "Central Coast Mariners",
+"status": "UPCOMING",
+"event_name": "A League 2025-26",
+"match_name": "Auckland vs Central Coast Mariners",
+"match_id": 140939,
+"startTime": "08:30:00 AM 19-04-2026"
 },
 {
 "event_category": "Football",
@@ -5181,18 +5167,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "05:30:00 PM 19-04-2026"
 },
 {
-"event_category": "Golf",
-"title": "Featured Groups - Day 4 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-"team_1": "Featured Groups - Day 4",
-"team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
-"status": "UPCOMING",
-"event_name": "RBC Heritage 2026",
-"match_name": "Featured Groups - Day 4",
-"match_id": 141945,
-"startTime": "06:15:00 PM 19-04-2026"
-},
-{
 "event_category": "Football",
 "title": "Al Ahli (QAT) vs Al Hussein (AFC Champions League Two 2025-26)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/140872_5648_ASC_HUS_FC-WEB_1775570097662.jpg",
@@ -5218,6 +5192,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Golf",
+"title": "Featured Groups - Day 4 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+"team_1": "Featured Groups - Day 4",
+"team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
+"status": "UPCOMING",
+"event_name": "RBC Heritage 2026",
+"match_name": "Featured Groups - Day 4",
+"match_id": 141945,
+"startTime": "06:15:00 PM 19-04-2026"
+},
+{
+"event_category": "Golf",
 "title": "Marquee Group - Day 4 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
 "team_1": "Marquee Group - Day 4",
@@ -5239,6 +5225,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "World Feed - Day 4",
 "match_id": 141933,
 "startTime": "11:30:00 PM 19-04-2026"
+},
+{
+"event_category": "Golf",
+"title": "Day 4 vs Concession Golf Course (Senior PGA Championship 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg",
+"team_1": "Day 4",
+"team_2": "Concession Golf Course",
+"status": "UPCOMING",
+"event_name": "Senior PGA Championship 2026",
+"match_name": "Day 4",
+"match_id": 142045,
+"startTime": "12:30:00 AM 20-04-2026"
 }
 ]
 }
