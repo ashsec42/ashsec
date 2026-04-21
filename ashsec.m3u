@@ -4788,7 +4788,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "01:02:09 AM 22-04-2026",
+"last update time": "01:52:50 AM 22-04-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -4958,18 +4958,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"title": "Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--(Al-Nassr)-vs-(Al-Ahli-SC)--old.jpg",
-"team_1": "Al-Nassr FC",
-"team_2": "Al Ahli (QAT)",
-"status": "UPCOMING",
-"event_name": "AFC Champions League Two 2025-26",
-"match_name": "Al-Nassr FC vs Al Ahli (QAT)",
-"match_id": 141580,
-"startTime": "09:30:00 PM 22-04-2026"
-},
-{
-"event_category": "Football",
 "title": "FC Barcelona vs RC Celta (LALIGA 2025-26)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png",
 "team_1": "FC Barcelona",
@@ -4979,6 +4967,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "FC Barcelona vs RC Celta",
 "match_id": 131152,
 "startTime": "01:00:00 AM 23-04-2026"
+},
+{
+"event_category": "Football",
+"title": "Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--(Al-Nassr)-vs-(Al-Ahli-SC)--old.jpg",
+"team_1": "Al-Nassr FC",
+"team_2": "Al Ahli (QAT)",
+"status": "UPCOMING",
+"event_name": "AFC Champions League Two 2025-26",
+"match_name": "Al-Nassr FC vs Al Ahli (QAT)",
+"match_id": 141580,
+"startTime": "09:30:00 PM 22-04-2026"
 },
 {
 "event_category": "Tennis",
