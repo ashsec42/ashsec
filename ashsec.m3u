@@ -3524,7 +3524,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "05:20:09 PM 26-04-2026",
+"last update time": "06:31:29 PM 26-04-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -3539,20 +3539,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "04:30:00 PM 26-04-2026",
 "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142057_english_hls_836c2a332353689_1ta-di_h264/index.m3u8",
 "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142057_english_hls_836c2a332353689_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Football",
-"title": "Coventry City F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/141929_5489_CVC_WRX_fc-web.jpg",
-"team_1": "Coventry City F.C.",
-"team_2": "Wrexham A.F.C.",
-"status": "LIVE",
-"event_name": "EFL Championship 2025-26",
-"match_name": "Coventry City F.C. vs Wrexham A.F.C.",
-"match_id": 141929,
-"startTime": "04:30:00 PM 26-04-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/141929_english_hls_731f1135f173776_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141929_english_hls_731f1135f173776_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Football",
@@ -3639,6 +3625,20 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "adfree_url": "https://dai-partner.fancode.com/primary/131145_english_hls_f9cf24fdba84044_1ta-di_h264/index.m3u8"
 },
 {
+"event_category": "Football",
+"title": "Liverpool Women vs West Ham United Women (Women's Super League 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/142168_5826_LIV-W_WHU-W_FC-Web.jpg",
+"team_1": "Liverpool Women",
+"team_2": "West Ham United Women",
+"status": "LIVE",
+"event_name": "Women's Super League 2025-26",
+"match_name": "Liverpool Women vs West Ham United Women",
+"match_id": 142168,
+"startTime": "06:30:00 PM 26-04-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/142168_english_hls_0f7e26758964273_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142168_english_hls_0f7e26758964273_1ta-di_h264/index.m3u8"
+},
+{
 "event_category": "Motorsports",
 "title": "Day 3 - Red Bull Ring vs Red Bull Ring (DTM 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png",
@@ -3723,20 +3723,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142282_english_hls_4e681e053067377_1ta-di_h264/index.m3u8"
 },
 {
-"event_category": "Golf",
-"title": "Day 4 vs Royal Cape Golf Club (Investec South African Women's Open 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
-"team_1": "Day 4",
-"team_2": "Royal Cape Golf Club",
-"status": "LIVE",
-"event_name": "Investec South African Women's Open 2026",
-"match_name": "Day 4",
-"match_id": 141645,
-"startTime": "04:00:00 PM 26-04-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/141645_english_hls_bb21e8f27827957_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141645_english_hls_bb21e8f27827957_1ta-di_h264/index.m3u8"
-},
-{
 "event_category": "Motorsports",
 "title": "Europe - Day 2 vs Mugello, Italy (Ferrari Challenge Series 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
@@ -3751,6 +3737,20 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142184_english_hls_ff87ee1dd04637_1ta-di_h264/index.m3u8"
 },
 {
+"event_category": "Football",
+"title": "Coventry City F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/141929_5489_CVC_WRX_fc-web.jpg",
+"team_1": "Coventry City F.C.",
+"team_2": "Wrexham A.F.C.",
+"status": "LIVE",
+"event_name": "EFL Championship 2025-26",
+"match_name": "Coventry City F.C. vs Wrexham A.F.C.",
+"match_id": 141929,
+"startTime": "04:30:00 PM 26-04-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/141929_english_hls_731f1135f173776_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141929_english_hls_731f1135f173776_1ta-di_h264/index.m3u8"
+},
+{
 "event_category": "Cricket",
 "title": "United Arab Emirates vs Oman (ICC CWC League 2, Nepal 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
@@ -3761,30 +3761,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "United Arab Emirates vs Oman",
 "match_id": 141977,
 "startTime": "09:15:00 AM 27-04-2026"
-},
-{
-"event_category": "Cricket",
-"title": "Rwanda Women vs Italy Women (ICC Women's T20I Challenge Trophy, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/142058_6045_RWA-W_ITA-W_fc-web.jpg",
-"team_1": "Rwanda Women",
-"team_2": "Italy Women",
-"status": "UPCOMING",
-"event_name": "ICC Women's T20I Challenge Trophy, 2026",
-"match_name": "Rwanda Women vs Italy Women",
-"match_id": 142058,
-"startTime": "12:30:00 PM 27-04-2026"
-},
-{
-"event_category": "Cricket",
-"title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
-"team_1": "Bangladesh",
-"team_2": "New Zealand",
-"status": "UPCOMING",
-"event_name": "New Zealand tour of Bangladesh, 2026",
-"match_name": "Bangladesh vs New Zealand",
-"match_id": 142069,
-"startTime": "01:30:00 PM 27-04-2026"
 },
 {
 "event_category": "Cricket",
@@ -3812,6 +3788,30 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Cricket",
+"title": "Rwanda Women vs Italy Women (ICC Women's T20I Challenge Trophy, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/142058_6045_RWA-W_ITA-W_fc-web.jpg",
+"team_1": "Rwanda Women",
+"team_2": "Italy Women",
+"status": "UPCOMING",
+"event_name": "ICC Women's T20I Challenge Trophy, 2026",
+"match_name": "Rwanda Women vs Italy Women",
+"match_id": 142058,
+"startTime": "12:30:00 PM 27-04-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
+"team_1": "Bangladesh",
+"team_2": "New Zealand",
+"status": "UPCOMING",
+"event_name": "New Zealand tour of Bangladesh, 2026",
+"match_name": "Bangladesh vs New Zealand",
+"match_id": 142069,
+"startTime": "01:30:00 PM 27-04-2026"
+},
+{
+"event_category": "Cricket",
 "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
 "team_1": "Jamaica Scorpions",
@@ -3821,18 +3821,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Jamaica Scorpions vs Barbados Pride",
 "match_id": 141954,
 "startTime": "08:30:00 PM 26-04-2026"
-},
-{
-"event_category": "Football",
-"title": "Liverpool Women vs West Ham United Women (Women's Super League 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/142168_5826_LIV-W_WHU-W_FC-Web.jpg",
-"team_1": "Liverpool Women",
-"team_2": "West Ham United Women",
-"status": "UPCOMING",
-"event_name": "Women's Super League 2025-26",
-"match_name": "Liverpool Women vs West Ham United Women",
-"match_id": 142168,
-"startTime": "06:30:00 PM 26-04-2026"
 },
 {
 "event_category": "Football",
@@ -3967,6 +3955,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "11:30:00 PM 26-04-2026"
 },
 {
+"event_category": "Football",
+"title": "RCD Espanyol vs Levante (LALIGA 2025-26)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/131143_5427_ESL_LE_FC-Web.png",
+"team_1": "RCD Espanyol",
+"team_2": "Levante",
+"status": "UPCOMING",
+"event_name": "LALIGA 2025-26",
+"match_name": "RCD Espanyol vs Levante",
+"match_id": 131143,
+"startTime": "12:30:00 AM 28-04-2026"
+},
+{
 "event_category": "Tennis",
 "title": "ATP Masters Mutua Madrid Open 2026 vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png",
@@ -3992,15 +3992,15 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"title": "RCD Espanyol vs Levante (LALIGA 2025-26)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/131143_5427_ESL_LE_FC-Web.png",
-"team_1": "RCD Espanyol",
-"team_2": "Levante",
+"title": "C\u00e1diz vs Las Palmas (LALIGA Hypermotion 2025-26)",
+"src": "https://images.fancode.com/aig/match/v1776063278977/142041_CASACARDS_APP.png",
+"team_1": "C\u00e1diz",
+"team_2": "Las Palmas",
 "status": "UPCOMING",
-"event_name": "LALIGA 2025-26",
-"match_name": "RCD Espanyol vs Levante",
-"match_id": 131143,
-"startTime": "12:30:00 AM 28-04-2026"
+"event_name": "LALIGA Hypermotion 2025-26",
+"match_name": "C\u00e1diz vs Las Palmas",
+"match_id": 142041,
+"startTime": "12:00:00 AM 28-04-2026"
 }
 ]
 }
