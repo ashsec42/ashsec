@@ -8,22 +8,8 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "03:22:31 AM 23-05-2026",
+"last update time": "04:23:08 AM 23-05-2026",
 "matches": [
-{
-"event_category": "Golf",
-"title": "Day 2 - Main Feed vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
-"team_1": "Day 2 - Main Feed",
-"team_2": "TPC Craig Ranch - McKinney, Texas",
-"status": "LIVE",
-"event_name": "The CJ Cup Byron Nelson 2026",
-"match_name": "Day 2 - Main Feed",
-"match_id": 142120,
-"startTime": "05:30:00 PM 22-05-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/142120_english_hls_27f9701cee7073_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142120_english_hls_27f9701cee7073_1ta-di_h264/index.m3u8"
-},
 {
 "event_category": "Golf",
 "title": "Day 2 - Featured Groups vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)",
@@ -37,20 +23,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "05:45:00 PM 22-05-2026",
 "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142123_english_hls_28f9e5a60c64227_1ta-di_h264/index.m3u8",
 "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142123_english_hls_28f9e5a60c64227_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Golf",
-"title": "Day 2 - Marquee Group vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
-"team_1": "Day 2 - Marquee Group",
-"team_2": "TPC Craig Ranch - McKinney, Texas",
-"status": "LIVE",
-"event_name": "The CJ Cup Byron Nelson 2026",
-"match_name": "Day 2 - Marquee Group",
-"match_id": 142121,
-"startTime": "06:00:00 PM 22-05-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/142121_english_hls_686c0af15485822_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142121_english_hls_686c0af15485822_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Golf",
@@ -79,6 +51,20 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "01:30:00 AM 23-05-2026",
 "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142119_english_hls_b632ba230c3253_1ta-di_h264/index.m3u8",
 "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142119_english_hls_b632ba230c3253_1ta-di_h264/index.m3u8"
+},
+{
+"event_category": "Motorsports",
+"title": "Day 1 - Qualifying vs Montreal (F1 ACADEMY CANADA 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg",
+"team_1": "Day 1 - Qualifying",
+"team_2": "Montreal",
+"status": "LIVE",
+"event_name": "F1 ACADEMY CANADA 2026",
+"match_name": "Day 1 - Qualifying",
+"match_id": 142675,
+"startTime": "03:30:00 AM 23-05-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/142675_english_hls_1ea299158947711_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142675_english_hls_1ea299158947711_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Cricket",
@@ -238,32 +224,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"title": "Charlton Athletic F.C vs Leicester City Women (WSL Promotion Play-off 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/WSL_Web.jpg",
-"team_1": "Charlton Athletic F.C",
-"team_2": "Leicester City Women",
-"status": "UPCOMING",
-"event_name": "WSL Promotion Play-off 2026",
-"match_name": "Charlton Athletic F.C vs Leicester City Women",
-"match_id": 142948,
-"startTime": "05:00:00 PM 23-05-2026"
-},
-{
-"event_category": "Motorsports",
-"title": "Day 1 - Qualifying vs Montreal (F1 ACADEMY CANADA 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg",
-"team_1": "Day 1 - Qualifying",
-"team_2": "Montreal",
-"status": "LIVE",
-"event_name": "F1 ACADEMY CANADA 2026",
-"match_name": "Day 1 - Qualifying",
-"match_id": 142675,
-"startTime": "03:30:00 AM 23-05-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/142675_english_hls_1ea299158947711_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142675_english_hls_1ea299158947711_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Football",
 "title": "Girona FC vs Elche CF (LALIGA 2025-26)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png",
 "team_1": "Girona FC",
@@ -372,6 +332,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
+"title": "Charlton Athletic F.C vs Leicester City Women (WSL Promotion Play-off 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/WSL_Web.jpg",
+"team_1": "Charlton Athletic F.C",
+"team_2": "Leicester City Women",
+"status": "UPCOMING",
+"event_name": "WSL Promotion Play-off 2026",
+"match_name": "Charlton Athletic F.C vs Leicester City Women",
+"match_id": 142948,
+"startTime": "05:00:00 PM 23-05-2026"
+},
+{
+"event_category": "Football",
 "title": "Celtic vs Dunfermline (Scottish Cup 2025-26)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
 "team_1": "Celtic",
@@ -381,6 +353,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Celtic vs Dunfermline",
 "match_id": 142515,
 "startTime": "07:30:00 PM 23-05-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Boost Region vs Speen Ghar Region (Supercola Regional List A Tournament, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
+"team_1": "Boost Region",
+"team_2": "Speen Ghar Region",
+"status": "UPCOMING",
+"event_name": "Supercola Regional List A Tournament, 2026",
+"match_name": "Boost Region vs Speen Ghar Region",
+"match_id": 142746,
+"startTime": "10:00:00 AM 24-05-2026"
 },
 {
 "event_category": "Motorsports",
