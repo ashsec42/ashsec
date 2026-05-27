@@ -8,7 +8,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "05:00:45 AM 27-05-2026",
+"last update time": "07:02:07 AM 27-05-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -155,6 +155,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "04:30:00 PM 28-05-2026"
 },
 {
+"event_category": "Cricket",
+"title": "Ireland Women vs West Indies Women (Women's T20I Tri-Series in Ireland 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+"team_1": "Ireland Women",
+"team_2": "West Indies Women",
+"status": "UPCOMING",
+"event_name": "Women's T20I Tri-Series in Ireland 2026",
+"match_name": "Ireland Women vs West Indies Women",
+"match_id": 143052,
+"startTime": "08:30:00 PM 28-05-2026"
+},
+{
 "event_category": "Tennis",
 "title": "Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
@@ -213,18 +225,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Top seeds in action",
 "match_id": 142954,
 "startTime": "02:30:00 PM 28-05-2026"
-},
-{
-"event_category": "Cricket",
-"title": "Ireland Women vs West Indies Women (Women's T20I Tri-Series in Ireland 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-"team_1": "Ireland Women",
-"team_2": "West Indies Women",
-"status": "UPCOMING",
-"event_name": "Women's T20I Tri-Series in Ireland 2026",
-"match_name": "Ireland Women vs West Indies Women",
-"match_id": 143052,
-"startTime": "08:30:00 PM 28-05-2026"
 },
 {
 "event_category": "Football",
