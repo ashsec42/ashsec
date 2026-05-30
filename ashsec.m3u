@@ -8,7 +8,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "06:49:36 AM 30-05-2026",
+"last update time": "10:52:14 AM 30-05-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -16,11 +16,13 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
 "team_1": "Mis-e-Ainak Region",
 "team_2": "Speen Ghar Region",
-"status": "UPCOMING",
+"status": "LIVE",
 "event_name": "Supercola Regional List A Tournament, 2026",
 "match_name": "Mis-e-Ainak Region vs Speen Ghar Region",
 "match_id": 142748,
-"startTime": "10:00:00 AM 30-05-2026"
+"startTime": "10:00:00 AM 30-05-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/142748_english_hls_7ae2504f0712693_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142748_english_hls_7ae2504f0712693_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Cricket",
@@ -132,18 +134,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Tennis",
-"title": "Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-"team_1": "Court Philippe-Chatrier",
-"team_2": "Stade Roland Garros Paris, France",
-"status": "UPCOMING",
-"event_name": "Roland Garros 2026",
-"match_name": "Court Philippe-Chatrier",
-"match_id": 142684,
-"startTime": "02:30:00 PM 30-05-2026"
-},
-{
-"event_category": "Tennis",
 "title": "Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
 "team_1": "Court Suzanne-Lenglen",
@@ -191,6 +181,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "02:30:00 PM 30-05-2026"
 },
 {
+"event_category": "Tennis",
+"title": "Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+"team_1": "Court Philippe-Chatrier",
+"team_2": "Stade Roland Garros Paris, France",
+"status": "UPCOMING",
+"event_name": "Roland Garros 2026",
+"match_name": "Court Philippe-Chatrier",
+"match_id": 142684,
+"startTime": "03:30:00 PM 30-05-2026"
+},
+{
 "event_category": "Golf",
 "title": "Day 3 - Main Feed vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
@@ -224,7 +226,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "event_name": "Charles Schwab Challenge 2026",
 "match_name": "Day 3 - Featured Groups",
 "match_id": 142899,
-"startTime": "06:45:00 PM 30-05-2026"
+"startTime": "07:00:00 PM 30-05-2026"
 },
 {
 "event_category": "Golf",
@@ -236,7 +238,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "event_name": "Charles Schwab Challenge 2026",
 "match_name": "Day 3 - Marquee Group",
 "match_id": 142898,
-"startTime": "07:00:00 PM 30-05-2026"
+"startTime": "08:00:00 PM 30-05-2026"
 },
 {
 "event_category": "Golf",
@@ -251,18 +253,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "11:00:00 PM 30-05-2026"
 },
 {
-"event_category": "Football",
-"title": "Nepal Women vs Sri Lanka Women (SAFF Women's Championship 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/142939_6089_NLW_SLW_FC-Web_1779706389448.jpg",
-"team_1": "Nepal Women",
-"team_2": "Sri Lanka Women",
-"status": "UPCOMING",
-"event_name": "SAFF Women's Championship 2026",
-"match_name": "Nepal Women vs Sri Lanka Women",
-"match_id": 142939,
-"startTime": "04:30:00 PM 31-05-2026"
-},
-{
 "event_category": "Cricket",
 "title": "Ireland Women vs Pakistan Women (Women's T20I Tri-Series in Ireland 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women's-T20I-Tri-Series_fc-web.jpg",
@@ -273,6 +263,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Ireland Women vs Pakistan Women",
 "match_id": 143054,
 "startTime": "08:30:00 PM 31-05-2026"
+},
+{
+"event_category": "Football",
+"title": "Nepal Women vs Sri Lanka Women (SAFF Women's Championship 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/142939_6089_NLW_SLW_FC-Web_1779706389448.jpg",
+"team_1": "Nepal Women",
+"team_2": "Sri Lanka Women",
+"status": "UPCOMING",
+"event_name": "SAFF Women's Championship 2026",
+"match_name": "Nepal Women vs Sri Lanka Women",
+"match_id": 142939,
+"startTime": "04:30:00 PM 31-05-2026"
 },
 {
 "event_category": "MotoGP",
