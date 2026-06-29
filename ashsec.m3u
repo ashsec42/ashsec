@@ -8,8 +8,22 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "07:17:49 AM 29-06-2026",
+"last update time": "12:20:56 PM 29-06-2026",
 "matches": [
+{
+"event_category": "Cricket",
+"title": "Itahari Super Kings vs Mills Cricket Club (KPL Indo Nepal T20 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+"team_1": "Itahari Super Kings",
+"team_2": "Mills Cricket Club",
+"status": "LIVE",
+"event_name": "KPL Indo Nepal T20 2026",
+"match_name": "Itahari Super Kings vs Mills Cricket Club",
+"match_id": 143527,
+"startTime": "08:45:00 AM 29-06-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/143527_english_hls_326b1a1f7d22680_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143527_english_hls_326b1a1f7d22680_1ta-di_h264/index.m3u8"
+},
 {
 "event_category": "Cricket",
 "title": "Bangladesh vs Zimbabwe (Bangladesh tour of Zimbabwe, 2026)",
@@ -21,18 +35,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Bangladesh vs Zimbabwe",
 "match_id": 143399,
 "startTime": "01:00:00 PM 28-06-2026"
-},
-{
-"event_category": "Cricket",
-"title": "Itahari Super Kings vs Mills Cricket Club (KPL Indo Nepal T20 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-"team_1": "Itahari Super Kings",
-"team_2": "Mills Cricket Club",
-"status": "UPCOMING",
-"event_name": "KPL Indo Nepal T20 2026",
-"match_name": "Itahari Super Kings vs Mills Cricket Club",
-"match_id": 143527,
-"startTime": "08:45:00 AM 29-06-2026"
 },
 {
 "event_category": "Cricket",
@@ -168,6 +170,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Cricket",
+"title": "TBC vs TBC (Future Star U-15 Championship 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+"team_1": "TBC",
+"team_2": "TBC",
+"status": "UPCOMING",
+"event_name": "Future Star U-15 Championship 2026",
+"match_name": "TBC vs TBC",
+"match_id": 143565,
+"startTime": "07:30:00 PM 30-06-2026"
+},
+{
+"event_category": "Cricket",
 "title": "Mills Cricket Club vs RML Sports (KPL Indo Nepal T20 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
 "team_1": "Mills Cricket Club",
@@ -264,18 +278,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Cricket",
-"title": "Hubli Tigers vs Mysore Warriors (Maharaja T20 Trophy, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/143435_6134_HT_MW_FC-WEB_1782272592974.jpg",
-"team_1": "Hubli Tigers",
-"team_2": "Mysore Warriors",
-"status": "UPCOMING",
-"event_name": "Maharaja T20 Trophy, 2026",
-"match_name": "Hubli Tigers vs Mysore Warriors",
-"match_id": 143435,
-"startTime": "02:00:00 PM 02-07-2026"
-},
-{
-"event_category": "Cricket",
 "title": "Namibia vs Vidarbha (Vidarbha Cricket Association tour of Namibia)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
 "team_1": "Namibia",
@@ -285,6 +287,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Namibia vs Vidarbha",
 "match_id": 143628,
 "startTime": "01:00:00 PM 02-07-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Hubli Tigers vs Mysore Warriors (Maharaja T20 Trophy, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/143435_6134_HT_MW_FC-WEB_1782272592974.jpg",
+"team_1": "Hubli Tigers",
+"team_2": "Mysore Warriors",
+"status": "UPCOMING",
+"event_name": "Maharaja T20 Trophy, 2026",
+"match_name": "Hubli Tigers vs Mysore Warriors",
+"match_id": 143435,
+"startTime": "02:00:00 PM 02-07-2026"
 },
 {
 "event_category": "Cricket",
@@ -407,6 +421,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "07:00:00 PM 03-07-2026"
 },
 {
+"event_category": "Cricket",
+"title": "Band-e-Amir Dragons vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+"team_1": "Band-e-Amir Dragons",
+"team_2": "Mis-e-Ainak Knights",
+"status": "UPCOMING",
+"event_name": "Shpageeza Cricket League, 2026",
+"match_name": "Band-e-Amir Dragons vs Mis-e-Ainak Knights",
+"match_id": 143586,
+"startTime": "03:00:00 PM 03-07-2026"
+},
+{
 "event_category": "Formula 1",
 "title": "Practice 1 vs Great Britain (F1 PIRELLI BRITISH GRAND PRIX 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
@@ -455,16 +481,16 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "02:30:00 PM 03-07-2026"
 },
 {
-"event_category": "Cricket",
-"title": "Band-e-Amir Dragons vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-"team_1": "Band-e-Amir Dragons",
-"team_2": "Mis-e-Ainak Knights",
+"event_category": "Golf",
+"title": "Day 2 vs Hulencourt Golf Club, Belgium (Hulencourt Women's Open 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
+"team_1": "Day 2",
+"team_2": "Hulencourt Golf Club, Belgium",
 "status": "UPCOMING",
-"event_name": "Shpageeza Cricket League, 2026",
-"match_name": "Band-e-Amir Dragons vs Mis-e-Ainak Knights",
-"match_id": 143586,
-"startTime": "03:00:00 PM 03-07-2026"
+"event_name": "Hulencourt Women's Open 2026",
+"match_name": "Day 2",
+"match_id": 143409,
+"startTime": "07:30:00 PM 03-07-2026"
 }
 ]
 }
