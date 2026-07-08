@@ -8,7 +8,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "09:03:54 AM 08-07-2026",
+"last update time": "11:45:35 AM 08-07-2026",
 "matches": [
 {
 "event_category": "Live Events",
@@ -134,18 +134,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Cricket",
-"title": "Bost Defenders vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/143595_6148_BOS_SG_fc-web_1782725011626.jpg",
-"team_1": "Bost Defenders",
-"team_2": "Speen Ghar Tigers",
-"status": "UPCOMING",
-"event_name": "Shpageeza Cricket League, 2026",
-"match_name": "Bost Defenders vs Speen Ghar Tigers",
-"match_id": 143595,
-"startTime": "10:00:00 AM 09-07-2026"
-},
-{
-"event_category": "Cricket",
 "title": "Estonia vs Norway (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
 "team_1": "Estonia",
@@ -155,18 +143,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Estonia vs Norway",
 "match_id": 4246566,
 "startTime": "07:00:00 PM 09-07-2026"
-},
-{
-"event_category": "Cricket",
-"title": "Band-e-Amir Dragons vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg",
-"team_1": "Band-e-Amir Dragons",
-"team_2": "Mis-e-Ainak Knights",
-"status": "UPCOMING",
-"event_name": "Shpageeza Cricket League, 2026",
-"match_name": "Band-e-Amir Dragons vs Mis-e-Ainak Knights",
-"match_id": 143596,
-"startTime": "03:00:00 PM 09-07-2026"
 },
 {
 "event_category": "Live Events",
@@ -179,6 +155,30 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Day 2",
 "match_id": 4246600,
 "startTime": "09:00:00 AM 09-07-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Bost Defenders vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/143595_6148_BOS_SG_fc-web_1782725011626.jpg",
+"team_1": "Bost Defenders",
+"team_2": "Speen Ghar Tigers",
+"status": "UPCOMING",
+"event_name": "Shpageeza Cricket League, 2026",
+"match_name": "Bost Defenders vs Speen Ghar Tigers",
+"match_id": 143595,
+"startTime": "10:00:00 AM 09-07-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Band-e-Amir Dragons vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg",
+"team_1": "Band-e-Amir Dragons",
+"team_2": "Mis-e-Ainak Knights",
+"status": "UPCOMING",
+"event_name": "Shpageeza Cricket League, 2026",
+"match_name": "Band-e-Amir Dragons vs Mis-e-Ainak Knights",
+"match_id": 143596,
+"startTime": "03:00:00 PM 09-07-2026"
 },
 {
 "event_category": "Golf",
@@ -241,6 +241,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "03:15:00 PM 10-07-2026"
 },
 {
+"event_category": "Live Events",
+"title": "Day 3 vs Goa (Dream UTT Juniors 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+"team_1": "Day 3",
+"team_2": "Goa",
+"status": "UPCOMING",
+"event_name": "Dream UTT Juniors 2026",
+"match_name": "Day 3",
+"match_id": 4246601,
+"startTime": "09:00:00 AM 10-07-2026"
+},
+{
 "event_category": "Cricket",
 "title": "TBC vs TBC (Maharaja T20 Trophy, 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -287,18 +299,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Turkiye vs Norway",
 "match_id": 4246571,
 "startTime": "07:00:00 PM 10-07-2026"
-},
-{
-"event_category": "Live Events",
-"title": "Day 3 vs Goa (Dream UTT Juniors 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-"team_1": "Day 3",
-"team_2": "Goa",
-"status": "UPCOMING",
-"event_name": "Dream UTT Juniors 2026",
-"match_name": "Day 3",
-"match_id": 4246601,
-"startTime": "09:00:00 AM 10-07-2026"
 },
 {
 "event_category": "Cricket",
@@ -349,6 +349,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "01:00:00 PM 11-07-2026"
 },
 {
+"event_category": "Live Events",
+"title": "Day 4 vs Goa (Dream UTT Juniors 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+"team_1": "Day 4",
+"team_2": "Goa",
+"status": "UPCOMING",
+"event_name": "Dream UTT Juniors 2026",
+"match_name": "Day 4",
+"match_id": 4246602,
+"startTime": "09:00:00 AM 11-07-2026"
+},
+{
 "event_category": "Cricket",
 "title": "TBC vs TBC (Maharaja T20 Trophy, 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -383,18 +395,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Day 2",
 "match_id": 139958,
 "startTime": "12:10:00 PM 11-07-2026"
-},
-{
-"event_category": "Live Events",
-"title": "Day 4 vs Goa (Dream UTT Juniors 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-"team_1": "Day 4",
-"team_2": "Goa",
-"status": "UPCOMING",
-"event_name": "Dream UTT Juniors 2026",
-"match_name": "Day 4",
-"match_id": 4246602,
-"startTime": "09:00:00 AM 11-07-2026"
 },
 {
 "event_category": "Cricket",
@@ -469,16 +469,16 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "03:15:00 PM 12-07-2026"
 },
 {
-"event_category": "Cricket",
-"title": "Mis-e-Ainak Knights vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/143600_6148_MAK_SG_fc-web_1782725012164.jpg",
-"team_1": "Mis-e-Ainak Knights",
-"team_2": "Speen Ghar Tigers",
+"event_category": "Live Events",
+"title": "Day 5 vs Goa (Dream UTT Juniors 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+"team_1": "Day 5",
+"team_2": "Goa",
 "status": "UPCOMING",
-"event_name": "Shpageeza Cricket League, 2026",
-"match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
-"match_id": 143600,
-"startTime": "10:00:00 AM 12-07-2026"
+"event_name": "Dream UTT Juniors 2026",
+"match_name": "Day 5",
+"match_id": 4246603,
+"startTime": "09:00:00 AM 12-07-2026"
 }
 ]
 }
