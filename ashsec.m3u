@@ -8,21 +8,21 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "04:31:37 PM 13-07-2026",
+"last update time": "06:53:19 PM 13-07-2026",
 "matches": [
 {
 "event_category": "Cricket",
-"title": "Denmark vs Hungary (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
+"title": "Estonia vs Turkiye (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-"team_1": "Denmark",
-"team_2": "Hungary",
+"team_1": "Estonia",
+"team_2": "Turkiye",
 "status": "LIVE",
 "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-"match_name": "Denmark vs Hungary",
-"match_id": 4246570,
-"startTime": "02:00:00 PM 13-07-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246570_english_hls_570a9bb7e187200_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246570_english_hls_570a9bb7e187200_1ta-di_h264/index.m3u8"
+"match_name": "Estonia vs Turkiye",
+"match_id": 4246569,
+"startTime": "07:00:00 PM 13-07-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Tennis",
@@ -39,30 +39,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/index.m3u8"
 },
 {
-"event_category": "Cricket",
-"title": "Amo Sharks vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg",
-"team_1": "Amo Sharks",
-"team_2": "Mis-e-Ainak Knights",
+"event_category": "Tennis",
+"title": "Day 1 - World Feed vs Sweden (ATP 250 - Nordea Open 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
+"team_1": "Day 1 - World Feed",
+"team_2": "Sweden",
 "status": "LIVE",
-"event_name": "Shpageeza Cricket League, 2026",
-"match_name": "Amo Sharks vs Mis-e-Ainak Knights",
-"match_id": 143698,
-"startTime": "03:00:00 PM 13-07-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Cricket",
-"title": "Estonia vs Turkiye (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-"team_1": "Estonia",
-"team_2": "Turkiye",
-"status": "UPCOMING",
-"event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-"match_name": "Estonia vs Turkiye",
-"match_id": 4246569,
-"startTime": "07:00:00 PM 13-07-2026"
+"event_name": "ATP 250 - Nordea Open 2026",
+"match_name": "Day 1 - World Feed",
+"match_id": 143483,
+"startTime": "05:00:00 PM 13-07-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/143483_english_hls_f5dae468f468531_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143483_english_hls_f5dae468f468531_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Cricket",
@@ -99,18 +87,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "TBC vs TBC",
 "match_id": 4246582,
 "startTime": "02:00:00 PM 14-07-2026"
-},
-{
-"event_category": "Tennis",
-"title": "Day 1 - World Feed vs Sweden (ATP 250 - Nordea Open 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
-"team_1": "Day 1 - World Feed",
-"team_2": "Sweden",
-"status": "UPCOMING",
-"event_name": "ATP 250 - Nordea Open 2026",
-"match_name": "Day 1 - World Feed",
-"match_id": 143483,
-"startTime": "05:00:00 PM 13-07-2026"
 },
 {
 "event_category": "Cricket",
@@ -411,6 +387,42 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Zimbabwe vs Bangladesh",
 "match_id": 143404,
 "startTime": "04:00:00 PM 17-07-2026"
+},
+{
+"event_category": "Golf",
+"title": "Day 2 - World Feed vs Royal Birkdale (The Open 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+"team_1": "Day 2 - World Feed",
+"team_2": "Royal Birkdale",
+"status": "UPCOMING",
+"event_name": "The Open 2026",
+"match_name": "Day 2 - World Feed",
+"match_id": 4246809,
+"startTime": "11:00:00 AM 17-07-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Jaffna Kings vs Galle Gallants (Lanka Premier League, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+"team_1": "Jaffna Kings",
+"team_2": "Galle Gallants",
+"status": "UPCOMING",
+"event_name": "Lanka Premier League, 2026",
+"match_name": "Jaffna Kings vs Galle Gallants",
+"match_id": 4246710,
+"startTime": "07:30:00 PM 17-07-2026"
+},
+{
+"event_category": "Motorsports",
+"title": "Practice Session vs Spa-Francorchamps (F3 BELGIUM 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+"team_1": "Practice Session",
+"team_2": "Spa-Francorchamps",
+"status": "UPCOMING",
+"event_name": "F3 BELGIUM 2026",
+"match_name": "Practice Session",
+"match_id": 139729,
+"startTime": "01:25:00 PM 17-07-2026"
 }
 ]
 }
