@@ -8,21 +8,35 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "05:18:38 PM 14-07-2026",
+"last update time": "06:59:56 PM 14-07-2026",
 "matches": [
 {
 "event_category": "Cricket",
-"title": "Serbia vs Estonia (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
+"title": "Romania vs Denmark (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-"team_1": "Serbia",
-"team_2": "Estonia",
+"team_1": "Romania",
+"team_2": "Denmark",
 "status": "LIVE",
 "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-"match_name": "Serbia vs Estonia",
-"match_id": 4246581,
-"startTime": "02:00:00 PM 14-07-2026",
-"dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8",
-"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8"
+"match_name": "Romania vs Denmark",
+"match_id": 4246579,
+"startTime": "07:00:00 PM 14-07-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246579_english_hls_78a94cde5b4791_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246579_english_hls_78a94cde5b4791_1ta-di_h264/index.m3u8"
+},
+{
+"event_category": "Cricket",
+"title": "Gibraltar vs Norway (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+"team_1": "Gibraltar",
+"team_2": "Norway",
+"status": "LIVE",
+"event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+"match_name": "Gibraltar vs Norway",
+"match_id": 4246580,
+"startTime": "07:00:00 PM 14-07-2026",
+"dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246580_english_hls_17fa61633d77094_1ta-di_h264/index.m3u8",
+"adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246580_english_hls_17fa61633d77094_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Tennis",
@@ -65,30 +79,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "03:00:00 PM 14-07-2026",
 "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/index.m3u8",
 "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Cricket",
-"title": "Romania vs Denmark (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-"team_1": "Romania",
-"team_2": "Denmark",
-"status": "UPCOMING",
-"event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-"match_name": "Romania vs Denmark",
-"match_id": 4246579,
-"startTime": "07:00:00 PM 14-07-2026"
-},
-{
-"event_category": "Cricket",
-"title": "Gibraltar vs Norway (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-"team_1": "Gibraltar",
-"team_2": "Norway",
-"status": "UPCOMING",
-"event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-"match_name": "Gibraltar vs Norway",
-"match_id": 4246580,
-"startTime": "07:00:00 PM 14-07-2026"
 },
 {
 "event_category": "Cricket",
@@ -449,6 +439,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Practice Session",
 "match_id": 143608,
 "startTime": "10:00:00 PM 17-07-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Kandy Royals vs Dambulla Sixers (Lanka Premier League, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+"team_1": "Kandy Royals",
+"team_2": "Dambulla Sixers",
+"status": "UPCOMING",
+"event_name": "Lanka Premier League, 2026",
+"match_name": "Kandy Royals vs Dambulla Sixers",
+"match_id": 4246709,
+"startTime": "03:00:00 PM 18-07-2026"
 }
 ]
 }
