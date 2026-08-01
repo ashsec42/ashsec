@@ -8,7 +8,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "07:16:00 PM 01-08-2026",
+"last update time": "08:16:40 PM 01-08-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -51,20 +51,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "07:30:00 PM 01-08-2026",
 "dai_url": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8",
 "adfree_url": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8"
-},
-{
-"event_category": "Football",
-"title": "Manchester City vs Internazionale (Club Friendlies 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png",
-"team_1": "Manchester City",
-"team_2": "Internazionale",
-"status": "LIVE",
-"event_name": "Club Friendlies 2026",
-"match_name": "Manchester City vs Internazionale",
-"match_id": 4248014,
-"startTime": "05:00:00 PM 01-08-2026",
-"dai_url": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8",
-"adfree_url": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Football",
@@ -263,6 +249,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "09:00:00 AM 02-08-2026"
 },
 {
+"event_category": "Football",
+"title": "Liverpool vs Leeds United (Club Friendlies 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card.png",
+"team_1": "Liverpool",
+"team_2": "Leeds United",
+"status": "UPCOMING",
+"event_name": "Club Friendlies 2026",
+"match_name": "Liverpool vs Leeds United",
+"match_id": 4248017,
+"startTime": "12:30:00 AM 03-08-2026"
+},
+{
 "event_category": "Tennis",
 "title": "ATP 500 - Mubadala DC Open 2026 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
@@ -285,18 +283,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "ATP 500 - Mubadala DC Open 2026",
 "match_id": 143652,
 "startTime": "02:30:00 PM 02-08-2026"
-},
-{
-"event_category": "Football",
-"title": "Liverpool vs Leeds United (Club Friendlies 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card.png",
-"team_1": "Liverpool",
-"team_2": "Leeds United",
-"status": "UPCOMING",
-"event_name": "Club Friendlies 2026",
-"match_name": "Liverpool vs Leeds United",
-"match_id": 4248017,
-"startTime": "12:30:00 AM 03-08-2026"
 },
 {
 "event_category": "Golf",
@@ -429,6 +415,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Indian Royals vs Sri Lankan Lions",
 "match_id": 4248195,
 "startTime": "05:00:00 PM 03-08-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Central Delhi Kings vs North Delhi Strikers (Delhi Premier League, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+"team_1": "Central Delhi Kings",
+"team_2": "North Delhi Strikers",
+"status": "UPCOMING",
+"event_name": "Delhi Premier League, 2026",
+"match_name": "Central Delhi Kings vs North Delhi Strikers",
+"match_id": 4247974,
+"startTime": "07:00:00 PM 03-08-2026"
 }
 ]
 }
