@@ -8,7 +8,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "11:57:11 AM 02-08-2026",
+"last update time": "02:18:51 PM 02-08-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -30,11 +30,13 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
 "team_1": "Outer Delhi Warriors",
 "team_2": "Central Delhi Kings",
-"status": "UPCOMING",
+"status": "LIVE",
 "event_name": "Delhi Premier League, 2026",
 "match_name": "Outer Delhi Warriors vs Central Delhi Kings",
 "match_id": 4247966,
-"startTime": "01:30:00 PM 02-08-2026"
+"startTime": "01:30:00 PM 02-08-2026",
+"dai_url": "https://livecf.fancode.com/4247966_english_hls_87e2120e6614913_1ta-di_h264/index.m3u8",
+"adfree_url": "https://livecf.fancode.com/4247966_english_hls_87e2120e6614913_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Cricket",
@@ -109,18 +111,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "01:00:00 PM 03-08-2026"
 },
 {
-"event_category": "Tennis",
-"title": "ATP 500 - Mubadala DC Open 2026 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-"team_1": "ATP 500 - Mubadala DC Open 2026",
-"team_2": "Washington, United States",
-"status": "UPCOMING",
-"event_name": "ATP 500 - Mubadala DC Open 2026",
-"match_name": "ATP 500 - Mubadala DC Open 2026",
-"match_id": 143651,
-"startTime": "02:30:00 PM 01-08-2026"
-},
-{
 "event_category": "Cricket",
 "title": "West Delhi Lions vs Purani Dilli-6 (Delhi Premier League, 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
@@ -145,6 +135,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "03:30:00 PM 03-08-2026"
 },
 {
+"event_category": "Tennis",
+"title": "ATP 500 - Mubadala DC Open 2026 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+"team_1": "ATP 500 - Mubadala DC Open 2026",
+"team_2": "Washington, United States",
+"status": "UPCOMING",
+"event_name": "ATP 500 - Mubadala DC Open 2026",
+"match_name": "ATP 500 - Mubadala DC Open 2026",
+"match_id": 143651,
+"startTime": "02:30:00 PM 01-08-2026"
+},
+{
 "event_category": "Cricket",
 "title": "Indian Royals vs Sri Lankan Lions (Asian Legends League, 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/4248195_53019_INR_SLO_fc-web.jpg",
@@ -155,6 +157,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Indian Royals vs Sri Lankan Lions",
 "match_id": 4248195,
 "startTime": "05:00:00 PM 03-08-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Central Delhi Kings vs North Delhi Strikers (Delhi Premier League, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+"team_1": "Central Delhi Kings",
+"team_2": "North Delhi Strikers",
+"status": "UPCOMING",
+"event_name": "Delhi Premier League, 2026",
+"match_name": "Central Delhi Kings vs North Delhi Strikers",
+"match_id": 4247974,
+"startTime": "07:00:00 PM 03-08-2026"
 },
 {
 "event_category": "Golf",
@@ -171,7 +185,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "event_category": "Tennis",
 "title": "World Feed vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "World Feed",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
@@ -183,7 +197,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "event_category": "Tennis",
 "title": "Rogers Court vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "Rogers Court",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
@@ -195,7 +209,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "event_category": "Tennis",
 "title": "Court 5 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "Court 5",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
@@ -207,7 +221,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "event_category": "Tennis",
 "title": "Court 9 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "Court 9",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
@@ -241,21 +255,9 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "12:00:00 AM 03-08-2026"
 },
 {
-"event_category": "Cricket",
-"title": "Central Delhi Kings vs North Delhi Strikers (Delhi Premier League, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
-"team_1": "Central Delhi Kings",
-"team_2": "North Delhi Strikers",
-"status": "UPCOMING",
-"event_name": "Delhi Premier League, 2026",
-"match_name": "Central Delhi Kings vs North Delhi Strikers",
-"match_id": 4247974,
-"startTime": "07:00:00 PM 03-08-2026"
-},
-{
 "event_category": "Tennis",
 "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "ATP Masters Omnium Banque National 2026",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
@@ -267,7 +269,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "event_category": "Tennis",
 "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "ATP Masters Omnium Banque National 2026",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
@@ -279,7 +281,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "event_category": "Tennis",
 "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "ATP Masters Omnium Banque National 2026",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
@@ -291,7 +293,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "event_category": "Tennis",
 "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "ATP Masters Omnium Banque National 2026",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
@@ -363,7 +365,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "event_category": "Tennis",
 "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "ATP Masters Omnium Banque National 2026",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
@@ -375,7 +377,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "event_category": "Tennis",
 "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "ATP Masters Omnium Banque National 2026",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
@@ -387,7 +389,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "event_category": "Tennis",
 "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "ATP Masters Omnium Banque National 2026",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
@@ -399,7 +401,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "event_category": "Tennis",
 "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
 "team_1": "ATP Masters Omnium Banque National 2026",
 "team_2": "Montreal, Canada",
 "status": "UPCOMING",
