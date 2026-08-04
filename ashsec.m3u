@@ -8,33 +8,21 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "05:41:05 PM 04-08-2026",
+"last update time": "08:02:48 PM 04-08-2026",
 "matches": [
-{
-"event_category": "Cricket",
-"title": "New Delhi Tigers vs Outer Delhi Warriors (Delhi Premier League, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4247970_53005_NDT_ODW_fc-Web_1785835769882.png",
-"team_1": "New Delhi Tigers",
-"team_2": "Outer Delhi Warriors",
-"status": "LIVE",
-"event_name": "Delhi Premier League, 2026",
-"match_name": "New Delhi Tigers vs Outer Delhi Warriors",
-"match_id": 4247970,
-"startTime": "01:30:00 PM 04-08-2026",
-"dai_url": "https://livecf.fancode.com/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8",
-"adfree_url": "https://livecf.fancode.com/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8"
-},
 {
 "event_category": "Cricket",
 "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
 "team_1": "West Indies",
 "team_2": "Pakistan",
-"status": "PAUSED",
+"status": "LIVE",
 "event_name": "Pakistan tour of West Indies, 2026",
 "match_name": "West Indies vs Pakistan",
 "match_id": 143634,
-"startTime": "07:00:00 PM 03-08-2026"
+"startTime": "07:00:00 PM 03-08-2026",
+"dai_url": "https://livecf.fancode.com/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
+"adfree_url": "https://livecf.fancode.com/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Cricket",
@@ -42,11 +30,13 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "src": "https://www.fancode.com/skillup-uploads/cms-media/4247978_53005_SDS_WDL_fc-Web_1785835769253.png",
 "team_1": "South Delhi Superstarz",
 "team_2": "West Delhi Lions",
-"status": "UPCOMING",
+"status": "LIVE",
 "event_name": "Delhi Premier League, 2026",
 "match_name": "South Delhi Superstarz vs West Delhi Lions",
 "match_id": 4247978,
-"startTime": "07:00:00 PM 04-08-2026"
+"startTime": "07:00:00 PM 04-08-2026",
+"dai_url": "https://livecf.fancode.com/4247978_english_hls_6c7295b1e677335_1ta-di_h264/index.m3u8",
+"adfree_url": "https://livecf.fancode.com/4247978_english_hls_6c7295b1e677335_1ta-di_h264/index.m3u8"
 },
 {
 "event_category": "Cricket",
@@ -121,18 +111,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "07:30:00 PM 05-08-2026"
 },
 {
-"event_category": "Football",
-"title": "Chelsea vs Juventus (Club Friendlies 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Juventus_Web-match-card.png",
-"team_1": "Chelsea",
-"team_2": "Juventus",
-"status": "UPCOMING",
-"event_name": "Club Friendlies 2026",
-"match_name": "Chelsea vs Juventus",
-"match_id": 4248018,
-"startTime": "05:00:00 PM 05-08-2026"
-},
-{
 "event_category": "Tennis",
 "title": "World Feed vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
@@ -167,6 +145,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Court 5",
 "match_id": 4248068,
 "startTime": "08:30:00 PM 04-08-2026"
+},
+{
+"event_category": "Football",
+"title": "Chelsea vs Juventus (Club Friendlies 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Juventus_Web-match-card.png",
+"team_1": "Chelsea",
+"team_2": "Juventus",
+"status": "UPCOMING",
+"event_name": "Club Friendlies 2026",
+"match_name": "Chelsea vs Juventus",
+"match_id": 4248018,
+"startTime": "05:00:00 PM 05-08-2026"
 },
 {
 "event_category": "Tennis",
