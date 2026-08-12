@@ -8,36 +8,8 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "02:20:12 AM 13-08-2026",
+"last update time": "03:20:43 AM 13-08-2026",
 "matches": [
-{
-"event_category": "Football",
-"title": "Manchester United vs Leeds United (Club Friendlies 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Leeds--old-Match-card.png",
-"team_1": "Manchester United",
-"team_2": "Leeds United",
-"status": "LIVE",
-"event_name": "Club Friendlies 2026",
-"match_name": "Manchester United vs Leeds United",
-"match_id": 4248024,
-"startTime": "12:00:00 AM 13-08-2026",
-"dai_url": null,
-"adfree_url": null
-},
-{
-"event_category": "Tennis",
-"title": "Rogers Court vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-"team_1": "Rogers Court",
-"team_2": "Montreal, Canada",
-"status": "LIVE",
-"event_name": "ATP Masters Omnium Banque National 2026",
-"match_name": "Rogers Court",
-"match_id": 4248098,
-"startTime": "01:30:00 AM 13-08-2026",
-"dai_url": null,
-"adfree_url": null
-},
 {
 "event_category": "Tennis",
 "title": "Center Court vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
@@ -49,6 +21,34 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Center Court",
 "match_id": 4248100,
 "startTime": "01:30:00 AM 13-08-2026",
+"dai_url": null,
+"adfree_url": null
+},
+{
+"event_category": "Tennis",
+"title": "Jodar vs Nakashima vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters_SNakashima-vs-Jodar_FC-WEB.jpg",
+"team_1": "Jodar vs Nakashima",
+"team_2": "Montreal, Canada",
+"status": "LIVE",
+"event_name": "ATP Masters Omnium Banque National 2026",
+"match_name": "Jodar vs Nakashima",
+"match_id": 4248101,
+"startTime": "03:30:00 AM 13-08-2026",
+"dai_url": null,
+"adfree_url": null
+},
+{
+"event_category": "Football",
+"title": "Manchester United vs Leeds United (Club Friendlies 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Leeds--old-Match-card.png",
+"team_1": "Manchester United",
+"team_2": "Leeds United",
+"status": "LIVE",
+"event_name": "Club Friendlies 2026",
+"match_name": "Manchester United vs Leeds United",
+"match_id": 4248024,
+"startTime": "12:00:00 AM 13-08-2026",
 "dai_url": null,
 "adfree_url": null
 },
@@ -111,18 +111,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Diriyah vs Al-Ahli Saudi FC",
 "match_id": 4248266,
 "startTime": "11:30:00 PM 13-08-2026"
-},
-{
-"event_category": "Tennis",
-"title": "Jodar vs Nakashima vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters_SNakashima-vs-Jodar_FC-WEB.jpg",
-"team_1": "Jodar vs Nakashima",
-"team_2": "Montreal, Canada",
-"status": "UPCOMING",
-"event_name": "ATP Masters Omnium Banque National 2026",
-"match_name": "Jodar vs Nakashima",
-"match_id": 4248101,
-"startTime": "03:30:00 AM 13-08-2026"
 },
 {
 "event_category": "Cricket",
@@ -282,18 +270,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Cricket",
-"title": "Jamaica Kingsmen vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4248283_53026_JK_GUY_FC-Web_1786367986989.png",
-"team_1": "Jamaica Kingsmen",
-"team_2": "Guyana Amazon Warriors",
-"status": "UPCOMING",
-"event_name": "Caribbean Premier League, 2026",
-"match_name": "Jamaica Kingsmen vs Guyana Amazon Warriors",
-"match_id": 4248283,
-"startTime": "05:30:00 AM 14-08-2026"
-},
-{
-"event_category": "Cricket",
 "title": "Bahrain vs Hong Kong, China (ICC CWC Challenge League B 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
 "team_1": "Bahrain",
@@ -315,6 +291,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Italy vs Singapore",
 "match_id": 4248258,
 "startTime": "11:30:00 AM 14-08-2026"
+},
+{
+"event_category": "Cricket",
+"title": "Jamaica Kingsmen vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/4248283_53026_JK_GUY_FC-Web_1786367986989.png",
+"team_1": "Jamaica Kingsmen",
+"team_2": "Guyana Amazon Warriors",
+"status": "UPCOMING",
+"event_name": "Caribbean Premier League, 2026",
+"match_name": "Jamaica Kingsmen vs Guyana Amazon Warriors",
+"match_id": 4248283,
+"startTime": "05:30:00 AM 14-08-2026"
 },
 {
 "event_category": "Cricket",
@@ -342,6 +330,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Cricket",
+"title": "Kashi Rudras vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/4248334_53029_KAS_MER_FC-Web.png",
+"team_1": "Kashi Rudras",
+"team_2": "Meerut Mavericks",
+"status": "UPCOMING",
+"event_name": "Uttar Pradesh T20 League, 2026",
+"match_name": "Kashi Rudras vs Meerut Mavericks",
+"match_id": 4248334,
+"startTime": "08:30:00 PM 14-08-2026"
+},
+{
+"event_category": "Cricket",
 "title": "Czechia vs Germany (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/4248371_53031_CZE_GER_fc-web.jpg",
 "team_1": "Czechia",
@@ -363,18 +363,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Isle of Man vs Luxembourg",
 "match_id": 4248377,
 "startTime": "06:30:00 PM 14-08-2026"
-},
-{
-"event_category": "Cricket",
-"title": "Kashi Rudras vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4248334_53029_KAS_MER_FC-Web.png",
-"team_1": "Kashi Rudras",
-"team_2": "Meerut Mavericks",
-"status": "UPCOMING",
-"event_name": "Uttar Pradesh T20 League, 2026",
-"match_name": "Kashi Rudras vs Meerut Mavericks",
-"match_id": 4248334,
-"startTime": "08:30:00 PM 14-08-2026"
 },
 {
 "event_category": "Motorsports",
@@ -470,6 +458,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "event_name": "ATP Masters Cincinnati Open 2026",
 "match_name": "ATP Masters Cincinnati Open 2026",
 "match_id": 4248110,
+"startTime": "10:00:00 PM 14-08-2026"
+},
+{
+"event_category": "Tennis",
+"title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+"team_1": "ATP Masters Cincinnati Open 2026",
+"team_2": "Cincinnati, United States",
+"status": "UPCOMING",
+"event_name": "ATP Masters Cincinnati Open 2026",
+"match_name": "ATP Masters Cincinnati Open 2026",
+"match_id": 4248111,
 "startTime": "10:00:00 PM 14-08-2026"
 }
 ]
