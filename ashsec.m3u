@@ -8,7 +8,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "02:41:12 PM 20-08-2026",
+"last update time": "03:21:39 PM 20-08-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -272,6 +272,30 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Cricket",
+"title": "TBC vs TBC (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+"team_1": "TBC",
+"team_2": "TBC",
+"status": "UPCOMING",
+"event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+"match_name": "TBC vs TBC",
+"match_id": 4248389,
+"startTime": "06:30:00 PM 21-08-2026"
+},
+{
+"event_category": "Cricket",
+"title": "TBC vs TBC (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+"team_1": "TBC",
+"team_2": "TBC",
+"status": "UPCOMING",
+"event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+"match_name": "TBC vs TBC",
+"match_id": 4248390,
+"startTime": "06:30:00 PM 21-08-2026"
+},
+{
+"event_category": "Cricket",
 "title": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/4248290_53026_ABF_SKN_FC-Web.png",
 "team_1": "Antigua & Barbuda Falcons",
@@ -305,30 +329,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Hobart Hurricanes Academy vs Victoria CA XI",
 "match_id": 4248427,
 "startTime": "06:00:00 AM 21-08-2026"
-},
-{
-"event_category": "Cricket",
-"title": "TBC vs TBC (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-"team_1": "TBC",
-"team_2": "TBC",
-"status": "UPCOMING",
-"event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-"match_name": "TBC vs TBC",
-"match_id": 4248389,
-"startTime": "06:30:00 PM 21-08-2026"
-},
-{
-"event_category": "Cricket",
-"title": "TBC vs TBC (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-"team_1": "TBC",
-"team_2": "TBC",
-"status": "UPCOMING",
-"event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-"match_name": "TBC vs TBC",
-"match_id": 4248390,
-"startTime": "06:30:00 PM 21-08-2026"
 },
 {
 "event_category": "Cricket",
@@ -391,18 +391,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "04:00:00 PM 21-08-2026"
 },
 {
-"event_category": "Motorsports",
-"title": "Practice Session vs Zandvoort (F1 ACADEMY NETHERLANDS 2026)",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
-"team_1": "Practice Session",
-"team_2": "Zandvoort",
-"status": "UPCOMING",
-"event_name": "F1 ACADEMY NETHERLANDS 2026",
-"match_name": "Practice Session",
-"match_id": 139694,
-"startTime": "05:30:00 PM 21-08-2026"
-},
-{
 "event_category": "Football",
 "title": "Al Qadisiyah vs Al-Ittihad (Roshn Saudi League 2026-2027)",
 "src": "https://www.fancode.com/skillup-uploads/cms-media/4248272_53025_ALQ_ITT_FC-Web.png",
@@ -413,6 +401,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "match_name": "Al Qadisiyah vs Al-Ittihad",
 "match_id": 4248272,
 "startTime": "11:30:00 PM 21-08-2026"
+},
+{
+"event_category": "Motorsports",
+"title": "Practice Session vs Zandvoort (F1 ACADEMY NETHERLANDS 2026)",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
+"team_1": "Practice Session",
+"team_2": "Zandvoort",
+"status": "UPCOMING",
+"event_name": "F1 ACADEMY NETHERLANDS 2026",
+"match_name": "Practice Session",
+"match_id": 139694,
+"startTime": "05:30:00 PM 21-08-2026"
 },
 {
 "event_category": "Football",
