@@ -8,7 +8,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "05:14:52 AM 26-10-2026",
+"last update time": "07:15:58 AM 26-10-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -119,6 +119,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "11:45:00 PM 26-10-2026"
 },
 {
+"event_category": "Football",
+"match_id": 4247667,
+"title": "Sevilla FC vs CA Osasuna (LALIGA 2026-27)",
+"match_name": "Sevilla FC vs CA Osasuna",
+"event_name": "LALIGA 2026-27",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/4247667_53004_SEV_OSN_FC-Web.png",
+"team_1": "Sevilla FC",
+"team_2": "CA Osasuna",
+"status": "UPCOMING",
+"startTime": "01:30:00 AM 27-10-2026"
+},
+{
 "event_category": "Cricket",
 "match_id": 4250529,
 "title": "Delhi Dynamites vs Haryana Hustlers (Northern Artist Champions League 2026)",
@@ -156,18 +168,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"match_id": 4247667,
-"title": "Sevilla FC vs CA Osasuna (LALIGA 2026-27)",
-"match_name": "Sevilla FC vs CA Osasuna",
-"event_name": "LALIGA 2026-27",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4247667_53004_SEV_OSN_FC-Web.png",
-"team_1": "Sevilla FC",
-"team_2": "CA Osasuna",
-"status": "UPCOMING",
-"startTime": "01:30:00 AM 27-10-2026"
-},
-{
-"event_category": "Football",
 "match_id": 4250000,
 "title": "Walsall vs Salford City (League Two 2026-27)",
 "match_name": "Walsall vs Salford City",
@@ -189,6 +189,54 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "team_2": "Oman",
 "status": "UPCOMING",
 "startTime": "11:00:00 AM 27-10-2026"
+},
+{
+"event_category": "Cricket",
+"match_id": 4250343,
+"title": "Qatar vs Papua New Guinea (ICC CWC Challenge League A 2026)",
+"match_name": "Qatar vs Papua New Guinea",
+"event_name": "ICC CWC Challenge League A 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+"team_1": "Qatar",
+"team_2": "Papua New Guinea",
+"status": "UPCOMING",
+"startTime": "12:15:00 PM 27-10-2026"
+},
+{
+"event_category": "Cricket",
+"match_id": 4250344,
+"title": "Kuwait vs Jersey (ICC CWC Challenge League A 2026)",
+"match_name": "Kuwait vs Jersey",
+"event_name": "ICC CWC Challenge League A 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+"team_1": "Kuwait",
+"team_2": "Jersey",
+"status": "UPCOMING",
+"startTime": "12:15:00 PM 27-10-2026"
+},
+{
+"event_category": "Cricket",
+"match_id": 4250356,
+"title": "Biratnagar Kings vs Chitwan Rhinos (Nepal Premier League Season 3, 2026)",
+"match_name": "Biratnagar Kings vs Chitwan Rhinos",
+"event_name": "Nepal Premier League Season 3, 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/4250356_53124_BK_CWR_fc-Web.jpg",
+"team_1": "Biratnagar Kings",
+"team_2": "Chitwan Rhinos",
+"status": "UPCOMING",
+"startTime": "12:15:00 PM 27-10-2026"
+},
+{
+"event_category": "Cricket",
+"match_id": 4250333,
+"title": "Namibia vs Ireland (Ireland tour of Namibia, 2026)",
+"match_name": "Namibia vs Ireland",
+"event_name": "Ireland tour of Namibia, 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
+"team_1": "Namibia",
+"team_2": "Ireland",
+"status": "UPCOMING",
+"startTime": "01:00:00 PM 27-10-2026"
 },
 {
 "event_category": "Tennis",
@@ -240,51 +288,15 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Cricket",
-"match_id": 4250343,
-"title": "Qatar vs Papua New Guinea (ICC CWC Challenge League A 2026)",
-"match_name": "Qatar vs Papua New Guinea",
-"event_name": "ICC CWC Challenge League A 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-"team_1": "Qatar",
-"team_2": "Papua New Guinea",
+"match_id": 4249783,
+"title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+"match_name": "South Africa vs Australia",
+"event_name": "Australia tour of South Africa, 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+"team_1": "South Africa",
+"team_2": "Australia",
 "status": "UPCOMING",
-"startTime": "12:15:00 PM 27-10-2026"
-},
-{
-"event_category": "Cricket",
-"match_id": 4250344,
-"title": "Kuwait vs Jersey (ICC CWC Challenge League A 2026)",
-"match_name": "Kuwait vs Jersey",
-"event_name": "ICC CWC Challenge League A 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-"team_1": "Kuwait",
-"team_2": "Jersey",
-"status": "UPCOMING",
-"startTime": "12:15:00 PM 27-10-2026"
-},
-{
-"event_category": "Cricket",
-"match_id": 4250356,
-"title": "Biratnagar Kings vs Chitwan Rhinos (Nepal Premier League Season 3, 2026)",
-"match_name": "Biratnagar Kings vs Chitwan Rhinos",
-"event_name": "Nepal Premier League Season 3, 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4250356_53124_BK_CWR_fc-Web.jpg",
-"team_1": "Biratnagar Kings",
-"team_2": "Chitwan Rhinos",
-"status": "UPCOMING",
-"startTime": "12:15:00 PM 27-10-2026"
-},
-{
-"event_category": "Cricket",
-"match_id": 4250333,
-"title": "Namibia vs Ireland (Ireland tour of Namibia, 2026)",
-"match_name": "Namibia vs Ireland",
-"event_name": "Ireland tour of Namibia, 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
-"team_1": "Namibia",
-"team_2": "Ireland",
-"status": "UPCOMING",
-"startTime": "01:00:00 PM 27-10-2026"
+"startTime": "02:00:00 PM 27-10-2026"
 },
 {
 "event_category": "Cricket",
@@ -297,18 +309,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "team_2": "Uttrakhand Stars",
 "status": "UPCOMING",
 "startTime": "09:30:00 AM 27-10-2026"
-},
-{
-"event_category": "Cricket",
-"match_id": 4249783,
-"title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-"match_name": "South Africa vs Australia",
-"event_name": "Australia tour of South Africa, 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-"team_1": "South Africa",
-"team_2": "Australia",
-"status": "UPCOMING",
-"startTime": "02:00:00 PM 27-10-2026"
 },
 {
 "event_category": "Cricket",
@@ -333,18 +333,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "team_2": "Chandigarh Chargers",
 "status": "UPCOMING",
 "startTime": "01:30:00 PM 27-10-2026"
-},
-{
-"event_category": "Tennis",
-"match_id": 4250545,
-"title": "Centre Court vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
-"match_name": "Centre Court",
-"event_name": "ATP 500 - Erste Bank Open 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-"team_1": "Centre Court",
-"team_2": "Vienna, Austria",
-"status": "UPCOMING",
-"startTime": "12:30:00 AM 27-10-2026"
 },
 {
 "event_category": "Football",
@@ -395,6 +383,30 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "03:30:00 PM 27-10-2026"
 },
 {
+"event_category": "Tennis",
+"match_id": 4250545,
+"title": "Centre Court vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
+"match_name": "Centre Court",
+"event_name": "ATP 500 - Erste Bank Open 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+"team_1": "Centre Court",
+"team_2": "Vienna, Austria",
+"status": "UPCOMING",
+"startTime": "12:30:00 AM 27-10-2026"
+},
+{
+"event_category": "Cricket",
+"match_id": 4249769,
+"title": "Afghanistan vs Zimbabwe (Zimbabwe Tour of Afghanistan in UAE, 2026)",
+"match_name": "Afghanistan vs Zimbabwe",
+"event_name": "Zimbabwe Tour of Afghanistan in UAE, 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-VS-AFG_fc-web_1792819628639.jpg",
+"team_1": "Afghanistan",
+"team_2": "Zimbabwe",
+"status": "UPCOMING",
+"startTime": "08:00:00 PM 27-10-2026"
+},
+{
 "event_category": "Football",
 "match_id": 4248724,
 "title": "Beijing Guoan vs Jeonbuk Motors (AFC Champions League Elite 2026-27)",
@@ -417,18 +429,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "team_2": "Kashiwa Reysol",
 "status": "UPCOMING",
 "startTime": "05:45:00 PM 27-10-2026"
-},
-{
-"event_category": "Cricket",
-"match_id": 4249769,
-"title": "Afghanistan vs Zimbabwe (Zimbabwe Tour of Afghanistan in UAE, 2026)",
-"match_name": "Afghanistan vs Zimbabwe",
-"event_name": "Zimbabwe Tour of Afghanistan in UAE, 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-VS-AFG_fc-web_1792819628639.jpg",
-"team_1": "Afghanistan",
-"team_2": "Zimbabwe",
-"status": "UPCOMING",
-"startTime": "08:00:00 PM 27-10-2026"
 },
 {
 "event_category": "Cricket",
