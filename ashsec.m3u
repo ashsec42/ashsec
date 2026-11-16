@@ -8,20 +8,8 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "04:52:53 AM 16-11-2026",
+"last update time": "08:19:01 AM 16-11-2026",
 "matches": [
-{
-"event_category": "Cricket",
-"match_id": 4249286,
-"title": "Queensland vs Tasmania (One Day Cup, 2026/27)",
-"match_name": "Queensland vs Tasmania",
-"event_name": "One Day Cup, 2026/27",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4249286_53072_QUN_TAS_FC-Web.jpg",
-"team_1": "Queensland",
-"team_2": "Tasmania",
-"status": "UPCOMING",
-"startTime": "05:30:00 AM 16-11-2026"
-},
 {
 "event_category": "Cricket",
 "match_id": 4249773,
@@ -45,18 +33,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "team_2": "South Africa",
 "status": "PAUSED",
 "startTime": "01:30:00 PM 15-11-2026"
-},
-{
-"event_category": "Cricket",
-"match_id": 4249289,
-"title": "Victoria vs Western Australia (One Day Cup, 2026/27)",
-"match_name": "Victoria vs Western Australia",
-"event_name": "One Day Cup, 2026/27",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4249289_53072_VCT_WAU_FC-Web.jpg",
-"team_1": "Victoria",
-"team_2": "Western Australia",
-"status": "UPCOMING",
-"startTime": "08:30:00 AM 16-11-2026"
 },
 {
 "event_category": "Cricket",
@@ -143,6 +119,30 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "11:30:00 PM 16-11-2026"
 },
 {
+"event_category": "Cricket",
+"match_id": 4250383,
+"title": "TBC vs TBC (Nepal Premier League Season 3, 2026)",
+"match_name": "TBC vs TBC",
+"event_name": "Nepal Premier League Season 3, 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+"team_1": "TBC",
+"team_2": "TBC",
+"status": "UPCOMING",
+"startTime": "12:15:00 PM 17-11-2026"
+},
+{
+"event_category": "Cricket",
+"match_id": 4250411,
+"title": "Adelaide Strikers Women vs Sydney Sixers Women (Women's Big Bash League, 2026)",
+"match_name": "Adelaide Strikers Women vs Sydney Sixers Women",
+"event_name": "Women's Big Bash League, 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/4250411_53125_AS-W_SS-W_fc-web_1793352702025.jpg",
+"team_1": "Adelaide Strikers Women",
+"team_2": "Sydney Sixers Women",
+"status": "UPCOMING",
+"startTime": "01:40:00 PM 17-11-2026"
+},
+{
 "event_category": "Tennis",
 "match_id": 4250930,
 "title": "Men's Doubles vs Turin, Italy (Nitto ATP Finals 2026)",
@@ -179,18 +179,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "10:30:00 PM 16-11-2026"
 },
 {
-"event_category": "Cricket",
-"match_id": 4250383,
-"title": "TBC vs TBC (Nepal Premier League Season 3, 2026)",
-"match_name": "TBC vs TBC",
-"event_name": "Nepal Premier League Season 3, 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-"team_1": "TBC",
-"team_2": "TBC",
-"status": "UPCOMING",
-"startTime": "12:15:00 PM 17-11-2026"
-},
-{
 "event_category": "Tennis",
 "match_id": 4250932,
 "title": "Medvedev vs Cobolli vs Turin, Italy (Nitto ATP Finals 2026)",
@@ -201,18 +189,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "team_2": "Turin, Italy",
 "status": "UPCOMING",
 "startTime": "01:00:00 AM 17-11-2026"
-},
-{
-"event_category": "Cricket",
-"match_id": 4250411,
-"title": "Adelaide Strikers Women vs Sydney Sixers Women (Women's Big Bash League, 2026)",
-"match_name": "Adelaide Strikers Women vs Sydney Sixers Women",
-"event_name": "Women's Big Bash League, 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4250411_53125_AS-W_SS-W_fc-web_1793352702025.jpg",
-"team_1": "Adelaide Strikers Women",
-"team_2": "Sydney Sixers Women",
-"status": "UPCOMING",
-"startTime": "01:40:00 PM 17-11-2026"
 },
 {
 "event_category": "Golf",
@@ -465,6 +441,18 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "team_2": "Turin, Italy",
 "status": "UPCOMING",
 "startTime": "10:30:00 PM 18-11-2026"
+},
+{
+"event_category": "Tennis",
+"match_id": 4250938,
+"title": "Nitto ATP Finals 2026 vs Turin, Italy (Nitto ATP Finals 2026)",
+"match_name": "Nitto ATP Finals 2026",
+"event_name": "Nitto ATP Finals 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+"team_1": "Nitto ATP Finals 2026",
+"team_2": "Turin, Italy",
+"status": "UPCOMING",
+"startTime": "01:00:00 AM 19-11-2026"
 }
 ]
 }
