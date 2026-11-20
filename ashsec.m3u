@@ -8,7 +8,7 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 {
 "name": "Fancode Live Matches Data in Json",
 "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-"last update time": "09:48:13 PM 20-11-2026",
+"last update time": "04:00:35 AM 21-11-2026",
 "matches": [
 {
 "event_category": "Cricket",
@@ -83,30 +83,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "startTime": "06:45:00 PM 21-11-2026"
 },
 {
-"event_category": "Football",
-"match_id": 4250964,
-"title": "Al-Ahli Saudi FC vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
-"match_name": "Al-Ahli Saudi FC vs Al-Nassr FC",
-"event_name": "Roshn Saudi League 2026-2027",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4250964_53025_AAS_ANF_FC-Web_1795077036116.png",
-"team_1": "Al-Ahli Saudi FC",
-"team_2": "Al-Nassr FC",
-"status": "UPCOMING",
-"startTime": "11:00:00 PM 20-11-2026"
-},
-{
-"event_category": "Football",
-"match_id": 4247693,
-"title": "Athletic Club vs RCD Espanyol (LALIGA 2026-27)",
-"match_name": "Athletic Club vs RCD Espanyol",
-"event_name": "LALIGA 2026-27",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4247693_53004_ATH_ESL_FC-Web.png",
-"team_1": "Athletic Club",
-"team_2": "RCD Espanyol",
-"status": "UPCOMING",
-"startTime": "01:30:00 AM 21-11-2026"
-},
-{
 "event_category": "Cricket",
 "match_id": 4250903,
 "title": "Muscat Shaheens  Women vs Sohar Smashers Women (Oman Women's D20, 2026)",
@@ -144,18 +120,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"match_id": 4249806,
-"title": "Barnsley FC vs Sheffield Wednesday F.C. (League One 2026-27)",
-"match_name": "Barnsley FC vs Sheffield Wednesday F.C.",
-"event_name": "League One 2026-27",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-"team_1": "Barnsley FC",
-"team_2": "Sheffield Wednesday F.C.",
-"status": "UPCOMING",
-"startTime": "01:30:00 AM 21-11-2026"
-},
-{
-"event_category": "Football",
 "match_id": 4250011,
 "title": "Millwall F.C. vs Queens Park Rangers F.C. (EFL Championship 2026-27)",
 "match_name": "Millwall F.C. vs Queens Park Rangers F.C.",
@@ -165,30 +129,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "team_2": "Queens Park Rangers F.C.",
 "status": "UPCOMING",
 "startTime": "06:00:00 PM 21-11-2026"
-},
-{
-"event_category": "Golf",
-"match_id": 4250734,
-"title": "Day 2 - World Feed vs St. Simons Island, Georgia (The RSM Classic 2026)",
-"match_name": "Day 2 - World Feed",
-"event_name": "The RSM Classic 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic-2026_Web_1080_x_810_1794325334537.jpg",
-"team_1": "Day 2 - World Feed",
-"team_2": "St. Simons Island, Georgia",
-"status": "UPCOMING",
-"startTime": "10:30:00 PM 20-11-2026"
-},
-{
-"event_category": "Tennis",
-"match_id": 4250943,
-"title": "Men's Doubles vs Turin, Italy (Nitto ATP Finals 2026)",
-"match_name": "Men's Doubles",
-"event_name": "Nitto ATP Finals 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
-"team_1": "Men's Doubles",
-"team_2": "Turin, Italy",
-"status": "UPCOMING",
-"startTime": "10:30:00 PM 20-11-2026"
 },
 {
 "event_category": "Football",
@@ -252,6 +192,30 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
+"match_id": 4247689,
+"title": "Sevilla FC vs Real Betis (LALIGA 2026-27)",
+"match_name": "Sevilla FC vs Real Betis",
+"event_name": "LALIGA 2026-27",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/4247689_53004_SEV_RB_FC-Web.png",
+"team_1": "Sevilla FC",
+"team_2": "Real Betis",
+"status": "UPCOMING",
+"startTime": "11:00:00 PM 21-11-2026"
+},
+{
+"event_category": "Cricket",
+"match_id": 4249674,
+"title": "New South Wales vs Queensland (Sheffield Shield, 2026/27)",
+"match_name": "New South Wales vs Queensland",
+"event_name": "Sheffield Shield, 2026/27",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/4249674_53087_NSW_QUN_FC-WEB.jpg",
+"team_1": "New South Wales",
+"team_2": "Queensland",
+"status": "UPCOMING",
+"startTime": "05:00:00 AM 22-11-2026"
+},
+{
+"event_category": "Football",
 "match_id": 4250769,
 "title": "Liverpool Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
 "match_name": "Liverpool Women vs Chelsea F.C. Women",
@@ -264,27 +228,27 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"match_id": 4247689,
-"title": "Sevilla FC vs Real Betis (LALIGA 2026-27)",
-"match_name": "Sevilla FC vs Real Betis",
+"match_id": 4247691,
+"title": "Real Madrid vs RC Celta (LALIGA 2026-27)",
+"match_name": "Real Madrid vs RC Celta",
 "event_name": "LALIGA 2026-27",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4247689_53004_SEV_RB_FC-Web.png",
-"team_1": "Sevilla FC",
-"team_2": "Real Betis",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/4247691_53004_RM_CEV_FC-Web_1792660540658.png",
+"team_1": "Real Madrid",
+"team_2": "RC Celta",
 "status": "UPCOMING",
-"startTime": "11:00:00 PM 21-11-2026"
+"startTime": "01:30:00 AM 22-11-2026"
 },
 {
-"event_category": "Tennis",
-"match_id": 4250944,
-"title": "D. Medvedev vs F. Tiafoe vs Turin, Italy (Nitto ATP Finals 2026)",
-"match_name": "D. Medvedev vs F. Tiafoe",
-"event_name": "Nitto ATP Finals 2026",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/D.-Medvedev-vs-F.-Tiafoe-web.png",
-"team_1": "D. Medvedev vs F. Tiafoe",
-"team_2": "Turin, Italy",
+"event_category": "Football",
+"match_id": 4250770,
+"title": "London City Lionesses vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
+"match_name": "London City Lionesses vs Crystal Palace Women",
+"event_name": "Barclays Women's Super League 2026-27",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/4250770_53038_LCL_CP-W_fc-web.jpg",
+"team_1": "London City Lionesses",
+"team_2": "Crystal Palace Women",
 "status": "UPCOMING",
-"startTime": "01:00:00 AM 21-11-2026"
+"startTime": "10:45:00 PM 21-11-2026"
 },
 {
 "event_category": "Formula 1",
@@ -348,18 +312,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Football",
-"match_id": 4250770,
-"title": "London City Lionesses vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
-"match_name": "London City Lionesses vs Crystal Palace Women",
-"event_name": "Barclays Women's Super League 2026-27",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4250770_53038_LCL_CP-W_fc-web.jpg",
-"team_1": "London City Lionesses",
-"team_2": "Crystal Palace Women",
-"status": "UPCOMING",
-"startTime": "10:45:00 PM 21-11-2026"
-},
-{
-"event_category": "Football",
 "match_id": 4249860,
 "title": "Central Coast Mariners vs Perth Glory (A-League 2026-27)",
 "match_name": "Central Coast Mariners vs Perth Glory",
@@ -369,18 +321,6 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "team_2": "Perth Glory",
 "status": "UPCOMING",
 "startTime": "11:30:00 AM 21-11-2026"
-},
-{
-"event_category": "Football",
-"match_id": 4247691,
-"title": "Real Madrid vs RC Celta (LALIGA 2026-27)",
-"match_name": "Real Madrid vs RC Celta",
-"event_name": "LALIGA 2026-27",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4247691_53004_RM_CEV_FC-Web_1792660540658.png",
-"team_1": "Real Madrid",
-"team_2": "RC Celta",
-"status": "UPCOMING",
-"startTime": "01:30:00 AM 22-11-2026"
 },
 {
 "event_category": "MotoGP",
@@ -432,15 +372,15 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 },
 {
 "event_category": "Cricket",
-"match_id": 4249674,
-"title": "New South Wales vs Queensland (Sheffield Shield, 2026/27)",
-"match_name": "New South Wales vs Queensland",
-"event_name": "Sheffield Shield, 2026/27",
-"src": "https://www.fancode.com/skillup-uploads/cms-media/4249674_53087_NSW_QUN_FC-WEB.jpg",
-"team_1": "New South Wales",
-"team_2": "Queensland",
+"match_id": 4250417,
+"title": "Brisbane Heat Women vs Adelaide Strikers Women (Women's Big Bash League, 2026)",
+"match_name": "Brisbane Heat Women vs Adelaide Strikers Women",
+"event_name": "Women's Big Bash League, 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/4250417_53125_BH-W_AS-W_fc-web_1793352701319.jpg",
+"team_1": "Brisbane Heat Women",
+"team_2": "Adelaide Strikers Women",
 "status": "UPCOMING",
-"startTime": "05:00:00 AM 22-11-2026"
+"startTime": "10:10:00 AM 22-11-2026"
 },
 {
 "event_category": "Tennis",
@@ -453,6 +393,102 @@ https://primetvgoa.rixcast.com/primegoa.m3u8
 "team_2": "Turin, Italy",
 "status": "UPCOMING",
 "startTime": "06:30:00 PM 21-11-2026"
+},
+{
+"event_category": "Cricket",
+"match_id": 4250682,
+"title": "Netherlands Women vs Sri Lanka Women (ICC Women's Emerging Nations Trophy, 2026)",
+"match_name": "Netherlands Women vs Sri Lanka Women",
+"event_name": "ICC Women's Emerging Nations Trophy, 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ICC_Womens_Emerging_2026_FC-WEB.jpg",
+"team_1": "Netherlands Women",
+"team_2": "Sri Lanka Women",
+"status": "UPCOMING",
+"startTime": "10:30:00 AM 22-11-2026"
+},
+{
+"event_category": "Cricket",
+"match_id": 4250683,
+"title": "Pakistan Women vs Scotland Women (ICC Women's Emerging Nations Trophy, 2026)",
+"match_name": "Pakistan Women vs Scotland Women",
+"event_name": "ICC Women's Emerging Nations Trophy, 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/ICC_Womens_Emerging_2026_FC-WEB.jpg",
+"team_1": "Pakistan Women",
+"team_2": "Scotland Women",
+"status": "UPCOMING",
+"startTime": "10:30:00 AM 22-11-2026"
+},
+{
+"event_category": "Football",
+"match_id": 4250751,
+"title": "Tenerife vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
+"match_name": "Tenerife vs RCD Mallorca",
+"event_name": "LALIGA Hypermotion 2026-27",
+"src": "https://images.fancode.com/aig/match/v1794380803724/4250751_CASACARDS_APP.png",
+"team_1": "Tenerife",
+"team_2": "RCD Mallorca",
+"status": "UPCOMING",
+"startTime": "01:30:00 AM 22-11-2026"
+},
+{
+"event_category": "Tennis",
+"match_id": 4250946,
+"title": "Nitto ATP Finals 2026 vs Turin, Italy (Nitto ATP Finals 2026)",
+"match_name": "Nitto ATP Finals 2026",
+"event_name": "Nitto ATP Finals 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+"team_1": "Nitto ATP Finals 2026",
+"team_2": "Turin, Italy",
+"status": "UPCOMING",
+"startTime": "10:30:00 PM 21-11-2026"
+},
+{
+"event_category": "Golf",
+"match_id": 4250735,
+"title": "Day 3 - World Feed vs St. Simons Island, Georgia (The RSM Classic 2026)",
+"match_name": "Day 3 - World Feed",
+"event_name": "The RSM Classic 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic-2026_Web_1080_x_810_1794325334537.jpg",
+"team_1": "Day 3 - World Feed",
+"team_2": "St. Simons Island, Georgia",
+"status": "UPCOMING",
+"startTime": "11:30:00 PM 21-11-2026"
+},
+{
+"event_category": "Tennis",
+"match_id": 4250947,
+"title": "Nitto ATP Finals 2026 vs Turin, Italy (Nitto ATP Finals 2026)",
+"match_name": "Nitto ATP Finals 2026",
+"event_name": "Nitto ATP Finals 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+"team_1": "Nitto ATP Finals 2026",
+"team_2": "Turin, Italy",
+"status": "UPCOMING",
+"startTime": "01:00:00 AM 22-11-2026"
+},
+{
+"event_category": "Cricket",
+"match_id": 4250418,
+"title": "Melbourne Stars Women vs Melbourne Renegades Women (Women's Big Bash League, 2026)",
+"match_name": "Melbourne Stars Women vs Melbourne Renegades Women",
+"event_name": "Women's Big Bash League, 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/4250418_53125_MS-W_MR-W_fc-web_1793352701275.jpg",
+"team_1": "Melbourne Stars Women",
+"team_2": "Melbourne Renegades Women",
+"status": "UPCOMING",
+"startTime": "01:40:00 PM 22-11-2026"
+},
+{
+"event_category": "Motorsports",
+"match_id": 139703,
+"title": "Feature Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2026)",
+"match_name": "Feature Race",
+"event_name": "F1 ACADEMY LAS VEGAS 2026",
+"src": "https://www.fancode.com/skillup-uploads/cms-media/F1-ACADEMY-LAS-VEGAS-2026_web.jpg",
+"team_1": "Feature Race",
+"team_2": "Las Vegas",
+"status": "UPCOMING",
+"startTime": "05:50:00 AM 22-11-2026"
 }
 ]
 }
